@@ -1,0 +1,189 @@
+{
+  "actualizado": "2026-11-09",
+  "semana": {
+    "numero": 45,
+    "rango": "2 – 8 de noviembre de 2026",
+    "actualizado": "9 nov 2026",
+    "fecha": "2026-11-09"
+  },
+  "destacado": {
+    "cat": "Precios",
+    "fecha": "3 nov 2026",
+    "dato": "0,474 €/l",
+    "dato_pie": "precio medio leche de vaca · septiembre",
+    "titulo": "La leche cruda sube por segundo mes seguido y se paga a 0,474 €/litro en septiembre",
+    "texto": [
+      "Según las declaraciones de entregas al Ministerio de Agricultura, el precio medio en España pasó de 0,469 €/l en agosto a 0,474 €/l en septiembre, después de marcar en julio el mínimo del año (0,465 €/l).",
+      "Las entregas sumaron 596.601 toneladas, un 1,4 % más, y de enero a septiembre alcanzan unos 5.695 millones de kilos (+1,7 %). Por regiones: Galicia 0,455 €/l, Castilla y León 0,487 €/l, Cantabria 0,496 €/l y País Vasco 0,502 €/l."
+    ],
+    "fuente": "Vaca Pinta",
+    "url": "https://vacapinta.com/es/mercados/el-precio-medio-de-la-leche-en-espana-repunta-y-al.html"
+  },
+  "noticias": [
+    {
+      "cat": "Mercados",
+      "fecha": "3 nov 2026",
+      "dato": "+3 %",
+      "dato_pie": "índice GDT",
+      "titulo": "Subasta de Fonterra: tercera subida seguida, con las leches en polvo al alza",
+      "texto": "Leche entera en polvo +5,9 % (3.971 $/t), desnatada +3,1 % (4.109 $/t), cheddar +8,6 % y mozzarella +5,8 %. La mantequilla baja un 4,7 % (4.503 $/t). Precio medio: 4.166 $/t.",
+      "fuente": "Vaca Pinta",
+      "url": "https://vacapinta.com/es/mercados/el-indice-de-precios-de-fonterra-sube-un-3-en-novi.html"
+    },
+    {
+      "cat": "Precios",
+      "fecha": "4 nov 2026",
+      "dato": "371 €",
+      "dato_pie": "desnatada en polvo · €/100 kg",
+      "titulo": "Holanda: las leches en polvo y la mantequilla siguen subiendo",
+      "texto": "Cotización ZuivelNL de la semana 45: mantequilla 375 €/100 kg (+3), leche entera en polvo 384 (+3), desnatada para consumo humano 371 (+2) y suero en polvo 164 (sin cambios).",
+      "fuente": "ZuivelNL",
+      "url": "https://www.zuivelnl.org/marktinformatie/zuivelnoteringen"
+    },
+    {
+      "cat": "Mercados",
+      "fecha": "6 nov 2026",
+      "dato": "−2,5 %",
+      "dato_pie": "mantequilla UE · referencia semanal",
+      "titulo": "Europa: la leche en polvo gana fuerza y la mantequilla pierde impulso",
+      "texto": "Referencia de la UE (26 oct–1 nov): leche desnatada en polvo 3.427 €/t (+0,4 %) y mantequilla 3.957 €/t (−2,5 %). En el mercado al contado, la desnatada para consumo humano sube 50 €, hasta 3.715 €/t.",
+      "fuente": "eDairy News",
+      "url": "https://es.edairynews.com/la-leche-en-polvo-gana-fuerza-manteca-pierde/"
+    },
+    {
+      "cat": "Precios",
+      "fecha": "4 nov 2026",
+      "dato": "−5,5 cts",
+      "dato_pie": "por litro frente a sept. 2025",
+      "titulo": "España produce más leche, pero la paga 5,5 céntimos menos que hace un año",
+      "texto": "Los 47,4 céntimos de septiembre son un 10,4 % menos que en 2025 y el precio de septiembre más bajo desde 2022. Las entregas suben un 1,7 % en el año y quedan 8.395 ganaderías, 373 menos que en diciembre.",
+      "fuente": "eDairy News",
+      "url": "https://es.edairynews.com/espana-produce-mas-leche-pero-paga-55-centimos-menos-por-litro/"
+    },
+    {
+      "cat": "Precios",
+      "fecha": "3 nov 2026",
+      "dato": "+2–3 cts",
+      "dato_pie": "propuesta en Galicia desde el 1 dic",
+      "titulo": "Galicia: las industrias proponen subir la leche 2 o 3 céntimos desde diciembre",
+      "texto": "Tras recortar 7–8 céntimos en abril, el precio quedó algo por debajo de 45 céntimos. Los ganaderos ven la subida insuficiente: los costes (gasóleo, abonos, electricidad) suben y se espera pienso más caro desde enero.",
+      "fuente": "eDairy News",
+      "url": "https://es.edairynews.com/galicia-la-leche-subiria-hasta-3/"
+    },
+    {
+      "cat": "Precios",
+      "fecha": "26 oct 2026",
+      "dato": "47,00 €",
+      "dato_pie": "FrieslandCampina · €/100 kg",
+      "titulo": "FrieslandCampina sube por cuarto mes el precio de la leche para noviembre",
+      "texto": "El precio garantizado de noviembre queda en 47,00 €/100 kg, 1,50 € más que en octubre. La cooperativa lo atribuye sobre todo a la firmeza del mercado de proteínas.",
+      "fuente": "Vaca Pinta",
+      "url": "https://vacapinta.com/es/mercados/frieslandcampina-mejora-precio-leche-cuarto-mes-co.html"
+    },
+    {
+      "cat": "Novedades",
+      "fecha": "4 nov 2026",
+      "dato": "+30 %",
+      "dato_pie": "demanda cubierta con importaciones",
+      "titulo": "FeNIL propone ocho medidas para reforzar la industria láctea española",
+      "texto": "Las importaciones cubren ya más del 30 % de la demanda y el déficit comercial lácteo (492.355 t y 1.500 M€) es el mayor de la UE. En quesos, España importó 434.844 t y exportó 131.696 t.",
+      "fuente": "FeNIL",
+      "url": "https://fenil.org/reforzar-la-industria-lactea-es-reforzar-la-autonomia-alimentaria-de-espana-fenil-propone-ocho-medidas-para-impulsar-el-futuro-del-sector/"
+    },
+    {
+      "cat": "Normativa",
+      "fecha": "5 nov 2026",
+      "dato": "1 nov",
+      "dato_pie": "en vigor",
+      "titulo": "Lengua azul y EHE: nuevo protocolo para mover ganado",
+      "texto": "El Ministerio sustituye las restricciones por zonas por una evaluación de riesgo basada en vacunación, pruebas diagnósticas y protección frente a vectores. Afecta a vacuno y ovino, también en movimientos a otros países de la UE.",
+      "fuente": "Agroinformación",
+      "url": "https://agroinformacion.com/el-ministerio-actualiza-el-protocolo-de-movimientos-para-lengua-azul-y-ehe-con-nuevas-condiciones-para-el-traslado-de-ganado/"
+    },
+    {
+      "cat": "Normativa",
+      "fecha": "5 nov 2026",
+      "dato": "−10 %",
+      "dato_pie": "rendimiento neto agrario",
+      "titulo": "Módulos del IRPF 2027: rebaja general del 10 % para la actividad agraria",
+      "texto": "Hacienda publica en el BOE la orden de módulos para 2027, con una reducción general del 10 % del rendimiento neto de las actividades agrarias.",
+      "fuente": "Agroinformación",
+      "url": "https://agroinformacion.com/publicada-en-el-boe-la-orden-de-modulos-del-irpf-2027-con-una-reduccion-general-del-10-del-rendimiento-neto-a-la-actividad-agraria/"
+    },
+    {
+      "cat": "Novedades",
+      "fecha": "8 nov 2026",
+      "dato": "80 €/kg",
+      "dato_pie": "Gamonéu del Puertu en tienda",
+      "titulo": "El Gamonéu del Puertu, un queso de 80 € el kilo que lucha por sobrevivir",
+      "texto": "Este queso asturiano con DOP, de leche cruda de vaca, oveja y cabra, solo tiene tres productores. Nuevos queseros llevan años sin lograr permisos para abrir queserías en los Picos de Europa.",
+      "fuente": "eDairy News",
+      "url": "https://es.edairynews.com/el-queso-de-80-euros-el-kilo-q-lucha-sobrevivir-espana/"
+    }
+  ],
+  "cotizaciones": {
+    "filas": [
+      {
+        "producto": "Leche desnatada en polvo",
+        "precio": "3.710 €/t",
+        "cambio": "+20 €/t",
+        "mercado": "Holanda"
+      },
+      {
+        "producto": "Proteína · valor por kg",
+        "precio": "10,91 €/kg",
+        "cambio": "+0,06 €/kg",
+        "mercado": "base leche desnatada en polvo (34 % proteína)"
+      },
+      {
+        "producto": "Leche entera en polvo",
+        "precio": "3.840 €/t",
+        "cambio": "+30 €/t",
+        "mercado": "Holanda"
+      },
+      {
+        "producto": "Suero en polvo",
+        "precio": "1.640 €/t",
+        "cambio": "=",
+        "mercado": "Holanda"
+      },
+      {
+        "producto": "Mantequilla 82 %",
+        "precio": "3.750 €/t",
+        "cambio": "+30 €/t",
+        "mercado": "Holanda"
+      },
+      {
+        "producto": "Nata Italia · 100 % grasa",
+        "precio": "4.850 €/t",
+        "cambio": "=",
+        "mercado": "Milán · nata 40 % a 1.940 €/t"
+      },
+      {
+        "producto": "Nata España · 100 % grasa",
+        "precio": "4.892 €/t",
+        "cambio": "+90 €/t",
+        "mercado": "Ministerio, sem. 39 · nata 30 % a 1.468 €/t"
+      },
+      {
+        "producto": "Leche spot Francia",
+        "precio": "490 €/1.000 l",
+        "cambio": "est",
+        "mercado": "valor mantequilla + polvo"
+      },
+      {
+        "producto": "Leche de vaca España",
+        "precio": "0,474 €/l",
+        "cambio": "+0,005 €/l",
+        "mercado": "precio medio FEGA · septiembre"
+      },
+      {
+        "producto": "Leche de vaca · Lonja de León",
+        "precio": "0,475 €/l",
+        "cambio": "=",
+        "mercado": "pactado oct–dic · 3,7 % grasa · 3,10 % proteína"
+      }
+    ],
+    "nota": "Fuentes: ZuivelNL (4 nov), Bolsa de Milán (semana 44), Ministerio de Agricultura (semana 39, último publicado), FEGA y Lonja de León (29 oct). Las natas se expresan en base 100 % grasa. Proteína: precio de la leche desnatada en polvo dividido entre su 34 % de proteína. Leche spot Francia: valor estimado de la mantequilla y la leche en polvo que se obtienen de 1.000 litros, antes de costes de transformación. Precios orientativos, no constituyen oferta. Solicite cotización para su volumen y destino."
+  }
+}

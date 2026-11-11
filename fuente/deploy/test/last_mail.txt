@@ -1,0 +1,26 @@
+To: comercial@plataformalactea.com
+Subject: Solicitud web: Industrial dairy =?UTF-8?Q?=E2=80=93=20X?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+From: Web Plataforma =?UTF-8?Q?L=C3=A1ctea?= <comercial@plataformalactea.com>
+Reply-To: Ana <a@b.es>
+X-Mailer: PHP
+
+Nueva solicitud de contacto desde la web (EN)
+------------------------------------------------
+Nombre:      Ana
+Empresa:     X
+Email:       a@b.es
+Teléfono:    -
+País:        Spain
+Consulta:    Industrial dairy
+Producto:    -
+Volumen:     -
+------------------------------------------------
+Mensaje:
+Hola
+------------------------------------------------
+Ha aceptado la política de privacidad. Enviado el 04/11/2026 19:39 desde la IP 127.0.0.1.
+Para contestar, use «Responder»: va directamente al cliente.
+

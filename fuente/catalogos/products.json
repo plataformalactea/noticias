@@ -1,0 +1,913 @@
+{
+ "CATS": [
+  {
+   "id": "polvo",
+   "label": "Leches en polvo"
+  },
+  {
+   "id": "prot",
+   "label": "Proteínas lácteas"
+  },
+  {
+   "id": "suero",
+   "label": "Sueros en polvo"
+  },
+  {
+   "id": "grasa",
+   "label": "Grasas lácteas"
+  },
+  {
+   "id": "liq",
+   "label": "Líquidos lácteos"
+  },
+  {
+   "id": "queso",
+   "label": "Quesos"
+  }
+ ],
+ "P": [
+  {
+   "id": "smp",
+   "cat": "polvo",
+   "name": "Leche desnatada en polvo",
+   "short": "SMP",
+   "alt": "SMP · Skimmed Milk Powder",
+   "micro": true,
+   "desc": "Leche de vaca desnatada y deshidratada por atomización. Base habitual para recombinación de leche, yogures, postres, panadería y confitería.",
+   "params": [
+    [
+     "Proteína (s/ extracto seco magro)",
+     "≥ 34,0 %"
+    ],
+    [
+     "Materia grasa",
+     "≤ 1,25 %"
+    ],
+    [
+     "Humedad",
+     "≤ 4,0 %"
+    ],
+    [
+     "Acidez titulable",
+     "≤ 0,15 % (ác. láctico)"
+    ],
+    [
+     "Índice de solubilidad",
+     "≤ 1,0 ml"
+    ],
+    [
+     "Partículas quemadas",
+     "Disco A / B"
+    ],
+    [
+     "Tratamiento térmico",
+     "Low / Medium / High heat"
+    ]
+   ],
+   "pack": "Sacos multicapa de 25 kg, big bags o granel",
+   "store": "Lugar seco y limpio, por debajo de 25 °C y humedad relativa inferior al 65 %",
+   "life": "18–24 meses"
+  },
+  {
+   "id": "wmp",
+   "cat": "polvo",
+   "name": "Leche entera en polvo",
+   "short": "WMP",
+   "alt": "WMP 26 % / 28 % · Whole Milk Powder",
+   "micro": true,
+   "desc": "Leche entera deshidratada por atomización, con la grasa láctea original. Indicada para chocolate, confitería, helados y leche recombinada.",
+   "params": [
+    [
+     "Materia grasa",
+     "26–28 %"
+    ],
+    [
+     "Proteína (s/ extracto seco magro)",
+     "≥ 34,0 %"
+    ],
+    [
+     "Humedad",
+     "≤ 2,5 %"
+    ],
+    [
+     "Acidez titulable",
+     "≤ 0,15 %"
+    ],
+    [
+     "Índice de solubilidad",
+     "≤ 1,0 ml"
+    ],
+    [
+     "Partículas quemadas",
+     "Disco A / B"
+    ]
+   ],
+   "pack": "Sacos multicapa de 25 kg, big bags o granel",
+   "store": "Lugar seco y limpio, por debajo de 25 °C y humedad relativa inferior al 65 %",
+   "life": "12 meses"
+  },
+  {
+   "id": "ssmp",
+   "cat": "polvo",
+   "name": "Leche semidesnatada en polvo",
+   "short": "SSMP",
+   "alt": "SSMP · Semi-skimmed Milk Powder",
+   "micro": true,
+   "desc": "Leche de vaca parcialmente desnatada y deshidratada por atomización. Punto intermedio entre la leche desnatada y la entera en polvo para recombinación, bebidas lácteas, postres y panadería.",
+   "params": [
+    [
+     "Materia grasa",
+     "14 – 16 %"
+    ],
+    [
+     "Proteína (s/ extracto seco magro)",
+     "≥ 34,0 %"
+    ],
+    [
+     "Humedad",
+     "≤ 3,5 %"
+    ],
+    [
+     "Acidez titulable",
+     "≤ 0,15 %"
+    ],
+    [
+     "Índice de solubilidad",
+     "≤ 1,0 ml"
+    ],
+    [
+     "Partículas quemadas",
+     "Disco A / B"
+    ]
+   ],
+   "pack": "Sacos multicapa de 25 kg, big bags o granel",
+   "store": "Lugar seco y limpio, por debajo de 25 °C y humedad relativa inferior al 65 %",
+   "life": "12–18 meses"
+  },
+  {
+   "id": "ffmp",
+   "cat": "polvo",
+   "name": "Leche en polvo con grasa vegetal",
+   "short": "FFMP",
+   "alt": "FFMP · Fat Filled Milk Powder",
+   "micro": true,
+   "desc": "Leche desnatada en polvo enriquecida con grasa vegetal. Alternativa económica a la leche entera en polvo para recombinación y panadería.",
+   "params": [
+    [
+     "Materia grasa (vegetal)",
+     "26–28 %"
+    ],
+    [
+     "Proteína",
+     "≥ 23,0 %"
+    ],
+    [
+     "Humedad",
+     "≤ 3,0 %"
+    ],
+    [
+     "Tipo de grasa",
+     "Palma o coco (a elegir)"
+    ],
+    [
+     "Índice de solubilidad",
+     "≤ 1,0 ml"
+    ]
+   ],
+   "pack": "Sacos multicapa de 25 kg, big bags o granel",
+   "store": "Lugar seco y limpio, por debajo de 25 °C y humedad relativa inferior al 65 %",
+   "life": "12 meses"
+  },
+  {
+   "id": "smpsl",
+   "cat": "polvo",
+   "name": "Leche desnatada en polvo sin lactosa",
+   "short": "LF SMP",
+   "alt": "SMP lactose free",
+   "micro": true,
+   "desc": "Leche desnatada en polvo con la lactosa hidrolizada enzimáticamente, para productos sin lactosa.",
+   "params": [
+    [
+     "Lactosa",
+     "< 0,1 g / 100 g reconstituida"
+    ],
+    [
+     "Proteína",
+     "≥ 33,0 %"
+    ],
+    [
+     "Materia grasa",
+     "≤ 1,5 %"
+    ],
+    [
+     "Humedad",
+     "≤ 4,5 %"
+    ]
+   ],
+   "pack": "Sacos multicapa de 25 kg",
+   "store": "Lugar seco y limpio, por debajo de 25 °C y humedad relativa inferior al 65 %",
+   "life": "12 meses"
+  },
+  {
+   "id": "perm",
+   "cat": "polvo",
+   "name": "Permeado de leche en polvo",
+   "short": "MPP",
+   "alt": "Milk permeate powder",
+   "micro": true,
+   "desc": "Subproducto de la ultrafiltración de la leche, rico en lactosa y minerales. Se usa como sustituto de azúcares y sólidos lácteos en panadería, snacks y piensos.",
+   "params": [
+    [
+     "Lactosa",
+     "≥ 80 %"
+    ],
+    [
+     "Proteína",
+     "2–5 %"
+    ],
+    [
+     "Cenizas",
+     "≤ 10 %"
+    ],
+    [
+     "Humedad",
+     "≤ 4,0 %"
+    ],
+    [
+     "Materia grasa",
+     "≤ 1,5 %"
+    ]
+   ],
+   "pack": "Sacos multicapa de 25 kg, big bags o granel",
+   "store": "Lugar seco y limpio, por debajo de 25 °C y humedad relativa inferior al 65 %",
+   "life": "18 meses"
+  },
+  {
+   "id": "cas-a",
+   "cat": "prot",
+   "name": "Caseína ácida",
+   "short": "AC",
+   "alt": "Acid casein · malla 30/60/90",
+   "micro": true,
+   "desc": "Proteína láctea precipitada por acidificación de la leche desnatada. Materia prima para caseinatos, quesos análogos y aplicaciones técnicas.",
+   "params": [
+    [
+     "Proteína (s/ materia seca)",
+     "≥ 90 %"
+    ],
+    [
+     "Humedad",
+     "≤ 12 %"
+    ],
+    [
+     "Materia grasa",
+     "≤ 1,5 %"
+    ],
+    [
+     "Cenizas",
+     "≤ 2,5 %"
+    ],
+    [
+     "Granulometría",
+     "Malla 30 / 60 / 90"
+    ]
+   ],
+   "pack": "Sacos de 25 kg",
+   "store": "Lugar seco y limpio, por debajo de 25 °C y humedad relativa inferior al 65 %",
+   "life": "24 meses"
+  },
+  {
+   "id": "cas-r",
+   "cat": "prot",
+   "name": "Caseína de cuajo",
+   "short": "RC",
+   "alt": "Rennet casein",
+   "micro": true,
+   "desc": "Caseína obtenida por coagulación enzimática. Muy utilizada en quesos análogos y pizza por su capacidad de fundido y estiramiento.",
+   "params": [
+    [
+     "Proteína (s/ materia seca)",
+     "≥ 84 %"
+    ],
+    [
+     "Humedad",
+     "≤ 12 %"
+    ],
+    [
+     "Materia grasa",
+     "≤ 1,5 %"
+    ],
+    [
+     "Cenizas",
+     "≤ 8,0 %"
+    ]
+   ],
+   "pack": "Sacos de 25 kg",
+   "store": "Lugar seco y limpio, por debajo de 25 °C y humedad relativa inferior al 65 %",
+   "life": "24 meses"
+  },
+  {
+   "id": "casna",
+   "cat": "prot",
+   "name": "Caseinato de sodio",
+   "short": "SC",
+   "alt": "Sodium caseinate",
+   "micro": true,
+   "desc": "Proteína láctea soluble con alto poder emulsionante. Para cárnicos, cremas de café, bebidas y nutrición.",
+   "params": [
+    [
+     "Proteína (s/ materia seca)",
+     "≥ 88 %"
+    ],
+    [
+     "Humedad",
+     "≤ 6,0 %"
+    ],
+    [
+     "Materia grasa",
+     "≤ 1,5 %"
+    ],
+    [
+     "pH (solución 5 %)",
+     "6,5 – 7,2"
+    ]
+   ],
+   "pack": "Sacos de 25 kg",
+   "store": "Lugar seco y limpio, por debajo de 25 °C y humedad relativa inferior al 65 %",
+   "life": "24 meses"
+  },
+  {
+   "id": "mcc",
+   "cat": "prot",
+   "name": "Caseína micelar",
+   "short": "MCC",
+   "alt": "Micellar casein concentrate",
+   "micro": true,
+   "desc": "Concentrado de caseína en su forma micelar nativa, obtenido por microfiltración. Para nutrición deportiva y productos ricos en proteína.",
+   "params": [
+    [
+     "Proteína (s/ materia seca)",
+     "≥ 80 %"
+    ],
+    [
+     "Humedad",
+     "≤ 6,0 %"
+    ],
+    [
+     "Materia grasa",
+     "≤ 2,5 %"
+    ],
+    [
+     "Lactosa",
+     "≤ 6,0 %"
+    ]
+   ],
+   "pack": "Sacos de 20–25 kg",
+   "store": "Lugar seco y limpio, por debajo de 25 °C y humedad relativa inferior al 65 %",
+   "life": "18 meses"
+  },
+  {
+   "id": "swp",
+   "cat": "suero",
+   "name": "Suero dulce en polvo",
+   "short": "SWP",
+   "alt": "Sweet Whey Powder",
+   "micro": true,
+   "desc": "Lactosuero de quesería deshidratado. Ingrediente económico para panadería, galletas, snacks, chocolate y alimentación animal.",
+   "params": [
+    [
+     "Proteína",
+     "≥ 11 %"
+    ],
+    [
+     "Lactosa",
+     "≥ 70 %"
+    ],
+    [
+     "Materia grasa",
+     "≤ 1,5 %"
+    ],
+    [
+     "Humedad",
+     "≤ 5,0 %"
+    ],
+    [
+     "Cenizas",
+     "≤ 9,0 %"
+    ]
+   ],
+   "pack": "Sacos multicapa de 25 kg, big bags o granel",
+   "store": "Lugar seco y limpio, por debajo de 25 °C y humedad relativa inferior al 65 %",
+   "life": "18 meses"
+  },
+  {
+   "id": "wpc35",
+   "cat": "suero",
+   "name": "Concentrado de proteína de suero 35",
+   "short": "WPC 35",
+   "alt": "Whey Protein Concentrate 35",
+   "micro": true,
+   "desc": "Suero concentrado por ultrafiltración. Sustituto parcial de leche desnatada en polvo en yogures, helados y panadería.",
+   "params": [
+    [
+     "Proteína (s/ materia seca)",
+     "≥ 34 %"
+    ],
+    [
+     "Lactosa",
+     "≤ 55 %"
+    ],
+    [
+     "Materia grasa",
+     "≤ 4,0 %"
+    ],
+    [
+     "Humedad",
+     "≤ 5,0 %"
+    ]
+   ],
+   "pack": "Sacos de 25 kg o big bags",
+   "store": "Lugar seco y limpio, por debajo de 25 °C y humedad relativa inferior al 65 %",
+   "life": "18 meses"
+  },
+  {
+   "id": "wpc80",
+   "cat": "suero",
+   "name": "Concentrado de proteína de suero 80",
+   "short": "WPC 80",
+   "alt": "WPC 80 · Regular / Instant",
+   "micro": true,
+   "desc": "Proteína de suero de alta concentración para nutrición deportiva, bebidas proteicas, barritas y productos lácteos enriquecidos.",
+   "params": [
+    [
+     "Proteína (s/ materia seca)",
+     "≥ 80 %"
+    ],
+    [
+     "Materia grasa",
+     "≤ 8,0 %"
+    ],
+    [
+     "Lactosa",
+     "≤ 8,0 %"
+    ],
+    [
+     "Humedad",
+     "≤ 6,0 %"
+    ],
+    [
+     "Versión",
+     "Regular o instantánea (lecitinada)"
+    ]
+   ],
+   "pack": "Sacos de 20–25 kg",
+   "store": "Lugar seco y limpio, por debajo de 25 °C y humedad relativa inferior al 65 %",
+   "life": "18–24 meses"
+  },
+  {
+   "id": "wpi",
+   "cat": "suero",
+   "name": "Aislado de proteína de suero",
+   "short": "WPI 90",
+   "alt": "Whey Protein Isolate",
+   "micro": true,
+   "desc": "Proteína de suero de máxima pureza, casi sin grasa ni lactosa. Para suplementos y bebidas transparentes.",
+   "params": [
+    [
+     "Proteína (s/ materia seca)",
+     "≥ 90 %"
+    ],
+    [
+     "Materia grasa",
+     "≤ 1,0 %"
+    ],
+    [
+     "Lactosa",
+     "≤ 1,0 %"
+    ],
+    [
+     "Humedad",
+     "≤ 6,0 %"
+    ]
+   ],
+   "pack": "Sacos de 20 kg",
+   "store": "Lugar seco y limpio, por debajo de 25 °C y humedad relativa inferior al 65 %",
+   "life": "24 meses"
+  },
+  {
+   "id": "mant",
+   "cat": "grasa",
+   "name": "Mantequilla",
+   "short": "82 %",
+   "alt": "Mantequilla dulce o láctica 82 %",
+   "micro": false,
+   "desc": "Mantequilla en bloque para industria: panadería, bollería, pastelería y fundido para grasa anhidra. Disponible fresca o congelada.",
+   "params": [
+    [
+     "Materia grasa",
+     "≥ 82,0 %"
+    ],
+    [
+     "Humedad",
+     "≤ 16,0 %"
+    ],
+    [
+     "Extracto seco magro",
+     "≤ 2,0 %"
+    ],
+    [
+     "Sal",
+     "Sin sal o con sal (bajo pedido)"
+    ],
+    [
+     "Tipo",
+     "Dulce o láctica (fermentada)"
+    ]
+   ],
+   "pack": "Bloques de 25 kg en caja",
+   "store": "Refrigerada a 0–6 °C o congelada a –18 °C",
+   "life": "3 meses refrigerada / 18 meses congelada"
+  },
+  {
+   "id": "amf",
+   "cat": "grasa",
+   "name": "Grasa láctea anhidra",
+   "short": "AMF",
+   "alt": "AMF · Butteroil · Anhydrous Milk Fat",
+   "micro": false,
+   "desc": "Grasa láctea prácticamente pura, obtenida de nata o mantequilla. Para chocolate, helados, bollería y leche recombinada.",
+   "params": [
+    [
+     "Materia grasa",
+     "≥ 99,8 %"
+    ],
+    [
+     "Humedad",
+     "≤ 0,1 %"
+    ],
+    [
+     "Ácidos grasos libres",
+     "≤ 0,3 % (ác. oleico)"
+    ],
+    [
+     "Índice de peróxidos",
+     "≤ 0,2 meq O₂/kg"
+    ]
+   ],
+   "pack": "Bidones de 200 kg o envases de 25 kg",
+   "store": "Refrigerada por debajo de 10 °C",
+   "life": "12 meses"
+  },
+  {
+   "id": "leche-cruda",
+   "cat": "liq",
+   "name": "Leche cruda: de vaca, cabra, oveja y búfala",
+   "short": "Cisterna",
+   "alt": "Raw milk · cow, goat, sheep & buffalo · a granel",
+   "micro": false,
+   "desc": "Leche cruda refrigerada de vaca, cabra, oveja y búfala, procedente de explotaciones de origen controlado y servida en cisterna isoterma a industrias lácteas.",
+   "params": [
+    [
+     "Materia grasa · vaca / cabra",
+     "3,5 – 4,0 % / 3,5 – 4,5 % (típica)"
+    ],
+    [
+     "Materia grasa · oveja / búfala",
+     "6,0 – 7,5 % / 7,0 – 8,0 % (típica)"
+    ],
+    [
+     "Proteína · vaca / cabra",
+     "3,1 – 3,4 % / 3,0 – 3,5 % (típica)"
+    ],
+    [
+     "Proteína · oveja / búfala",
+     "5,0 – 6,0 % / 4,0 – 4,5 % (típica)"
+    ],
+    [
+     "Gérmenes a 30 °C · vaca",
+     "≤ 100.000 ufc/ml"
+    ],
+    [
+     "Gérmenes a 30 °C · otras especies",
+     "≤ 1.500.000 ufc/ml"
+    ],
+    [
+     "Células somáticas · vaca",
+     "≤ 400.000 /ml"
+    ],
+    [
+     "Inhibidores",
+     "Negativo"
+    ],
+    [
+     "Temperatura en carga",
+     "≤ 6 °C"
+    ]
+   ],
+   "pack": "Cisterna isoterma de 24–28 t",
+   "store": "Refrigerada a ≤ 6 °C",
+   "life": "Entrega en menos de 48 h"
+  },
+  {
+   "id": "desnatada",
+   "cat": "liq",
+   "name": "Leche desnatada pasteurizada",
+   "short": "Cisterna",
+   "alt": "Pasteurised skimmed milk · a granel",
+   "micro": false,
+   "desc": "Leche desnatada pasteurizada para elaboración de yogures, quesos frescos, concentrados y secado.",
+   "params": [
+    [
+     "Materia grasa",
+     "≤ 0,3 %"
+    ],
+    [
+     "Proteína",
+     "≥ 3,2 %"
+    ],
+    [
+     "Extracto seco magro",
+     "≥ 8,8 %"
+    ],
+    [
+     "Fosfatasa",
+     "Negativa (pasteurizada)"
+    ],
+    [
+     "Temperatura en carga",
+     "≤ 6 °C"
+    ]
+   ],
+   "pack": "Cisterna isoterma",
+   "store": "Refrigerada a ≤ 6 °C",
+   "life": "Según tratamiento"
+  },
+  {
+   "id": "nata",
+   "cat": "liq",
+   "name": "Nata líquida",
+   "short": "Cisterna",
+   "alt": "Cream · cow, sheep & goat · a granel",
+   "micro": false,
+   "desc": "Nata de leche de vaca, oveja o cabra para fabricación de mantequilla, quesos, helados, salsas y postres.",
+   "params": [
+    [
+     "Materia grasa",
+     "35 – 40 % (o a medida)"
+    ],
+    [
+     "Acidez",
+     "≤ 0,13 % (ác. láctico)"
+    ],
+    [
+     "Fosfatasa",
+     "Negativa (pasteurizada)"
+    ],
+    [
+     "Temperatura en carga",
+     "≤ 6 °C"
+    ]
+   ],
+   "pack": "Cisterna isoterma o contenedores IBC de 1.000 l",
+   "store": "Refrigerada a ≤ 6 °C",
+   "life": "5–7 días pasteurizada"
+  },
+  {
+   "id": "concentrada",
+   "cat": "liq",
+   "name": "Leche desnatada concentrada",
+   "short": "Cisterna",
+   "alt": "Concentrated skimmed milk · RO / evaporada",
+   "micro": false,
+   "desc": "Leche desnatada concentrada por ósmosis inversa o evaporación, para quesería, yogures y postres.",
+   "params": [
+    [
+     "Extracto seco total",
+     "18 – 35 % (según pedido)"
+    ],
+    [
+     "Materia grasa",
+     "Desnatada"
+    ],
+    [
+     "Temperatura en carga",
+     "≤ 6 °C"
+    ]
+   ],
+   "pack": "Cisterna isoterma",
+   "store": "Refrigerada a ≤ 6 °C",
+   "life": "Según tratamiento"
+  },
+  {
+   "id": "suero-liq",
+   "cat": "liq",
+   "name": "Lactosuero líquido",
+   "short": "Cisterna",
+   "alt": "Liquid whey · dulce o concentrado",
+   "micro": false,
+   "desc": "Suero de quesería, natural o concentrado, para secado, fabricación de requesón o alimentación animal.",
+   "params": [
+    [
+     "Extracto seco",
+     "5,5 – 6,5 % natural / hasta 30 % concentrado"
+    ],
+    [
+     "pH",
+     "≥ 6,0 (suero dulce)"
+    ],
+    [
+     "Temperatura en carga",
+     "≤ 8 °C"
+    ]
+   ],
+   "pack": "Cisterna",
+   "store": "Refrigerado",
+   "life": "48–72 h"
+  },
+  {
+   "id": "cagliata",
+   "cat": "queso",
+   "name": "Cagliata",
+   "short": "15+ 40+ 45+ 48+",
+   "alt": "Cuajada para pasta filata · 15+ / 40+ / 45+ / 48+",
+   "micro": false,
+   "desc": "Cuajada de leche de vaca prensada, materia prima para elaborar mozzarella y quesos de pasta hilada.",
+   "params": [
+    [
+     "Grasa (s/ extracto seco)",
+     "15+ / 40+ / 45+ / 48+ (según tipo)"
+    ],
+    [
+     "Humedad",
+     "≤ 52 %"
+    ],
+    [
+     "pH",
+     "5,8 – 6,4"
+    ]
+   ],
+   "pack": "Bloques de 18–20 kg",
+   "store": "Refrigerada a 0–4 °C o congelada",
+   "life": "30 días refrigerada / 12 meses congelada"
+  },
+  {
+   "id": "mozza",
+   "cat": "queso",
+   "name": "Mozzarella",
+   "short": "15+ 40+ 45+ 48+",
+   "alt": "Mozzarella para pizza · 15+ / 40+ / 45+ / 48+",
+   "micro": false,
+   "desc": "Queso de pasta hilada con buen fundido, para pizza, platos preparados y hostelería industrial.",
+   "params": [
+    [
+     "Grasa (s/ extracto seco)",
+     "15+ / 40+ / 45+ / 48+ (según tipo)"
+    ],
+    [
+     "Humedad",
+     "≤ 52 %"
+    ],
+    [
+     "Sal",
+     "1,0 – 1,8 %"
+    ]
+   ],
+   "pack": "Bloques de 2,5 kg o 10 kg; rallada en bolsas",
+   "store": "Refrigerada a 0–4 °C",
+   "life": "60–90 días"
+  },
+  {
+   "id": "edam",
+   "cat": "queso",
+   "name": "Edam",
+   "short": "30+ 40+",
+   "alt": "Edam 30+ / 40+ · bloque",
+   "micro": false,
+   "desc": "Queso semicurado de pasta prensada, para loncheado, rallado e ingrediente.",
+   "params": [
+    [
+     "Grasa (s/ extracto seco)",
+     "30+ / 40+ (según tipo)"
+    ],
+    [
+     "Humedad",
+     "≤ 46 %"
+    ],
+    [
+     "Sal",
+     "1,5 – 2,2 %"
+    ]
+   ],
+   "pack": "Bloques de 2,5–15 kg",
+   "store": "Refrigerado a 2–8 °C",
+   "life": "3–6 meses"
+  },
+  {
+   "id": "gouda",
+   "cat": "queso",
+   "name": "Gouda",
+   "short": "48+",
+   "alt": "Gouda 48 % · bloque o rueda",
+   "micro": false,
+   "desc": "Queso de pasta prensada semicurado, para loncheado, rallado y venta al corte.",
+   "params": [
+    [
+     "Grasa (s/ extracto seco)",
+     "≥ 48 %"
+    ],
+    [
+     "Humedad",
+     "≤ 42 %"
+    ],
+    [
+     "Sal",
+     "1,5 – 2,2 %"
+    ]
+   ],
+   "pack": "Bloques de 3–15 kg o ruedas",
+   "store": "Refrigerado a 2–8 °C",
+   "life": "3–6 meses"
+  },
+  {
+   "id": "emmental",
+   "cat": "queso",
+   "name": "Emmental",
+   "short": "45+",
+   "alt": "Emmental · bloque o rallado",
+   "micro": false,
+   "desc": "Queso de pasta prensada cocida con ojos, para rallado, loncheado y gratinado.",
+   "params": [
+    [
+     "Grasa (s/ extracto seco)",
+     "≥ 45 %"
+    ],
+    [
+     "Humedad",
+     "≤ 40 %"
+    ],
+    [
+     "Sal",
+     "0,6 – 1,2 %"
+    ]
+   ],
+   "pack": "Bloques de 3–15 kg; rallado en bolsas",
+   "store": "Refrigerado a 2–8 °C",
+   "life": "3–6 meses"
+  },
+  {
+   "id": "cheddar",
+   "cat": "queso",
+   "name": "Cheddar",
+   "short": "48+",
+   "alt": "Cheddar naranja · bloque",
+   "micro": false,
+   "desc": "Queso de pasta prensada coloreado con achiote, de color naranja. Para loncheado, rallado, salsas, hamburguesas y platos preparados.",
+   "params": [
+    [
+     "Grasa (s/ extracto seco)",
+     "≥ 48 %"
+    ],
+    [
+     "Humedad",
+     "≤ 39 %"
+    ],
+    [
+     "Sal",
+     "1,4 – 2,0 %"
+    ],
+    [
+     "Colorante",
+     "Achiote (E160b)"
+    ]
+   ],
+   "pack": "Bloques de 18–20 kg",
+   "store": "Refrigerado a 2–8 °C",
+   "life": "6–9 meses"
+  }
+ ],
+ "IMG": {
+  "smp": "/_blob/215e654f55569d8ef799a62439b13c07",
+  "wmp": "/_blob/405e17d50cd7336ef0ee95082a4a7f15",
+  "ssmp": "/_blob/1f6b56e7d9ccba9d0aa393bc7d4167cb",
+  "ffmp": "/_blob/5120ea45d551aeda046e8f8cc8d8f741",
+  "smpsl": "/_blob/ffbcf8a81eab09be7a61a714f21b4cfd",
+  "perm": "/_blob/32962cec2d5158e02436f19752a2ce47",
+  "cas-a": "/_blob/08dbbb186ba4e57c9e401dbf96ce0693",
+  "cas-r": "/_blob/a9465e2c9a84be4416a06b221f4f96c5",
+  "casna": "/_blob/0fca985555e56d923509ed4fb1cf49a8",
+  "mcc": "/_blob/f33f02d4f082ea6d8112e0dd047a9521",
+  "swp": "/_blob/1787cdc1aae801d0a9821146a992240d",
+  "wpc35": "/_blob/b64567b750b50489c9544268a3b560f9",
+  "wpc80": "/_blob/e3461e7d858cabc1c3f17dbb502d6ff0",
+  "wpi": "/_blob/86422bba257245c36d7ef9214db4a63d",
+  "mant": "/_blob/6ccdac757cecbc26dea3a6addc60cf81",
+  "amf": "/_blob/de78b5c415d7af6dff408530cd1a20c5",
+  "cagliata": "/_blob/fd89e34cfc64824404526e88628fd825",
+  "mozza": "/_blob/6f6a0e818cf794b0b617e777d5d03885",
+  "edam": "/_blob/36883d43ccdaa00893930734f72d6f11",
+  "gouda": "/_blob/199558c1ea9bd27b06d85cb8f056f066",
+  "emmental": "/_blob/745b38f07ed3edce2c5241a40a2f57a7",
+  "cheddar": "/_blob/99b7c14e9bab4bff4da22bdfb0c6150f"
+ },
+ "TANK": "/_blob/0f81c2682c8bed66efbb2f67cc267e23"
+}

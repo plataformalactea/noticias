@@ -1,0 +1,10 @@
+const { chromium } = require('playwright');
+(async()=>{const b=await chromium.launch();
+const m=await b.newContext({viewport:{width:390,height:844}});let p=await m.newPage();
+await p.goto('http://127.0.0.1:8765/index.html',{waitUntil:'networkidle'});await p.screenshot({path:'../_m_home.png'});
+await p.goto('http://127.0.0.1:8765/fr/solicitud.html',{waitUntil:'networkidle'});const c=await p.$('input[type=checkbox]');await c.scrollIntoViewIfNeeded();await p.screenshot({path:'../_m_form.png'});
+const d=await b.newContext({viewport:{width:1280,height:900}});p=await d.newPage();
+await p.goto('http://127.0.0.1:8765/retail-horeca.html',{waitUntil:'networkidle'});await p.evaluate(()=>window.scrollTo(0,700));await p.waitForTimeout(400);await p.screenshot({path:'../_d_retail.png'});
+await p.goto('http://127.0.0.1:8765/cookies.html',{waitUntil:'networkidle'});await p.screenshot({path:'../_d_cook.png',fullPage:true});
+await p.goto('http://127.0.0.1:8765/xx.html',{waitUntil:'networkidle'});await p.screenshot({path:'../_d_404.png'});
+await b.close();})();

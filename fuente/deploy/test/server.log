@@ -1,0 +1,3112 @@
+[Wed Nov  4 20:38:27 2026] PHP 8.3.6 Development Server (http://127.0.0.1:8099) started
+[Wed Nov  4 20:38:28 2026] 127.0.0.1:42328 Accepted
+[Wed Nov  4 20:38:28 2026] 127.0.0.1:42328 [200]: POST /enviar.php
+[Wed Nov  4 20:38:28 2026] 127.0.0.1:42328 Closing
+[Wed Nov  4 20:38:28 2026] 127.0.0.1:42334 Accepted
+[Wed Nov  4 20:38:28 2026] 127.0.0.1:42334 [400]: POST /enviar.php
+[Wed Nov  4 20:38:28 2026] 127.0.0.1:42334 Closing
+[Wed Nov  4 20:38:28 2026] 127.0.0.1:42350 Accepted
+[Wed Nov  4 20:38:28 2026] 127.0.0.1:42350 [200]: POST /enviar.php
+[Wed Nov  4 20:38:28 2026] 127.0.0.1:42350 Closing
+[Wed Nov  4 20:38:28 2026] 127.0.0.1:42360 Accepted
+[Wed Nov  4 20:38:28 2026] 127.0.0.1:42360 [200]: POST /enviar.php
+[Wed Nov  4 20:38:28 2026] 127.0.0.1:42360 Closing
+[Wed Nov  4 20:38:28 2026] 127.0.0.1:42366 Accepted
+[Wed Nov  4 20:38:28 2026] 127.0.0.1:42366 [303]: GET /enviar.php
+[Wed Nov  4 20:38:28 2026] 127.0.0.1:42366 Closing
+[Wed Nov  4 20:38:28 2026] 127.0.0.1:42372 Accepted
+[Wed Nov  4 20:38:28 2026] 127.0.0.1:42372 [303]: POST /enviar.php
+[Wed Nov  4 20:38:28 2026] 127.0.0.1:42372 Closing
+[Wed Nov  4 20:38:43 2026] 127.0.0.1:39484 Accepted
+[Wed Nov  4 20:38:43 2026] 127.0.0.1:39484 [303]: POST /enviar.php
+[Wed Nov  4 20:38:43 2026] 127.0.0.1:39484 Closing
+[Wed Nov  4 20:38:43 2026] 127.0.0.1:39498 Accepted
+[Wed Nov  4 20:38:44 2026] 127.0.0.1:39498 [200]: GET /en/solicitud.html
+[Wed Nov  4 20:38:44 2026] 127.0.0.1:39498 Closing
+[Wed Nov  4 20:38:44 2026] 127.0.0.1:39514 Accepted
+[Wed Nov  4 20:38:44 2026] 127.0.0.1:39530 Accepted
+[Wed Nov  4 20:38:44 2026] 127.0.0.1:39514 [200]: GET /fonts/fonts.css
+[Wed Nov  4 20:38:44 2026] 127.0.0.1:39530 [200]: GET /img/logo-pil.png
+[Wed Nov  4 20:38:44 2026] 127.0.0.1:39514 Closing
+[Wed Nov  4 20:38:44 2026] 127.0.0.1:39530 Closing
+[Wed Nov  4 20:38:44 2026] 127.0.0.1:39536 Accepted
+[Wed Nov  4 20:38:44 2026] 127.0.0.1:39546 Accepted
+[Wed Nov  4 20:38:44 2026] 127.0.0.1:39550 Accepted
+[Wed Nov  4 20:38:44 2026] 127.0.0.1:39564 Accepted
+[Wed Nov  4 20:38:44 2026] 127.0.0.1:39566 Accepted
+[Wed Nov  4 20:38:44 2026] 127.0.0.1:39536 [200]: GET /fonts/manrope-v23-latin-500.woff2
+[Wed Nov  4 20:38:44 2026] 127.0.0.1:39546 [200]: GET /fonts/archivo-v25-latin-800.woff2
+[Wed Nov  4 20:38:44 2026] 127.0.0.1:39550 [200]: GET /fonts/manrope-v23-latin-600.woff2
+[Wed Nov  4 20:38:44 2026] 127.0.0.1:39564 [200]: GET /fonts/manrope-v23-latin-700.woff2
+[Wed Nov  4 20:38:44 2026] 127.0.0.1:39566 [200]: GET /fonts/manrope-v23-latin-regular.woff2
+[Wed Nov  4 20:38:44 2026] 127.0.0.1:39536 Closing
+[Wed Nov  4 20:38:44 2026] 127.0.0.1:39546 Closing
+[Wed Nov  4 20:38:44 2026] 127.0.0.1:39550 Closing
+[Wed Nov  4 20:38:44 2026] 127.0.0.1:39564 Closing
+[Wed Nov  4 20:38:44 2026] 127.0.0.1:39566 Closing
+[Wed Nov  4 20:38:48 2026] 127.0.0.1:54540 Accepted
+[Wed Nov  4 20:38:48 2026] 127.0.0.1:54540 [400]: POST /enviar.php
+[Wed Nov  4 20:38:48 2026] 127.0.0.1:54540 Closing
+[Wed Nov  4 20:38:49 2026] 127.0.0.1:54544 Accepted
+[Wed Nov  4 20:38:49 2026] 127.0.0.1:54544 [200]: GET /solicitud.html
+[Wed Nov  4 20:38:49 2026] 127.0.0.1:54544 Closing
+[Wed Nov  4 20:38:49 2026] 127.0.0.1:54558 Accepted
+[Wed Nov  4 20:38:49 2026] 127.0.0.1:54560 Accepted
+[Wed Nov  4 20:38:49 2026] 127.0.0.1:54558 [200]: GET /fonts/fonts.css
+[Wed Nov  4 20:38:49 2026] 127.0.0.1:54560 [200]: GET /img/logo-pil.png
+[Wed Nov  4 20:38:49 2026] 127.0.0.1:54558 Closing
+[Wed Nov  4 20:38:49 2026] 127.0.0.1:54560 Closing
+[Wed Nov  4 20:38:49 2026] 127.0.0.1:54576 Accepted
+[Wed Nov  4 20:38:49 2026] 127.0.0.1:54582 Accepted
+[Wed Nov  4 20:38:49 2026] 127.0.0.1:54598 Accepted
+[Wed Nov  4 20:38:49 2026] 127.0.0.1:54610 Accepted
+[Wed Nov  4 20:38:49 2026] 127.0.0.1:54620 Accepted
+[Wed Nov  4 20:38:49 2026] 127.0.0.1:54576 [200]: GET /fonts/manrope-v23-latin-500.woff2
+[Wed Nov  4 20:38:49 2026] 127.0.0.1:54576 Closing
+[Wed Nov  4 20:38:49 2026] 127.0.0.1:54582 [200]: GET /fonts/archivo-v25-latin-800.woff2
+[Wed Nov  4 20:38:49 2026] 127.0.0.1:54582 Closing
+[Wed Nov  4 20:38:49 2026] 127.0.0.1:54598 [200]: GET /fonts/manrope-v23-latin-600.woff2
+[Wed Nov  4 20:38:49 2026] 127.0.0.1:54610 [200]: GET /fonts/manrope-v23-latin-700.woff2
+[Wed Nov  4 20:38:49 2026] 127.0.0.1:54620 [200]: GET /fonts/manrope-v23-latin-regular.woff2
+[Wed Nov  4 20:38:49 2026] 127.0.0.1:54598 Closing
+[Wed Nov  4 20:38:49 2026] 127.0.0.1:54610 Closing
+[Wed Nov  4 20:38:49 2026] 127.0.0.1:54620 Closing
+[Wed Nov  4 20:39:10 2026] 127.0.0.1:52224 Accepted
+[Wed Nov  4 20:39:10 2026] 127.0.0.1:52224 [200]: GET /en/solicitud.html
+[Wed Nov  4 20:39:10 2026] 127.0.0.1:52224 Closing
+[Wed Nov  4 20:39:10 2026] 127.0.0.1:52238 Accepted
+[Wed Nov  4 20:39:10 2026] 127.0.0.1:52242 Accepted
+[Wed Nov  4 20:39:10 2026] 127.0.0.1:52238 [200]: GET /fonts/fonts.css
+[Wed Nov  4 20:39:10 2026] 127.0.0.1:52242 [200]: GET /img/logo-pil.png
+[Wed Nov  4 20:39:10 2026] 127.0.0.1:52238 Closing
+[Wed Nov  4 20:39:10 2026] 127.0.0.1:52242 Closing
+[Wed Nov  4 20:39:10 2026] 127.0.0.1:52256 Accepted
+[Wed Nov  4 20:39:10 2026] 127.0.0.1:52262 Accepted
+[Wed Nov  4 20:39:10 2026] 127.0.0.1:52278 Accepted
+[Wed Nov  4 20:39:10 2026] 127.0.0.1:52292 Accepted
+[Wed Nov  4 20:39:10 2026] 127.0.0.1:52306 Accepted
+[Wed Nov  4 20:39:10 2026] 127.0.0.1:52256 [200]: GET /fonts/manrope-v23-latin-500.woff2
+[Wed Nov  4 20:39:10 2026] 127.0.0.1:52262 [200]: GET /fonts/archivo-v25-latin-800.woff2
+[Wed Nov  4 20:39:10 2026] 127.0.0.1:52278 [200]: GET /fonts/manrope-v23-latin-600.woff2
+[Wed Nov  4 20:39:10 2026] 127.0.0.1:52292 [200]: GET /fonts/manrope-v23-latin-700.woff2
+[Wed Nov  4 20:39:10 2026] 127.0.0.1:52306 [200]: GET /fonts/manrope-v23-latin-regular.woff2
+[Wed Nov  4 20:39:10 2026] 127.0.0.1:52256 Closing
+[Wed Nov  4 20:39:10 2026] 127.0.0.1:52262 Closing
+[Wed Nov  4 20:39:10 2026] 127.0.0.1:52278 Closing
+[Wed Nov  4 20:39:10 2026] 127.0.0.1:52292 Closing
+[Wed Nov  4 20:39:10 2026] 127.0.0.1:52306 Closing
+[Wed Nov  4 20:39:13 2026] 127.0.0.1:52318 Accepted
+[Wed Nov  4 20:39:13 2026] 127.0.0.1:52318 [400]: POST /enviar.php
+[Wed Nov  4 20:39:13 2026] 127.0.0.1:52318 Closing
+[Wed Nov  4 20:39:25 2026] 127.0.0.1:34122 Accepted
+[Wed Nov  4 20:39:25 2026] 127.0.0.1:34122 [200]: GET /solicitud.html
+[Wed Nov  4 20:39:25 2026] 127.0.0.1:34122 Closing
+[Wed Nov  4 20:39:25 2026] 127.0.0.1:34126 Accepted
+[Wed Nov  4 20:39:25 2026] 127.0.0.1:34142 Accepted
+[Wed Nov  4 20:39:25 2026] 127.0.0.1:34126 [200]: GET /fonts/fonts.css
+[Wed Nov  4 20:39:25 2026] 127.0.0.1:34126 Closing
+[Wed Nov  4 20:39:25 2026] 127.0.0.1:34142 [200]: GET /img/logo-pil.png
+[Wed Nov  4 20:39:25 2026] 127.0.0.1:34142 Closing
+[Wed Nov  4 20:39:25 2026] 127.0.0.1:34144 Accepted
+[Wed Nov  4 20:39:25 2026] 127.0.0.1:34156 Accepted
+[Wed Nov  4 20:39:25 2026] 127.0.0.1:34172 Accepted
+[Wed Nov  4 20:39:25 2026] 127.0.0.1:34178 Accepted
+[Wed Nov  4 20:39:25 2026] 127.0.0.1:34190 Accepted
+[Wed Nov  4 20:39:25 2026] 127.0.0.1:34144 [200]: GET /fonts/archivo-v25-latin-800.woff2
+[Wed Nov  4 20:39:25 2026] 127.0.0.1:34156 [200]: GET /fonts/manrope-v23-latin-600.woff2
+[Wed Nov  4 20:39:25 2026] 127.0.0.1:34172 [200]: GET /fonts/manrope-v23-latin-regular.woff2
+[Wed Nov  4 20:39:25 2026] 127.0.0.1:34144 Closing
+[Wed Nov  4 20:39:25 2026] 127.0.0.1:34156 Closing
+[Wed Nov  4 20:39:25 2026] 127.0.0.1:34172 Closing
+[Wed Nov  4 20:39:25 2026] 127.0.0.1:34178 [200]: GET /fonts/manrope-v23-latin-700.woff2
+[Wed Nov  4 20:39:25 2026] 127.0.0.1:34178 Closing
+[Wed Nov  4 20:39:25 2026] 127.0.0.1:34190 [200]: GET /fonts/manrope-v23-latin-500.woff2
+[Wed Nov  4 20:39:25 2026] 127.0.0.1:34190 Closing
+[Wed Nov  4 20:39:29 2026] 127.0.0.1:47016 Accepted
+[Wed Nov  4 20:39:29 2026] 127.0.0.1:47016 [200]: POST /enviar.php
+[Wed Nov  4 20:39:29 2026] 127.0.0.1:47016 Closing
+[Wed Nov  4 20:39:29 2026] 127.0.0.1:47024 Accepted
+[Wed Nov  4 20:39:29 2026] 127.0.0.1:47024 [200]: GET /fr/solicitud.html
+[Wed Nov  4 20:39:29 2026] 127.0.0.1:47024 Closing
+[Wed Nov  4 20:39:29 2026] 127.0.0.1:47038 Accepted
+[Wed Nov  4 20:39:29 2026] 127.0.0.1:47044 Accepted
+[Wed Nov  4 20:39:29 2026] 127.0.0.1:47038 [200]: GET /fonts/fonts.css
+[Wed Nov  4 20:39:29 2026] 127.0.0.1:47044 [200]: GET /img/logo-pil.png
+[Wed Nov  4 20:39:29 2026] 127.0.0.1:47038 Closing
+[Wed Nov  4 20:39:29 2026] 127.0.0.1:47044 Closing
+[Wed Nov  4 20:39:29 2026] 127.0.0.1:47060 Accepted
+[Wed Nov  4 20:39:29 2026] 127.0.0.1:47064 Accepted
+[Wed Nov  4 20:39:29 2026] 127.0.0.1:47060 [200]: GET /fonts/archivo-v25-latin-800.woff2
+[Wed Nov  4 20:39:29 2026] 127.0.0.1:47060 Closing
+[Wed Nov  4 20:39:29 2026] 127.0.0.1:47064 [200]: GET /fonts/manrope-v23-latin-600.woff2
+[Wed Nov  4 20:39:29 2026] 127.0.0.1:47064 Closing
+[Wed Nov  4 20:39:29 2026] 127.0.0.1:47074 Accepted
+[Wed Nov  4 20:39:29 2026] 127.0.0.1:47088 Accepted
+[Wed Nov  4 20:39:29 2026] 127.0.0.1:47074 [200]: GET /fonts/manrope-v23-latin-regular.woff2
+[Wed Nov  4 20:39:29 2026] 127.0.0.1:47098 Accepted
+[Wed Nov  4 20:39:29 2026] 127.0.0.1:47088 [200]: GET /fonts/manrope-v23-latin-700.woff2
+[Wed Nov  4 20:39:29 2026] 127.0.0.1:47098 [200]: GET /fonts/manrope-v23-latin-500.woff2
+[Wed Nov  4 20:39:29 2026] 127.0.0.1:47074 Closing
+[Wed Nov  4 20:39:29 2026] 127.0.0.1:47088 Closing
+[Wed Nov  4 20:39:29 2026] 127.0.0.1:47098 Closing
+[Wed Nov  4 20:39:33 2026] 127.0.0.1:47106 Accepted
+[Wed Nov  4 20:39:33 2026] 127.0.0.1:47106 [200]: POST /enviar.php
+[Wed Nov  4 20:39:33 2026] 127.0.0.1:47106 Closing
+[Wed Nov  4 20:39:33 2026] 127.0.0.1:47118 Accepted
+[Wed Nov  4 20:39:33 2026] 127.0.0.1:47118 [200]: GET /pt/solicitud.html
+[Wed Nov  4 20:39:33 2026] 127.0.0.1:47118 Closing
+[Wed Nov  4 20:39:34 2026] 127.0.0.1:47130 Accepted
+[Wed Nov  4 20:39:34 2026] 127.0.0.1:47142 Accepted
+[Wed Nov  4 20:39:34 2026] 127.0.0.1:47130 [200]: GET /fonts/fonts.css
+[Wed Nov  4 20:39:34 2026] 127.0.0.1:47142 [200]: GET /img/logo-pil.png
+[Wed Nov  4 20:39:34 2026] 127.0.0.1:47130 Closing
+[Wed Nov  4 20:39:34 2026] 127.0.0.1:47142 Closing
+[Wed Nov  4 20:39:34 2026] 127.0.0.1:47146 Accepted
+[Wed Nov  4 20:39:34 2026] 127.0.0.1:47158 Accepted
+[Wed Nov  4 20:39:34 2026] 127.0.0.1:47168 Accepted
+[Wed Nov  4 20:39:34 2026] 127.0.0.1:47180 Accepted
+[Wed Nov  4 20:39:34 2026] 127.0.0.1:47182 Accepted
+[Wed Nov  4 20:39:34 2026] 127.0.0.1:47146 [200]: GET /fonts/manrope-v23-latin-500.woff2
+[Wed Nov  4 20:39:34 2026] 127.0.0.1:47158 [200]: GET /fonts/archivo-v25-latin-800.woff2
+[Wed Nov  4 20:39:34 2026] 127.0.0.1:47146 Closing
+[Wed Nov  4 20:39:34 2026] 127.0.0.1:47168 [200]: GET /fonts/manrope-v23-latin-600.woff2
+[Wed Nov  4 20:39:34 2026] 127.0.0.1:47158 Closing
+[Wed Nov  4 20:39:34 2026] 127.0.0.1:47168 Closing
+[Wed Nov  4 20:39:34 2026] 127.0.0.1:47180 [200]: GET /fonts/manrope-v23-latin-700.woff2
+[Wed Nov  4 20:39:34 2026] 127.0.0.1:47182 [200]: GET /fonts/manrope-v23-latin-regular.woff2
+[Wed Nov  4 20:39:34 2026] 127.0.0.1:47180 Closing
+[Wed Nov  4 20:39:34 2026] 127.0.0.1:47182 Closing
+[Wed Nov  4 20:39:37 2026] 127.0.0.1:58490 Accepted
+[Wed Nov  4 20:39:37 2026] 127.0.0.1:58490 [200]: POST /enviar.php
+[Wed Nov  4 20:39:37 2026] 127.0.0.1:58490 Closing
+[Wed Nov  4 20:39:38 2026] 127.0.0.1:58496 Accepted
+[Wed Nov  4 20:39:38 2026] 127.0.0.1:58496 [200]: GET /en/solicitud.html
+[Wed Nov  4 20:39:38 2026] 127.0.0.1:58496 Closing
+[Wed Nov  4 20:39:38 2026] 127.0.0.1:58502 Accepted
+[Wed Nov  4 20:39:38 2026] 127.0.0.1:58502 [200]: GET /fonts/fonts.css
+[Wed Nov  4 20:39:38 2026] 127.0.0.1:58502 Closing
+[Wed Nov  4 20:39:38 2026] 127.0.0.1:58504 Accepted
+[Wed Nov  4 20:39:38 2026] 127.0.0.1:58504 [200]: GET /img/logo-pil.png
+[Wed Nov  4 20:39:38 2026] 127.0.0.1:58504 Closing
+[Wed Nov  4 20:39:38 2026] 127.0.0.1:58516 Accepted
+[Wed Nov  4 20:39:38 2026] 127.0.0.1:58530 Accepted
+[Wed Nov  4 20:39:38 2026] 127.0.0.1:58540 Accepted
+[Wed Nov  4 20:39:38 2026] 127.0.0.1:58550 Accepted
+[Wed Nov  4 20:39:38 2026] 127.0.0.1:58552 Accepted
+[Wed Nov  4 20:39:38 2026] 127.0.0.1:58516 [200]: GET /fonts/manrope-v23-latin-500.woff2
+[Wed Nov  4 20:39:38 2026] 127.0.0.1:58530 [200]: GET /fonts/archivo-v25-latin-800.woff2
+[Wed Nov  4 20:39:38 2026] 127.0.0.1:58540 [200]: GET /fonts/manrope-v23-latin-600.woff2
+[Wed Nov  4 20:39:38 2026] 127.0.0.1:58516 Closing
+[Wed Nov  4 20:39:38 2026] 127.0.0.1:58530 Closing
+[Wed Nov  4 20:39:38 2026] 127.0.0.1:58540 Closing
+[Wed Nov  4 20:39:38 2026] 127.0.0.1:58550 [200]: GET /fonts/manrope-v23-latin-700.woff2
+[Wed Nov  4 20:39:38 2026] 127.0.0.1:58552 [200]: GET /fonts/manrope-v23-latin-regular.woff2
+[Wed Nov  4 20:39:38 2026] 127.0.0.1:58550 Closing
+[Wed Nov  4 20:39:38 2026] 127.0.0.1:58552 Closing
+[Wed Nov  4 20:39:41 2026] 127.0.0.1:58564 Accepted
+[Wed Nov  4 20:39:41 2026] 127.0.0.1:58564 [200]: POST /enviar.php
+[Wed Nov  4 20:39:41 2026] 127.0.0.1:58564 Closing
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56154 Accepted
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56154 [200]: GET /index.html
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56154 Closing
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56158 Accepted
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56158 [200]: GET /fonts/fonts.css
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56158 Closing
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56160 Accepted
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56170 Accepted
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56160 [200]: GET /img/logo-pil.png
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56170 [200]: GET /img/logo-linsoles.png
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56160 Closing
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56170 Closing
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56174 Accepted
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56178 Accepted
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56180 Accepted
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56182 Accepted
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56174 [200]: GET /img/banner03_lin.jpg
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56178 [200]: GET /img/banner01_pil.jpg
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56180 [200]: GET /img/banner02_truck.jpg
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56174 Closing
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56182 [200]: GET /img/banner04_pil.jpg
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56178 Closing
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56180 Closing
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56182 Closing
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56190 Accepted
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56198 Accepted
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56190 [200]: GET /img/planta-linsoles.jpg
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56212 Accepted
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56198 [200]: GET /img/camion-linsoles.jpg
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56224 Accepted
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56212 [200]: GET /img/saco-smp.png
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56226 Accepted
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56224 [200]: GET /img/saco-wmp.png
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56236 Accepted
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56190 Closing
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56226 [200]: GET /img/saco-wpc80.png
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56198 Closing
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56236 [200]: GET /img/queso-gouda.png
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56212 Closing
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56224 Closing
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56236 Closing
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56226 Closing
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56250 Accepted
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56260 Accepted
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56250 [200]: GET /img/queso-cheddar.png
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56250 Closing
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56260 [200]: GET /img/bidon-amf.png
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56260 Closing
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56262 Accepted
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56262 [200]: GET /img/brick-entera.png
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56262 Closing
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56274 Accepted
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56284 Accepted
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56274 [200]: GET /fonts/archivo-v25-latin-800.woff2
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56296 Accepted
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56284 [200]: GET /fonts/manrope-v23-latin-600.woff2
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56302 Accepted
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56296 [200]: GET /fonts/manrope-v23-latin-700.woff2
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56306 Accepted
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56274 Closing
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56302 [200]: GET /fonts/manrope-v23-latin-regular.woff2
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56318 Accepted
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56284 Closing
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56306 [200]: GET /fonts/archivo-v25-latin-700.woff2
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56318 [200]: GET /img/brick-semidesnatada.png
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56296 Closing
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56302 Closing
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56306 Closing
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56318 Closing
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56332 Accepted
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56338 Accepted
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56344 Accepted
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56348 Accepted
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56350 Accepted
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56332 [200]: GET /img/brick-desnatada.png
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56338 [200]: GET /img/queso-oveja-entero.png
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56344 [200]: GET /img/queso-semicurado-entero.png
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56332 Closing
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56338 Closing
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56344 Closing
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56348 [200]: GET /img/barra-emmental-recorte.png
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56348 Closing
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56350 [200]: GET /img/barra-cheddar-recorte.png
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56350 Closing
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56356 Accepted
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56356 [200]: GET /img/barra-mozza-recorte.png
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56356 Closing
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56366 Accepted
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56382 Accepted
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56366 [200]: GET /img/barra-edam-recorte.png
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56366 Closing
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56384 Accepted
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56382 [200]: GET /img/barra-gouda-recorte.png
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56382 Closing
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56384 [200]: GET /img/mapamundi.svg
+[Wed Nov  4 20:40:07 2026] 127.0.0.1:56384 Closing
+[Wed Nov  4 20:40:08 2026] 127.0.0.1:56394 Accepted
+[Wed Nov  4 20:40:08 2026] 127.0.0.1:56394 [200]: GET /industriales.html
+[Wed Nov  4 20:40:08 2026] 127.0.0.1:56394 Closing
+[Wed Nov  4 20:40:08 2026] 127.0.0.1:56404 Accepted
+[Wed Nov  4 20:40:08 2026] 127.0.0.1:56408 Accepted
+[Wed Nov  4 20:40:08 2026] 127.0.0.1:56414 Accepted
+[Wed Nov  4 20:40:08 2026] 127.0.0.1:56404 [200]: GET /fonts/fonts.css
+[Wed Nov  4 20:40:08 2026] 127.0.0.1:56408 [200]: GET /img/logo-pil.png
+[Wed Nov  4 20:40:08 2026] 127.0.0.1:56404 Closing
+[Wed Nov  4 20:40:08 2026] 127.0.0.1:56414 [200]: GET /img/logo-linsoles.png
+[Wed Nov  4 20:40:08 2026] 127.0.0.1:56408 Closing
+[Wed Nov  4 20:40:08 2026] 127.0.0.1:56414 Closing
+[Wed Nov  4 20:40:08 2026] 127.0.0.1:56416 Accepted
+[Wed Nov  4 20:40:08 2026] 127.0.0.1:56416 [200]: GET /img/saco-smp.png
+[Wed Nov  4 20:40:08 2026] 127.0.0.1:56416 Closing
+[Wed Nov  4 20:40:08 2026] 127.0.0.1:56422 Accepted
+[Wed Nov  4 20:40:08 2026] 127.0.0.1:56428 Accepted
+[Wed Nov  4 20:40:08 2026] 127.0.0.1:56422 [200]: GET /fonts/archivo-v25-latin-800.woff2
+[Wed Nov  4 20:40:08 2026] 127.0.0.1:56444 Accepted
+[Wed Nov  4 20:40:08 2026] 127.0.0.1:56428 [200]: GET /fonts/manrope-v23-latin-600.woff2
+[Wed Nov  4 20:40:08 2026] 127.0.0.1:56456 Accepted
+[Wed Nov  4 20:40:08 2026] 127.0.0.1:56444 [200]: GET /fonts/manrope-v23-latin-700.woff2
+[Wed Nov  4 20:40:08 2026] 127.0.0.1:56422 Closing
+[Wed Nov  4 20:40:08 2026] 127.0.0.1:56456 [200]: GET /fonts/manrope-v23-latin-regular.woff2
+[Wed Nov  4 20:40:08 2026] 127.0.0.1:56428 Closing
+[Wed Nov  4 20:40:08 2026] 127.0.0.1:56444 Closing
+[Wed Nov  4 20:40:08 2026] 127.0.0.1:56456 Closing
+[Wed Nov  4 20:40:08 2026] 127.0.0.1:56462 Accepted
+[Wed Nov  4 20:40:08 2026] 127.0.0.1:56462 [200]: GET /retail-horeca.html
+[Wed Nov  4 20:40:08 2026] 127.0.0.1:56462 Closing
+[Wed Nov  4 20:40:08 2026] 127.0.0.1:56466 Accepted
+[Wed Nov  4 20:40:08 2026] 127.0.0.1:56472 Accepted
+[Wed Nov  4 20:40:08 2026] 127.0.0.1:56474 Accepted
+[Wed Nov  4 20:40:08 2026] 127.0.0.1:56466 [200]: GET /fonts/fonts.css
+[Wed Nov  4 20:40:08 2026] 127.0.0.1:56466 Closing
+[Wed Nov  4 20:40:08 2026] 127.0.0.1:56472 [200]: GET /img/logo-pil.png
+[Wed Nov  4 20:40:08 2026] 127.0.0.1:56472 Closing
+[Wed Nov  4 20:40:08 2026] 127.0.0.1:56474 [200]: GET /img/logo-linsoles.png
+[Wed Nov  4 20:40:08 2026] 127.0.0.1:56474 Closing
+[Wed Nov  4 20:40:08 2026] 127.0.0.1:56480 Accepted
+[Wed Nov  4 20:40:08 2026] 127.0.0.1:56480 [200]: GET /img/planta-linsoles.jpg
+[Wed Nov  4 20:40:08 2026] 127.0.0.1:56480 Closing
+[Wed Nov  4 20:40:08 2026] 127.0.0.1:56494 Accepted
+[Wed Nov  4 20:40:08 2026] 127.0.0.1:56508 Accepted
+[Wed Nov  4 20:40:08 2026] 127.0.0.1:56494 [200]: GET /img/brick-entera.png
+[Wed Nov  4 20:40:08 2026] 127.0.0.1:56510 Accepted
+[Wed Nov  4 20:40:08 2026] 127.0.0.1:56508 [200]: GET /img/queso-oveja-linsoles.jpg
+[Wed Nov  4 20:40:08 2026] 127.0.0.1:56526 Accepted
+[Wed Nov  4 20:40:08 2026] 127.0.0.1:56510 [200]: GET /img/queso-oveja-marca-blanca.jpg
+[Wed Nov  4 20:40:08 2026] 127.0.0.1:56540 Accepted
+[Wed Nov  4 20:40:08 2026] 127.0.0.1:56526 [200]: GET /img/queso-semicurado-linsoles.jpg
+[Wed Nov  4 20:40:08 2026] 127.0.0.1:56542 Accepted
+[Wed Nov  4 20:40:08 2026] 127.0.0.1:56540 [200]: GET /img/brick-semidesnatada.png
+[Wed Nov  4 20:40:08 2026] 127.0.0.1:56494 Closing
+[Wed Nov  4 20:40:08 2026] 127.0.0.1:56508 Closing
+[Wed Nov  4 20:40:08 2026] 127.0.0.1:56542 [200]: GET /img/brick-desnatada.png
+[Wed Nov  4 20:40:08 2026] 127.0.0.1:56510 Closing
+[Wed Nov  4 20:40:08 2026] 127.0.0.1:56526 Closing
+[Wed Nov  4 20:40:08 2026] 127.0.0.1:56540 Closing
+[Wed Nov  4 20:40:08 2026] 127.0.0.1:56542 Closing
+[Wed Nov  4 20:40:08 2026] 127.0.0.1:56546 Accepted
+[Wed Nov  4 20:40:08 2026] 127.0.0.1:56548 Accepted
+[Wed Nov  4 20:40:08 2026] 127.0.0.1:56546 [200]: GET /fonts/archivo-v25-latin-800.woff2
+[Wed Nov  4 20:40:08 2026] 127.0.0.1:56554 Accepted
+[Wed Nov  4 20:40:08 2026] 127.0.0.1:56548 [200]: GET /img/queso-semicurado-marca-blanca.jpg
+[Wed Nov  4 20:40:08 2026] 127.0.0.1:56560 Accepted
+[Wed Nov  4 20:40:08 2026] 127.0.0.1:56554 [200]: GET /img/barra-emmental.jpg
+[Wed Nov  4 20:40:08 2026] 127.0.0.1:56562 Accepted
+[Wed Nov  4 20:40:08 2026] 127.0.0.1:56546 Closing
+[Wed Nov  4 20:40:08 2026] 127.0.0.1:56560 [200]: GET /img/barra-cheddar.jpg
+[Wed Nov  4 20:40:08 2026] 127.0.0.1:56566 Accepted
+[Wed Nov  4 20:40:08 2026] 127.0.0.1:56548 Closing
+[Wed Nov  4 20:40:08 2026] 127.0.0.1:56562 [200]: GET /img/barra-mozza.jpg
+[Wed Nov  4 20:40:08 2026] 127.0.0.1:56566 [200]: GET /img/barra-edam.jpg
+[Wed Nov  4 20:40:08 2026] 127.0.0.1:56554 Closing
+[Wed Nov  4 20:40:08 2026] 127.0.0.1:56560 Closing
+[Wed Nov  4 20:40:08 2026] 127.0.0.1:56562 Closing
+[Wed Nov  4 20:40:08 2026] 127.0.0.1:56566 Closing
+[Wed Nov  4 20:40:08 2026] 127.0.0.1:56570 Accepted
+[Wed Nov  4 20:40:08 2026] 127.0.0.1:56570 [200]: GET /img/barra-gouda.jpg
+[Wed Nov  4 20:40:08 2026] 127.0.0.1:56570 Closing
+[Wed Nov  4 20:40:09 2026] 127.0.0.1:56572 Accepted
+[Wed Nov  4 20:40:09 2026] 127.0.0.1:56580 Accepted
+[Wed Nov  4 20:40:09 2026] 127.0.0.1:56572 [200]: GET /fonts/manrope-v23-latin-600.woff2
+[Wed Nov  4 20:40:09 2026] 127.0.0.1:56590 Accepted
+[Wed Nov  4 20:40:09 2026] 127.0.0.1:56580 [200]: GET /fonts/manrope-v23-latin-700.woff2
+[Wed Nov  4 20:40:09 2026] 127.0.0.1:56598 Accepted
+[Wed Nov  4 20:40:09 2026] 127.0.0.1:56590 [200]: GET /fonts/manrope-v23-latin-regular.woff2
+[Wed Nov  4 20:40:09 2026] 127.0.0.1:56572 Closing
+[Wed Nov  4 20:40:09 2026] 127.0.0.1:56598 [200]: GET /fonts/archivo-v25-latin-700.woff2
+[Wed Nov  4 20:40:09 2026] 127.0.0.1:56580 Closing
+[Wed Nov  4 20:40:09 2026] 127.0.0.1:56590 Closing
+[Wed Nov  4 20:40:09 2026] 127.0.0.1:56598 Closing
+[Wed Nov  4 20:40:09 2026] 127.0.0.1:56604 Accepted
+[Wed Nov  4 20:40:09 2026] 127.0.0.1:56604 [200]: GET /catalogos.html
+[Wed Nov  4 20:40:09 2026] 127.0.0.1:56604 Closing
+[Wed Nov  4 20:40:09 2026] 127.0.0.1:56612 Accepted
+[Wed Nov  4 20:40:09 2026] 127.0.0.1:56620 Accepted
+[Wed Nov  4 20:40:09 2026] 127.0.0.1:56612 [200]: GET /fonts/fonts.css
+[Wed Nov  4 20:40:09 2026] 127.0.0.1:56624 Accepted
+[Wed Nov  4 20:40:09 2026] 127.0.0.1:56620 [200]: GET /img/catalogo-industrial-1.jpg
+[Wed Nov  4 20:40:09 2026] 127.0.0.1:56624 [200]: GET /img/logo-pil.png
+[Wed Nov  4 20:40:09 2026] 127.0.0.1:56612 Closing
+[Wed Nov  4 20:40:09 2026] 127.0.0.1:56620 Closing
+[Wed Nov  4 20:40:09 2026] 127.0.0.1:56624 Closing
+[Wed Nov  4 20:40:09 2026] 127.0.0.1:56638 Accepted
+[Wed Nov  4 20:40:09 2026] 127.0.0.1:56654 Accepted
+[Wed Nov  4 20:40:09 2026] 127.0.0.1:56662 Accepted
+[Wed Nov  4 20:40:09 2026] 127.0.0.1:56678 Accepted
+[Wed Nov  4 20:40:09 2026] 127.0.0.1:56638 [200]: GET /img/catalogo-industrial-2.jpg
+[Wed Nov  4 20:40:09 2026] 127.0.0.1:56638 Closing
+[Wed Nov  4 20:40:09 2026] 127.0.0.1:56654 [200]: GET /img/catalogo-industrial-3.jpg
+[Wed Nov  4 20:40:09 2026] 127.0.0.1:56654 Closing
+[Wed Nov  4 20:40:09 2026] 127.0.0.1:56662 [200]: GET /img/catalogo-industrial-4.jpg
+[Wed Nov  4 20:40:09 2026] 127.0.0.1:56662 Closing
+[Wed Nov  4 20:40:09 2026] 127.0.0.1:56678 [200]: GET /img/catalogo-industrial-5.jpg
+[Wed Nov  4 20:40:09 2026] 127.0.0.1:56678 Closing
+[Wed Nov  4 20:40:09 2026] 127.0.0.1:56694 Accepted
+[Wed Nov  4 20:40:09 2026] 127.0.0.1:56706 Accepted
+[Wed Nov  4 20:40:09 2026] 127.0.0.1:56694 [200]: GET /img/catalogo-industrial-6.jpg
+[Wed Nov  4 20:40:09 2026] 127.0.0.1:56694 Closing
+[Wed Nov  4 20:40:09 2026] 127.0.0.1:56716 Accepted
+[Wed Nov  4 20:40:09 2026] 127.0.0.1:56706 [200]: GET /img/catalogo-industrial-7.jpg
+[Wed Nov  4 20:40:09 2026] 127.0.0.1:56718 Accepted
+[Wed Nov  4 20:40:09 2026] 127.0.0.1:56716 [200]: GET /fonts/archivo-v25-latin-800.woff2
+[Wed Nov  4 20:40:09 2026] 127.0.0.1:56724 Accepted
+[Wed Nov  4 20:40:09 2026] 127.0.0.1:56718 [200]: GET /fonts/manrope-v23-latin-600.woff2
+[Wed Nov  4 20:40:09 2026] 127.0.0.1:56732 Accepted
+[Wed Nov  4 20:40:09 2026] 127.0.0.1:56724 [200]: GET /fonts/manrope-v23-latin-700.woff2
+[Wed Nov  4 20:40:09 2026] 127.0.0.1:56736 Accepted
+[Wed Nov  4 20:40:09 2026] 127.0.0.1:56716 Closing
+[Wed Nov  4 20:40:09 2026] 127.0.0.1:56706 Closing
+[Wed Nov  4 20:40:09 2026] 127.0.0.1:56732 [200]: GET /fonts/manrope-v23-latin-regular.woff2
+[Wed Nov  4 20:40:09 2026] 127.0.0.1:56718 Closing
+[Wed Nov  4 20:40:09 2026] 127.0.0.1:56736 [200]: GET /img/catalogo-retail-1.jpg
+[Wed Nov  4 20:40:09 2026] 127.0.0.1:56724 Closing
+[Wed Nov  4 20:40:09 2026] 127.0.0.1:56732 Closing
+[Wed Nov  4 20:40:09 2026] 127.0.0.1:56736 Closing
+[Wed Nov  4 20:40:09 2026] 127.0.0.1:56738 Accepted
+[Wed Nov  4 20:40:09 2026] 127.0.0.1:56754 Accepted
+[Wed Nov  4 20:40:09 2026] 127.0.0.1:56738 [200]: GET /img/catalogo-retail-2.jpg
+[Wed Nov  4 20:40:09 2026] 127.0.0.1:56760 Accepted
+[Wed Nov  4 20:40:09 2026] 127.0.0.1:56754 [200]: GET /img/catalogo-retail-3.jpg
+[Wed Nov  4 20:40:09 2026] 127.0.0.1:56760 [200]: GET /img/catalogo-retail-4.jpg
+[Wed Nov  4 20:40:09 2026] 127.0.0.1:56738 Closing
+[Wed Nov  4 20:40:09 2026] 127.0.0.1:56754 Closing
+[Wed Nov  4 20:40:09 2026] 127.0.0.1:56760 Closing
+[Wed Nov  4 20:40:10 2026] 127.0.0.1:56776 Accepted
+[Wed Nov  4 20:40:10 2026] 127.0.0.1:56776 [200]: GET /blog.html
+[Wed Nov  4 20:40:10 2026] 127.0.0.1:56776 Closing
+[Wed Nov  4 20:40:10 2026] 127.0.0.1:56778 Accepted
+[Wed Nov  4 20:40:10 2026] 127.0.0.1:56790 Accepted
+[Wed Nov  4 20:40:10 2026] 127.0.0.1:56778 [200]: GET /fonts/fonts.css
+[Wed Nov  4 20:40:10 2026] 127.0.0.1:56778 Closing
+[Wed Nov  4 20:40:10 2026] 127.0.0.1:56790 [200]: GET /img/logo-pil.png
+[Wed Nov  4 20:40:10 2026] 127.0.0.1:56790 Closing
+[Wed Nov  4 20:40:10 2026] 127.0.0.1:56804 Accepted
+[Wed Nov  4 20:40:10 2026] 127.0.0.1:56808 Accepted
+[Wed Nov  4 20:40:10 2026] 127.0.0.1:56814 Accepted
+[Wed Nov  4 20:40:10 2026] 127.0.0.1:56822 Accepted
+[Wed Nov  4 20:40:10 2026] 127.0.0.1:56826 Accepted
+[Wed Nov  4 20:40:10 2026] 127.0.0.1:56804 [200]: GET /fonts/archivo-v25-latin-800.woff2
+[Wed Nov  4 20:40:10 2026] 127.0.0.1:56804 Closing
+[Wed Nov  4 20:40:10 2026] 127.0.0.1:56808 [200]: GET /fonts/manrope-v23-latin-600.woff2
+[Wed Nov  4 20:40:10 2026] 127.0.0.1:56814 [200]: GET /fonts/manrope-v23-latin-700.woff2
+[Wed Nov  4 20:40:10 2026] 127.0.0.1:56822 [200]: GET /fonts/manrope-v23-latin-regular.woff2
+[Wed Nov  4 20:40:10 2026] 127.0.0.1:56826 [200]: GET /fonts/archivo-v25-latin-700.woff2
+[Wed Nov  4 20:40:10 2026] 127.0.0.1:56808 Closing
+[Wed Nov  4 20:40:10 2026] 127.0.0.1:56814 Closing
+[Wed Nov  4 20:40:10 2026] 127.0.0.1:56822 Closing
+[Wed Nov  4 20:40:10 2026] 127.0.0.1:56826 Closing
+[Wed Nov  4 20:40:11 2026] 127.0.0.1:56838 Accepted
+[Wed Nov  4 20:40:11 2026] 127.0.0.1:56838 [200]: GET /sobre-nosotros.html
+[Wed Nov  4 20:40:11 2026] 127.0.0.1:56838 Closing
+[Wed Nov  4 20:40:11 2026] 127.0.0.1:56848 Accepted
+[Wed Nov  4 20:40:11 2026] 127.0.0.1:56852 Accepted
+[Wed Nov  4 20:40:11 2026] 127.0.0.1:56848 [200]: GET /fonts/fonts.css
+[Wed Nov  4 20:40:11 2026] 127.0.0.1:56848 Closing
+[Wed Nov  4 20:40:11 2026] 127.0.0.1:56852 [200]: GET /img/logo-pil.png
+[Wed Nov  4 20:40:11 2026] 127.0.0.1:56852 Closing
+[Wed Nov  4 20:40:11 2026] 127.0.0.1:56868 Accepted
+[Wed Nov  4 20:40:11 2026] 127.0.0.1:56870 Accepted
+[Wed Nov  4 20:40:11 2026] 127.0.0.1:56868 [200]: GET /fonts/archivo-v25-latin-800.woff2
+[Wed Nov  4 20:40:11 2026] 127.0.0.1:56874 Accepted
+[Wed Nov  4 20:40:11 2026] 127.0.0.1:56870 [200]: GET /fonts/manrope-v23-latin-600.woff2
+[Wed Nov  4 20:40:11 2026] 127.0.0.1:56876 Accepted
+[Wed Nov  4 20:40:11 2026] 127.0.0.1:56874 [200]: GET /fonts/manrope-v23-latin-700.woff2
+[Wed Nov  4 20:40:11 2026] 127.0.0.1:56868 Closing
+[Wed Nov  4 20:40:11 2026] 127.0.0.1:56876 [200]: GET /fonts/manrope-v23-latin-regular.woff2
+[Wed Nov  4 20:40:11 2026] 127.0.0.1:56870 Closing
+[Wed Nov  4 20:40:11 2026] 127.0.0.1:56874 Closing
+[Wed Nov  4 20:40:11 2026] 127.0.0.1:56876 Closing
+[Wed Nov  4 20:40:11 2026] 127.0.0.1:56880 Accepted
+[Wed Nov  4 20:40:11 2026] 127.0.0.1:56880 [200]: GET /fonts/archivo-v25-latin-700.woff2
+[Wed Nov  4 20:40:11 2026] 127.0.0.1:56880 Closing
+[Wed Nov  4 20:40:12 2026] 127.0.0.1:56890 Accepted
+[Wed Nov  4 20:40:12 2026] 127.0.0.1:56890 [200]: GET /mision.html
+[Wed Nov  4 20:40:12 2026] 127.0.0.1:56890 Closing
+[Wed Nov  4 20:40:12 2026] 127.0.0.1:56896 Accepted
+[Wed Nov  4 20:40:12 2026] 127.0.0.1:56896 [200]: GET /fonts/fonts.css
+[Wed Nov  4 20:40:12 2026] 127.0.0.1:56896 Closing
+[Wed Nov  4 20:40:12 2026] 127.0.0.1:56904 Accepted
+[Wed Nov  4 20:40:12 2026] 127.0.0.1:56904 [200]: GET /img/logo-pil.png
+[Wed Nov  4 20:40:12 2026] 127.0.0.1:56904 Closing
+[Wed Nov  4 20:40:12 2026] 127.0.0.1:56912 Accepted
+[Wed Nov  4 20:40:12 2026] 127.0.0.1:56912 [200]: GET /fonts/archivo-v25-latin-800.woff2
+[Wed Nov  4 20:40:12 2026] 127.0.0.1:56912 Closing
+[Wed Nov  4 20:40:12 2026] 127.0.0.1:56916 Accepted
+[Wed Nov  4 20:40:12 2026] 127.0.0.1:56920 Accepted
+[Wed Nov  4 20:40:12 2026] 127.0.0.1:56930 Accepted
+[Wed Nov  4 20:40:12 2026] 127.0.0.1:56944 Accepted
+[Wed Nov  4 20:40:12 2026] 127.0.0.1:56916 [200]: GET /fonts/manrope-v23-latin-600.woff2
+[Wed Nov  4 20:40:12 2026] 127.0.0.1:56916 Closing
+[Wed Nov  4 20:40:12 2026] 127.0.0.1:56920 [200]: GET /fonts/manrope-v23-latin-700.woff2
+[Wed Nov  4 20:40:12 2026] 127.0.0.1:56920 Closing
+[Wed Nov  4 20:40:12 2026] 127.0.0.1:56930 [200]: GET /fonts/manrope-v23-latin-regular.woff2
+[Wed Nov  4 20:40:12 2026] 127.0.0.1:56930 Closing
+[Wed Nov  4 20:40:12 2026] 127.0.0.1:56944 [200]: GET /fonts/archivo-v25-latin-700.woff2
+[Wed Nov  4 20:40:12 2026] 127.0.0.1:56944 Closing
+[Wed Nov  4 20:40:12 2026] 127.0.0.1:56952 Accepted
+[Wed Nov  4 20:40:12 2026] 127.0.0.1:56952 [200]: GET /solicitud.html
+[Wed Nov  4 20:40:12 2026] 127.0.0.1:56952 Closing
+[Wed Nov  4 20:40:12 2026] 127.0.0.1:56962 Accepted
+[Wed Nov  4 20:40:12 2026] 127.0.0.1:56966 Accepted
+[Wed Nov  4 20:40:12 2026] 127.0.0.1:56962 [200]: GET /fonts/fonts.css
+[Wed Nov  4 20:40:12 2026] 127.0.0.1:56966 [200]: GET /img/logo-pil.png
+[Wed Nov  4 20:40:12 2026] 127.0.0.1:56962 Closing
+[Wed Nov  4 20:40:12 2026] 127.0.0.1:56966 Closing
+[Wed Nov  4 20:40:12 2026] 127.0.0.1:56976 Accepted
+[Wed Nov  4 20:40:12 2026] 127.0.0.1:56992 Accepted
+[Wed Nov  4 20:40:12 2026] 127.0.0.1:56976 [200]: GET /fonts/manrope-v23-latin-500.woff2
+[Wed Nov  4 20:40:12 2026] 127.0.0.1:57002 Accepted
+[Wed Nov  4 20:40:12 2026] 127.0.0.1:56992 [200]: GET /fonts/archivo-v25-latin-800.woff2
+[Wed Nov  4 20:40:12 2026] 127.0.0.1:57012 Accepted
+[Wed Nov  4 20:40:12 2026] 127.0.0.1:57002 [200]: GET /fonts/manrope-v23-latin-600.woff2
+[Wed Nov  4 20:40:12 2026] 127.0.0.1:57020 Accepted
+[Wed Nov  4 20:40:12 2026] 127.0.0.1:56976 Closing
+[Wed Nov  4 20:40:12 2026] 127.0.0.1:57012 [200]: GET /fonts/manrope-v23-latin-700.woff2
+[Wed Nov  4 20:40:12 2026] 127.0.0.1:56992 Closing
+[Wed Nov  4 20:40:12 2026] 127.0.0.1:57020 [200]: GET /fonts/manrope-v23-latin-regular.woff2
+[Wed Nov  4 20:40:12 2026] 127.0.0.1:57002 Closing
+[Wed Nov  4 20:40:12 2026] 127.0.0.1:57012 Closing
+[Wed Nov  4 20:40:12 2026] 127.0.0.1:57020 Closing
+[Wed Nov  4 20:40:13 2026] 127.0.0.1:57030 Accepted
+[Wed Nov  4 20:40:13 2026] 127.0.0.1:57030 [200]: GET /aviso-legal.html
+[Wed Nov  4 20:40:13 2026] 127.0.0.1:57030 Closing
+[Wed Nov  4 20:40:13 2026] 127.0.0.1:57032 Accepted
+[Wed Nov  4 20:40:13 2026] 127.0.0.1:57038 Accepted
+[Wed Nov  4 20:40:13 2026] 127.0.0.1:57032 [200]: GET /fonts/fonts.css
+[Wed Nov  4 20:40:13 2026] 127.0.0.1:57032 Closing
+[Wed Nov  4 20:40:13 2026] 127.0.0.1:57038 [200]: GET /img/logo-pil.png
+[Wed Nov  4 20:40:13 2026] 127.0.0.1:57038 Closing
+[Wed Nov  4 20:40:13 2026] 127.0.0.1:57050 Accepted
+[Wed Nov  4 20:40:13 2026] 127.0.0.1:57052 Accepted
+[Wed Nov  4 20:40:13 2026] 127.0.0.1:57058 Accepted
+[Wed Nov  4 20:40:13 2026] 127.0.0.1:57068 Accepted
+[Wed Nov  4 20:40:13 2026] 127.0.0.1:57050 [200]: GET /fonts/archivo-v25-latin-800.woff2
+[Wed Nov  4 20:40:13 2026] 127.0.0.1:57050 Closing
+[Wed Nov  4 20:40:13 2026] 127.0.0.1:57052 [200]: GET /fonts/manrope-v23-latin-600.woff2
+[Wed Nov  4 20:40:13 2026] 127.0.0.1:57058 [200]: GET /fonts/manrope-v23-latin-700.woff2
+[Wed Nov  4 20:40:13 2026] 127.0.0.1:57068 [200]: GET /fonts/manrope-v23-latin-regular.woff2
+[Wed Nov  4 20:40:13 2026] 127.0.0.1:57052 Closing
+[Wed Nov  4 20:40:13 2026] 127.0.0.1:57058 Closing
+[Wed Nov  4 20:40:13 2026] 127.0.0.1:57068 Closing
+[Wed Nov  4 20:40:14 2026] 127.0.0.1:57072 Accepted
+[Wed Nov  4 20:40:14 2026] 127.0.0.1:57072 [200]: GET /privacidad.html
+[Wed Nov  4 20:40:14 2026] 127.0.0.1:57072 Closing
+[Wed Nov  4 20:40:14 2026] 127.0.0.1:57078 Accepted
+[Wed Nov  4 20:40:14 2026] 127.0.0.1:57086 Accepted
+[Wed Nov  4 20:40:14 2026] 127.0.0.1:57078 [200]: GET /fonts/fonts.css
+[Wed Nov  4 20:40:14 2026] 127.0.0.1:57078 Closing
+[Wed Nov  4 20:40:14 2026] 127.0.0.1:57086 [200]: GET /img/logo-pil.png
+[Wed Nov  4 20:40:14 2026] 127.0.0.1:57086 Closing
+[Wed Nov  4 20:40:14 2026] 127.0.0.1:57098 Accepted
+[Wed Nov  4 20:40:14 2026] 127.0.0.1:57104 Accepted
+[Wed Nov  4 20:40:14 2026] 127.0.0.1:57108 Accepted
+[Wed Nov  4 20:40:14 2026] 127.0.0.1:57110 Accepted
+[Wed Nov  4 20:40:14 2026] 127.0.0.1:57098 [200]: GET /fonts/archivo-v25-latin-800.woff2
+[Wed Nov  4 20:40:14 2026] 127.0.0.1:57104 [200]: GET /fonts/manrope-v23-latin-600.woff2
+[Wed Nov  4 20:40:14 2026] 127.0.0.1:57108 [200]: GET /fonts/manrope-v23-latin-700.woff2
+[Wed Nov  4 20:40:14 2026] 127.0.0.1:57098 Closing
+[Wed Nov  4 20:40:14 2026] 127.0.0.1:57104 Closing
+[Wed Nov  4 20:40:14 2026] 127.0.0.1:57108 Closing
+[Wed Nov  4 20:40:14 2026] 127.0.0.1:57110 [200]: GET /fonts/manrope-v23-latin-regular.woff2
+[Wed Nov  4 20:40:14 2026] 127.0.0.1:57110 Closing
+[Wed Nov  4 20:40:15 2026] 127.0.0.1:57126 Accepted
+[Wed Nov  4 20:40:15 2026] 127.0.0.1:57126 [200]: GET /cookies.html
+[Wed Nov  4 20:40:15 2026] 127.0.0.1:57126 Closing
+[Wed Nov  4 20:40:15 2026] 127.0.0.1:57142 Accepted
+[Wed Nov  4 20:40:15 2026] 127.0.0.1:57142 [200]: GET /fonts/fonts.css
+[Wed Nov  4 20:40:15 2026] 127.0.0.1:57156 Accepted
+[Wed Nov  4 20:40:15 2026] 127.0.0.1:57142 Closing
+[Wed Nov  4 20:40:15 2026] 127.0.0.1:57156 [200]: GET /img/logo-pil.png
+[Wed Nov  4 20:40:15 2026] 127.0.0.1:57156 Closing
+[Wed Nov  4 20:40:15 2026] 127.0.0.1:57168 Accepted
+[Wed Nov  4 20:40:15 2026] 127.0.0.1:57174 Accepted
+[Wed Nov  4 20:40:15 2026] 127.0.0.1:57168 [200]: GET /fonts/archivo-v25-latin-800.woff2
+[Wed Nov  4 20:40:15 2026] 127.0.0.1:57186 Accepted
+[Wed Nov  4 20:40:15 2026] 127.0.0.1:57174 [200]: GET /fonts/manrope-v23-latin-600.woff2
+[Wed Nov  4 20:40:15 2026] 127.0.0.1:57200 Accepted
+[Wed Nov  4 20:40:15 2026] 127.0.0.1:57186 [200]: GET /fonts/manrope-v23-latin-700.woff2
+[Wed Nov  4 20:40:15 2026] 127.0.0.1:57168 Closing
+[Wed Nov  4 20:40:15 2026] 127.0.0.1:57200 [200]: GET /fonts/manrope-v23-latin-regular.woff2
+[Wed Nov  4 20:40:15 2026] 127.0.0.1:57174 Closing
+[Wed Nov  4 20:40:15 2026] 127.0.0.1:57186 Closing
+[Wed Nov  4 20:40:15 2026] 127.0.0.1:57200 Closing
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59038 Accepted
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59038 [200]: GET /fr/index.html
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59038 Closing
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59044 Accepted
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59050 Accepted
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59044 [200]: GET /fonts/fonts.css
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59064 Accepted
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59050 [200]: GET /img/logo-pil.png
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59074 Accepted
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59064 [200]: GET /img/logo-linsoles.png
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59090 Accepted
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59044 Closing
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59074 [200]: GET /img/banner03_lin.jpg
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59098 Accepted
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59050 Closing
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59090 [200]: GET /img/banner01_pil.jpg
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59098 [200]: GET /img/banner02_truck.jpg
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59064 Closing
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59074 Closing
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59090 Closing
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59098 Closing
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59112 Accepted
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59126 Accepted
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59112 [200]: GET /img/banner04_pil.jpg
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59134 Accepted
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59126 [200]: GET /img/planta-linsoles.jpg
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59142 Accepted
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59134 [200]: GET /img/camion-linsoles.jpg
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59158 Accepted
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59112 Closing
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59142 [200]: GET /img/saco-smp.png
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59170 Accepted
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59158 [200]: GET /img/saco-wmp.png
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59126 Closing
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59170 [200]: GET /img/saco-wpc80.png
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59134 Closing
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59142 Closing
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59158 Closing
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59170 Closing
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59184 Accepted
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59196 Accepted
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59184 [200]: GET /img/queso-gouda.png
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59202 Accepted
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59196 [200]: GET /img/queso-cheddar.png
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59204 Accepted
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59202 [200]: GET /img/bidon-amf.png
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59210 Accepted
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59204 [200]: GET /img/brick-entera.png
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59214 Accepted
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59184 Closing
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59210 [200]: GET /img/brick-semidesnatada.png
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59214 [200]: GET /img/brick-desnatada.png
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59196 Closing
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59202 Closing
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59204 Closing
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59210 Closing
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59214 Closing
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59226 Accepted
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59236 Accepted
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59226 [200]: GET /fonts/archivo-v25-latin-800.woff2
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59236 [200]: GET /fonts/manrope-v23-latin-600.woff2
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59226 Closing
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59236 Closing
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59250 Accepted
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59258 Accepted
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59250 [200]: GET /fonts/manrope-v23-latin-700.woff2
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59274 Accepted
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59258 [200]: GET /fonts/manrope-v23-latin-regular.woff2
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59282 Accepted
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59274 [200]: GET /fonts/archivo-v25-latin-700.woff2
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59298 Accepted
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59250 Closing
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59282 [200]: GET /img/queso-oveja-entero.png
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59310 Accepted
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59258 Closing
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59298 [200]: GET /img/queso-semicurado-entero.png
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59310 [200]: GET /img/barra-emmental-recorte.png
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59274 Closing
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59310 Closing
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59282 Closing
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59298 Closing
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59318 Accepted
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59332 Accepted
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59318 [200]: GET /img/barra-cheddar-recorte.png
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59336 Accepted
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59332 [200]: GET /img/barra-mozza-recorte.png
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59336 [200]: GET /img/barra-edam-recorte.png
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59318 Closing
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59332 Closing
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59336 Closing
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59342 Accepted
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59342 [200]: GET /img/barra-gouda-recorte.png
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59342 Closing
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59344 Accepted
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59344 [200]: GET /img/mapamundi.svg
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59344 Closing
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59358 Accepted
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59358 [200]: GET /fr/industriales.html
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59358 Closing
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59372 Accepted
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59386 Accepted
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59392 Accepted
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59372 [200]: GET /fonts/fonts.css
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59386 [200]: GET /img/logo-pil.png
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59392 [200]: GET /img/logo-linsoles.png
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59372 Closing
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59386 Closing
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59392 Closing
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59404 Accepted
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59404 [200]: GET /img/saco-smp.png
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59408 Accepted
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59422 Accepted
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59408 [200]: GET /fonts/archivo-v25-latin-800.woff2
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59434 Accepted
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59422 [200]: GET /fonts/manrope-v23-latin-600.woff2
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59404 Closing
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59434 [200]: GET /fonts/manrope-v23-latin-700.woff2
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59408 Closing
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59422 Closing
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59434 Closing
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59446 Accepted
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59446 [200]: GET /fonts/manrope-v23-latin-regular.woff2
+[Wed Nov  4 20:40:16 2026] 127.0.0.1:59446 Closing
+[Wed Nov  4 20:40:17 2026] 127.0.0.1:59458 Accepted
+[Wed Nov  4 20:40:17 2026] 127.0.0.1:59458 [200]: GET /fr/retail-horeca.html
+[Wed Nov  4 20:40:17 2026] 127.0.0.1:59458 Closing
+[Wed Nov  4 20:40:17 2026] 127.0.0.1:59474 Accepted
+[Wed Nov  4 20:40:17 2026] 127.0.0.1:59486 Accepted
+[Wed Nov  4 20:40:17 2026] 127.0.0.1:59488 Accepted
+[Wed Nov  4 20:40:17 2026] 127.0.0.1:59474 [200]: GET /fonts/fonts.css
+[Wed Nov  4 20:40:17 2026] 127.0.0.1:59486 [200]: GET /img/logo-pil.png
+[Wed Nov  4 20:40:17 2026] 127.0.0.1:59488 [200]: GET /img/logo-linsoles.png
+[Wed Nov  4 20:40:17 2026] 127.0.0.1:59474 Closing
+[Wed Nov  4 20:40:17 2026] 127.0.0.1:59486 Closing
+[Wed Nov  4 20:40:17 2026] 127.0.0.1:59488 Closing
+[Wed Nov  4 20:40:17 2026] 127.0.0.1:59504 Accepted
+[Wed Nov  4 20:40:17 2026] 127.0.0.1:59510 Accepted
+[Wed Nov  4 20:40:17 2026] 127.0.0.1:59504 [200]: GET /img/planta-linsoles.jpg
+[Wed Nov  4 20:40:17 2026] 127.0.0.1:59526 Accepted
+[Wed Nov  4 20:40:17 2026] 127.0.0.1:59510 [200]: GET /img/brick-entera.png
+[Wed Nov  4 20:40:17 2026] 127.0.0.1:59538 Accepted
+[Wed Nov  4 20:40:17 2026] 127.0.0.1:59526 [200]: GET /img/brick-semidesnatada.png
+[Wed Nov  4 20:40:17 2026] 127.0.0.1:59552 Accepted
+[Wed Nov  4 20:40:17 2026] 127.0.0.1:59538 [200]: GET /img/brick-desnatada.png
+[Wed Nov  4 20:40:17 2026] 127.0.0.1:59554 Accepted
+[Wed Nov  4 20:40:17 2026] 127.0.0.1:59504 Closing
+[Wed Nov  4 20:40:17 2026] 127.0.0.1:59552 [200]: GET /img/queso-oveja-linsoles.jpg
+[Wed Nov  4 20:40:17 2026] 127.0.0.1:59554 [200]: GET /img/queso-oveja-marca-blanca.jpg
+[Wed Nov  4 20:40:17 2026] 127.0.0.1:59510 Closing
+[Wed Nov  4 20:40:17 2026] 127.0.0.1:59526 Closing
+[Wed Nov  4 20:40:17 2026] 127.0.0.1:59538 Closing
+[Wed Nov  4 20:40:17 2026] 127.0.0.1:59552 Closing
+[Wed Nov  4 20:40:17 2026] 127.0.0.1:59554 Closing
+[Wed Nov  4 20:40:17 2026] 127.0.0.1:59564 Accepted
+[Wed Nov  4 20:40:17 2026] 127.0.0.1:59578 Accepted
+[Wed Nov  4 20:40:17 2026] 127.0.0.1:59564 [200]: GET /fonts/archivo-v25-latin-800.woff2
+[Wed Nov  4 20:40:17 2026] 127.0.0.1:59594 Accepted
+[Wed Nov  4 20:40:17 2026] 127.0.0.1:59578 [200]: GET /fonts/manrope-v23-latin-600.woff2
+[Wed Nov  4 20:40:17 2026] 127.0.0.1:59606 Accepted
+[Wed Nov  4 20:40:17 2026] 127.0.0.1:59594 [200]: GET /fonts/manrope-v23-latin-700.woff2
+[Wed Nov  4 20:40:17 2026] 127.0.0.1:59616 Accepted
+[Wed Nov  4 20:40:17 2026] 127.0.0.1:59564 Closing
+[Wed Nov  4 20:40:17 2026] 127.0.0.1:59606 [200]: GET /img/queso-semicurado-linsoles.jpg
+[Wed Nov  4 20:40:17 2026] 127.0.0.1:59624 Accepted
+[Wed Nov  4 20:40:17 2026] 127.0.0.1:59578 Closing
+[Wed Nov  4 20:40:17 2026] 127.0.0.1:59616 [200]: GET /img/queso-semicurado-marca-blanca.jpg
+[Wed Nov  4 20:40:17 2026] 127.0.0.1:59624 [200]: GET /img/barra-emmental.jpg
+[Wed Nov  4 20:40:17 2026] 127.0.0.1:59594 Closing
+[Wed Nov  4 20:40:17 2026] 127.0.0.1:59606 Closing
+[Wed Nov  4 20:40:17 2026] 127.0.0.1:59616 Closing
+[Wed Nov  4 20:40:17 2026] 127.0.0.1:59624 Closing
+[Wed Nov  4 20:40:17 2026] 127.0.0.1:59634 Accepted
+[Wed Nov  4 20:40:17 2026] 127.0.0.1:59642 Accepted
+[Wed Nov  4 20:40:17 2026] 127.0.0.1:59652 Accepted
+[Wed Nov  4 20:40:17 2026] 127.0.0.1:59634 [200]: GET /img/barra-cheddar.jpg
+[Wed Nov  4 20:40:17 2026] 127.0.0.1:59654 Accepted
+[Wed Nov  4 20:40:17 2026] 127.0.0.1:59634 Closing
+[Wed Nov  4 20:40:17 2026] 127.0.0.1:59642 [200]: GET /img/barra-mozza.jpg
+[Wed Nov  4 20:40:17 2026] 127.0.0.1:59652 [200]: GET /img/barra-edam.jpg
+[Wed Nov  4 20:40:17 2026] 127.0.0.1:59654 [200]: GET /img/barra-gouda.jpg
+[Wed Nov  4 20:40:17 2026] 127.0.0.1:59642 Closing
+[Wed Nov  4 20:40:17 2026] 127.0.0.1:59652 Closing
+[Wed Nov  4 20:40:17 2026] 127.0.0.1:59654 Closing
+[Wed Nov  4 20:40:17 2026] 127.0.0.1:59662 Accepted
+[Wed Nov  4 20:40:17 2026] 127.0.0.1:59676 Accepted
+[Wed Nov  4 20:40:17 2026] 127.0.0.1:59662 [200]: GET /fonts/manrope-v23-latin-regular.woff2
+[Wed Nov  4 20:40:17 2026] 127.0.0.1:59676 [200]: GET /fonts/archivo-v25-latin-700.woff2
+[Wed Nov  4 20:40:17 2026] 127.0.0.1:59662 Closing
+[Wed Nov  4 20:40:17 2026] 127.0.0.1:59676 Closing
+[Wed Nov  4 20:40:18 2026] 127.0.0.1:59690 Accepted
+[Wed Nov  4 20:40:18 2026] 127.0.0.1:59690 [200]: GET /fr/catalogos.html
+[Wed Nov  4 20:40:18 2026] 127.0.0.1:59690 Closing
+[Wed Nov  4 20:40:18 2026] 127.0.0.1:59706 Accepted
+[Wed Nov  4 20:40:18 2026] 127.0.0.1:59708 Accepted
+[Wed Nov  4 20:40:18 2026] 127.0.0.1:59722 Accepted
+[Wed Nov  4 20:40:18 2026] 127.0.0.1:59706 [200]: GET /fonts/fonts.css
+[Wed Nov  4 20:40:18 2026] 127.0.0.1:59708 [200]: GET /img/catalogo-industrial-1-fr.jpg
+[Wed Nov  4 20:40:18 2026] 127.0.0.1:59706 Closing
+[Wed Nov  4 20:40:18 2026] 127.0.0.1:59722 [200]: GET /img/logo-pil.png
+[Wed Nov  4 20:40:18 2026] 127.0.0.1:59708 Closing
+[Wed Nov  4 20:40:18 2026] 127.0.0.1:59722 Closing
+[Wed Nov  4 20:40:18 2026] 127.0.0.1:59732 Accepted
+[Wed Nov  4 20:40:18 2026] 127.0.0.1:59732 [200]: GET /img/catalogo-industrial-2-fr.jpg
+[Wed Nov  4 20:40:18 2026] 127.0.0.1:59732 Closing
+[Wed Nov  4 20:40:18 2026] 127.0.0.1:59738 Accepted
+[Wed Nov  4 20:40:18 2026] 127.0.0.1:59738 [200]: GET /img/catalogo-industrial-3-fr.jpg
+[Wed Nov  4 20:40:18 2026] 127.0.0.1:59738 Closing
+[Wed Nov  4 20:40:18 2026] 127.0.0.1:59742 Accepted
+[Wed Nov  4 20:40:18 2026] 127.0.0.1:59752 Accepted
+[Wed Nov  4 20:40:18 2026] 127.0.0.1:59758 Accepted
+[Wed Nov  4 20:40:18 2026] 127.0.0.1:59774 Accepted
+[Wed Nov  4 20:40:18 2026] 127.0.0.1:59790 Accepted
+[Wed Nov  4 20:40:18 2026] 127.0.0.1:59742 [200]: GET /img/catalogo-industrial-4-fr.jpg
+[Wed Nov  4 20:40:18 2026] 127.0.0.1:59742 Closing
+[Wed Nov  4 20:40:18 2026] 127.0.0.1:59752 [200]: GET /img/catalogo-industrial-5-fr.jpg
+[Wed Nov  4 20:40:18 2026] 127.0.0.1:59752 Closing
+[Wed Nov  4 20:40:18 2026] 127.0.0.1:59758 [200]: GET /img/catalogo-industrial-6-fr.jpg
+[Wed Nov  4 20:40:18 2026] 127.0.0.1:59758 Closing
+[Wed Nov  4 20:40:18 2026] 127.0.0.1:59774 [200]: GET /img/catalogo-industrial-7-fr.jpg
+[Wed Nov  4 20:40:18 2026] 127.0.0.1:59774 Closing
+[Wed Nov  4 20:40:18 2026] 127.0.0.1:59800 Accepted
+[Wed Nov  4 20:40:18 2026] 127.0.0.1:59790 [200]: GET /img/catalogo-retail-1-fr.jpg
+[Wed Nov  4 20:40:18 2026] 127.0.0.1:59790 Closing
+[Wed Nov  4 20:40:18 2026] 127.0.0.1:59800 [200]: GET /img/catalogo-retail-2-fr.jpg
+[Wed Nov  4 20:40:18 2026] 127.0.0.1:59800 Closing
+[Wed Nov  4 20:40:18 2026] 127.0.0.1:59808 Accepted
+[Wed Nov  4 20:40:18 2026] 127.0.0.1:59812 Accepted
+[Wed Nov  4 20:40:18 2026] 127.0.0.1:59818 Accepted
+[Wed Nov  4 20:40:18 2026] 127.0.0.1:59834 Accepted
+[Wed Nov  4 20:40:18 2026] 127.0.0.1:59840 Accepted
+[Wed Nov  4 20:40:18 2026] 127.0.0.1:59818 [200]: GET /fonts/archivo-v25-latin-800.woff2
+[Wed Nov  4 20:40:18 2026] 127.0.0.1:59818 Closing
+[Wed Nov  4 20:40:18 2026] 127.0.0.1:59856 Accepted
+[Wed Nov  4 20:40:18 2026] 127.0.0.1:59834 [200]: GET /fonts/manrope-v23-latin-600.woff2
+[Wed Nov  4 20:40:18 2026] 127.0.0.1:59834 Closing
+[Wed Nov  4 20:40:18 2026] 127.0.0.1:59808 [200]: GET /img/catalogo-retail-3-fr.jpg
+[Wed Nov  4 20:40:18 2026] 127.0.0.1:59812 [200]: GET /img/catalogo-retail-4-fr.jpg
+[Wed Nov  4 20:40:18 2026] 127.0.0.1:59856 [200]: GET /fonts/manrope-v23-latin-regular.woff2
+[Wed Nov  4 20:40:18 2026] 127.0.0.1:59840 [200]: GET /fonts/manrope-v23-latin-700.woff2
+[Wed Nov  4 20:40:18 2026] 127.0.0.1:59856 Closing
+[Wed Nov  4 20:40:18 2026] 127.0.0.1:59840 Closing
+[Wed Nov  4 20:40:18 2026] 127.0.0.1:59808 Closing
+[Wed Nov  4 20:40:18 2026] 127.0.0.1:59812 Closing
+[Wed Nov  4 20:40:19 2026] 127.0.0.1:59864 Accepted
+[Wed Nov  4 20:40:19 2026] 127.0.0.1:59864 [200]: GET /fr/blog.html
+[Wed Nov  4 20:40:19 2026] 127.0.0.1:59864 Closing
+[Wed Nov  4 20:40:19 2026] 127.0.0.1:59874 Accepted
+[Wed Nov  4 20:40:19 2026] 127.0.0.1:59882 Accepted
+[Wed Nov  4 20:40:19 2026] 127.0.0.1:59874 [200]: GET /fonts/fonts.css
+[Wed Nov  4 20:40:19 2026] 127.0.0.1:59882 [200]: GET /img/logo-pil.png
+[Wed Nov  4 20:40:19 2026] 127.0.0.1:59874 Closing
+[Wed Nov  4 20:40:19 2026] 127.0.0.1:59882 Closing
+[Wed Nov  4 20:40:19 2026] 127.0.0.1:59884 Accepted
+[Wed Nov  4 20:40:19 2026] 127.0.0.1:59900 Accepted
+[Wed Nov  4 20:40:19 2026] 127.0.0.1:59884 [200]: GET /fonts/archivo-v25-latin-800.woff2
+[Wed Nov  4 20:40:19 2026] 127.0.0.1:59906 Accepted
+[Wed Nov  4 20:40:19 2026] 127.0.0.1:59900 [200]: GET /fonts/manrope-v23-latin-600.woff2
+[Wed Nov  4 20:40:19 2026] 127.0.0.1:59912 Accepted
+[Wed Nov  4 20:40:19 2026] 127.0.0.1:59906 [200]: GET /fonts/manrope-v23-latin-700.woff2
+[Wed Nov  4 20:40:19 2026] 127.0.0.1:59926 Accepted
+[Wed Nov  4 20:40:19 2026] 127.0.0.1:59884 Closing
+[Wed Nov  4 20:40:19 2026] 127.0.0.1:59912 [200]: GET /fonts/manrope-v23-latin-regular.woff2
+[Wed Nov  4 20:40:19 2026] 127.0.0.1:59900 Closing
+[Wed Nov  4 20:40:19 2026] 127.0.0.1:59926 [200]: GET /fonts/archivo-v25-latin-700.woff2
+[Wed Nov  4 20:40:19 2026] 127.0.0.1:59906 Closing
+[Wed Nov  4 20:40:19 2026] 127.0.0.1:59912 Closing
+[Wed Nov  4 20:40:19 2026] 127.0.0.1:59926 Closing
+[Wed Nov  4 20:40:20 2026] 127.0.0.1:59932 Accepted
+[Wed Nov  4 20:40:20 2026] 127.0.0.1:59932 [200]: GET /fr/sobre-nosotros.html
+[Wed Nov  4 20:40:20 2026] 127.0.0.1:59932 Closing
+[Wed Nov  4 20:40:20 2026] 127.0.0.1:59938 Accepted
+[Wed Nov  4 20:40:20 2026] 127.0.0.1:59950 Accepted
+[Wed Nov  4 20:40:20 2026] 127.0.0.1:59938 [200]: GET /fonts/fonts.css
+[Wed Nov  4 20:40:20 2026] 127.0.0.1:59938 Closing
+[Wed Nov  4 20:40:20 2026] 127.0.0.1:59950 [200]: GET /img/logo-pil.png
+[Wed Nov  4 20:40:20 2026] 127.0.0.1:59950 Closing
+[Wed Nov  4 20:40:20 2026] 127.0.0.1:59956 Accepted
+[Wed Nov  4 20:40:20 2026] 127.0.0.1:59962 Accepted
+[Wed Nov  4 20:40:20 2026] 127.0.0.1:59974 Accepted
+[Wed Nov  4 20:40:20 2026] 127.0.0.1:59978 Accepted
+[Wed Nov  4 20:40:20 2026] 127.0.0.1:59994 Accepted
+[Wed Nov  4 20:40:20 2026] 127.0.0.1:59956 [200]: GET /fonts/archivo-v25-latin-800.woff2
+[Wed Nov  4 20:40:20 2026] 127.0.0.1:59956 Closing
+[Wed Nov  4 20:40:20 2026] 127.0.0.1:59962 [200]: GET /fonts/manrope-v23-latin-600.woff2
+[Wed Nov  4 20:40:20 2026] 127.0.0.1:59962 Closing
+[Wed Nov  4 20:40:20 2026] 127.0.0.1:59974 [200]: GET /fonts/manrope-v23-latin-regular.woff2
+[Wed Nov  4 20:40:20 2026] 127.0.0.1:59974 Closing
+[Wed Nov  4 20:40:20 2026] 127.0.0.1:59978 [200]: GET /fonts/manrope-v23-latin-700.woff2
+[Wed Nov  4 20:40:20 2026] 127.0.0.1:59994 [200]: GET /fonts/archivo-v25-latin-700.woff2
+[Wed Nov  4 20:40:20 2026] 127.0.0.1:59978 Closing
+[Wed Nov  4 20:40:20 2026] 127.0.0.1:59994 Closing
+[Wed Nov  4 20:40:20 2026] 127.0.0.1:59996 Accepted
+[Wed Nov  4 20:40:20 2026] 127.0.0.1:59996 [200]: GET /fr/mision.html
+[Wed Nov  4 20:40:20 2026] 127.0.0.1:59996 Closing
+[Wed Nov  4 20:40:20 2026] 127.0.0.1:60004 Accepted
+[Wed Nov  4 20:40:20 2026] 127.0.0.1:60006 Accepted
+[Wed Nov  4 20:40:20 2026] 127.0.0.1:60004 [200]: GET /fonts/fonts.css
+[Wed Nov  4 20:40:20 2026] 127.0.0.1:60004 Closing
+[Wed Nov  4 20:40:20 2026] 127.0.0.1:60006 [200]: GET /img/logo-pil.png
+[Wed Nov  4 20:40:20 2026] 127.0.0.1:60006 Closing
+[Wed Nov  4 20:40:20 2026] 127.0.0.1:60008 Accepted
+[Wed Nov  4 20:40:20 2026] 127.0.0.1:60018 Accepted
+[Wed Nov  4 20:40:20 2026] 127.0.0.1:60024 Accepted
+[Wed Nov  4 20:40:20 2026] 127.0.0.1:60032 Accepted
+[Wed Nov  4 20:40:20 2026] 127.0.0.1:60040 Accepted
+[Wed Nov  4 20:40:20 2026] 127.0.0.1:60008 [200]: GET /fonts/archivo-v25-latin-800.woff2
+[Wed Nov  4 20:40:20 2026] 127.0.0.1:60018 [200]: GET /fonts/manrope-v23-latin-600.woff2
+[Wed Nov  4 20:40:20 2026] 127.0.0.1:60024 [200]: GET /fonts/manrope-v23-latin-700.woff2
+[Wed Nov  4 20:40:20 2026] 127.0.0.1:60032 [200]: GET /fonts/manrope-v23-latin-regular.woff2
+[Wed Nov  4 20:40:20 2026] 127.0.0.1:60040 [200]: GET /fonts/archivo-v25-latin-700.woff2
+[Wed Nov  4 20:40:20 2026] 127.0.0.1:60008 Closing
+[Wed Nov  4 20:40:20 2026] 127.0.0.1:60018 Closing
+[Wed Nov  4 20:40:20 2026] 127.0.0.1:60024 Closing
+[Wed Nov  4 20:40:20 2026] 127.0.0.1:60032 Closing
+[Wed Nov  4 20:40:20 2026] 127.0.0.1:60040 Closing
+[Wed Nov  4 20:40:21 2026] 127.0.0.1:60046 Accepted
+[Wed Nov  4 20:40:21 2026] 127.0.0.1:60046 [200]: GET /fr/solicitud.html
+[Wed Nov  4 20:40:21 2026] 127.0.0.1:60046 Closing
+[Wed Nov  4 20:40:21 2026] 127.0.0.1:60050 Accepted
+[Wed Nov  4 20:40:21 2026] 127.0.0.1:60062 Accepted
+[Wed Nov  4 20:40:21 2026] 127.0.0.1:60050 [200]: GET /fonts/fonts.css
+[Wed Nov  4 20:40:21 2026] 127.0.0.1:60050 Closing
+[Wed Nov  4 20:40:21 2026] 127.0.0.1:60062 [200]: GET /img/logo-pil.png
+[Wed Nov  4 20:40:21 2026] 127.0.0.1:60062 Closing
+[Wed Nov  4 20:40:21 2026] 127.0.0.1:60064 Accepted
+[Wed Nov  4 20:40:21 2026] 127.0.0.1:60066 Accepted
+[Wed Nov  4 20:40:21 2026] 127.0.0.1:60082 Accepted
+[Wed Nov  4 20:40:21 2026] 127.0.0.1:60090 Accepted
+[Wed Nov  4 20:40:21 2026] 127.0.0.1:60104 Accepted
+[Wed Nov  4 20:40:21 2026] 127.0.0.1:60064 [200]: GET /fonts/manrope-v23-latin-500.woff2
+[Wed Nov  4 20:40:21 2026] 127.0.0.1:60064 Closing
+[Wed Nov  4 20:40:21 2026] 127.0.0.1:60066 [200]: GET /fonts/archivo-v25-latin-800.woff2
+[Wed Nov  4 20:40:21 2026] 127.0.0.1:60066 Closing
+[Wed Nov  4 20:40:21 2026] 127.0.0.1:60082 [200]: GET /fonts/manrope-v23-latin-600.woff2
+[Wed Nov  4 20:40:21 2026] 127.0.0.1:60090 [200]: GET /fonts/manrope-v23-latin-700.woff2
+[Wed Nov  4 20:40:21 2026] 127.0.0.1:60104 [200]: GET /fonts/manrope-v23-latin-regular.woff2
+[Wed Nov  4 20:40:21 2026] 127.0.0.1:60082 Closing
+[Wed Nov  4 20:40:21 2026] 127.0.0.1:60090 Closing
+[Wed Nov  4 20:40:21 2026] 127.0.0.1:60104 Closing
+[Wed Nov  4 20:40:22 2026] 127.0.0.1:60108 Accepted
+[Wed Nov  4 20:40:22 2026] 127.0.0.1:60108 [200]: GET /fr/aviso-legal.html
+[Wed Nov  4 20:40:22 2026] 127.0.0.1:60108 Closing
+[Wed Nov  4 20:40:22 2026] 127.0.0.1:60124 Accepted
+[Wed Nov  4 20:40:22 2026] 127.0.0.1:60136 Accepted
+[Wed Nov  4 20:40:22 2026] 127.0.0.1:60124 [200]: GET /fonts/fonts.css
+[Wed Nov  4 20:40:22 2026] 127.0.0.1:60124 Closing
+[Wed Nov  4 20:40:22 2026] 127.0.0.1:60136 [200]: GET /img/logo-pil.png
+[Wed Nov  4 20:40:22 2026] 127.0.0.1:60136 Closing
+[Wed Nov  4 20:40:22 2026] 127.0.0.1:60142 Accepted
+[Wed Nov  4 20:40:22 2026] 127.0.0.1:60154 Accepted
+[Wed Nov  4 20:40:22 2026] 127.0.0.1:60170 Accepted
+[Wed Nov  4 20:40:22 2026] 127.0.0.1:60172 Accepted
+[Wed Nov  4 20:40:22 2026] 127.0.0.1:60142 [200]: GET /fonts/archivo-v25-latin-800.woff2
+[Wed Nov  4 20:40:22 2026] 127.0.0.1:60142 Closing
+[Wed Nov  4 20:40:22 2026] 127.0.0.1:60154 [200]: GET /fonts/manrope-v23-latin-600.woff2
+[Wed Nov  4 20:40:22 2026] 127.0.0.1:60154 Closing
+[Wed Nov  4 20:40:22 2026] 127.0.0.1:60170 [200]: GET /fonts/manrope-v23-latin-700.woff2
+[Wed Nov  4 20:40:22 2026] 127.0.0.1:60170 Closing
+[Wed Nov  4 20:40:22 2026] 127.0.0.1:60172 [200]: GET /fonts/manrope-v23-latin-regular.woff2
+[Wed Nov  4 20:40:22 2026] 127.0.0.1:60172 Closing
+[Wed Nov  4 20:40:23 2026] 127.0.0.1:60182 Accepted
+[Wed Nov  4 20:40:23 2026] 127.0.0.1:60182 [200]: GET /fr/privacidad.html
+[Wed Nov  4 20:40:23 2026] 127.0.0.1:60182 Closing
+[Wed Nov  4 20:40:23 2026] 127.0.0.1:60198 Accepted
+[Wed Nov  4 20:40:23 2026] 127.0.0.1:60214 Accepted
+[Wed Nov  4 20:40:23 2026] 127.0.0.1:60198 [200]: GET /fonts/fonts.css
+[Wed Nov  4 20:40:23 2026] 127.0.0.1:60214 [200]: GET /img/logo-pil.png
+[Wed Nov  4 20:40:23 2026] 127.0.0.1:60198 Closing
+[Wed Nov  4 20:40:23 2026] 127.0.0.1:60214 Closing
+[Wed Nov  4 20:40:23 2026] 127.0.0.1:60222 Accepted
+[Wed Nov  4 20:40:23 2026] 127.0.0.1:60232 Accepted
+[Wed Nov  4 20:40:23 2026] 127.0.0.1:60238 Accepted
+[Wed Nov  4 20:40:23 2026] 127.0.0.1:60250 Accepted
+[Wed Nov  4 20:40:23 2026] 127.0.0.1:60222 [200]: GET /fonts/archivo-v25-latin-800.woff2
+[Wed Nov  4 20:40:23 2026] 127.0.0.1:60222 Closing
+[Wed Nov  4 20:40:23 2026] 127.0.0.1:60232 [200]: GET /fonts/manrope-v23-latin-600.woff2
+[Wed Nov  4 20:40:23 2026] 127.0.0.1:60232 Closing
+[Wed Nov  4 20:40:23 2026] 127.0.0.1:60238 [200]: GET /fonts/manrope-v23-latin-700.woff2
+[Wed Nov  4 20:40:23 2026] 127.0.0.1:60238 Closing
+[Wed Nov  4 20:40:23 2026] 127.0.0.1:60250 [200]: GET /fonts/manrope-v23-latin-regular.woff2
+[Wed Nov  4 20:40:23 2026] 127.0.0.1:60250 Closing
+[Wed Nov  4 20:40:23 2026] 127.0.0.1:60264 Accepted
+[Wed Nov  4 20:40:23 2026] 127.0.0.1:60264 [200]: GET /fr/cookies.html
+[Wed Nov  4 20:40:23 2026] 127.0.0.1:60264 Closing
+[Wed Nov  4 20:40:23 2026] 127.0.0.1:60280 Accepted
+[Wed Nov  4 20:40:23 2026] 127.0.0.1:60288 Accepted
+[Wed Nov  4 20:40:23 2026] 127.0.0.1:60280 [200]: GET /fonts/fonts.css
+[Wed Nov  4 20:40:23 2026] 127.0.0.1:60280 Closing
+[Wed Nov  4 20:40:23 2026] 127.0.0.1:60288 [200]: GET /img/logo-pil.png
+[Wed Nov  4 20:40:23 2026] 127.0.0.1:60288 Closing
+[Wed Nov  4 20:40:23 2026] 127.0.0.1:60304 Accepted
+[Wed Nov  4 20:40:23 2026] 127.0.0.1:60318 Accepted
+[Wed Nov  4 20:40:23 2026] 127.0.0.1:60304 [200]: GET /fonts/manrope-v23-latin-700.woff2
+[Wed Nov  4 20:40:23 2026] 127.0.0.1:60332 Accepted
+[Wed Nov  4 20:40:23 2026] 127.0.0.1:60318 [200]: GET /fonts/archivo-v25-latin-800.woff2
+[Wed Nov  4 20:40:23 2026] 127.0.0.1:60338 Accepted
+[Wed Nov  4 20:40:23 2026] 127.0.0.1:60332 [200]: GET /fonts/manrope-v23-latin-600.woff2
+[Wed Nov  4 20:40:23 2026] 127.0.0.1:60304 Closing
+[Wed Nov  4 20:40:23 2026] 127.0.0.1:60338 [200]: GET /fonts/manrope-v23-latin-regular.woff2
+[Wed Nov  4 20:40:23 2026] 127.0.0.1:60318 Closing
+[Wed Nov  4 20:40:23 2026] 127.0.0.1:60332 Closing
+[Wed Nov  4 20:40:23 2026] 127.0.0.1:60338 Closing
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60342 Accepted
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60342 [200]: GET /pt/index.html
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60342 Closing
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60350 Accepted
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60362 Accepted
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60350 [200]: GET /fonts/fonts.css
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60362 [200]: GET /img/logo-pil.png
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60350 Closing
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60362 Closing
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60372 Accepted
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60372 [200]: GET /img/logo-linsoles.png
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60372 Closing
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60376 Accepted
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60380 Accepted
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60396 Accepted
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60408 Accepted
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60420 Accepted
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60376 [200]: GET /img/banner03_lin.jpg
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60376 Closing
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60380 [200]: GET /img/banner01_pil.jpg
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60380 Closing
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60396 [200]: GET /img/banner02_truck.jpg
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60396 Closing
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60408 [200]: GET /img/banner04_pil.jpg
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60408 Closing
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60420 [200]: GET /img/planta-linsoles.jpg
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60420 Closing
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60436 Accepted
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60442 Accepted
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60436 [200]: GET /img/camion-linsoles.jpg
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60454 Accepted
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60442 [200]: GET /fonts/archivo-v25-latin-800.woff2
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60464 Accepted
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60454 [200]: GET /fonts/manrope-v23-latin-600.woff2
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60472 Accepted
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60464 [200]: GET /fonts/manrope-v23-latin-700.woff2
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60480 Accepted
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60436 Closing
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60442 Closing
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60472 [200]: GET /fonts/manrope-v23-latin-regular.woff2
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60454 Closing
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60480 [200]: GET /fonts/archivo-v25-latin-700.woff2
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60464 Closing
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60472 Closing
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60480 Closing
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60488 Accepted
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60494 Accepted
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60488 [200]: GET /img/saco-smp.png
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60504 Accepted
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60494 [200]: GET /img/saco-wmp.png
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60516 Accepted
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60504 [200]: GET /img/saco-wpc80.png
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60522 Accepted
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60516 [200]: GET /img/queso-gouda.png
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60534 Accepted
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60522 [200]: GET /img/queso-cheddar.png
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60534 [200]: GET /img/bidon-amf.png
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60538 Accepted
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60488 Closing
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60544 Accepted
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60494 Closing
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60516 Closing
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60538 [200]: GET /img/brick-entera.png
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60550 Accepted
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60544 [200]: GET /img/brick-semidesnatada.png
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60504 Closing
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60550 [200]: GET /img/brick-desnatada.png
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60522 Closing
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60534 Closing
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60538 Closing
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60544 Closing
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60550 Closing
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60552 Accepted
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60552 [200]: GET /img/queso-oveja-entero.png
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60554 Accepted
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60552 Closing
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60556 Accepted
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60554 [200]: GET /img/queso-semicurado-entero.png
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60570 Accepted
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60556 [200]: GET /img/barra-emmental-recorte.png
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60572 Accepted
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60570 [200]: GET /img/barra-cheddar-recorte.png
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60580 Accepted
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60572 [200]: GET /img/barra-mozza-recorte.png
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60592 Accepted
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60580 [200]: GET /img/barra-edam-recorte.png
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60592 [200]: GET /img/barra-gouda-recorte.png
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60556 Closing
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60570 Closing
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60572 Closing
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60554 Closing
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60580 Closing
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60592 Closing
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60594 Accepted
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60594 [200]: GET /img/mapamundi.svg
+[Wed Nov  4 20:40:24 2026] 127.0.0.1:60594 Closing
+[Wed Nov  4 20:40:25 2026] 127.0.0.1:60606 Accepted
+[Wed Nov  4 20:40:25 2026] 127.0.0.1:60606 [200]: GET /pt/industriales.html
+[Wed Nov  4 20:40:25 2026] 127.0.0.1:60606 Closing
+[Wed Nov  4 20:40:25 2026] 127.0.0.1:60618 Accepted
+[Wed Nov  4 20:40:25 2026] 127.0.0.1:60628 Accepted
+[Wed Nov  4 20:40:25 2026] 127.0.0.1:60618 [200]: GET /fonts/fonts.css
+[Wed Nov  4 20:40:25 2026] 127.0.0.1:60628 [200]: GET /img/logo-pil.png
+[Wed Nov  4 20:40:25 2026] 127.0.0.1:60618 Closing
+[Wed Nov  4 20:40:25 2026] 127.0.0.1:60628 Closing
+[Wed Nov  4 20:40:25 2026] 127.0.0.1:60642 Accepted
+[Wed Nov  4 20:40:25 2026] 127.0.0.1:60642 [200]: GET /img/logo-linsoles.png
+[Wed Nov  4 20:40:25 2026] 127.0.0.1:60642 Closing
+[Wed Nov  4 20:40:25 2026] 127.0.0.1:60658 Accepted
+[Wed Nov  4 20:40:25 2026] 127.0.0.1:60658 [200]: GET /img/saco-smp.png
+[Wed Nov  4 20:40:25 2026] 127.0.0.1:60658 Closing
+[Wed Nov  4 20:40:25 2026] 127.0.0.1:60662 Accepted
+[Wed Nov  4 20:40:25 2026] 127.0.0.1:60664 Accepted
+[Wed Nov  4 20:40:25 2026] 127.0.0.1:60662 [200]: GET /fonts/archivo-v25-latin-800.woff2
+[Wed Nov  4 20:40:25 2026] 127.0.0.1:60670 Accepted
+[Wed Nov  4 20:40:25 2026] 127.0.0.1:60662 Closing
+[Wed Nov  4 20:40:25 2026] 127.0.0.1:60686 Accepted
+[Wed Nov  4 20:40:25 2026] 127.0.0.1:60664 [200]: GET /fonts/manrope-v23-latin-600.woff2
+[Wed Nov  4 20:40:25 2026] 127.0.0.1:60670 [200]: GET /fonts/manrope-v23-latin-700.woff2
+[Wed Nov  4 20:40:25 2026] 127.0.0.1:60686 [200]: GET /fonts/manrope-v23-latin-regular.woff2
+[Wed Nov  4 20:40:25 2026] 127.0.0.1:60664 Closing
+[Wed Nov  4 20:40:25 2026] 127.0.0.1:60670 Closing
+[Wed Nov  4 20:40:25 2026] 127.0.0.1:60686 Closing
+[Wed Nov  4 20:40:26 2026] 127.0.0.1:60906 Accepted
+[Wed Nov  4 20:40:26 2026] 127.0.0.1:60906 [200]: GET /pt/retail-horeca.html
+[Wed Nov  4 20:40:26 2026] 127.0.0.1:60906 Closing
+[Wed Nov  4 20:40:26 2026] 127.0.0.1:60920 Accepted
+[Wed Nov  4 20:40:26 2026] 127.0.0.1:60936 Accepted
+[Wed Nov  4 20:40:26 2026] 127.0.0.1:60920 [200]: GET /fonts/fonts.css
+[Wed Nov  4 20:40:26 2026] 127.0.0.1:60942 Accepted
+[Wed Nov  4 20:40:26 2026] 127.0.0.1:60936 [200]: GET /img/logo-pil.png
+[Wed Nov  4 20:40:26 2026] 127.0.0.1:60942 [200]: GET /img/logo-linsoles.png
+[Wed Nov  4 20:40:26 2026] 127.0.0.1:60920 Closing
+[Wed Nov  4 20:40:26 2026] 127.0.0.1:60936 Closing
+[Wed Nov  4 20:40:26 2026] 127.0.0.1:60942 Closing
+[Wed Nov  4 20:40:26 2026] 127.0.0.1:60950 Accepted
+[Wed Nov  4 20:40:26 2026] 127.0.0.1:60966 Accepted
+[Wed Nov  4 20:40:26 2026] 127.0.0.1:60950 [200]: GET /img/planta-linsoles.jpg
+[Wed Nov  4 20:40:26 2026] 127.0.0.1:60980 Accepted
+[Wed Nov  4 20:40:26 2026] 127.0.0.1:60966 [200]: GET /img/brick-entera.png
+[Wed Nov  4 20:40:26 2026] 127.0.0.1:60988 Accepted
+[Wed Nov  4 20:40:26 2026] 127.0.0.1:60980 [200]: GET /img/brick-semidesnatada.png
+[Wed Nov  4 20:40:26 2026] 127.0.0.1:60990 Accepted
+[Wed Nov  4 20:40:26 2026] 127.0.0.1:60988 [200]: GET /img/brick-desnatada.png
+[Wed Nov  4 20:40:26 2026] 127.0.0.1:60996 Accepted
+[Wed Nov  4 20:40:26 2026] 127.0.0.1:60950 Closing
+[Wed Nov  4 20:40:26 2026] 127.0.0.1:60990 [200]: GET /img/queso-oveja-linsoles.jpg
+[Wed Nov  4 20:40:26 2026] 127.0.0.1:60996 [200]: GET /img/queso-oveja-marca-blanca.jpg
+[Wed Nov  4 20:40:26 2026] 127.0.0.1:60966 Closing
+[Wed Nov  4 20:40:26 2026] 127.0.0.1:60980 Closing
+[Wed Nov  4 20:40:26 2026] 127.0.0.1:60988 Closing
+[Wed Nov  4 20:40:26 2026] 127.0.0.1:60990 Closing
+[Wed Nov  4 20:40:26 2026] 127.0.0.1:60996 Closing
+[Wed Nov  4 20:40:26 2026] 127.0.0.1:32768 Accepted
+[Wed Nov  4 20:40:26 2026] 127.0.0.1:32780 Accepted
+[Wed Nov  4 20:40:26 2026] 127.0.0.1:32790 Accepted
+[Wed Nov  4 20:40:26 2026] 127.0.0.1:32768 [200]: GET /img/queso-semicurado-linsoles.jpg
+[Wed Nov  4 20:40:26 2026] 127.0.0.1:32768 Closing
+[Wed Nov  4 20:40:26 2026] 127.0.0.1:32780 [200]: GET /img/queso-semicurado-marca-blanca.jpg
+[Wed Nov  4 20:40:26 2026] 127.0.0.1:32780 Closing
+[Wed Nov  4 20:40:26 2026] 127.0.0.1:32794 Accepted
+[Wed Nov  4 20:40:26 2026] 127.0.0.1:32802 Accepted
+[Wed Nov  4 20:40:26 2026] 127.0.0.1:32808 Accepted
+[Wed Nov  4 20:40:26 2026] 127.0.0.1:32790 [200]: GET /img/barra-emmental.jpg
+[Wed Nov  4 20:40:26 2026] 127.0.0.1:32790 Closing
+[Wed Nov  4 20:40:26 2026] 127.0.0.1:32794 [200]: GET /img/barra-cheddar.jpg
+[Wed Nov  4 20:40:26 2026] 127.0.0.1:32794 Closing
+[Wed Nov  4 20:40:26 2026] 127.0.0.1:32802 [200]: GET /img/barra-mozza.jpg
+[Wed Nov  4 20:40:26 2026] 127.0.0.1:32802 Closing
+[Wed Nov  4 20:40:26 2026] 127.0.0.1:32808 [200]: GET /img/barra-edam.jpg
+[Wed Nov  4 20:40:26 2026] 127.0.0.1:32808 Closing
+[Wed Nov  4 20:40:26 2026] 127.0.0.1:32816 Accepted
+[Wed Nov  4 20:40:26 2026] 127.0.0.1:32824 Accepted
+[Wed Nov  4 20:40:26 2026] 127.0.0.1:32816 [200]: GET /img/barra-gouda.jpg
+[Wed Nov  4 20:40:26 2026] 127.0.0.1:32830 Accepted
+[Wed Nov  4 20:40:26 2026] 127.0.0.1:32824 [200]: GET /fonts/archivo-v25-latin-800.woff2
+[Wed Nov  4 20:40:26 2026] 127.0.0.1:32834 Accepted
+[Wed Nov  4 20:40:26 2026] 127.0.0.1:32830 [200]: GET /fonts/manrope-v23-latin-600.woff2
+[Wed Nov  4 20:40:26 2026] 127.0.0.1:32838 Accepted
+[Wed Nov  4 20:40:26 2026] 127.0.0.1:32816 Closing
+[Wed Nov  4 20:40:26 2026] 127.0.0.1:32834 [200]: GET /fonts/manrope-v23-latin-700.woff2
+[Wed Nov  4 20:40:26 2026] 127.0.0.1:32844 Accepted
+[Wed Nov  4 20:40:26 2026] 127.0.0.1:32824 Closing
+[Wed Nov  4 20:40:26 2026] 127.0.0.1:32838 [200]: GET /fonts/manrope-v23-latin-regular.woff2
+[Wed Nov  4 20:40:26 2026] 127.0.0.1:32844 [200]: GET /fonts/archivo-v25-latin-700.woff2
+[Wed Nov  4 20:40:26 2026] 127.0.0.1:32830 Closing
+[Wed Nov  4 20:40:26 2026] 127.0.0.1:32834 Closing
+[Wed Nov  4 20:40:26 2026] 127.0.0.1:32838 Closing
+[Wed Nov  4 20:40:26 2026] 127.0.0.1:32844 Closing
+[Wed Nov  4 20:40:27 2026] 127.0.0.1:32852 Accepted
+[Wed Nov  4 20:40:27 2026] 127.0.0.1:32852 [200]: GET /pt/catalogos.html
+[Wed Nov  4 20:40:27 2026] 127.0.0.1:32852 Closing
+[Wed Nov  4 20:40:27 2026] 127.0.0.1:32860 Accepted
+[Wed Nov  4 20:40:27 2026] 127.0.0.1:32862 Accepted
+[Wed Nov  4 20:40:27 2026] 127.0.0.1:32860 [200]: GET /fonts/fonts.css
+[Wed Nov  4 20:40:27 2026] 127.0.0.1:32872 Accepted
+[Wed Nov  4 20:40:27 2026] 127.0.0.1:32862 [200]: GET /img/catalogo-industrial-1-pt.jpg
+[Wed Nov  4 20:40:27 2026] 127.0.0.1:32872 [200]: GET /img/logo-pil.png
+[Wed Nov  4 20:40:27 2026] 127.0.0.1:32860 Closing
+[Wed Nov  4 20:40:27 2026] 127.0.0.1:32862 Closing
+[Wed Nov  4 20:40:27 2026] 127.0.0.1:32872 Closing
+[Wed Nov  4 20:40:27 2026] 127.0.0.1:32884 Accepted
+[Wed Nov  4 20:40:27 2026] 127.0.0.1:32894 Accepted
+[Wed Nov  4 20:40:27 2026] 127.0.0.1:32906 Accepted
+[Wed Nov  4 20:40:27 2026] 127.0.0.1:32920 Accepted
+[Wed Nov  4 20:40:27 2026] 127.0.0.1:32884 [200]: GET /img/catalogo-industrial-2-pt.jpg
+[Wed Nov  4 20:40:27 2026] 127.0.0.1:32894 [200]: GET /img/catalogo-industrial-3-pt.jpg
+[Wed Nov  4 20:40:27 2026] 127.0.0.1:32906 [200]: GET /img/catalogo-industrial-4-pt.jpg
+[Wed Nov  4 20:40:27 2026] 127.0.0.1:32884 Closing
+[Wed Nov  4 20:40:27 2026] 127.0.0.1:32894 Closing
+[Wed Nov  4 20:40:27 2026] 127.0.0.1:32906 Closing
+[Wed Nov  4 20:40:27 2026] 127.0.0.1:32924 Accepted
+[Wed Nov  4 20:40:27 2026] 127.0.0.1:32920 [200]: GET /img/catalogo-industrial-5-pt.jpg
+[Wed Nov  4 20:40:27 2026] 127.0.0.1:32932 Accepted
+[Wed Nov  4 20:40:27 2026] 127.0.0.1:32924 [200]: GET /img/catalogo-industrial-6-pt.jpg
+[Wed Nov  4 20:40:27 2026] 127.0.0.1:32936 Accepted
+[Wed Nov  4 20:40:27 2026] 127.0.0.1:32932 [200]: GET /img/catalogo-industrial-7-pt.jpg
+[Wed Nov  4 20:40:27 2026] 127.0.0.1:32948 Accepted
+[Wed Nov  4 20:40:27 2026] 127.0.0.1:32936 [200]: GET /img/catalogo-retail-1-pt.jpg
+[Wed Nov  4 20:40:27 2026] 127.0.0.1:32962 Accepted
+[Wed Nov  4 20:40:27 2026] 127.0.0.1:32920 Closing
+[Wed Nov  4 20:40:27 2026] 127.0.0.1:32948 [200]: GET /img/catalogo-retail-2-pt.jpg
+[Wed Nov  4 20:40:27 2026] 127.0.0.1:32924 Closing
+[Wed Nov  4 20:40:27 2026] 127.0.0.1:32962 [200]: GET /img/catalogo-retail-3-pt.jpg
+[Wed Nov  4 20:40:27 2026] 127.0.0.1:32932 Closing
+[Wed Nov  4 20:40:27 2026] 127.0.0.1:32936 Closing
+[Wed Nov  4 20:40:27 2026] 127.0.0.1:32948 Closing
+[Wed Nov  4 20:40:27 2026] 127.0.0.1:32962 Closing
+[Wed Nov  4 20:40:27 2026] 127.0.0.1:32972 Accepted
+[Wed Nov  4 20:40:27 2026] 127.0.0.1:32982 Accepted
+[Wed Nov  4 20:40:27 2026] 127.0.0.1:32972 [200]: GET /fonts/archivo-v25-latin-800.woff2
+[Wed Nov  4 20:40:27 2026] 127.0.0.1:32996 Accepted
+[Wed Nov  4 20:40:27 2026] 127.0.0.1:32982 [200]: GET /fonts/manrope-v23-latin-600.woff2
+[Wed Nov  4 20:40:27 2026] 127.0.0.1:33012 Accepted
+[Wed Nov  4 20:40:27 2026] 127.0.0.1:32996 [200]: GET /fonts/manrope-v23-latin-700.woff2
+[Wed Nov  4 20:40:27 2026] 127.0.0.1:33014 Accepted
+[Wed Nov  4 20:40:27 2026] 127.0.0.1:32972 Closing
+[Wed Nov  4 20:40:27 2026] 127.0.0.1:33012 [200]: GET /fonts/manrope-v23-latin-regular.woff2
+[Wed Nov  4 20:40:27 2026] 127.0.0.1:32982 Closing
+[Wed Nov  4 20:40:27 2026] 127.0.0.1:33014 [200]: GET /img/catalogo-retail-4-pt.jpg
+[Wed Nov  4 20:40:27 2026] 127.0.0.1:32996 Closing
+[Wed Nov  4 20:40:27 2026] 127.0.0.1:33012 Closing
+[Wed Nov  4 20:40:27 2026] 127.0.0.1:33014 Closing
+[Wed Nov  4 20:40:27 2026] 127.0.0.1:33020 Accepted
+[Wed Nov  4 20:40:27 2026] 127.0.0.1:33020 [200]: GET /pt/blog.html
+[Wed Nov  4 20:40:27 2026] 127.0.0.1:33020 Closing
+[Wed Nov  4 20:40:27 2026] 127.0.0.1:33026 Accepted
+[Wed Nov  4 20:40:27 2026] 127.0.0.1:33042 Accepted
+[Wed Nov  4 20:40:27 2026] 127.0.0.1:33026 [200]: GET /fonts/fonts.css
+[Wed Nov  4 20:40:27 2026] 127.0.0.1:33026 Closing
+[Wed Nov  4 20:40:27 2026] 127.0.0.1:33042 [200]: GET /img/logo-pil.png
+[Wed Nov  4 20:40:27 2026] 127.0.0.1:33042 Closing
+[Wed Nov  4 20:40:27 2026] 127.0.0.1:33054 Accepted
+[Wed Nov  4 20:40:27 2026] 127.0.0.1:33060 Accepted
+[Wed Nov  4 20:40:27 2026] 127.0.0.1:33064 Accepted
+[Wed Nov  4 20:40:27 2026] 127.0.0.1:33066 Accepted
+[Wed Nov  4 20:40:27 2026] 127.0.0.1:33076 Accepted
+[Wed Nov  4 20:40:27 2026] 127.0.0.1:33054 [200]: GET /fonts/archivo-v25-latin-800.woff2
+[Wed Nov  4 20:40:27 2026] 127.0.0.1:33054 Closing
+[Wed Nov  4 20:40:27 2026] 127.0.0.1:33060 [200]: GET /fonts/manrope-v23-latin-600.woff2
+[Wed Nov  4 20:40:27 2026] 127.0.0.1:33064 [200]: GET /fonts/manrope-v23-latin-700.woff2
+[Wed Nov  4 20:40:27 2026] 127.0.0.1:33060 Closing
+[Wed Nov  4 20:40:27 2026] 127.0.0.1:33064 Closing
+[Wed Nov  4 20:40:27 2026] 127.0.0.1:33066 [200]: GET /fonts/manrope-v23-latin-regular.woff2
+[Wed Nov  4 20:40:27 2026] 127.0.0.1:33076 [200]: GET /fonts/archivo-v25-latin-700.woff2
+[Wed Nov  4 20:40:27 2026] 127.0.0.1:33066 Closing
+[Wed Nov  4 20:40:27 2026] 127.0.0.1:33076 Closing
+[Wed Nov  4 20:40:28 2026] 127.0.0.1:33088 Accepted
+[Wed Nov  4 20:40:28 2026] 127.0.0.1:33088 [200]: GET /pt/sobre-nosotros.html
+[Wed Nov  4 20:40:28 2026] 127.0.0.1:33088 Closing
+[Wed Nov  4 20:40:28 2026] 127.0.0.1:33092 Accepted
+[Wed Nov  4 20:40:28 2026] 127.0.0.1:33104 Accepted
+[Wed Nov  4 20:40:28 2026] 127.0.0.1:33092 [200]: GET /fonts/fonts.css
+[Wed Nov  4 20:40:28 2026] 127.0.0.1:33104 [200]: GET /img/logo-pil.png
+[Wed Nov  4 20:40:28 2026] 127.0.0.1:33092 Closing
+[Wed Nov  4 20:40:28 2026] 127.0.0.1:33104 Closing
+[Wed Nov  4 20:40:28 2026] 127.0.0.1:33110 Accepted
+[Wed Nov  4 20:40:28 2026] 127.0.0.1:33118 Accepted
+[Wed Nov  4 20:40:28 2026] 127.0.0.1:33130 Accepted
+[Wed Nov  4 20:40:28 2026] 127.0.0.1:33142 Accepted
+[Wed Nov  4 20:40:28 2026] 127.0.0.1:33154 Accepted
+[Wed Nov  4 20:40:28 2026] 127.0.0.1:33110 [200]: GET /fonts/archivo-v25-latin-800.woff2
+[Wed Nov  4 20:40:28 2026] 127.0.0.1:33110 Closing
+[Wed Nov  4 20:40:28 2026] 127.0.0.1:33118 [200]: GET /fonts/manrope-v23-latin-600.woff2
+[Wed Nov  4 20:40:28 2026] 127.0.0.1:33130 [200]: GET /fonts/manrope-v23-latin-700.woff2
+[Wed Nov  4 20:40:28 2026] 127.0.0.1:33118 Closing
+[Wed Nov  4 20:40:28 2026] 127.0.0.1:33130 Closing
+[Wed Nov  4 20:40:28 2026] 127.0.0.1:33142 [200]: GET /fonts/manrope-v23-latin-regular.woff2
+[Wed Nov  4 20:40:28 2026] 127.0.0.1:33154 [200]: GET /fonts/archivo-v25-latin-700.woff2
+[Wed Nov  4 20:40:28 2026] 127.0.0.1:33142 Closing
+[Wed Nov  4 20:40:28 2026] 127.0.0.1:33154 Closing
+[Wed Nov  4 20:40:29 2026] 127.0.0.1:33162 Accepted
+[Wed Nov  4 20:40:29 2026] 127.0.0.1:33162 [200]: GET /pt/mision.html
+[Wed Nov  4 20:40:29 2026] 127.0.0.1:33162 Closing
+[Wed Nov  4 20:40:29 2026] 127.0.0.1:33172 Accepted
+[Wed Nov  4 20:40:29 2026] 127.0.0.1:33176 Accepted
+[Wed Nov  4 20:40:29 2026] 127.0.0.1:33172 [200]: GET /fonts/fonts.css
+[Wed Nov  4 20:40:29 2026] 127.0.0.1:33176 [200]: GET /img/logo-pil.png
+[Wed Nov  4 20:40:29 2026] 127.0.0.1:33172 Closing
+[Wed Nov  4 20:40:29 2026] 127.0.0.1:33176 Closing
+[Wed Nov  4 20:40:29 2026] 127.0.0.1:33186 Accepted
+[Wed Nov  4 20:40:29 2026] 127.0.0.1:33192 Accepted
+[Wed Nov  4 20:40:29 2026] 127.0.0.1:33202 Accepted
+[Wed Nov  4 20:40:29 2026] 127.0.0.1:33214 Accepted
+[Wed Nov  4 20:40:29 2026] 127.0.0.1:33228 Accepted
+[Wed Nov  4 20:40:29 2026] 127.0.0.1:33186 [200]: GET /fonts/archivo-v25-latin-800.woff2
+[Wed Nov  4 20:40:29 2026] 127.0.0.1:33192 [200]: GET /fonts/manrope-v23-latin-600.woff2
+[Wed Nov  4 20:40:29 2026] 127.0.0.1:33202 [200]: GET /fonts/manrope-v23-latin-700.woff2
+[Wed Nov  4 20:40:29 2026] 127.0.0.1:33214 [200]: GET /fonts/manrope-v23-latin-regular.woff2
+[Wed Nov  4 20:40:29 2026] 127.0.0.1:33228 [200]: GET /fonts/archivo-v25-latin-700.woff2
+[Wed Nov  4 20:40:29 2026] 127.0.0.1:33186 Closing
+[Wed Nov  4 20:40:29 2026] 127.0.0.1:33192 Closing
+[Wed Nov  4 20:40:29 2026] 127.0.0.1:33202 Closing
+[Wed Nov  4 20:40:29 2026] 127.0.0.1:33214 Closing
+[Wed Nov  4 20:40:29 2026] 127.0.0.1:33228 Closing
+[Wed Nov  4 20:40:30 2026] 127.0.0.1:33234 Accepted
+[Wed Nov  4 20:40:30 2026] 127.0.0.1:33234 [200]: GET /pt/solicitud.html
+[Wed Nov  4 20:40:30 2026] 127.0.0.1:33234 Closing
+[Wed Nov  4 20:40:30 2026] 127.0.0.1:33244 Accepted
+[Wed Nov  4 20:40:30 2026] 127.0.0.1:33258 Accepted
+[Wed Nov  4 20:40:30 2026] 127.0.0.1:33244 [200]: GET /fonts/fonts.css
+[Wed Nov  4 20:40:30 2026] 127.0.0.1:33244 Closing
+[Wed Nov  4 20:40:30 2026] 127.0.0.1:33258 [200]: GET /img/logo-pil.png
+[Wed Nov  4 20:40:30 2026] 127.0.0.1:33258 Closing
+[Wed Nov  4 20:40:30 2026] 127.0.0.1:33270 Accepted
+[Wed Nov  4 20:40:30 2026] 127.0.0.1:33278 Accepted
+[Wed Nov  4 20:40:30 2026] 127.0.0.1:33288 Accepted
+[Wed Nov  4 20:40:30 2026] 127.0.0.1:33296 Accepted
+[Wed Nov  4 20:40:30 2026] 127.0.0.1:33298 Accepted
+[Wed Nov  4 20:40:30 2026] 127.0.0.1:33270 [200]: GET /fonts/manrope-v23-latin-500.woff2
+[Wed Nov  4 20:40:30 2026] 127.0.0.1:33278 [200]: GET /fonts/archivo-v25-latin-800.woff2
+[Wed Nov  4 20:40:30 2026] 127.0.0.1:33288 [200]: GET /fonts/manrope-v23-latin-600.woff2
+[Wed Nov  4 20:40:30 2026] 127.0.0.1:33296 [200]: GET /fonts/manrope-v23-latin-700.woff2
+[Wed Nov  4 20:40:30 2026] 127.0.0.1:33270 Closing
+[Wed Nov  4 20:40:30 2026] 127.0.0.1:33278 Closing
+[Wed Nov  4 20:40:30 2026] 127.0.0.1:33288 Closing
+[Wed Nov  4 20:40:30 2026] 127.0.0.1:33296 Closing
+[Wed Nov  4 20:40:30 2026] 127.0.0.1:33298 [200]: GET /fonts/manrope-v23-latin-regular.woff2
+[Wed Nov  4 20:40:30 2026] 127.0.0.1:33298 Closing
+[Wed Nov  4 20:40:31 2026] 127.0.0.1:33304 Accepted
+[Wed Nov  4 20:40:31 2026] 127.0.0.1:33304 [200]: GET /pt/aviso-legal.html
+[Wed Nov  4 20:40:31 2026] 127.0.0.1:33304 Closing
+[Wed Nov  4 20:40:31 2026] 127.0.0.1:33312 Accepted
+[Wed Nov  4 20:40:31 2026] 127.0.0.1:33324 Accepted
+[Wed Nov  4 20:40:31 2026] 127.0.0.1:33312 [200]: GET /fonts/fonts.css
+[Wed Nov  4 20:40:31 2026] 127.0.0.1:33324 [200]: GET /img/logo-pil.png
+[Wed Nov  4 20:40:31 2026] 127.0.0.1:33312 Closing
+[Wed Nov  4 20:40:31 2026] 127.0.0.1:33324 Closing
+[Wed Nov  4 20:40:31 2026] 127.0.0.1:33326 Accepted
+[Wed Nov  4 20:40:31 2026] 127.0.0.1:33330 Accepted
+[Wed Nov  4 20:40:31 2026] 127.0.0.1:33340 Accepted
+[Wed Nov  4 20:40:31 2026] 127.0.0.1:33342 Accepted
+[Wed Nov  4 20:40:31 2026] 127.0.0.1:33326 [200]: GET /fonts/archivo-v25-latin-800.woff2
+[Wed Nov  4 20:40:31 2026] 127.0.0.1:33326 Closing
+[Wed Nov  4 20:40:31 2026] 127.0.0.1:33330 [200]: GET /fonts/manrope-v23-latin-600.woff2
+[Wed Nov  4 20:40:31 2026] 127.0.0.1:33330 Closing
+[Wed Nov  4 20:40:31 2026] 127.0.0.1:33340 [200]: GET /fonts/manrope-v23-latin-700.woff2
+[Wed Nov  4 20:40:31 2026] 127.0.0.1:33340 Closing
+[Wed Nov  4 20:40:31 2026] 127.0.0.1:33342 [200]: GET /fonts/manrope-v23-latin-regular.woff2
+[Wed Nov  4 20:40:31 2026] 127.0.0.1:33342 Closing
+[Wed Nov  4 20:40:31 2026] 127.0.0.1:33352 Accepted
+[Wed Nov  4 20:40:31 2026] 127.0.0.1:33352 [200]: GET /pt/privacidad.html
+[Wed Nov  4 20:40:31 2026] 127.0.0.1:33352 Closing
+[Wed Nov  4 20:40:31 2026] 127.0.0.1:33358 Accepted
+[Wed Nov  4 20:40:31 2026] 127.0.0.1:33372 Accepted
+[Wed Nov  4 20:40:31 2026] 127.0.0.1:33358 [200]: GET /fonts/fonts.css
+[Wed Nov  4 20:40:31 2026] 127.0.0.1:33372 [200]: GET /img/logo-pil.png
+[Wed Nov  4 20:40:31 2026] 127.0.0.1:33358 Closing
+[Wed Nov  4 20:40:31 2026] 127.0.0.1:33372 Closing
+[Wed Nov  4 20:40:31 2026] 127.0.0.1:33376 Accepted
+[Wed Nov  4 20:40:31 2026] 127.0.0.1:33390 Accepted
+[Wed Nov  4 20:40:31 2026] 127.0.0.1:33376 [200]: GET /fonts/archivo-v25-latin-800.woff2
+[Wed Nov  4 20:40:31 2026] 127.0.0.1:33406 Accepted
+[Wed Nov  4 20:40:31 2026] 127.0.0.1:33390 [200]: GET /fonts/manrope-v23-latin-600.woff2
+[Wed Nov  4 20:40:31 2026] 127.0.0.1:33416 Accepted
+[Wed Nov  4 20:40:31 2026] 127.0.0.1:33406 [200]: GET /fonts/manrope-v23-latin-700.woff2
+[Wed Nov  4 20:40:31 2026] 127.0.0.1:33376 Closing
+[Wed Nov  4 20:40:31 2026] 127.0.0.1:33416 [200]: GET /fonts/manrope-v23-latin-regular.woff2
+[Wed Nov  4 20:40:31 2026] 127.0.0.1:33390 Closing
+[Wed Nov  4 20:40:31 2026] 127.0.0.1:33406 Closing
+[Wed Nov  4 20:40:31 2026] 127.0.0.1:33416 Closing
+[Wed Nov  4 20:40:32 2026] 127.0.0.1:33424 Accepted
+[Wed Nov  4 20:40:32 2026] 127.0.0.1:33424 [200]: GET /pt/cookies.html
+[Wed Nov  4 20:40:32 2026] 127.0.0.1:33424 Closing
+[Wed Nov  4 20:40:32 2026] 127.0.0.1:33426 Accepted
+[Wed Nov  4 20:40:32 2026] 127.0.0.1:33438 Accepted
+[Wed Nov  4 20:40:32 2026] 127.0.0.1:33426 [200]: GET /fonts/fonts.css
+[Wed Nov  4 20:40:32 2026] 127.0.0.1:33438 [200]: GET /img/logo-pil.png
+[Wed Nov  4 20:40:32 2026] 127.0.0.1:33426 Closing
+[Wed Nov  4 20:40:32 2026] 127.0.0.1:33438 Closing
+[Wed Nov  4 20:40:32 2026] 127.0.0.1:33444 Accepted
+[Wed Nov  4 20:40:32 2026] 127.0.0.1:33456 Accepted
+[Wed Nov  4 20:40:32 2026] 127.0.0.1:33458 Accepted
+[Wed Nov  4 20:40:32 2026] 127.0.0.1:33460 Accepted
+[Wed Nov  4 20:40:32 2026] 127.0.0.1:33444 [200]: GET /fonts/archivo-v25-latin-800.woff2
+[Wed Nov  4 20:40:32 2026] 127.0.0.1:33444 Closing
+[Wed Nov  4 20:40:32 2026] 127.0.0.1:33456 [200]: GET /fonts/manrope-v23-latin-600.woff2
+[Wed Nov  4 20:40:32 2026] 127.0.0.1:33456 Closing
+[Wed Nov  4 20:40:32 2026] 127.0.0.1:33458 [200]: GET /fonts/manrope-v23-latin-700.woff2
+[Wed Nov  4 20:40:32 2026] 127.0.0.1:33460 [200]: GET /fonts/manrope-v23-latin-regular.woff2
+[Wed Nov  4 20:40:32 2026] 127.0.0.1:33458 Closing
+[Wed Nov  4 20:40:32 2026] 127.0.0.1:33460 Closing
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33464 Accepted
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33464 [200]: GET /en/index.html
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33464 Closing
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33468 Accepted
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33484 Accepted
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33468 [200]: GET /fonts/fonts.css
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33492 Accepted
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33484 [200]: GET /img/logo-pil.png
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33492 [200]: GET /img/logo-linsoles.png
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33468 Closing
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33484 Closing
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33492 Closing
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33504 Accepted
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33516 Accepted
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33532 Accepted
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33540 Accepted
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33504 [200]: GET /img/banner03_lin.jpg
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33504 Closing
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33516 [200]: GET /img/banner01_pil.jpg
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33516 Closing
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33546 Accepted
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33532 [200]: GET /img/banner02_truck.jpg
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33540 [200]: GET /img/banner04_pil.jpg
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33552 Accepted
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33546 [200]: GET /img/planta-linsoles.jpg
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33560 Accepted
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33552 [200]: GET /img/camion-linsoles.jpg
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33564 Accepted
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33540 Closing
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33560 [200]: GET /img/saco-smp.png
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33532 Closing
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33564 [200]: GET /img/saco-wmp.png
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33546 Closing
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33552 Closing
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33560 Closing
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33564 Closing
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33568 Accepted
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33580 Accepted
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33568 [200]: GET /fonts/archivo-v25-latin-800.woff2
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33596 Accepted
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33568 Closing
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33610 Accepted
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33580 [200]: GET /fonts/manrope-v23-latin-600.woff2
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33618 Accepted
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33580 Closing
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33596 [200]: GET /fonts/manrope-v23-latin-700.woff2
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33596 Closing
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33610 [200]: GET /fonts/manrope-v23-latin-regular.woff2
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33610 Closing
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33618 [200]: GET /fonts/archivo-v25-latin-700.woff2
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33618 Closing
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33632 Accepted
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33646 Accepted
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33658 Accepted
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33660 Accepted
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33632 [200]: GET /img/saco-wpc80.png
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33646 [200]: GET /img/queso-gouda.png
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33658 [200]: GET /img/queso-cheddar.png
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33646 Closing
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33632 Closing
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33658 Closing
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33660 [200]: GET /img/bidon-amf.png
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33660 Closing
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33676 Accepted
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33686 Accepted
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33676 [200]: GET /img/brick-entera.png
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33676 Closing
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33686 [200]: GET /img/brick-semidesnatada.png
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33686 Closing
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33698 Accepted
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33702 Accepted
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33718 Accepted
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33698 [200]: GET /img/brick-desnatada.png
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33702 [200]: GET /img/queso-oveja-entero.png
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33698 Closing
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33702 Closing
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33722 Accepted
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33718 [200]: GET /img/queso-semicurado-entero.png
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33734 Accepted
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33722 [200]: GET /img/barra-emmental-recorte.png
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33748 Accepted
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33734 [200]: GET /img/barra-cheddar-recorte.png
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33756 Accepted
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33748 [200]: GET /img/barra-mozza-recorte.png
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33770 Accepted
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33756 [200]: GET /img/barra-edam-recorte.png
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33722 Closing
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33734 Closing
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33748 Closing
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33718 Closing
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33756 Closing
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33770 [200]: GET /img/barra-gouda-recorte.png
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33770 Closing
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33784 Accepted
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33784 [200]: GET /img/mapamundi.svg
+[Wed Nov  4 20:40:33 2026] 127.0.0.1:33784 Closing
+[Wed Nov  4 20:40:34 2026] 127.0.0.1:33788 Accepted
+[Wed Nov  4 20:40:34 2026] 127.0.0.1:33788 [200]: GET /en/industriales.html
+[Wed Nov  4 20:40:34 2026] 127.0.0.1:33788 Closing
+[Wed Nov  4 20:40:34 2026] 127.0.0.1:33794 Accepted
+[Wed Nov  4 20:40:34 2026] 127.0.0.1:33796 Accepted
+[Wed Nov  4 20:40:34 2026] 127.0.0.1:33798 Accepted
+[Wed Nov  4 20:40:34 2026] 127.0.0.1:33794 [200]: GET /fonts/fonts.css
+[Wed Nov  4 20:40:34 2026] 127.0.0.1:33794 Closing
+[Wed Nov  4 20:40:34 2026] 127.0.0.1:33796 [200]: GET /img/logo-pil.png
+[Wed Nov  4 20:40:34 2026] 127.0.0.1:33796 Closing
+[Wed Nov  4 20:40:34 2026] 127.0.0.1:33798 [200]: GET /img/logo-linsoles.png
+[Wed Nov  4 20:40:34 2026] 127.0.0.1:33798 Closing
+[Wed Nov  4 20:40:34 2026] 127.0.0.1:33812 Accepted
+[Wed Nov  4 20:40:34 2026] 127.0.0.1:33812 [200]: GET /img/saco-smp.png
+[Wed Nov  4 20:40:34 2026] 127.0.0.1:33812 Closing
+[Wed Nov  4 20:40:34 2026] 127.0.0.1:33818 Accepted
+[Wed Nov  4 20:40:34 2026] 127.0.0.1:33830 Accepted
+[Wed Nov  4 20:40:34 2026] 127.0.0.1:33846 Accepted
+[Wed Nov  4 20:40:34 2026] 127.0.0.1:33852 Accepted
+[Wed Nov  4 20:40:34 2026] 127.0.0.1:33818 [200]: GET /fonts/archivo-v25-latin-800.woff2
+[Wed Nov  4 20:40:34 2026] 127.0.0.1:33818 Closing
+[Wed Nov  4 20:40:34 2026] 127.0.0.1:33830 [200]: GET /fonts/manrope-v23-latin-600.woff2
+[Wed Nov  4 20:40:34 2026] 127.0.0.1:33830 Closing
+[Wed Nov  4 20:40:34 2026] 127.0.0.1:33846 [200]: GET /fonts/manrope-v23-latin-700.woff2
+[Wed Nov  4 20:40:34 2026] 127.0.0.1:33846 Closing
+[Wed Nov  4 20:40:34 2026] 127.0.0.1:33852 [200]: GET /fonts/manrope-v23-latin-regular.woff2
+[Wed Nov  4 20:40:34 2026] 127.0.0.1:33852 Closing
+[Wed Nov  4 20:40:34 2026] 127.0.0.1:33864 Accepted
+[Wed Nov  4 20:40:34 2026] 127.0.0.1:33864 [200]: GET /en/retail-horeca.html
+[Wed Nov  4 20:40:34 2026] 127.0.0.1:33864 Closing
+[Wed Nov  4 20:40:34 2026] 127.0.0.1:33876 Accepted
+[Wed Nov  4 20:40:34 2026] 127.0.0.1:33884 Accepted
+[Wed Nov  4 20:40:34 2026] 127.0.0.1:33876 [200]: GET /fonts/fonts.css
+[Wed Nov  4 20:40:34 2026] 127.0.0.1:33898 Accepted
+[Wed Nov  4 20:40:34 2026] 127.0.0.1:33884 [200]: GET /img/logo-pil.png
+[Wed Nov  4 20:40:34 2026] 127.0.0.1:33898 [200]: GET /img/logo-linsoles.png
+[Wed Nov  4 20:40:34 2026] 127.0.0.1:33876 Closing
+[Wed Nov  4 20:40:34 2026] 127.0.0.1:33884 Closing
+[Wed Nov  4 20:40:34 2026] 127.0.0.1:33898 Closing
+[Wed Nov  4 20:40:34 2026] 127.0.0.1:33902 Accepted
+[Wed Nov  4 20:40:34 2026] 127.0.0.1:33908 Accepted
+[Wed Nov  4 20:40:34 2026] 127.0.0.1:33910 Accepted
+[Wed Nov  4 20:40:34 2026] 127.0.0.1:33920 Accepted
+[Wed Nov  4 20:40:34 2026] 127.0.0.1:33902 [200]: GET /img/planta-linsoles.jpg
+[Wed Nov  4 20:40:34 2026] 127.0.0.1:33908 [200]: GET /img/brick-entera.png
+[Wed Nov  4 20:40:34 2026] 127.0.0.1:33910 [200]: GET /img/brick-semidesnatada.png
+[Wed Nov  4 20:40:34 2026] 127.0.0.1:33902 Closing
+[Wed Nov  4 20:40:34 2026] 127.0.0.1:33908 Closing
+[Wed Nov  4 20:40:34 2026] 127.0.0.1:33910 Closing
+[Wed Nov  4 20:40:34 2026] 127.0.0.1:33920 [200]: GET /img/brick-desnatada.png
+[Wed Nov  4 20:40:34 2026] 127.0.0.1:33920 Closing
+[Wed Nov  4 20:40:34 2026] 127.0.0.1:33936 Accepted
+[Wed Nov  4 20:40:34 2026] 127.0.0.1:33952 Accepted
+[Wed Nov  4 20:40:34 2026] 127.0.0.1:33936 [200]: GET /img/queso-oveja-linsoles.jpg
+[Wed Nov  4 20:40:34 2026] 127.0.0.1:33936 Closing
+[Wed Nov  4 20:40:34 2026] 127.0.0.1:33952 [200]: GET /img/queso-oveja-marca-blanca.jpg
+[Wed Nov  4 20:40:34 2026] 127.0.0.1:33952 Closing
+[Wed Nov  4 20:40:34 2026] 127.0.0.1:33956 Accepted
+[Wed Nov  4 20:40:34 2026] 127.0.0.1:33956 [200]: GET /img/queso-semicurado-linsoles.jpg
+[Wed Nov  4 20:40:34 2026] 127.0.0.1:33956 Closing
+[Wed Nov  4 20:40:34 2026] 127.0.0.1:33960 Accepted
+[Wed Nov  4 20:40:34 2026] 127.0.0.1:33970 Accepted
+[Wed Nov  4 20:40:34 2026] 127.0.0.1:33972 Accepted
+[Wed Nov  4 20:40:34 2026] 127.0.0.1:33974 Accepted
+[Wed Nov  4 20:40:34 2026] 127.0.0.1:33984 Accepted
+[Wed Nov  4 20:40:34 2026] 127.0.0.1:33960 [200]: GET /img/queso-semicurado-marca-blanca.jpg
+[Wed Nov  4 20:40:34 2026] 127.0.0.1:33970 [200]: GET /img/barra-emmental.jpg
+[Wed Nov  4 20:40:34 2026] 127.0.0.1:33972 [200]: GET /img/barra-cheddar.jpg
+[Wed Nov  4 20:40:34 2026] 127.0.0.1:33960 Closing
+[Wed Nov  4 20:40:34 2026] 127.0.0.1:33970 Closing
+[Wed Nov  4 20:40:34 2026] 127.0.0.1:33972 Closing
+[Wed Nov  4 20:40:34 2026] 127.0.0.1:33974 [200]: GET /img/barra-mozza.jpg
+[Wed Nov  4 20:40:34 2026] 127.0.0.1:33974 Closing
+[Wed Nov  4 20:40:34 2026] 127.0.0.1:33984 [200]: GET /img/barra-edam.jpg
+[Wed Nov  4 20:40:34 2026] 127.0.0.1:33984 Closing
+[Wed Nov  4 20:40:34 2026] 127.0.0.1:33986 Accepted
+[Wed Nov  4 20:40:34 2026] 127.0.0.1:33986 [200]: GET /img/barra-gouda.jpg
+[Wed Nov  4 20:40:34 2026] 127.0.0.1:33986 Closing
+[Wed Nov  4 20:40:34 2026] 127.0.0.1:34002 Accepted
+[Wed Nov  4 20:40:34 2026] 127.0.0.1:34004 Accepted
+[Wed Nov  4 20:40:34 2026] 127.0.0.1:34012 Accepted
+[Wed Nov  4 20:40:34 2026] 127.0.0.1:34018 Accepted
+[Wed Nov  4 20:40:34 2026] 127.0.0.1:34020 Accepted
+[Wed Nov  4 20:40:34 2026] 127.0.0.1:34002 [200]: GET /fonts/archivo-v25-latin-800.woff2
+[Wed Nov  4 20:40:34 2026] 127.0.0.1:34004 [200]: GET /fonts/manrope-v23-latin-600.woff2
+[Wed Nov  4 20:40:34 2026] 127.0.0.1:34012 [200]: GET /fonts/manrope-v23-latin-700.woff2
+[Wed Nov  4 20:40:34 2026] 127.0.0.1:34002 Closing
+[Wed Nov  4 20:40:34 2026] 127.0.0.1:34004 Closing
+[Wed Nov  4 20:40:34 2026] 127.0.0.1:34012 Closing
+[Wed Nov  4 20:40:34 2026] 127.0.0.1:34018 [200]: GET /fonts/manrope-v23-latin-regular.woff2
+[Wed Nov  4 20:40:34 2026] 127.0.0.1:34020 [200]: GET /fonts/archivo-v25-latin-700.woff2
+[Wed Nov  4 20:40:34 2026] 127.0.0.1:34018 Closing
+[Wed Nov  4 20:40:34 2026] 127.0.0.1:34020 Closing
+[Wed Nov  4 20:40:35 2026] 127.0.0.1:34024 Accepted
+[Wed Nov  4 20:40:35 2026] 127.0.0.1:34024 [200]: GET /en/catalogos.html
+[Wed Nov  4 20:40:35 2026] 127.0.0.1:34024 Closing
+[Wed Nov  4 20:40:35 2026] 127.0.0.1:34040 Accepted
+[Wed Nov  4 20:40:35 2026] 127.0.0.1:34042 Accepted
+[Wed Nov  4 20:40:35 2026] 127.0.0.1:34054 Accepted
+[Wed Nov  4 20:40:35 2026] 127.0.0.1:34040 [200]: GET /fonts/fonts.css
+[Wed Nov  4 20:40:35 2026] 127.0.0.1:34040 Closing
+[Wed Nov  4 20:40:35 2026] 127.0.0.1:34042 [200]: GET /img/catalogo-industrial-1-en.jpg
+[Wed Nov  4 20:40:35 2026] 127.0.0.1:34042 Closing
+[Wed Nov  4 20:40:35 2026] 127.0.0.1:34054 [200]: GET /img/logo-pil.png
+[Wed Nov  4 20:40:35 2026] 127.0.0.1:34054 Closing
+[Wed Nov  4 20:40:35 2026] 127.0.0.1:34060 Accepted
+[Wed Nov  4 20:40:35 2026] 127.0.0.1:34074 Accepted
+[Wed Nov  4 20:40:35 2026] 127.0.0.1:34060 [200]: GET /img/catalogo-industrial-2-en.jpg
+[Wed Nov  4 20:40:35 2026] 127.0.0.1:34074 [200]: GET /img/catalogo-industrial-3-en.jpg
+[Wed Nov  4 20:40:35 2026] 127.0.0.1:34060 Closing
+[Wed Nov  4 20:40:35 2026] 127.0.0.1:34074 Closing
+[Wed Nov  4 20:40:35 2026] 127.0.0.1:34088 Accepted
+[Wed Nov  4 20:40:35 2026] 127.0.0.1:34094 Accepted
+[Wed Nov  4 20:40:35 2026] 127.0.0.1:34098 Accepted
+[Wed Nov  4 20:40:35 2026] 127.0.0.1:34102 Accepted
+[Wed Nov  4 20:40:35 2026] 127.0.0.1:34088 [200]: GET /img/catalogo-industrial-4-en.jpg
+[Wed Nov  4 20:40:35 2026] 127.0.0.1:34088 Closing
+[Wed Nov  4 20:40:35 2026] 127.0.0.1:34094 [200]: GET /img/catalogo-industrial-5-en.jpg
+[Wed Nov  4 20:40:35 2026] 127.0.0.1:34094 Closing
+[Wed Nov  4 20:40:35 2026] 127.0.0.1:34098 [200]: GET /img/catalogo-industrial-6-en.jpg
+[Wed Nov  4 20:40:35 2026] 127.0.0.1:34098 Closing
+[Wed Nov  4 20:40:35 2026] 127.0.0.1:34102 [200]: GET /img/catalogo-industrial-7-en.jpg
+[Wed Nov  4 20:40:35 2026] 127.0.0.1:34102 Closing
+[Wed Nov  4 20:40:35 2026] 127.0.0.1:34106 Accepted
+[Wed Nov  4 20:40:35 2026] 127.0.0.1:34122 Accepted
+[Wed Nov  4 20:40:35 2026] 127.0.0.1:34106 [200]: GET /img/catalogo-retail-1-en.jpg
+[Wed Nov  4 20:40:35 2026] 127.0.0.1:34136 Accepted
+[Wed Nov  4 20:40:35 2026] 127.0.0.1:34106 Closing
+[Wed Nov  4 20:40:35 2026] 127.0.0.1:34140 Accepted
+[Wed Nov  4 20:40:35 2026] 127.0.0.1:34122 [200]: GET /img/catalogo-retail-2-en.jpg
+[Wed Nov  4 20:40:35 2026] 127.0.0.1:34136 [200]: GET /fonts/archivo-v25-latin-800.woff2
+[Wed Nov  4 20:40:35 2026] 127.0.0.1:34156 Accepted
+[Wed Nov  4 20:40:35 2026] 127.0.0.1:34140 [200]: GET /fonts/manrope-v23-latin-600.woff2
+[Wed Nov  4 20:40:35 2026] 127.0.0.1:34166 Accepted
+[Wed Nov  4 20:40:35 2026] 127.0.0.1:34156 [200]: GET /fonts/manrope-v23-latin-700.woff2
+[Wed Nov  4 20:40:35 2026] 127.0.0.1:34178 Accepted
+[Wed Nov  4 20:40:35 2026] 127.0.0.1:34136 Closing
+[Wed Nov  4 20:40:35 2026] 127.0.0.1:34166 [200]: GET /fonts/manrope-v23-latin-regular.woff2
+[Wed Nov  4 20:40:35 2026] 127.0.0.1:34140 Closing
+[Wed Nov  4 20:40:35 2026] 127.0.0.1:34122 Closing
+[Wed Nov  4 20:40:35 2026] 127.0.0.1:34178 [200]: GET /img/catalogo-retail-3-en.jpg
+[Wed Nov  4 20:40:35 2026] 127.0.0.1:34156 Closing
+[Wed Nov  4 20:40:35 2026] 127.0.0.1:34166 Closing
+[Wed Nov  4 20:40:35 2026] 127.0.0.1:34178 Closing
+[Wed Nov  4 20:40:35 2026] 127.0.0.1:34186 Accepted
+[Wed Nov  4 20:40:35 2026] 127.0.0.1:34186 [200]: GET /img/catalogo-retail-4-en.jpg
+[Wed Nov  4 20:40:35 2026] 127.0.0.1:34186 Closing
+[Wed Nov  4 20:40:36 2026] 127.0.0.1:50194 Accepted
+[Wed Nov  4 20:40:36 2026] 127.0.0.1:50194 [200]: GET /en/blog.html
+[Wed Nov  4 20:40:36 2026] 127.0.0.1:50194 Closing
+[Wed Nov  4 20:40:36 2026] 127.0.0.1:50208 Accepted
+[Wed Nov  4 20:40:36 2026] 127.0.0.1:50208 [200]: GET /fonts/fonts.css
+[Wed Nov  4 20:40:36 2026] 127.0.0.1:50208 Closing
+[Wed Nov  4 20:40:36 2026] 127.0.0.1:50212 Accepted
+[Wed Nov  4 20:40:36 2026] 127.0.0.1:50212 [200]: GET /img/logo-pil.png
+[Wed Nov  4 20:40:36 2026] 127.0.0.1:50212 Closing
+[Wed Nov  4 20:40:36 2026] 127.0.0.1:50228 Accepted
+[Wed Nov  4 20:40:36 2026] 127.0.0.1:50234 Accepted
+[Wed Nov  4 20:40:36 2026] 127.0.0.1:50246 Accepted
+[Wed Nov  4 20:40:36 2026] 127.0.0.1:50228 [200]: GET /fonts/archivo-v25-latin-800.woff2
+[Wed Nov  4 20:40:36 2026] 127.0.0.1:50258 Accepted
+[Wed Nov  4 20:40:36 2026] 127.0.0.1:50228 Closing
+[Wed Nov  4 20:40:36 2026] 127.0.0.1:50274 Accepted
+[Wed Nov  4 20:40:36 2026] 127.0.0.1:50274 [200]: GET /fonts/archivo-v25-latin-700.woff2
+[Wed Nov  4 20:40:36 2026] 127.0.0.1:50234 [200]: GET /fonts/manrope-v23-latin-600.woff2
+[Wed Nov  4 20:40:36 2026] 127.0.0.1:50246 [200]: GET /fonts/manrope-v23-latin-700.woff2
+[Wed Nov  4 20:40:36 2026] 127.0.0.1:50258 [200]: GET /fonts/manrope-v23-latin-regular.woff2
+[Wed Nov  4 20:40:36 2026] 127.0.0.1:50274 Closing
+[Wed Nov  4 20:40:36 2026] 127.0.0.1:50234 Closing
+[Wed Nov  4 20:40:36 2026] 127.0.0.1:50246 Closing
+[Wed Nov  4 20:40:36 2026] 127.0.0.1:50258 Closing
+[Wed Nov  4 20:40:37 2026] 127.0.0.1:50290 Accepted
+[Wed Nov  4 20:40:37 2026] 127.0.0.1:50290 [200]: GET /en/sobre-nosotros.html
+[Wed Nov  4 20:40:37 2026] 127.0.0.1:50290 Closing
+[Wed Nov  4 20:40:37 2026] 127.0.0.1:50296 Accepted
+[Wed Nov  4 20:40:37 2026] 127.0.0.1:50306 Accepted
+[Wed Nov  4 20:40:37 2026] 127.0.0.1:50296 [200]: GET /fonts/fonts.css
+[Wed Nov  4 20:40:37 2026] 127.0.0.1:50306 [200]: GET /img/logo-pil.png
+[Wed Nov  4 20:40:37 2026] 127.0.0.1:50296 Closing
+[Wed Nov  4 20:40:37 2026] 127.0.0.1:50306 Closing
+[Wed Nov  4 20:40:37 2026] 127.0.0.1:50312 Accepted
+[Wed Nov  4 20:40:37 2026] 127.0.0.1:50312 [200]: GET /fonts/archivo-v25-latin-800.woff2
+[Wed Nov  4 20:40:37 2026] 127.0.0.1:50312 Closing
+[Wed Nov  4 20:40:37 2026] 127.0.0.1:50320 Accepted
+[Wed Nov  4 20:40:37 2026] 127.0.0.1:50332 Accepted
+[Wed Nov  4 20:40:37 2026] 127.0.0.1:50346 Accepted
+[Wed Nov  4 20:40:37 2026] 127.0.0.1:50354 Accepted
+[Wed Nov  4 20:40:37 2026] 127.0.0.1:50320 [200]: GET /fonts/manrope-v23-latin-600.woff2
+[Wed Nov  4 20:40:37 2026] 127.0.0.1:50332 [200]: GET /fonts/manrope-v23-latin-700.woff2
+[Wed Nov  4 20:40:37 2026] 127.0.0.1:50346 [200]: GET /fonts/manrope-v23-latin-regular.woff2
+[Wed Nov  4 20:40:37 2026] 127.0.0.1:50320 Closing
+[Wed Nov  4 20:40:37 2026] 127.0.0.1:50332 Closing
+[Wed Nov  4 20:40:37 2026] 127.0.0.1:50346 Closing
+[Wed Nov  4 20:40:37 2026] 127.0.0.1:50354 [200]: GET /fonts/archivo-v25-latin-700.woff2
+[Wed Nov  4 20:40:37 2026] 127.0.0.1:50354 Closing
+[Wed Nov  4 20:40:38 2026] 127.0.0.1:50356 Accepted
+[Wed Nov  4 20:40:38 2026] 127.0.0.1:50356 [200]: GET /en/mision.html
+[Wed Nov  4 20:40:38 2026] 127.0.0.1:50356 Closing
+[Wed Nov  4 20:40:38 2026] 127.0.0.1:50372 Accepted
+[Wed Nov  4 20:40:38 2026] 127.0.0.1:50380 Accepted
+[Wed Nov  4 20:40:38 2026] 127.0.0.1:50372 [200]: GET /fonts/fonts.css
+[Wed Nov  4 20:40:38 2026] 127.0.0.1:50380 [200]: GET /img/logo-pil.png
+[Wed Nov  4 20:40:38 2026] 127.0.0.1:50372 Closing
+[Wed Nov  4 20:40:38 2026] 127.0.0.1:50380 Closing
+[Wed Nov  4 20:40:38 2026] 127.0.0.1:50390 Accepted
+[Wed Nov  4 20:40:38 2026] 127.0.0.1:50404 Accepted
+[Wed Nov  4 20:40:38 2026] 127.0.0.1:50416 Accepted
+[Wed Nov  4 20:40:38 2026] 127.0.0.1:50420 Accepted
+[Wed Nov  4 20:40:38 2026] 127.0.0.1:50434 Accepted
+[Wed Nov  4 20:40:38 2026] 127.0.0.1:50390 [200]: GET /fonts/archivo-v25-latin-800.woff2
+[Wed Nov  4 20:40:38 2026] 127.0.0.1:50390 Closing
+[Wed Nov  4 20:40:38 2026] 127.0.0.1:50404 [200]: GET /fonts/manrope-v23-latin-600.woff2
+[Wed Nov  4 20:40:38 2026] 127.0.0.1:50404 Closing
+[Wed Nov  4 20:40:38 2026] 127.0.0.1:50416 [200]: GET /fonts/manrope-v23-latin-700.woff2
+[Wed Nov  4 20:40:38 2026] 127.0.0.1:50416 Closing
+[Wed Nov  4 20:40:38 2026] 127.0.0.1:50420 [200]: GET /fonts/manrope-v23-latin-regular.woff2
+[Wed Nov  4 20:40:38 2026] 127.0.0.1:50420 Closing
+[Wed Nov  4 20:40:38 2026] 127.0.0.1:50434 [200]: GET /fonts/archivo-v25-latin-700.woff2
+[Wed Nov  4 20:40:38 2026] 127.0.0.1:50434 Closing
+[Wed Nov  4 20:40:38 2026] 127.0.0.1:50450 Accepted
+[Wed Nov  4 20:40:38 2026] 127.0.0.1:50450 [200]: GET /en/solicitud.html
+[Wed Nov  4 20:40:38 2026] 127.0.0.1:50450 Closing
+[Wed Nov  4 20:40:38 2026] 127.0.0.1:50460 Accepted
+[Wed Nov  4 20:40:38 2026] 127.0.0.1:50468 Accepted
+[Wed Nov  4 20:40:38 2026] 127.0.0.1:50460 [200]: GET /fonts/fonts.css
+[Wed Nov  4 20:40:38 2026] 127.0.0.1:50468 [200]: GET /img/logo-pil.png
+[Wed Nov  4 20:40:38 2026] 127.0.0.1:50460 Closing
+[Wed Nov  4 20:40:38 2026] 127.0.0.1:50468 Closing
+[Wed Nov  4 20:40:38 2026] 127.0.0.1:50482 Accepted
+[Wed Nov  4 20:40:38 2026] 127.0.0.1:50496 Accepted
+[Wed Nov  4 20:40:38 2026] 127.0.0.1:50508 Accepted
+[Wed Nov  4 20:40:38 2026] 127.0.0.1:50516 Accepted
+[Wed Nov  4 20:40:38 2026] 127.0.0.1:50528 Accepted
+[Wed Nov  4 20:40:38 2026] 127.0.0.1:50482 [200]: GET /fonts/manrope-v23-latin-500.woff2
+[Wed Nov  4 20:40:38 2026] 127.0.0.1:50482 Closing
+[Wed Nov  4 20:40:38 2026] 127.0.0.1:50496 [200]: GET /fonts/archivo-v25-latin-800.woff2
+[Wed Nov  4 20:40:38 2026] 127.0.0.1:50496 Closing
+[Wed Nov  4 20:40:38 2026] 127.0.0.1:50508 [200]: GET /fonts/manrope-v23-latin-600.woff2
+[Wed Nov  4 20:40:38 2026] 127.0.0.1:50508 Closing
+[Wed Nov  4 20:40:38 2026] 127.0.0.1:50516 [200]: GET /fonts/manrope-v23-latin-700.woff2
+[Wed Nov  4 20:40:38 2026] 127.0.0.1:50516 Closing
+[Wed Nov  4 20:40:38 2026] 127.0.0.1:50528 [200]: GET /fonts/manrope-v23-latin-regular.woff2
+[Wed Nov  4 20:40:38 2026] 127.0.0.1:50528 Closing
+[Wed Nov  4 20:40:39 2026] 127.0.0.1:50534 Accepted
+[Wed Nov  4 20:40:39 2026] 127.0.0.1:50534 [200]: GET /en/aviso-legal.html
+[Wed Nov  4 20:40:39 2026] 127.0.0.1:50534 Closing
+[Wed Nov  4 20:40:39 2026] 127.0.0.1:50544 Accepted
+[Wed Nov  4 20:40:39 2026] 127.0.0.1:50548 Accepted
+[Wed Nov  4 20:40:39 2026] 127.0.0.1:50544 [200]: GET /fonts/fonts.css
+[Wed Nov  4 20:40:39 2026] 127.0.0.1:50544 Closing
+[Wed Nov  4 20:40:39 2026] 127.0.0.1:50548 [200]: GET /img/logo-pil.png
+[Wed Nov  4 20:40:39 2026] 127.0.0.1:50548 Closing
+[Wed Nov  4 20:40:39 2026] 127.0.0.1:50558 Accepted
+[Wed Nov  4 20:40:39 2026] 127.0.0.1:50566 Accepted
+[Wed Nov  4 20:40:39 2026] 127.0.0.1:50568 Accepted
+[Wed Nov  4 20:40:39 2026] 127.0.0.1:50582 Accepted
+[Wed Nov  4 20:40:39 2026] 127.0.0.1:50558 [200]: GET /fonts/archivo-v25-latin-800.woff2
+[Wed Nov  4 20:40:39 2026] 127.0.0.1:50558 Closing
+[Wed Nov  4 20:40:39 2026] 127.0.0.1:50566 [200]: GET /fonts/manrope-v23-latin-600.woff2
+[Wed Nov  4 20:40:39 2026] 127.0.0.1:50566 Closing
+[Wed Nov  4 20:40:39 2026] 127.0.0.1:50568 [200]: GET /fonts/manrope-v23-latin-700.woff2
+[Wed Nov  4 20:40:39 2026] 127.0.0.1:50582 [200]: GET /fonts/manrope-v23-latin-regular.woff2
+[Wed Nov  4 20:40:39 2026] 127.0.0.1:50568 Closing
+[Wed Nov  4 20:40:39 2026] 127.0.0.1:50582 Closing
+[Wed Nov  4 20:40:40 2026] 127.0.0.1:50588 Accepted
+[Wed Nov  4 20:40:40 2026] 127.0.0.1:50588 [200]: GET /en/privacidad.html
+[Wed Nov  4 20:40:40 2026] 127.0.0.1:50588 Closing
+[Wed Nov  4 20:40:40 2026] 127.0.0.1:50594 Accepted
+[Wed Nov  4 20:40:40 2026] 127.0.0.1:50606 Accepted
+[Wed Nov  4 20:40:40 2026] 127.0.0.1:50594 [200]: GET /fonts/fonts.css
+[Wed Nov  4 20:40:40 2026] 127.0.0.1:50594 Closing
+[Wed Nov  4 20:40:40 2026] 127.0.0.1:50606 [200]: GET /img/logo-pil.png
+[Wed Nov  4 20:40:40 2026] 127.0.0.1:50606 Closing
+[Wed Nov  4 20:40:40 2026] 127.0.0.1:50622 Accepted
+[Wed Nov  4 20:40:40 2026] 127.0.0.1:50622 [200]: GET /fonts/archivo-v25-latin-800.woff2
+[Wed Nov  4 20:40:40 2026] 127.0.0.1:50622 Closing
+[Wed Nov  4 20:40:40 2026] 127.0.0.1:50636 Accepted
+[Wed Nov  4 20:40:40 2026] 127.0.0.1:50650 Accepted
+[Wed Nov  4 20:40:40 2026] 127.0.0.1:50636 [200]: GET /fonts/manrope-v23-latin-600.woff2
+[Wed Nov  4 20:40:40 2026] 127.0.0.1:50662 Accepted
+[Wed Nov  4 20:40:40 2026] 127.0.0.1:50650 [200]: GET /fonts/manrope-v23-latin-700.woff2
+[Wed Nov  4 20:40:40 2026] 127.0.0.1:50662 [200]: GET /fonts/manrope-v23-latin-regular.woff2
+[Wed Nov  4 20:40:40 2026] 127.0.0.1:50636 Closing
+[Wed Nov  4 20:40:40 2026] 127.0.0.1:50650 Closing
+[Wed Nov  4 20:40:40 2026] 127.0.0.1:50662 Closing
+[Wed Nov  4 20:40:41 2026] 127.0.0.1:50664 Accepted
+[Wed Nov  4 20:40:41 2026] 127.0.0.1:50664 [200]: GET /en/cookies.html
+[Wed Nov  4 20:40:41 2026] 127.0.0.1:50664 Closing
+[Wed Nov  4 20:40:41 2026] 127.0.0.1:50674 Accepted
+[Wed Nov  4 20:40:41 2026] 127.0.0.1:50680 Accepted
+[Wed Nov  4 20:40:41 2026] 127.0.0.1:50674 [200]: GET /fonts/fonts.css
+[Wed Nov  4 20:40:41 2026] 127.0.0.1:50674 Closing
+[Wed Nov  4 20:40:41 2026] 127.0.0.1:50680 [200]: GET /img/logo-pil.png
+[Wed Nov  4 20:40:41 2026] 127.0.0.1:50680 Closing
+[Wed Nov  4 20:40:41 2026] 127.0.0.1:50694 Accepted
+[Wed Nov  4 20:40:41 2026] 127.0.0.1:50696 Accepted
+[Wed Nov  4 20:40:41 2026] 127.0.0.1:50700 Accepted
+[Wed Nov  4 20:40:41 2026] 127.0.0.1:50706 Accepted
+[Wed Nov  4 20:40:41 2026] 127.0.0.1:50694 [200]: GET /fonts/archivo-v25-latin-800.woff2
+[Wed Nov  4 20:40:41 2026] 127.0.0.1:50694 Closing
+[Wed Nov  4 20:40:41 2026] 127.0.0.1:50696 [200]: GET /fonts/manrope-v23-latin-600.woff2
+[Wed Nov  4 20:40:41 2026] 127.0.0.1:50696 Closing
+[Wed Nov  4 20:40:41 2026] 127.0.0.1:50700 [200]: GET /fonts/manrope-v23-latin-700.woff2
+[Wed Nov  4 20:40:41 2026] 127.0.0.1:50700 Closing
+[Wed Nov  4 20:40:41 2026] 127.0.0.1:50706 [200]: GET /fonts/manrope-v23-latin-regular.woff2
+[Wed Nov  4 20:40:41 2026] 127.0.0.1:50706 Closing
+[Wed Nov  4 20:40:41 2026] 127.0.0.1:50722 Accepted
+[Wed Nov  4 20:40:41 2026] 127.0.0.1:50722 [200]: GET /index.html
+[Wed Nov  4 20:40:41 2026] 127.0.0.1:50722 Closing
+[Wed Nov  4 20:40:41 2026] 127.0.0.1:50726 Accepted
+[Wed Nov  4 20:40:41 2026] 127.0.0.1:50726 [200]: GET /industriales.html
+[Wed Nov  4 20:40:41 2026] 127.0.0.1:50726 Closing
+[Wed Nov  4 20:40:41 2026] 127.0.0.1:50728 Accepted
+[Wed Nov  4 20:40:41 2026] 127.0.0.1:50728 [200]: GET /retail-horeca.html
+[Wed Nov  4 20:40:41 2026] 127.0.0.1:50728 Closing
+[Wed Nov  4 20:40:41 2026] 127.0.0.1:50736 Accepted
+[Wed Nov  4 20:40:41 2026] 127.0.0.1:50736 [200]: GET /catalogos.html
+[Wed Nov  4 20:40:41 2026] 127.0.0.1:50736 Closing
+[Wed Nov  4 20:40:41 2026] 127.0.0.1:50744 Accepted
+[Wed Nov  4 20:40:41 2026] 127.0.0.1:50744 [200]: GET /blog.html
+[Wed Nov  4 20:40:41 2026] 127.0.0.1:50744 Closing
+[Wed Nov  4 20:40:41 2026] 127.0.0.1:50746 Accepted
+[Wed Nov  4 20:40:41 2026] 127.0.0.1:50746 [200]: GET /sobre-nosotros.html
+[Wed Nov  4 20:40:41 2026] 127.0.0.1:50746 Closing
+[Wed Nov  4 20:40:41 2026] 127.0.0.1:50754 Accepted
+[Wed Nov  4 20:40:41 2026] 127.0.0.1:50754 [200]: GET /mision.html
+[Wed Nov  4 20:40:41 2026] 127.0.0.1:50754 Closing
+[Wed Nov  4 20:40:41 2026] 127.0.0.1:50760 Accepted
+[Wed Nov  4 20:40:41 2026] 127.0.0.1:50760 [200]: GET /fr/index.html
+[Wed Nov  4 20:40:41 2026] 127.0.0.1:50760 Closing
+[Wed Nov  4 20:40:41 2026] 127.0.0.1:50766 Accepted
+[Wed Nov  4 20:40:41 2026] 127.0.0.1:50766 [200]: GET /pt/index.html
+[Wed Nov  4 20:40:41 2026] 127.0.0.1:50766 Closing
+[Wed Nov  4 20:40:41 2026] 127.0.0.1:50776 Accepted
+[Wed Nov  4 20:40:41 2026] 127.0.0.1:50776 [200]: GET /en/index.html
+[Wed Nov  4 20:40:41 2026] 127.0.0.1:50776 Closing
+[Wed Nov  4 20:40:41 2026] 127.0.0.1:50782 Accepted
+[Wed Nov  4 20:40:41 2026] 127.0.0.1:50782 [200]: GET /solicitud.html
+[Wed Nov  4 20:40:41 2026] 127.0.0.1:50782 Closing
+[Wed Nov  4 20:40:41 2026] 127.0.0.1:50792 Accepted
+[Wed Nov  4 20:40:41 2026] 127.0.0.1:50792 [200]: GET /aviso-legal.html
+[Wed Nov  4 20:40:41 2026] 127.0.0.1:50792 Closing
+[Wed Nov  4 20:40:41 2026] 127.0.0.1:50808 Accepted
+[Wed Nov  4 20:40:41 2026] 127.0.0.1:50808 [200]: GET /privacidad.html
+[Wed Nov  4 20:40:41 2026] 127.0.0.1:50808 Closing
+[Wed Nov  4 20:40:41 2026] 127.0.0.1:50816 Accepted
+[Wed Nov  4 20:40:41 2026] 127.0.0.1:50816 [200]: GET /cookies.html
+[Wed Nov  4 20:40:41 2026] 127.0.0.1:50816 Closing
+[Wed Nov  4 20:40:41 2026] 127.0.0.1:50818 Accepted
+[Wed Nov  4 20:40:41 2026] 127.0.0.1:50818 [200]: GET /fr/industriales.html
+[Wed Nov  4 20:40:41 2026] 127.0.0.1:50818 Closing
+[Wed Nov  4 20:40:41 2026] 127.0.0.1:50822 Accepted
+[Wed Nov  4 20:40:41 2026] 127.0.0.1:50822 [200]: GET /pt/industriales.html
+[Wed Nov  4 20:40:41 2026] 127.0.0.1:50822 Closing
+[Wed Nov  4 20:40:41 2026] 127.0.0.1:50830 Accepted
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:50830 [200]: GET /en/industriales.html
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:50830 Closing
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:50846 Accepted
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:50846 [200]: GET /fr/retail-horeca.html
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:50846 Closing
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:50856 Accepted
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:50856 [200]: GET /pt/retail-horeca.html
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:50856 Closing
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:50870 Accepted
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:50870 [200]: GET /en/retail-horeca.html
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:50870 Closing
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:50876 Accepted
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:50876 [200]: GET /fichas/Ficha_Linsoles_Leche_Entera_UHT_1L.pdf
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:50876 Closing
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:50890 Accepted
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:50890 [200]: GET /fichas/Ficha_Linsoles_Leche_Semidesnatada_UHT_1L.pdf
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:50890 Closing
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:50892 Accepted
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:50892 [200]: GET /fichas/Ficha_Linsoles_Leche_Desnatada_UHT_1L.pdf
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:50892 Closing
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:50898 Accepted
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:50898 [200]: GET /fichas/Ficha_Linsoles_Queso_Oveja_Anejo_3kg.pdf
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:50898 Closing
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:50910 Accepted
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:50910 [200]: GET /fichas/Ficha_Linsoles_Queso_Semicurado_Mezcla.pdf
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:50910 Closing
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:50920 Accepted
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:50920 [200]: GET /fichas/Ficha_Linsoles_Queso_Emmental_Barra_3kg.pdf
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:50920 Closing
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:50930 Accepted
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:50930 [200]: GET /fichas/Ficha_Linsoles_Queso_Cheddar_Barra_3kg.pdf
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:50930 Closing
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:50932 Accepted
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:50932 [200]: GET /fichas/Ficha_Linsoles_Queso_Mozzarella_Barra_3kg.pdf
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:50932 Closing
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:50934 Accepted
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:50934 [200]: GET /fichas/Ficha_Linsoles_Queso_Edam_Barra_3kg.pdf
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:50934 Closing
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:50946 Accepted
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:50946 [200]: GET /fichas/Ficha_Linsoles_Queso_Gouda_Barra_3kg.pdf
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:50946 Closing
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:50958 Accepted
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:50958 [200]: GET /fr/catalogos.html
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:50958 Closing
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:50962 Accepted
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:50962 [200]: GET /pt/catalogos.html
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:50962 Closing
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:50966 Accepted
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:50966 [200]: GET /en/catalogos.html
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:50966 Closing
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:50980 Accepted
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:50980 [200]: GET /catalogos/Catalogo_Linsoles_Lacteos_Industriales.pdf
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:50980 Closing
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:50984 Accepted
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:50984 [200]: GET /catalogos/Catalogo_Linsoles_Retail_Horeca.pdf
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:50984 Closing
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:50994 Accepted
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:50994 [200]: GET /fr/blog.html
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:50994 Closing
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:50998 Accepted
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:50998 [200]: GET /pt/blog.html
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:50998 Closing
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51012 Accepted
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51012 [200]: GET /en/blog.html
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51012 Closing
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51028 Accepted
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51028 [200]: GET /fr/sobre-nosotros.html
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51028 Closing
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51044 Accepted
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51044 [200]: GET /pt/sobre-nosotros.html
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51044 Closing
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51060 Accepted
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51060 [200]: GET /en/sobre-nosotros.html
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51060 Closing
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51062 Accepted
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51062 [200]: GET /fr/mision.html
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51062 Closing
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51072 Accepted
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51072 [200]: GET /pt/mision.html
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51072 Closing
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51078 Accepted
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51078 [200]: GET /en/mision.html
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51078 Closing
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51086 Accepted
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51086 [200]: GET /fr/solicitud.html
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51086 Closing
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51096 Accepted
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51096 [200]: GET /pt/solicitud.html
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51096 Closing
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51098 Accepted
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51098 [200]: GET /en/solicitud.html
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51098 Closing
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51100 Accepted
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51100 [200]: GET /fr/aviso-legal.html
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51100 Closing
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51108 Accepted
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51108 [200]: GET /pt/aviso-legal.html
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51108 Closing
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51120 Accepted
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51120 [200]: GET /en/aviso-legal.html
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51120 Closing
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51126 Accepted
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51126 [200]: GET /fr/privacidad.html
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51126 Closing
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51130 Accepted
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51130 [200]: GET /pt/privacidad.html
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51130 Closing
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51140 Accepted
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51140 [200]: GET /en/privacidad.html
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51140 Closing
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51152 Accepted
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51152 [200]: GET /fr/cookies.html
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51152 Closing
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51162 Accepted
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51162 [200]: GET /pt/cookies.html
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51162 Closing
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51174 Accepted
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51174 [200]: GET /en/cookies.html
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51174 Closing
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51182 Accepted
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51182 [200]: GET /fichas/Ficha_Linsoles_Leche_Entera_UHT_1L_FR.pdf
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51182 Closing
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51186 Accepted
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51186 [200]: GET /fichas/Ficha_Linsoles_Leche_Semidesnatada_UHT_1L_FR.pdf
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51186 Closing
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51202 Accepted
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51202 [200]: GET /fichas/Ficha_Linsoles_Leche_Desnatada_UHT_1L_FR.pdf
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51202 Closing
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51208 Accepted
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51208 [200]: GET /fichas/Ficha_Linsoles_Queso_Oveja_Anejo_3kg_FR.pdf
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51208 Closing
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51214 Accepted
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51214 [200]: GET /fichas/Ficha_Linsoles_Queso_Semicurado_Mezcla_FR.pdf
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51214 Closing
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51230 Accepted
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51230 [200]: GET /fichas/Ficha_Linsoles_Queso_Emmental_Barra_3kg_FR.pdf
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51230 Closing
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51236 Accepted
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51236 [200]: GET /fichas/Ficha_Linsoles_Queso_Cheddar_Barra_3kg_FR.pdf
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51236 Closing
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51252 Accepted
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51252 [200]: GET /fichas/Ficha_Linsoles_Queso_Mozzarella_Barra_3kg_FR.pdf
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51252 Closing
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51264 Accepted
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51264 [200]: GET /fichas/Ficha_Linsoles_Queso_Edam_Barra_3kg_FR.pdf
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51264 Closing
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51268 Accepted
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51268 [200]: GET /fichas/Ficha_Linsoles_Queso_Gouda_Barra_3kg_FR.pdf
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51268 Closing
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51276 Accepted
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51276 [200]: GET /catalogos/Catalogo_Linsoles_Lacteos_Industriales_FR.pdf
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51276 Closing
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51286 Accepted
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51286 [200]: GET /catalogos/Catalogo_Linsoles_Retail_Horeca_FR.pdf
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51286 Closing
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51298 Accepted
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51298 [200]: GET /fichas/Ficha_Linsoles_Leche_Entera_UHT_1L_PT.pdf
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51298 Closing
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51310 Accepted
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51310 [200]: GET /fichas/Ficha_Linsoles_Leche_Semidesnatada_UHT_1L_PT.pdf
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51310 Closing
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51312 Accepted
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51312 [200]: GET /fichas/Ficha_Linsoles_Leche_Desnatada_UHT_1L_PT.pdf
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51312 Closing
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51326 Accepted
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51326 [200]: GET /fichas/Ficha_Linsoles_Queso_Oveja_Anejo_3kg_PT.pdf
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51326 Closing
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51338 Accepted
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51338 [200]: GET /fichas/Ficha_Linsoles_Queso_Semicurado_Mezcla_PT.pdf
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51338 Closing
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51346 Accepted
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51346 [200]: GET /fichas/Ficha_Linsoles_Queso_Emmental_Barra_3kg_PT.pdf
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51346 Closing
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51354 Accepted
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51354 [200]: GET /fichas/Ficha_Linsoles_Queso_Cheddar_Barra_3kg_PT.pdf
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51354 Closing
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51370 Accepted
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51370 [200]: GET /fichas/Ficha_Linsoles_Queso_Mozzarella_Barra_3kg_PT.pdf
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51370 Closing
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51380 Accepted
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51380 [200]: GET /fichas/Ficha_Linsoles_Queso_Edam_Barra_3kg_PT.pdf
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51380 Closing
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51396 Accepted
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51396 [200]: GET /fichas/Ficha_Linsoles_Queso_Gouda_Barra_3kg_PT.pdf
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51396 Closing
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51402 Accepted
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51402 [200]: GET /catalogos/Catalogo_Linsoles_Lacteos_Industriales_PT.pdf
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51402 Closing
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51408 Accepted
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51408 [200]: GET /catalogos/Catalogo_Linsoles_Retail_Horeca_PT.pdf
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51408 Closing
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51422 Accepted
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51422 [200]: GET /fichas/Ficha_Linsoles_Leche_Entera_UHT_1L_EN.pdf
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51422 Closing
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51428 Accepted
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51428 [200]: GET /fichas/Ficha_Linsoles_Leche_Semidesnatada_UHT_1L_EN.pdf
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51428 Closing
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51440 Accepted
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51440 [200]: GET /fichas/Ficha_Linsoles_Leche_Desnatada_UHT_1L_EN.pdf
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51440 Closing
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51456 Accepted
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51456 [200]: GET /fichas/Ficha_Linsoles_Queso_Oveja_Anejo_3kg_EN.pdf
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51456 Closing
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51464 Accepted
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51464 [200]: GET /fichas/Ficha_Linsoles_Queso_Semicurado_Mezcla_EN.pdf
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51464 Closing
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51474 Accepted
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51474 [200]: GET /fichas/Ficha_Linsoles_Queso_Emmental_Barra_3kg_EN.pdf
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51474 Closing
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51486 Accepted
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51486 [200]: GET /fichas/Ficha_Linsoles_Queso_Cheddar_Barra_3kg_EN.pdf
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51486 Closing
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51502 Accepted
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51502 [200]: GET /fichas/Ficha_Linsoles_Queso_Mozzarella_Barra_3kg_EN.pdf
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51502 Closing
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51518 Accepted
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51518 [200]: GET /fichas/Ficha_Linsoles_Queso_Edam_Barra_3kg_EN.pdf
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51518 Closing
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51528 Accepted
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51528 [200]: GET /fichas/Ficha_Linsoles_Queso_Gouda_Barra_3kg_EN.pdf
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51528 Closing
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51532 Accepted
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51532 [200]: GET /catalogos/Catalogo_Linsoles_Lacteos_Industriales_EN.pdf
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51532 Closing
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51546 Accepted
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51546 [200]: GET /catalogos/Catalogo_Linsoles_Retail_Horeca_EN.pdf
+[Wed Nov  4 20:40:42 2026] 127.0.0.1:51546 Closing
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59310 Accepted
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59310 [200]: GET /index.html
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59310 Closing
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59322 Accepted
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59332 Accepted
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59348 Accepted
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59358 Accepted
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59362 Accepted
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59370 Accepted
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59322 [200]: GET /fonts/fonts.css
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59322 Closing
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59374 Accepted
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59332 [200]: GET /img/logo-pil.png
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59332 Closing
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59348 [200]: GET /img/logo-linsoles.png
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59348 Closing
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59358 [200]: GET /img/banner03_lin.jpg
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59358 Closing
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59376 Accepted
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59374 [200]: GET /img/banner04_pil.jpg
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59362 [200]: GET /img/banner01_pil.jpg
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59370 [200]: GET /img/banner02_truck.jpg
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59388 Accepted
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59376 [200]: GET /img/planta-linsoles.jpg
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59402 Accepted
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59388 [200]: GET /img/camion-linsoles.jpg
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59374 Closing
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59362 Closing
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59402 [200]: GET /img/saco-smp.png
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59370 Closing
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59376 Closing
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59388 Closing
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59402 Closing
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59412 Accepted
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59422 Accepted
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59436 Accepted
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59438 Accepted
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59412 [200]: GET /img/saco-wmp.png
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59412 Closing
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59422 [200]: GET /img/saco-wpc80.png
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59422 Closing
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59452 Accepted
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59436 [200]: GET /img/queso-gouda.png
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59436 Closing
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59438 [200]: GET /img/queso-cheddar.png
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59438 Closing
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59452 [200]: GET /img/bidon-amf.png
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59452 Closing
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59458 Accepted
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59458 [200]: GET /img/brick-entera.png
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59458 Closing
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59470 Accepted
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59482 Accepted
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59470 [200]: GET /img/brick-semidesnatada.png
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59470 Closing
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59482 [200]: GET /img/brick-desnatada.png
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59482 Closing
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59494 Accepted
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59504 Accepted
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59494 [200]: GET /img/queso-oveja-entero.png
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59504 [200]: GET /img/queso-semicurado-entero.png
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59494 Closing
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59504 Closing
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59516 Accepted
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59516 [200]: GET /img/barra-emmental-recorte.png
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59516 Closing
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59526 Accepted
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59526 [200]: GET /img/barra-cheddar-recorte.png
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59526 Closing
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59532 Accepted
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59544 Accepted
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59532 [200]: GET /img/barra-mozza-recorte.png
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59532 Closing
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59544 [200]: GET /img/barra-edam-recorte.png
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59544 Closing
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59560 Accepted
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59568 Accepted
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59560 [200]: GET /img/barra-gouda-recorte.png
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59560 Closing
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59568 [200]: GET /img/mapamundi.svg
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59568 Closing
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59570 Accepted
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59584 Accepted
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59570 [200]: GET /fonts/archivo-v25-latin-800.woff2
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59584 [200]: GET /fonts/manrope-v23-latin-600.woff2
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59570 Closing
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59584 Closing
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59586 Accepted
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59592 Accepted
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59586 [200]: GET /fonts/manrope-v23-latin-700.woff2
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59598 Accepted
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59592 [200]: GET /fonts/manrope-v23-latin-regular.woff2
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59598 [200]: GET /fonts/archivo-v25-latin-700.woff2
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59586 Closing
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59592 Closing
+[Wed Nov  4 20:41:01 2026] 127.0.0.1:59598 Closing
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59602 Accepted
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59602 [200]: GET /industriales.html
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59602 Closing
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59606 Accepted
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59608 Accepted
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59624 Accepted
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59606 [200]: GET /fonts/fonts.css
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59608 [200]: GET /img/logo-pil.png
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59624 [200]: GET /img/logo-linsoles.png
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59606 Closing
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59608 Closing
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59624 Closing
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59628 Accepted
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59628 [200]: GET /img/saco-smp.png
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59628 Closing
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59636 Accepted
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59646 Accepted
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59662 Accepted
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59670 Accepted
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59636 [200]: GET /fonts/archivo-v25-latin-800.woff2
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59646 [200]: GET /fonts/manrope-v23-latin-600.woff2
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59662 [200]: GET /fonts/manrope-v23-latin-700.woff2
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59636 Closing
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59646 Closing
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59662 Closing
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59670 [200]: GET /fonts/manrope-v23-latin-regular.woff2
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59670 Closing
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59684 Accepted
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59684 [200]: GET /retail-horeca.html
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59684 Closing
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59696 Accepted
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59712 Accepted
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59728 Accepted
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59696 [200]: GET /fonts/fonts.css
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59696 Closing
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59712 [200]: GET /img/logo-pil.png
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59712 Closing
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59728 [200]: GET /img/logo-linsoles.png
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59728 Closing
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59736 Accepted
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59742 Accepted
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59736 [200]: GET /img/planta-linsoles.jpg
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59736 Closing
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59742 [200]: GET /img/brick-entera.png
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59742 Closing
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59758 Accepted
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59766 Accepted
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59770 Accepted
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59780 Accepted
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59758 [200]: GET /img/queso-oveja-linsoles.jpg
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59766 [200]: GET /img/queso-oveja-marca-blanca.jpg
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59782 Accepted
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59758 Closing
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59766 Closing
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59770 [200]: GET /img/brick-semidesnatada.png
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59770 Closing
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59780 [200]: GET /img/brick-desnatada.png
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59780 Closing
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59782 [200]: GET /img/queso-semicurado-linsoles.jpg
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59782 Closing
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59786 Accepted
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59798 Accepted
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59786 [200]: GET /img/queso-semicurado-marca-blanca.jpg
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59786 Closing
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59806 Accepted
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59798 [200]: GET /img/barra-emmental.jpg
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59798 Closing
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59816 Accepted
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59806 [200]: GET /img/barra-cheddar.jpg
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59824 Accepted
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59806 Closing
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59836 Accepted
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59816 [200]: GET /img/barra-mozza.jpg
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59816 Closing
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59824 [200]: GET /img/barra-edam.jpg
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59824 Closing
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59836 [200]: GET /img/barra-gouda.jpg
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59836 Closing
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59842 Accepted
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59850 Accepted
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59852 Accepted
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59860 Accepted
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59868 Accepted
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59842 [200]: GET /fonts/archivo-v25-latin-800.woff2
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59850 [200]: GET /fonts/manrope-v23-latin-600.woff2
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59842 Closing
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59850 Closing
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59852 [200]: GET /fonts/manrope-v23-latin-700.woff2
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59852 Closing
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59860 [200]: GET /fonts/manrope-v23-latin-regular.woff2
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59860 Closing
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59868 [200]: GET /fonts/archivo-v25-latin-700.woff2
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59868 Closing
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59884 Accepted
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59884 [200]: GET /catalogos.html
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59884 Closing
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59894 Accepted
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59896 Accepted
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59912 Accepted
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59918 Accepted
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59924 Accepted
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59926 Accepted
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59894 [200]: GET /fonts/fonts.css
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59894 Closing
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59930 Accepted
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59896 [200]: GET /img/catalogo-industrial-1.jpg
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59912 [200]: GET /img/catalogo-industrial-2.jpg
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59896 Closing
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59918 [200]: GET /img/catalogo-industrial-3.jpg
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59912 Closing
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59918 Closing
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59924 [200]: GET /img/catalogo-industrial-4.jpg
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59924 Closing
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59926 [200]: GET /img/logo-pil.png
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59926 Closing
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59930 [200]: GET /img/catalogo-industrial-5.jpg
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59930 Closing
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59932 Accepted
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59936 Accepted
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59932 [200]: GET /img/catalogo-industrial-6.jpg
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59932 Closing
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59948 Accepted
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59964 Accepted
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59970 Accepted
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59972 Accepted
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59936 [200]: GET /img/catalogo-industrial-7.jpg
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59936 Closing
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59948 [200]: GET /img/catalogo-retail-1.jpg
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59948 Closing
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59964 [200]: GET /img/catalogo-retail-2.jpg
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59970 [200]: GET /img/catalogo-retail-3.jpg
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59972 [200]: GET /img/catalogo-retail-4.jpg
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59964 Closing
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59970 Closing
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59972 Closing
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59984 Accepted
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59986 Accepted
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:60000 Accepted
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:60012 Accepted
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59984 [200]: GET /fonts/archivo-v25-latin-800.woff2
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59984 Closing
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59986 [200]: GET /fonts/manrope-v23-latin-600.woff2
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:59986 Closing
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:60000 [200]: GET /fonts/manrope-v23-latin-regular.woff2
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:60012 [200]: GET /fonts/manrope-v23-latin-700.woff2
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:60000 Closing
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:60012 Closing
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:60024 Accepted
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:60024 [200]: GET /blog.html
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:60024 Closing
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:60038 Accepted
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:60052 Accepted
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:60038 [200]: GET /fonts/fonts.css
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:60052 [200]: GET /img/logo-pil.png
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:60038 Closing
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:60052 Closing
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:60062 Accepted
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:60072 Accepted
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:60062 [200]: GET /fonts/archivo-v25-latin-800.woff2
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:60082 Accepted
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:60062 Closing
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:60086 Accepted
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:60088 Accepted
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:60072 [200]: GET /fonts/manrope-v23-latin-600.woff2
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:60082 [200]: GET /fonts/manrope-v23-latin-700.woff2
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:60072 Closing
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:60082 Closing
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:60086 [200]: GET /fonts/manrope-v23-latin-regular.woff2
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:60088 [200]: GET /fonts/archivo-v25-latin-700.woff2
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:60086 Closing
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:60088 Closing
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:60090 Accepted
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:60090 [200]: GET /sobre-nosotros.html
+[Wed Nov  4 20:41:02 2026] 127.0.0.1:60090 Closing
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60098 Accepted
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60108 Accepted
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60098 [200]: GET /fonts/fonts.css
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60098 Closing
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60108 [200]: GET /img/logo-pil.png
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60108 Closing
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60120 Accepted
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60122 Accepted
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60120 [200]: GET /fonts/archivo-v25-latin-800.woff2
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60126 Accepted
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60122 [200]: GET /fonts/manrope-v23-latin-600.woff2
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60130 Accepted
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60126 [200]: GET /fonts/manrope-v23-latin-700.woff2
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60134 Accepted
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60120 Closing
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60130 [200]: GET /fonts/manrope-v23-latin-regular.woff2
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60122 Closing
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60134 [200]: GET /fonts/archivo-v25-latin-700.woff2
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60126 Closing
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60130 Closing
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60134 Closing
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60136 Accepted
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60136 [200]: GET /mision.html
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60136 Closing
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60144 Accepted
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60158 Accepted
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60144 [200]: GET /fonts/fonts.css
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60158 [200]: GET /img/logo-pil.png
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60144 Closing
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60158 Closing
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60174 Accepted
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60190 Accepted
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60194 Accepted
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60204 Accepted
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60218 Accepted
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60174 [200]: GET /fonts/archivo-v25-latin-800.woff2
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60190 [200]: GET /fonts/manrope-v23-latin-600.woff2
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60194 [200]: GET /fonts/manrope-v23-latin-regular.woff2
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60174 Closing
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60190 Closing
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60194 Closing
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60204 [200]: GET /fonts/manrope-v23-latin-700.woff2
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60218 [200]: GET /fonts/archivo-v25-latin-700.woff2
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60204 Closing
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60218 Closing
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60228 Accepted
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60228 [200]: GET /solicitud.html
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60228 Closing
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60242 Accepted
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60244 Accepted
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60242 [200]: GET /fonts/fonts.css
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60244 [200]: GET /img/logo-pil.png
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60242 Closing
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60244 Closing
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60260 Accepted
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60264 Accepted
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60266 Accepted
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60272 Accepted
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60280 Accepted
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60260 [200]: GET /fonts/manrope-v23-latin-500.woff2
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60260 Closing
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60264 [200]: GET /fonts/archivo-v25-latin-800.woff2
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60264 Closing
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60266 [200]: GET /fonts/manrope-v23-latin-600.woff2
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60266 Closing
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60272 [200]: GET /fonts/manrope-v23-latin-700.woff2
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60272 Closing
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60280 [200]: GET /fonts/manrope-v23-latin-regular.woff2
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60280 Closing
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60284 Accepted
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60284 [200]: GET /aviso-legal.html
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60284 Closing
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60288 Accepted
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60292 Accepted
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60288 [200]: GET /fonts/fonts.css
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60288 Closing
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60292 [200]: GET /img/logo-pil.png
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60292 Closing
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60294 Accepted
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60300 Accepted
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60316 Accepted
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60330 Accepted
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60294 [200]: GET /fonts/archivo-v25-latin-800.woff2
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60294 Closing
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60300 [200]: GET /fonts/manrope-v23-latin-600.woff2
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60300 Closing
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60316 [200]: GET /fonts/manrope-v23-latin-700.woff2
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60330 [200]: GET /fonts/manrope-v23-latin-regular.woff2
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60316 Closing
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60330 Closing
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60334 Accepted
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60334 [200]: GET /privacidad.html
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60334 Closing
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60344 Accepted
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60358 Accepted
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60344 [200]: GET /fonts/fonts.css
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60344 Closing
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60358 [200]: GET /img/logo-pil.png
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60358 Closing
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60368 Accepted
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60384 Accepted
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60396 Accepted
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60404 Accepted
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60368 [200]: GET /fonts/archivo-v25-latin-800.woff2
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60368 Closing
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60384 [200]: GET /fonts/manrope-v23-latin-600.woff2
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60384 Closing
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60396 [200]: GET /fonts/manrope-v23-latin-700.woff2
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60396 Closing
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60404 [200]: GET /fonts/manrope-v23-latin-regular.woff2
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60404 Closing
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60412 Accepted
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60412 [200]: GET /cookies.html
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60412 Closing
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60414 Accepted
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60428 Accepted
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60414 [200]: GET /fonts/fonts.css
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60428 [200]: GET /img/logo-pil.png
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60414 Closing
+[Wed Nov  4 20:41:03 2026] 127.0.0.1:60428 Closing
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60432 Accepted
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60444 Accepted
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60460 Accepted
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60472 Accepted
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60432 [200]: GET /fonts/archivo-v25-latin-800.woff2
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60444 [200]: GET /fonts/manrope-v23-latin-600.woff2
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60460 [200]: GET /fonts/manrope-v23-latin-700.woff2
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60432 Closing
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60444 Closing
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60460 Closing
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60472 [200]: GET /fonts/manrope-v23-latin-regular.woff2
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60472 Closing
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60478 Accepted
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60478 [200]: GET /fr/index.html
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60478 Closing
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60488 Accepted
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60498 Accepted
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60512 Accepted
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60488 [200]: GET /fonts/fonts.css
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60488 Closing
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60498 [200]: GET /img/logo-pil.png
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60498 Closing
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60512 [200]: GET /img/logo-linsoles.png
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60512 Closing
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60526 Accepted
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60526 [200]: GET /img/banner03_lin.jpg
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60526 Closing
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60530 Accepted
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60532 Accepted
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60546 Accepted
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60548 Accepted
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60554 Accepted
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60564 Accepted
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60530 [200]: GET /img/banner01_pil.jpg
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60530 Closing
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60532 [200]: GET /img/banner02_truck.jpg
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60532 Closing
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60546 [200]: GET /img/banner04_pil.jpg
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60546 Closing
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60548 [200]: GET /img/planta-linsoles.jpg
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60548 Closing
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60554 [200]: GET /img/camion-linsoles.jpg
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60554 Closing
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60564 [200]: GET /img/saco-smp.png
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60564 Closing
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60578 Accepted
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60584 Accepted
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60578 [200]: GET /fonts/archivo-v25-latin-800.woff2
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60598 Accepted
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60578 Closing
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60604 Accepted
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60584 [200]: GET /fonts/manrope-v23-latin-600.woff2
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60584 Closing
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60612 Accepted
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60598 [200]: GET /fonts/manrope-v23-latin-700.woff2
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60598 Closing
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60604 [200]: GET /fonts/manrope-v23-latin-regular.woff2
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60612 [200]: GET /fonts/archivo-v25-latin-700.woff2
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60604 Closing
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60612 Closing
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60628 Accepted
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60636 Accepted
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60652 Accepted
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60654 Accepted
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60668 Accepted
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60628 [200]: GET /img/saco-wmp.png
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60636 [200]: GET /img/saco-wpc80.png
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60628 Closing
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60636 Closing
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60652 [200]: GET /img/queso-gouda.png
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60652 Closing
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60654 [200]: GET /img/queso-cheddar.png
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60654 Closing
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60668 [200]: GET /img/bidon-amf.png
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60668 Closing
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60680 Accepted
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60680 [200]: GET /img/brick-entera.png
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60680 Closing
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60690 Accepted
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60692 Accepted
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60694 Accepted
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60690 [200]: GET /img/brick-semidesnatada.png
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60690 Closing
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60692 [200]: GET /img/brick-desnatada.png
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60692 Closing
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60694 [200]: GET /img/queso-oveja-entero.png
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60694 Closing
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60706 Accepted
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60706 [200]: GET /img/queso-semicurado-entero.png
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60706 Closing
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60708 Accepted
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60710 Accepted
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60708 [200]: GET /img/barra-emmental-recorte.png
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60708 Closing
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60710 [200]: GET /img/barra-cheddar-recorte.png
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60710 Closing
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60722 Accepted
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60726 Accepted
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60722 [200]: GET /img/barra-mozza-recorte.png
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60726 [200]: GET /img/barra-edam-recorte.png
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60722 Closing
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60726 Closing
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60732 Accepted
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60742 Accepted
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60732 [200]: GET /img/barra-gouda-recorte.png
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60732 Closing
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60742 [200]: GET /img/mapamundi.svg
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60742 Closing
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60748 Accepted
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60748 [200]: GET /fr/industriales.html
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60748 Closing
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60764 Accepted
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60766 Accepted
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60772 Accepted
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60764 [200]: GET /fonts/fonts.css
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60764 Closing
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60766 [200]: GET /img/logo-pil.png
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60766 Closing
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60772 [200]: GET /img/logo-linsoles.png
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60772 Closing
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60780 Accepted
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60780 [200]: GET /img/saco-smp.png
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60780 Closing
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60794 Accepted
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60796 Accepted
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60810 Accepted
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60816 Accepted
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60794 [200]: GET /fonts/archivo-v25-latin-800.woff2
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60794 Closing
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60796 [200]: GET /fonts/manrope-v23-latin-600.woff2
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60810 [200]: GET /fonts/manrope-v23-latin-700.woff2
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60816 [200]: GET /fonts/manrope-v23-latin-regular.woff2
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60796 Closing
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60810 Closing
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60816 Closing
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60828 Accepted
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60828 [200]: GET /fr/retail-horeca.html
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60828 Closing
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60844 Accepted
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60844 [200]: GET /fonts/fonts.css
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60844 Closing
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60848 Accepted
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60854 Accepted
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60848 [200]: GET /img/logo-pil.png
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60854 [200]: GET /img/logo-linsoles.png
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60848 Closing
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60854 Closing
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60862 Accepted
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60862 [200]: GET /img/planta-linsoles.jpg
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60872 Accepted
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60862 Closing
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60872 [200]: GET /img/brick-entera.png
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60872 Closing
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60880 Accepted
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60892 Accepted
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60896 Accepted
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60912 Accepted
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60928 Accepted
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60880 [200]: GET /img/brick-semidesnatada.png
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60880 Closing
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60892 [200]: GET /img/brick-desnatada.png
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60892 Closing
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60896 [200]: GET /img/queso-oveja-linsoles.jpg
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60896 Closing
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60912 [200]: GET /img/queso-oveja-marca-blanca.jpg
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60912 Closing
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60928 [200]: GET /img/queso-semicurado-linsoles.jpg
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60928 Closing
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60944 Accepted
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60944 [200]: GET /fonts/archivo-v25-latin-800.woff2
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60944 Closing
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60958 Accepted
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60970 Accepted
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60958 [200]: GET /fonts/manrope-v23-latin-600.woff2
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60958 Closing
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60976 Accepted
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60970 [200]: GET /fonts/manrope-v23-latin-700.woff2
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60970 Closing
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60984 Accepted
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60976 [200]: GET /fonts/manrope-v23-latin-regular.woff2
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60976 Closing
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60984 [200]: GET /fonts/archivo-v25-latin-700.woff2
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:60984 Closing
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:32768 Accepted
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:32778 Accepted
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:32782 Accepted
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:32794 Accepted
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:32768 [200]: GET /img/queso-semicurado-marca-blanca.jpg
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:32768 Closing
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:32800 Accepted
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:32778 [200]: GET /img/barra-emmental.jpg
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:32778 Closing
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:32814 Accepted
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:32782 [200]: GET /img/barra-cheddar.jpg
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:32782 Closing
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:32800 [200]: GET /img/barra-edam.jpg
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:32814 [200]: GET /img/barra-gouda.jpg
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:32794 [200]: GET /img/barra-mozza.jpg
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:32800 Closing
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:32814 Closing
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:32794 Closing
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:32818 Accepted
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:32818 [200]: GET /fr/catalogos.html
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:32818 Closing
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:32824 Accepted
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:32840 Accepted
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:32844 Accepted
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:32858 Accepted
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:32872 Accepted
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:32876 Accepted
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:32824 [200]: GET /fonts/fonts.css
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:32824 Closing
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:32882 Accepted
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:32840 [200]: GET /img/catalogo-industrial-1-fr.jpg
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:32840 Closing
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:32844 [200]: GET /img/logo-pil.png
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:32844 Closing
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:32858 [200]: GET /img/catalogo-industrial-2-fr.jpg
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:32858 Closing
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:32872 [200]: GET /img/catalogo-industrial-3-fr.jpg
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:32872 Closing
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:32876 [200]: GET /img/catalogo-industrial-4-fr.jpg
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:32876 Closing
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:32882 [200]: GET /img/catalogo-industrial-5-fr.jpg
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:32882 Closing
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:32894 Accepted
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:32900 Accepted
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:32908 Accepted
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:32894 [200]: GET /img/catalogo-industrial-6-fr.jpg
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:32900 [200]: GET /img/catalogo-industrial-7-fr.jpg
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:32920 Accepted
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:32934 Accepted
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:32894 Closing
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:32908 [200]: GET /img/catalogo-retail-1-fr.jpg
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:32920 [200]: GET /img/catalogo-retail-2-fr.jpg
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:32942 Accepted
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:32900 Closing
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:32934 [200]: GET /img/catalogo-retail-3-fr.jpg
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:32942 [200]: GET /img/catalogo-retail-4-fr.jpg
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:32908 Closing
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:32920 Closing
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:32934 Closing
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:32942 Closing
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:32944 Accepted
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:32952 Accepted
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:32958 Accepted
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:32970 Accepted
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:32944 [200]: GET /fonts/archivo-v25-latin-800.woff2
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:32952 [200]: GET /fonts/manrope-v23-latin-600.woff2
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:32958 [200]: GET /fonts/manrope-v23-latin-700.woff2
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:32944 Closing
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:32952 Closing
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:32958 Closing
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:32970 [200]: GET /fonts/manrope-v23-latin-regular.woff2
+[Wed Nov  4 20:41:04 2026] 127.0.0.1:32970 Closing
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:32986 Accepted
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:32986 [200]: GET /fr/blog.html
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:32986 Closing
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:32998 Accepted
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:33002 Accepted
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:32998 [200]: GET /fonts/fonts.css
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:33002 [200]: GET /img/logo-pil.png
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:32998 Closing
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:33002 Closing
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:33016 Accepted
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:33032 Accepted
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:33044 Accepted
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:33054 Accepted
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:33016 [200]: GET /fonts/archivo-v25-latin-800.woff2
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:33032 [200]: GET /fonts/manrope-v23-latin-600.woff2
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:33044 [200]: GET /fonts/manrope-v23-latin-700.woff2
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:33016 Closing
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:33032 Closing
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:33044 Closing
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:33054 [200]: GET /fonts/manrope-v23-latin-regular.woff2
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:33056 Accepted
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:33056 [200]: GET /fonts/archivo-v25-latin-700.woff2
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:33054 Closing
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:33056 Closing
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:33066 Accepted
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:33066 [200]: GET /fr/sobre-nosotros.html
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:33066 Closing
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:33068 Accepted
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:33076 Accepted
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:33068 [200]: GET /fonts/fonts.css
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:33068 Closing
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:33076 [200]: GET /img/logo-pil.png
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:33076 Closing
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:33082 Accepted
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:33096 Accepted
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:33082 [200]: GET /fonts/archivo-v25-latin-800.woff2
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:33096 [200]: GET /fonts/manrope-v23-latin-600.woff2
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:33082 Closing
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:33096 Closing
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:33110 Accepted
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:33110 [200]: GET /fonts/manrope-v23-latin-700.woff2
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:33110 Closing
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:33118 Accepted
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:33134 Accepted
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:33118 [200]: GET /fonts/manrope-v23-latin-regular.woff2
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:33134 [200]: GET /fonts/archivo-v25-latin-700.woff2
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:33118 Closing
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:33134 Closing
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:33142 Accepted
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:33142 [200]: GET /fr/mision.html
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:33142 Closing
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:33150 Accepted
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:33162 Accepted
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:33150 [200]: GET /fonts/fonts.css
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:33150 Closing
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:33162 [200]: GET /img/logo-pil.png
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:33162 Closing
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:33164 Accepted
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:33168 Accepted
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:33164 [200]: GET /fonts/archivo-v25-latin-800.woff2
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:33174 Accepted
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:33168 [200]: GET /fonts/manrope-v23-latin-600.woff2
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:33176 Accepted
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:33174 [200]: GET /fonts/manrope-v23-latin-regular.woff2
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:33182 Accepted
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:33164 Closing
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:33176 [200]: GET /fonts/manrope-v23-latin-700.woff2
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:33168 Closing
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:33182 [200]: GET /fonts/archivo-v25-latin-700.woff2
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:33174 Closing
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:33176 Closing
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:33182 Closing
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:33194 Accepted
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:33194 [200]: GET /fr/solicitud.html
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:33194 Closing
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:33202 Accepted
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:33206 Accepted
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:33202 [200]: GET /fonts/fonts.css
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:33202 Closing
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:33206 [200]: GET /img/logo-pil.png
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:33206 Closing
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:33220 Accepted
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:33232 Accepted
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:33240 Accepted
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:33254 Accepted
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:33256 Accepted
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:33220 [200]: GET /fonts/manrope-v23-latin-500.woff2
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:33232 [200]: GET /fonts/archivo-v25-latin-800.woff2
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:33240 [200]: GET /fonts/manrope-v23-latin-600.woff2
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:33220 Closing
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:33232 Closing
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:33240 Closing
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:33254 [200]: GET /fonts/manrope-v23-latin-700.woff2
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:33256 [200]: GET /fonts/manrope-v23-latin-regular.woff2
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:33254 Closing
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:33256 Closing
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:51422 Accepted
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:51422 [200]: GET /fr/aviso-legal.html
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:51422 Closing
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:51434 Accepted
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:51434 [200]: GET /fonts/fonts.css
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:51434 Closing
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:51446 Accepted
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:51446 [200]: GET /img/logo-pil.png
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:51446 Closing
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:51448 Accepted
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:51458 Accepted
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:51472 Accepted
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:51486 Accepted
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:51448 [200]: GET /fonts/archivo-v25-latin-800.woff2
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:51458 [200]: GET /fonts/manrope-v23-latin-600.woff2
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:51448 Closing
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:51458 Closing
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:51472 [200]: GET /fonts/manrope-v23-latin-700.woff2
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:51486 [200]: GET /fonts/manrope-v23-latin-regular.woff2
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:51472 Closing
+[Wed Nov  4 20:41:05 2026] 127.0.0.1:51486 Closing
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51500 Accepted
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51500 [200]: GET /fr/privacidad.html
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51500 Closing
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51512 Accepted
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51514 Accepted
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51512 [200]: GET /fonts/fonts.css
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51514 [200]: GET /img/logo-pil.png
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51512 Closing
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51514 Closing
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51526 Accepted
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51532 Accepted
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51526 [200]: GET /fonts/archivo-v25-latin-800.woff2
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51544 Accepted
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51532 [200]: GET /fonts/manrope-v23-latin-600.woff2
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51548 Accepted
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51544 [200]: GET /fonts/manrope-v23-latin-regular.woff2
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51526 Closing
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51548 [200]: GET /fonts/manrope-v23-latin-700.woff2
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51532 Closing
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51544 Closing
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51548 Closing
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51560 Accepted
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51560 [200]: GET /fr/cookies.html
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51560 Closing
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51570 Accepted
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51584 Accepted
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51570 [200]: GET /fonts/fonts.css
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51584 [200]: GET /img/logo-pil.png
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51570 Closing
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51584 Closing
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51600 Accepted
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51616 Accepted
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51600 [200]: GET /fonts/archivo-v25-latin-800.woff2
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51630 Accepted
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51640 Accepted
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51600 Closing
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51616 [200]: GET /fonts/manrope-v23-latin-600.woff2
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51616 Closing
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51630 [200]: GET /fonts/manrope-v23-latin-regular.woff2
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51630 Closing
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51640 [200]: GET /fonts/manrope-v23-latin-700.woff2
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51640 Closing
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51644 Accepted
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51644 [200]: GET /index.html
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51644 Closing
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51646 Accepted
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51660 Accepted
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51670 Accepted
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51646 [200]: GET /fonts/fonts.css
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51660 [200]: GET /img/logo-pil.png
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51676 Accepted
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51670 [200]: GET /img/logo-linsoles.png
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51680 Accepted
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51676 [200]: GET /img/banner03_lin.jpg
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51694 Accepted
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51646 Closing
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51660 Closing
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51680 [200]: GET /img/banner01_pil.jpg
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51670 Closing
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51694 [200]: GET /img/banner02_truck.jpg
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51676 Closing
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51680 Closing
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51694 Closing
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51696 Accepted
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51706 Accepted
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51696 [200]: GET /img/banner04_pil.jpg
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51708 Accepted
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51706 [200]: GET /img/planta-linsoles.jpg
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51722 Accepted
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51708 [200]: GET /img/camion-linsoles.jpg
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51728 Accepted
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51696 Closing
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51722 [200]: GET /img/saco-smp.png
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51734 Accepted
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51728 [200]: GET /img/saco-wmp.png
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51706 Closing
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51734 [200]: GET /img/saco-wpc80.png
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51708 Closing
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51722 Closing
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51728 Closing
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51734 Closing
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51738 Accepted
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51752 Accepted
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51738 [200]: GET /img/queso-gouda.png
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51762 Accepted
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51752 [200]: GET /img/queso-cheddar.png
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51768 Accepted
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51762 [200]: GET /img/bidon-amf.png
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51772 Accepted
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51768 [200]: GET /img/brick-entera.png
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51780 Accepted
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51738 Closing
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51772 [200]: GET /img/brick-semidesnatada.png
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51780 [200]: GET /img/brick-desnatada.png
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51752 Closing
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51762 Closing
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51768 Closing
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51772 Closing
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51780 Closing
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51792 Accepted
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51804 Accepted
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51792 [200]: GET /fonts/archivo-v25-latin-800.woff2
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51810 Accepted
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51804 [200]: GET /fonts/manrope-v23-latin-600.woff2
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51820 Accepted
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51810 [200]: GET /fonts/manrope-v23-latin-700.woff2
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51822 Accepted
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51792 Closing
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51820 [200]: GET /fonts/manrope-v23-latin-regular.woff2
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51834 Accepted
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51804 Closing
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51822 [200]: GET /fonts/archivo-v25-latin-700.woff2
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51834 [200]: GET /img/queso-oveja-entero.png
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51810 Closing
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51820 Closing
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51822 Closing
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51834 Closing
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51846 Accepted
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51856 Accepted
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51846 [200]: GET /img/queso-semicurado-entero.png
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51866 Accepted
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51856 [200]: GET /img/barra-emmental-recorte.png
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51876 Accepted
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51866 [200]: GET /img/barra-cheddar-recorte.png
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51886 Accepted
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51876 [200]: GET /img/barra-mozza-recorte.png
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51900 Accepted
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51886 [200]: GET /img/barra-edam-recorte.png
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51900 [200]: GET /img/barra-gouda-recorte.png
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51856 Closing
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51866 Closing
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51876 Closing
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51846 Closing
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51886 Closing
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51900 Closing
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51914 Accepted
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51914 [200]: GET /img/mapamundi.svg
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51914 Closing
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51916 Accepted
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51916 [200]: GET /solicitud.html
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51916 Closing
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51918 Accepted
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51932 Accepted
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51918 [200]: GET /fonts/fonts.css
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51918 Closing
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51932 [200]: GET /img/logo-pil.png
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51932 Closing
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51948 Accepted
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51948 [200]: GET /fonts/manrope-v23-latin-500.woff2
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51948 Closing
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51962 Accepted
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51966 Accepted
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51976 Accepted
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51982 Accepted
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51962 [200]: GET /fonts/archivo-v25-latin-800.woff2
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51962 Closing
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51966 [200]: GET /fonts/manrope-v23-latin-600.woff2
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51966 Closing
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51976 [200]: GET /fonts/manrope-v23-latin-700.woff2
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51976 Closing
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51982 [200]: GET /fonts/manrope-v23-latin-regular.woff2
+[Wed Nov  4 20:41:06 2026] 127.0.0.1:51982 Closing
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:51990 Accepted
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:51990 [200]: GET /index.html
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:51990 Closing
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:52000 Accepted
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:52014 Accepted
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:52024 Accepted
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:52038 Accepted
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:52048 Accepted
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:52054 Accepted
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:52000 [200]: GET /fonts/fonts.css
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:52000 Closing
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:52070 Accepted
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:52014 [200]: GET /img/logo-pil.png
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:52014 Closing
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:52024 [200]: GET /img/logo-linsoles.png
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:52024 Closing
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:52038 [200]: GET /img/banner03_lin.jpg
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:52038 Closing
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:52048 [200]: GET /img/banner01_pil.jpg
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:52048 Closing
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:52054 [200]: GET /img/banner02_truck.jpg
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:52054 Closing
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:52070 [200]: GET /img/banner04_pil.jpg
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:52070 Closing
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:52084 Accepted
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:52092 Accepted
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:52104 Accepted
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:52114 Accepted
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:52128 Accepted
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:52084 [200]: GET /img/planta-linsoles.jpg
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:52084 Closing
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:52092 [200]: GET /img/camion-linsoles.jpg
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:52092 Closing
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:52144 Accepted
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:52104 [200]: GET /img/saco-smp.png
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:52104 Closing
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:52114 [200]: GET /img/saco-wmp.png
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:52114 Closing
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:52128 [200]: GET /img/saco-wpc80.png
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:52128 Closing
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:52144 [200]: GET /img/queso-gouda.png
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:52144 Closing
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:52154 Accepted
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:52162 Accepted
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:52154 [200]: GET /img/queso-cheddar.png
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:52154 Closing
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:52162 [200]: GET /img/bidon-amf.png
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:52162 Closing
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:52166 Accepted
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:52166 [200]: GET /img/brick-entera.png
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:52166 Closing
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:52176 Accepted
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:52186 Accepted
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:52192 Accepted
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:52176 [200]: GET /img/brick-semidesnatada.png
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:52176 Closing
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:52186 [200]: GET /img/brick-desnatada.png
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:52186 Closing
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:52194 Accepted
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:52192 [200]: GET /img/queso-oveja-entero.png
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:52192 Closing
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:52194 [200]: GET /img/queso-semicurado-entero.png
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:52194 Closing
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:52198 Accepted
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:52206 Accepted
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:52198 [200]: GET /img/barra-emmental-recorte.png
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:52198 Closing
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:52210 Accepted
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:52214 Accepted
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:52206 [200]: GET /img/barra-cheddar-recorte.png
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:52206 Closing
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:52210 [200]: GET /img/barra-mozza-recorte.png
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:52210 Closing
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:52214 [200]: GET /img/barra-edam-recorte.png
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:52214 Closing
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:52216 Accepted
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:52226 Accepted
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:52216 [200]: GET /img/barra-gouda-recorte.png
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:52216 Closing
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:52240 Accepted
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:52226 [200]: GET /img/mapamundi.svg
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:52252 Accepted
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:52240 [200]: GET /fonts/archivo-v25-latin-800.woff2
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:52260 Accepted
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:52252 [200]: GET /fonts/manrope-v23-latin-600.woff2
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:52268 Accepted
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:52226 Closing
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:52260 [200]: GET /fonts/manrope-v23-latin-700.woff2
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:52274 Accepted
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:52240 Closing
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:52268 [200]: GET /fonts/manrope-v23-latin-regular.woff2
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:52274 [200]: GET /fonts/archivo-v25-latin-700.woff2
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:52252 Closing
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:52260 Closing
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:52268 Closing
+[Wed Nov  4 20:41:13 2026] 127.0.0.1:52274 Closing

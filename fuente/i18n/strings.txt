@@ -1,0 +1,382 @@
+0 | . El uso de cookies se explica en la | aviso-legal
+1 | 1. Datos identificativos | aviso-legal
+2 | 2. Objeto | aviso-legal
+3 | 3. Información sobre productos y precios | aviso-legal
+4 | 4. Propiedad intelectual e industrial | aviso-legal
+5 | 5. Responsabilidad | aviso-legal
+6 | 50008 Zaragoza (Spain) | aviso-legal,blog,catalogos,cookies,index,industriales,privacidad,retail-horeca,sobre-nosotros,solicitud
+7 | 6. Enlaces | aviso-legal
+8 | 7. Protección de datos y cookies | aviso-legal
+9 | 8. Legislación aplicable y jurisdicción | aviso-legal
+10 | Aviso legal | aviso-legal,blog,catalogos,cookies,index,industriales,privacidad,retail-horeca,sobre-nosotros,solicitud
+11 | Aviso legal · Plataforma Láctea | aviso-legal
+12 | Blog | aviso-legal,blog,catalogos,cookies,index,industriales,privacidad,retail-horeca,sobre-nosotros,solicitud
+13 | Catálogos | aviso-legal,blog,catalogos,cookies,index,industriales,privacidad,retail-horeca,sobre-nosotros,solicitud
+14 | Comercio B2B de productos lácteos. | aviso-legal,blog,catalogos,cookies,index,industriales,privacidad,retail-horeca,sobre-nosotros,solicitud
+15 | Contacto | aviso-legal,blog,catalogos,cookies,index,industriales,privacidad,retail-horeca,sobre-nosotros,solicitud
+16 | Correo electrónico | aviso-legal,privacidad
+17 | Domicilio | aviso-legal,privacidad,sobre-nosotros
+18 | ES · FR · PT · EN | aviso-legal,blog,catalogos,cookies,index,industriales,privacidad,retail-horeca,sobre-nosotros,solicitud
+19 | El acceso y uso del sitio atribuye la condición de usuario e implica la aceptación de este aviso legal. Si no está de acuerdo con él, le rogamos que no utilice el sitio. | aviso-legal
+20 | El titular procura que la información del sitio sea exacta y esté actualizada, pero no garantiza la ausencia de errores ni la disponibilidad ininterrumpida del sitio. No se hace responsable de los daños que pudieran derivarse del uso de la información publicada ni de los contenidos de sitios de terceros enlazados desde esta web. | aviso-legal
+21 | El tratamiento de los datos personales que nos facilite se rige por nuestra | aviso-legal
+22 | Empresa | aviso-legal,blog,catalogos,cookies,index,industriales,privacidad,retail-horeca,sobre-nosotros,solicitud
+23 | En cumplimiento del artículo 10 de la Ley 34/2002, de 11 de julio, de Servicios de la Sociedad de la Información y de Comercio Electrónico (LSSI-CE), se informa de los datos del titular de este sitio web: | aviso-legal
+24 | Este aviso legal se rige por la legislación española. Para cualquier controversia, las partes se someten a los juzgados y tribunales de Zaragoza, salvo que la normativa aplicable establezca otro fuero. | aviso-legal
+25 | Este sitio web tiene como finalidad presentar la actividad de Plataforma Interprofesional Láctea, S.L.U. como operador de comercio B2B de leche y productos lácteos, informar sobre los productos que comercializa, incluidos los de la marca Linsoles, y facilitar el contacto con clientes y proveedores profesionales. | aviso-legal
+26 | Información legal | aviso-legal
+27 | Inicio | aviso-legal,blog,catalogos,cookies,index,industriales,privacidad,retail-horeca,sobre-nosotros,solicitud
+28 | Las fichas técnicas publicadas son orientativas y no constituyen una oferta vinculante. Los productos pueden adaptarse a las especificaciones de cada cliente. Las cotizaciones y precios de mercado que se muestran en el blog tienen carácter meramente informativo. Cualquier operación comercial se regirá por la oferta y las condiciones acordadas por escrito con cada cliente. | aviso-legal
+29 | Logotipo de P.I.L. | aviso-legal,blog,catalogos,cookies,index,industriales,privacidad,retail-horeca,sobre-nosotros,solicitud
+30 | Los enlaces a sitios de terceros se ofrecen solo como referencia. El titular no controla ni asume responsabilidad sobre su contenido. Para establecer un enlace a este sitio no es necesaria autorización, siempre que no se presente de forma engañosa ni se atribuya al titular un respaldo que no existe. | aviso-legal
+31 | Los textos, diseños, imágenes, logotipos y marcas de este sitio, incluidas las marcas P.I.L. y Linsoles, son titularidad de Plataforma Interprofesional Láctea, S.L.U. o de terceros que han autorizado su uso. Queda prohibida su reproducción, distribución, comunicación pública o transformación sin autorización expresa, salvo para uso personal y privado. | aviso-legal
+32 | Lácteos Retail / Horeca | aviso-legal,blog,catalogos,cookies,index,industriales,privacidad,retail-horeca,sobre-nosotros,solicitud
+33 | Lácteos industriales | aviso-legal,blog,catalogos,cookies,index,industriales,privacidad,retail-horeca,sobre-nosotros,solicitud
+34 | Plataforma Interprofesional Láctea | aviso-legal,blog,catalogos,cookies,index,industriales,privacidad,retail-horeca,sobre-nosotros,solicitud
+35 | Plataforma Interprofesional Láctea, S.L.U. | aviso-legal,blog,catalogos,cookies,index,industriales,privacidad,retail-horeca,sobre-nosotros,solicitud
+36 | Plataforma Láctea | aviso-legal,blog,catalogos,cookies,index,industriales,privacidad,retail-horeca,sobre-nosotros,solicitud
+37 | Política de cookies | aviso-legal,blog,catalogos,cookies,index,industriales,privacidad,retail-horeca,sobre-nosotros,solicitud
+38 | Política de privacidad | aviso-legal,blog,catalogos,cookies,index,industriales,privacidad,retail-horeca,sobre-nosotros,solicitud
+39 | Principal | aviso-legal,blog,catalogos,cookies,index,industriales,privacidad,retail-horeca,sobre-nosotros,solicitud
+40 | Productos | aviso-legal,blog,catalogos,cookies,index,industriales,privacidad,retail-horeca,sobre-nosotros,solicitud
+41 | Registro Mercantil | aviso-legal
+42 | Registro Mercantil de Zaragoza · [Tomo, Folio, Hoja Z-____] | aviso-legal
+43 | Registro sanitario (RGSEAA) | aviso-legal
+44 | Rosales, 18 | aviso-legal,blog,catalogos,cookies,index,industriales,privacidad,retail-horeca,sobre-nosotros,solicitud
+45 | Rosales, 18 · 50008 Zaragoza (España) | aviso-legal,privacidad
+46 | Sitio web | aviso-legal
+47 | Sobre nosotros | aviso-legal,blog,catalogos,cookies,index,industriales,privacidad,retail-horeca,sobre-nosotros,solicitud
+48 | Solicitud de contacto | aviso-legal,blog,catalogos,cookies,index,industriales,privacidad,retail-horeca,sobre-nosotros,solicitud
+49 | Teléfono | aviso-legal,privacidad,solicitud
+50 | Titular | aviso-legal,cookies
+51 | VAT intracomunitario | aviso-legal,sobre-nosotros
+52 | © 2026 Plataforma Interprofesional Láctea, S.L.U. | aviso-legal,blog,catalogos,cookies,index,industriales,privacidad,retail-horeca,sobre-nosotros,solicitud
+53 | Última actualización: [fecha de publicación] · Ver también: | aviso-legal,cookies,privacidad
+54 | Actualidad del sector lácteo | blog
+55 | Blog · Plataforma Láctea | blog
+56 | Cotizaciones de referencia | blog
+57 | Destacado · Mercados · [Fecha] | blog
+58 | Fuente: [medio] | blog
+59 | Leche desnatada en polvo | blog
+60 | Leche entera en polvo | blog
+61 | Leche spot Francia | blog
+62 | Mantequilla 82 % | blog
+63 | Mercados | blog,index
+64 | Mercados · [Fecha] | blog,index
+65 | Nata | blog
+66 | Normativa | blog
+67 | Normativa · [Fecha] | blog,index
+68 | Noticias, precios de referencia, normativa y novedades del mercado lácteo europeo. | blog
+69 | Novedades | blog
+70 | Novedades · [Fecha] | blog
+71 | Precios | blog
+72 | Precios de mercado orientativos, no constituyen oferta. Solicite cotización para su volumen y destino. | blog
+73 | Precios · [Fecha] | blog,index
+74 | Semana [nº] · actualizado [fecha] | blog
+75 | Todas | blog
+76 | [Entradilla de dos líneas que resume la noticia y su relevancia para el sector.] | blog
+77 | [Imagen de la noticia destacada] | blog
+78 | [Imagen] | blog,index
+79 | [Titular de la noticia destacada] | blog
+80 | [Titular de la noticia] | blog,index
+81 | [—] €/t | blog
+82 | Catálogo | catalogos
+83 | Catálogo, página 1: Portada | catalogos
+84 | Catálogo, página 2: Leche UHT en brik | catalogos
+85 | Catálogo, página 2: Leches en polvo | catalogos
+86 | Catálogo, página 3: Proteínas lácteas | catalogos
+87 | Catálogo, página 3: Quesos nacionales | catalogos
+88 | Catálogo, página 4: Quesos Horeca | catalogos
+89 | Catálogo, página 4: Sueros en polvo | catalogos
+90 | Catálogo, página 5: Grasas lácteas | catalogos
+91 | Catálogo, página 6: Líquidos lácteos | catalogos
+92 | Catálogo, página 7: Quesos | catalogos
+93 | Catálogos de producto | catalogos
+94 | Catálogos · Plataforma Láctea | catalogos
+95 | Descargar catálogo (PDF) | catalogos
+96 | Grasas lácteas | catalogos
+97 | Hojee nuestros catálogos página a página o descárguelos en PDF para compartirlos con su equipo. | catalogos
+98 | Leche UHT en brik | catalogos
+99 | Leche UHT en brik, quesos nacionales y quesos Horeca. 4 páginas. | catalogos
+100 | Leches en polvo | catalogos
+101 | Leches en polvo, proteínas, sueros, grasas, líquidos lácteos y quesos. 7 páginas. | catalogos
+102 | Líquidos lácteos | catalogos
+103 | Portada | catalogos
+104 | Proteínas lácteas | catalogos
+105 | Página 1 de 4 | catalogos
+106 | Página 1 de 7 | catalogos
+107 | Página 2 de 4 | catalogos
+108 | Página 2 de 7 | catalogos
+109 | Página 3 de 4 | catalogos
+110 | Página 3 de 7 | catalogos
+111 | Página 4 de 4 | catalogos
+112 | Página 4 de 7 | catalogos
+113 | Página 5 de 7 | catalogos
+114 | Página 6 de 7 | catalogos
+115 | Página 7 de 7 | catalogos
+116 | Quesos | catalogos
+117 | Quesos Horeca | catalogos
+118 | Quesos nacionales | catalogos
+119 | Siguiente › | catalogos
+120 | Sueros en polvo | catalogos
+121 | ‹ Anterior | catalogos
+122 | 1 año | cookies
+123 | 1. Qué son las cookies | cookies
+124 | 2. Qué cookies utiliza este sitio | cookies
+125 | 3. Cómo gestionar o retirar el consentimiento | cookies
+126 | 4. Más información | cookies
+127 | Cookie | cookies
+128 | Cookie técnica del aviso de cookies | cookies
+129 | Cookies | cookies
+130 | Duración | cookies
+131 | Este sitio utiliza únicamente las cookies técnicas imprescindibles para su funcionamiento y para recordar sus preferencias sobre cookies. Estas cookies no requieren su consentimiento. | cookies
+132 | Finalidad | cookies
+133 | Las cookies son pequeños archivos que un sitio web guarda en su navegador para recordar información sobre su visita. Algunas son necesarias para que la web funcione y otras sirven, por ejemplo, para analizar cómo se usa. | cookies
+134 | Medir de forma agregada las visitas al sitio | cookies
+135 | Para cualquier duda sobre el uso de cookies o sobre el tratamiento de sus datos, consulte nuestra | cookies
+136 | Política de cookies · Plataforma Láctea | cookies
+137 | Propia | cookies
+138 | Puede eliminar o bloquear las cookies desde la configuración de su navegador (Chrome, Firefox, Safari, Edge u otros). Si bloquea las cookies técnicas, es posible que algunas partes del sitio no funcionen correctamente. | cookies
+139 | Recordar si ha aceptado o rechazado las cookies | cookies
+140 | Solo si en el futuro se instalan herramientas de analítica u otras cookies no necesarias, se le pedirá previamente su consentimiento mediante el aviso de cookies, en el que podrá aceptarlas, rechazarlas o configurarlas con la misma facilidad. La tabla siguiente se actualizará en ese caso. | cookies
+141 | Tercero | cookies
+142 | [Duración] | cookies
+143 | [Nombre de la cookie de analítica, si se instala] | cookies
+144 | o escríbanos a | cookies
+145 | Abastecimiento constante | index
+146 | Actualidad del sector | index
+147 | Atención personalizada | index
+148 | Barra de queso Cheddar Linsoles de 3 kg | index,retail-horeca
+149 | Barra de queso Edam Linsoles de 3 kg | index,retail-horeca
+150 | Barra de queso Emmental Linsoles de 3 kg | index,retail-horeca
+151 | Barra de queso Gouda Linsoles de 3 kg | index,retail-horeca
+152 | Barra de queso Mozzarella Linsoles de 3 kg | index,retail-horeca
+153 | Bidón Linsoles de butteroil | index
+154 | Bloque de queso Linsoles | index
+155 | Bloque de queso cheddar Linsoles | index
+156 | Bloque de queso gouda Linsoles | index
+157 | Brik de leche UHT Linsoles entera | index
+158 | Brik de leche UHT desnatada Linsoles | index
+159 | Brik de leche UHT entera Linsoles | index
+160 | Brik de leche UHT semidesnatada Linsoles | index
+161 | Camión cisterna Linsoles | index
+162 | Compramos y vendemos donde está el producto y donde está la demanda, con conocimiento directo de cada mercado y de sus precios de referencia. | index
+163 | Comprar bien cuesta poco con | index
+164 | Control de calidad y cadena de suministro cuidada para que la leche llegue en perfecto estado. | index
+165 | Cotizaciones de mercado y camión cisterna Linsoles | index
+166 | Cuéntenos qué necesita y le preparamos una oferta adaptada a su ficha técnica. | index
+167 | Desde España, para todo el mundo. | index
+168 | Diferentes necesidades en tu negocio, un interlocutor especialista. | index
+169 | Ingredientes lácteos | index
+170 | Ir al blog → | index
+171 | Leche UHT Linsoles en brik de 1 L, quesos de oveja y semicurado y barras de 3 kg, con nuestra marca o en marca blanca. Cada producto con su ficha técnica. | index
+172 | Leche UHT y quesos para cadenas de distribución, grandes distribuidores de Horeca y fabricantes. Con nuestra marca o marca blanca. | index
+173 | Leche a granel | index
+174 | Leche cruda de vaca, cabra, oveja y búfala, desnatada, nata y concentrados en cisterna entre industrias lácteas, con coordinación de transporte puerta a puerta. | index
+175 | Leches en polvo, proteínas, sueros, grasas, líquidos lácteos y quesos con la marca Linsoles. Con ficha técnica orientativa de cada producto. | index
+176 | Leches en polvo, sueros, proteínas, grasas lácteas y quesos para la industria alimentaria, en sacos, big bags o a granel. | index
+177 | Linsoles | index,industriales,retail-horeca
+178 | Los precios más competitivos y condiciones especiales para pedidos por volumen. | index
+179 | Línea de envasado de bricks de leche UHT Linsoles en la planta de producción | index
+180 | Mapa del mundo con rutas comerciales que salen de España hacia los cinco continentes | index
+181 | Modernas instalaciones con la última tecnología | index
+182 | Para distribución y hostelería | index
+183 | Para la industria | index
+184 | Plataforma Láctea · Inicio | index
+185 | Precios competitivos | index
+186 | Proveedor internacional de lácteos | index
+187 | Proveedor internacional de lácteos. Conectamos productores, industrias y distribuidores de todo el mundo. Leche a granel, ingredientes lácteos y productos envasados para retail y hostelería. | index
+188 | Queso puro de oveja añejo Linsoles | index
+189 | Queso semicurado de mezcla Linsoles | index
+190 | Qué hacemos | index
+191 | Retail y Horeca | index
+192 | Saco Linsoles de leche desnatada en polvo | index
+193 | Saco Linsoles de leche en polvo | index
+194 | Saco Linsoles de leche entera en polvo | index
+195 | Saco Linsoles de proteína de suero WPC 80 | index
+196 | Silos de leche Linsoles y vaca en el campo | index
+197 | Soluciones confiables de principio a fin. | index
+198 | Somos Plataforma Interprofesional Láctea | index
+199 | Stock y rutas de entrega planificadas para que nunca se quede sin producto. | index
+200 | Técnico en una explotación de vacas lecheras | index
+201 | Un asesor dedicado que conoce su negocio y adapta los pedidos a sus necesidades. Solución de incidencias 24 h. | index
+202 | Ver catálogo y fichas → | index
+203 | Ver productos | index
+204 | Veterinario en una granja de vacuno lechero | index
+205 | ¿Busca un producto o una especificación concreta? | index
+206 | ¿No encuentra lo que busca? Pídanoslo | index
+207 | Ingredientes y materias primas lácteas para la industria alimentaria. Seleccione un producto para ver su ficha técnica orientativa. | industriales
+208 | Lácteos industriales · Plataforma Láctea | industriales
+209 | 1. Responsable del tratamiento | privacidad
+210 | 2. Qué datos tratamos | privacidad
+211 | 3. Para qué y con qué base legal | privacidad
+212 | 4. Cuánto tiempo conservamos los datos | privacidad
+213 | 5. A quién comunicamos los datos | privacidad
+214 | 6. Transferencias internacionales | privacidad
+215 | 7. Sus derechos | privacidad
+216 | 8. Seguridad | privacidad
+217 | 9. Cambios en esta política | privacidad
+218 | Aplicamos medidas técnicas y organizativas adecuadas para proteger sus datos frente a pérdida, acceso no autorizado o alteración, teniendo en cuenta el estado de la técnica y los riesgos del tratamiento. | privacidad
+219 | Atender su solicitud de contacto o de oferta. | privacidad
+220 | Base: su consentimiento y la aplicación de medidas precontractuales a petición suya (art. 6.1.a y 6.1.b RGPD). | privacidad
+221 | Contamos con proveedores que tratan datos por nuestra cuenta (alojamiento web, correo electrónico, gestoría o servicios informáticos), con los que hemos firmado los correspondientes contratos de encargo del tratamiento. | privacidad
+222 | Datos de clientes y proveedores necesarios para la relación comercial: datos de facturación, entrega y contacto de las personas de su organización. | privacidad
+223 | Datos de contacto que nos facilita en el formulario o por correo: nombre y apellidos, empresa, cargo, correo electrónico, teléfono y país. | privacidad
+224 | En Plataforma Interprofesional Láctea, S.L.U. tratamos los datos personales conforme al Reglamento (UE) 2016/679 (RGPD) y a la Ley Orgánica 3/2018 de Protección de Datos Personales y garantía de los derechos digitales (LOPDGDD). A continuación le explicamos cómo lo hacemos. | privacidad
+225 | Enviar información comercial | privacidad
+226 | Gestionar la relación comercial | privacidad
+227 | Información sobre su consulta: producto de interés, volúmenes, especificaciones y el contenido de su mensaje. | privacidad
+228 | Los datos de las solicitudes de contacto se conservan mientras se atiende la consulta y, si no se inicia una relación comercial, durante un máximo de dos años. Los datos de clientes y proveedores se conservan mientras dure la relación y, después, durante los plazos de prescripción legales (con carácter general, seis años a efectos mercantiles y los plazos previstos en la normativa tributaria). | privacidad
+229 | No cedemos sus datos a terceros, salvo obligación legal (por ejemplo, a la Agencia Tributaria o a las autoridades competentes) o cuando sea necesario para ejecutar una operación que usted haya solicitado, como su comunicación a transportistas, aseguradoras de crédito o entidades bancarias. | privacidad
+230 | No solicitamos categorías especiales de datos. Le pedimos que no nos los envíe. | privacidad
+231 | Podemos actualizar esta política para adaptarla a cambios normativos o en nuestra actividad. La versión vigente es siempre la publicada en esta página. | privacidad
+232 | Política de privacidad · Plataforma Láctea | privacidad
+233 | Por la naturaleza internacional de nuestra actividad, puede ser necesario comunicar datos de contacto a clientes, proveedores o transportistas situados fuera del Espacio Económico Europeo para ejecutar una operación solicitada por usted. En esos casos la transferencia se ampara en el art. 49.1.b) y c) RGPD o en las garantías adecuadas que correspondan. | privacidad
+234 | Protección de datos | privacidad
+235 | Puede ejercer los derechos de acceso, rectificación, supresión, oposición, limitación del tratamiento y portabilidad, así como retirar su consentimiento en cualquier momento, escribiendo a | privacidad
+236 | Responsable | privacidad
+237 | Si considera que no hemos atendido correctamente su solicitud, puede presentar una reclamación ante la Agencia Española de Protección de Datos (www.aepd.es). | privacidad
+238 | con clientes y proveedores: pedidos, entregas, facturación y cobros. Base: ejecución del contrato y cumplimiento de obligaciones legales, fiscales y contables (art. 6.1.b y 6.1.c RGPD). | privacidad
+239 | o por correo postal a nuestro domicilio, indicando el derecho que ejercita y acreditando su identidad. | privacidad
+240 | sobre nuestros productos y el mercado lácteo a clientes y contactos profesionales. Base: interés legítimo en el caso de clientes (art. 21.2 LSSI-CE) y consentimiento en los demás casos. Puede oponerse en cualquier momento. | privacidad
+241 | 180 días | retail-horeca
+242 | 2 piezas · 40,5 × 21,0 × 12,2 cm | retail-horeca
+243 | 23,2 g | retail-horeca
+244 | 26 g | retail-horeca
+245 | 28 packs/capa · 5 capas | retail-horeca
+246 | 32 kcal | retail-horeca
+247 | 35,6 g | retail-horeca
+248 | 365 días | retail-horeca
+249 | 3–6 meses | retail-horeca
+250 | 41 g | retail-horeca
+251 | 414 kcal | retail-horeca
+252 | 47 kcal | retail-horeca
+253 | 480 kcal | retail-horeca
+254 | 60–90 días | retail-horeca
+255 | 65 kcal | retail-horeca
+256 | 6–9 meses | retail-horeca
+257 | 70 cajas · 140 piezas · 420 kg aprox. | retail-horeca
+258 | Barras de 3 kg «Linsoles» | retail-horeca
+259 | Brick 1 L con tapón · pack 6 × 1 L | retail-horeca
+260 | Brik de Leche Desnatada UHT Linsoles de 1 litro | retail-horeca
+261 | Brik de Leche Entera UHT Linsoles de 1 litro | retail-horeca
+262 | Brik de Leche Semidesnatada UHT Linsoles de 1 litro | retail-horeca
+263 | Caja | retail-horeca
+264 | Cheddar | retail-horeca
+265 | Composición | retail-horeca
+266 | Conservación | retail-horeca
+267 | Consumo preferente | retail-horeca
+268 | Consúltenos | retail-horeca
+269 | Curación | retail-horeca
+270 | Cuéntenos qué necesita su cadena o establecimiento y le prepararemos una oferta. | retail-horeca
+271 | Código / EAN | retail-horeca
+272 | Edam | retail-horeca
+273 | Emmental | retail-horeca
+274 | Ficha técnica (PDF) | retail-horeca
+275 | Formato | retail-horeca
+276 | Francia | retail-horeca
+277 | Gouda | retail-horeca
+278 | Grasa | retail-horeca
+279 | Grasa s/ES | retail-horeca
+280 | Humedad | retail-horeca
+281 | Ingredientes | retail-horeca
+282 | Leche Desnatada UHT | retail-horeca
+283 | Leche Entera UHT | retail-horeca
+284 | Leche Semidesnatada UHT | retail-horeca
+285 | Leche UHT Linsoles en brik de 1 litro con tapón y quesos (oveja, semicurado y barras de 3 kg), con nuestra marca o en marca blanca, para cadenas de distribución, mayoristas y hostelería. Cada producto incluye su ficha técnica y logística descargable. | retail-horeca
+286 | Leche UHT · 1 L | retail-horeca
+287 | Leche cruda de oveja (origen España), sal, cuajo, cloruro cálcico y fermentos lácticos | retail-horeca
+288 | Leche pasteurizada de vaca, oveja y cabra, sal, cuajo, cloruro cálcico y fermentos lácticos | retail-horeca
+289 | Los mismos quesos de nuestra gama industrial, en barras de 3 kg para distribución y hostelería. Datos orientativos: nos adaptamos a la ficha técnica del cliente. | retail-horeca
+290 | Lugar fresco y seco · transporte refrigerado 1–8 °C | retail-horeca
+291 | Lácteos Retail / Horeca · Plataforma Láctea | retail-horeca
+292 | Línea de envasado con bricks de leche UHT Linsoles en planta de producción | retail-horeca
+293 | Maduración | retail-horeca
+294 | Marca Linsoles | retail-horeca
+295 | Marca blanca | retail-horeca
+296 | Mozzarella | retail-horeca
+297 | Mínimo 270 días | retail-horeca
+298 | Mínimo 35 días | retail-horeca
+299 | Nuestra marca, tanto en leche UHT como en lácteos industriales. | retail-horeca
+300 | Origen de la leche | retail-horeca
+301 | Packs / unidades por palé | retail-horeca
+302 | Palet europeo | retail-horeca
+303 | Paletización | retail-horeca
+304 | Palé (mm · kg bruto) | retail-horeca
+305 | Pasta hilada con buen fundido, para pizza, platos preparados y hostelería. | retail-horeca
+306 | Pasta prensada cocida con ojos, para rallado, loncheado y gratinado. | retail-horeca
+307 | Pasta prensada coloreada con achiote. Para loncheado, salsas, hamburguesas y platos preparados. | retail-horeca
+308 | Pasta prensada semicurado, para loncheado, rallado y venta al corte. | retail-horeca
+309 | Pieza aprox. 3 kg · Ø 19 cm × 10 cm | retail-horeca
+310 | Por 100 g | retail-horeca
+311 | Proteína | retail-horeca
+312 | Queso añejo de leche cruda de oveja, de pasta prensada. Se ofrece con nuestra marca Linsoles o sin etiqueta, para | retail-horeca
+313 | Queso puro de oveja añejo entero con etiqueta Linsoles | retail-horeca
+314 | Queso puro de oveja añejo sin etiqueta, con cuña cortada, para marca blanca | retail-horeca
+315 | Queso puro de oveja «Linsoles» | retail-horeca
+316 | Queso semicurado de leche pasteurizada de vaca, oveja y cabra, de textura semidura y mantecosa. Se ofrece con nuestra marca Linsoles o sin etiqueta, para | retail-horeca
+317 | Queso semicurado de mezcla entero con etiqueta Linsoles | retail-horeca
+318 | Queso semicurado de mezcla sin etiqueta, con cuña cortada, para marca blanca | retail-horeca
+319 | Queso semicurado mezcla «Linsoles» | retail-horeca
+320 | Queso · Barra 3 kg | retail-horeca
+321 | Queso · Pieza 3 kg | retail-horeca
+322 | Quesos en barra | retail-horeca
+323 | Refrigerada a 0–4 °C | retail-horeca
+324 | Refrigerado a 2–8 °C | retail-horeca
+325 | Sal | retail-horeca
+326 | Semicurado de pasta prensada, para loncheado, rallado e ingrediente. | retail-horeca
+327 | Solicitar | retail-horeca
+328 | Vaca 90 % · oveja 5 % · cabra 5 % | retail-horeca
+329 | Vida útil | retail-horeca
+330 | de su cadena o distribuidora. | retail-horeca
+331 | marca blanca | retail-horeca
+332 | ¿Necesita otro formato o volumen? | retail-horeca
+333 | Año de inicio de nuestra actividad | sobre-nosotros
+334 | Cada cliente tiene un interlocutor que conoce su planta, sus especificaciones y sus plazos. | sobre-nosotros
+335 | Conocimiento del mercado | sobre-nosotros
+336 | Coordinación logística | sobre-nosotros
+337 | Cuéntenos qué producto busca o qué quiere vender y le responderemos a la mayor brevedad. | sobre-nosotros
+338 | Datos de la empresa | sobre-nosotros
+339 | Litros de leche gestionados al año | sobre-nosotros
+340 | Organizamos cargas, transporte y documentación para que el producto llegue cuando se necesita. | sobre-nosotros
+341 | Plataforma Interprofesional Láctea, S.L.U. gestiona leche, nata, mantequilla, quesos e ingredientes lácteos desde 1959. Más de 75 millones de litros de leche cada año. | sobre-nosotros
+342 | Razón social | sobre-nosotros
+343 | Registro sanitario | sobre-nosotros
+344 | Seguimiento semanal de precios y disponibilidad en los principales mercados lácteos europeos. | sobre-nosotros
+345 | Sobre nosotros · Plataforma Láctea | sobre-nosotros
+346 | Trato directo | sobre-nosotros
+347 | Una empresa familiar del sector lácteo, con base en Zaragoza. | sobre-nosotros
+348 | ¿Hablamos? | sobre-nosotros
+349 | * Campos obligatorios | solicitud
+350 | . Más información en la | solicitud
+351 | América Central y del Sur | solicitud
+352 | América del Norte | solicitud
+353 | Asia | solicitud
+354 | Cuéntenos qué necesita. | solicitud
+355 | Email profesional * | solicitud
+356 | Empresa * | solicitud
+357 | Enviar otra solicitud | solicitud
+358 | Enviar solicitud | solicitud
+359 | España | solicitud
+360 | Gracias. Hemos recibido su solicitud y nos pondremos en contacto con usted a la mayor brevedad. | solicitud
+361 | He leído la | solicitud
+362 | Indique producto, especificación, volumen aproximado y destino. Si tiene su propia ficha técnica, menciónelo y le ofertaremos conforme a ella. | solicitud
+363 | Mensaje * | solicitud
+364 | Nombre y apellidos * | solicitud
+365 | Oceanía | solicitud
+366 | Oriente Medio | solicitud
+367 | Otra consulta | solicitud
+368 | País * | solicitud
+369 | Producto de interés | solicitud
+370 | Quiero vender producto | solicitud
+371 | Responsable: Plataforma Interprofesional Láctea, S.L.U. Finalidad: atender su solicitud. Legitimación: consentimiento. Destinatarios: no se cederán datos a terceros salvo obligación legal. Derechos: acceso, rectificación, supresión y otros, en | solicitud
+372 | Resto de Europa | solicitud
+373 | Solicitud de contacto · Plataforma Láctea | solicitud
+374 | Solicitud enviada | solicitud
+375 | Tipo de consulta * | solicitud
+376 | Volumen aproximado | solicitud
+377 | p. ej. 2 cisternas / mes, 20 t | solicitud
+378 | p. ej. leche desnatada en polvo | solicitud
+379 | política de privacidad | solicitud
+380 | y acepto que Plataforma Interprofesional Láctea, S.L.U. trate mis datos para responder a esta solicitud. | solicitud
+381 | África | solicitud

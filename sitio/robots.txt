@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /enviar.php
+Disallow: /web.html
+
+Sitemap: https://www.plataformalactea.com/sitemap.xml

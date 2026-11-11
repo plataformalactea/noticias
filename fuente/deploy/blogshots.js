@@ -1,0 +1,15 @@
+const { chromium } = require('playwright');
+(async()=>{const b=await chromium.launch();const errs=[];
+const d=await b.newContext({viewport:{width:1280,height:900}});let p=await d.newPage();p.on('pageerror',e=>errs.push(e.message));
+await p.goto('http://127.0.0.1:8765/blog.html',{waitUntil:'networkidle'});await p.screenshot({path:'../_blog_d.png',fullPage:true});
+await p.click('.blog-chip[data-cat="Normativa"]');await p.waitForTimeout(200);
+console.log('static visible after Normativa:',await p.$$eval('.blog-item',a=>a.filter(x=>x.offsetParent).length));
+await p.goto('http://127.0.0.1:8765/web.html#en/blog',{waitUntil:'networkidle'});
+await p.click('#pg-en-blog .blog-chip[data-cat="Precios"]');await p.waitForTimeout(200);
+console.log('spa en visible after Prices:',await p.$$eval('#pg-en-blog .blog-item',a=>a.filter(x=>x.offsetParent).length));
+await p.screenshot({path:'../_blog_spa_en.png'});
+const m=await b.newContext({viewport:{width:390,height:844}});p=await m.newPage();
+await p.goto('http://127.0.0.1:8765/blog.html',{waitUntil:'networkidle'});
+console.log('mobile sw',await p.evaluate(()=>document.documentElement.scrollWidth));
+await p.screenshot({path:'../_blog_m.png',fullPage:true});
+console.log('errors',errs);await b.close();})();

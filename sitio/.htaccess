@@ -1,0 +1,59 @@
+# Plataforma Interprofesional Láctea · configuración Apache (hosting compartido)
+# Cada bloque solo se aplica si el módulo está disponible en el servidor.
+
+AddDefaultCharset UTF-8
+Options -Indexes
+DirectoryIndex index.html
+ErrorDocument 404 /404.html
+
+# Forzar HTTPS y www (activar cuando el certificado SSL esté instalado)
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteCond %{HTTPS} off
+  RewriteCond %{HTTP:X-Forwarded-Proto} !https
+  RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+  RewriteCond %{HTTP_HOST} ^plataformalactea\.com$ [NC]
+  RewriteRule ^ https://www.plataformalactea.com%{REQUEST_URI} [L,R=301]
+  # No servir web.html (versión de vista previa) en producción
+  RewriteRule ^web\.html$ / [L,R=301]
+</IfModule>
+
+# Bloquear ficheros ocultos (.htaccess, .git, etc.)
+<IfModule mod_authz_core.c>
+  <FilesMatch "^\.">
+    Require all denied
+  </FilesMatch>
+</IfModule>
+
+# Tipos
+<IfModule mod_mime.c>
+  AddType image/webp .webp
+  AddType font/woff2 .woff2
+  AddType image/svg+xml .svg
+</IfModule>
+
+# Compresión
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE text/html text/css text/plain text/xml application/javascript application/json application/xml image/svg+xml
+</IfModule>
+
+# Caché del navegador
+<IfModule mod_expires.c>
+  ExpiresActive On
+  ExpiresDefault "access plus 1 week"
+  ExpiresByType text/html "access plus 0 seconds"
+  ExpiresByType text/css "access plus 1 month"
+  ExpiresByType font/woff2 "access plus 1 year"
+  ExpiresByType image/webp "access plus 1 month"
+  ExpiresByType image/png "access plus 1 month"
+  ExpiresByType image/svg+xml "access plus 1 month"
+  ExpiresByType image/x-icon "access plus 1 year"
+  ExpiresByType application/pdf "access plus 1 week"
+</IfModule>
+
+# Cabeceras de seguridad básicas
+<IfModule mod_headers.c>
+  Header always set X-Content-Type-Options "nosniff"
+  Header always set Referrer-Policy "strict-origin-when-cross-origin"
+  Header always set X-Frame-Options "SAMEORIGIN"
+</IfModule>

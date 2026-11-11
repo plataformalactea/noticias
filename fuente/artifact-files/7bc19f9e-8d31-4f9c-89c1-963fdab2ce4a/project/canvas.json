@@ -1,0 +1,108 @@
+{
+  "v": 3,
+  "attachments": {},
+  "boards": {
+    "AvisoLegal.dc.html": {
+      "expand": "fill",
+      "h": 2600,
+      "title": "Aviso legal",
+      "w": 1440,
+      "x": 9120,
+      "y": 0
+    },
+    "Blog.dc.html": {
+      "expand": "fill",
+      "h": 2000,
+      "title": "Blog",
+      "w": 1440,
+      "x": 4560,
+      "y": 0
+    },
+    "Cookies.dc.html": {
+      "expand": "fill",
+      "h": 2600,
+      "title": "Política de cookies",
+      "w": 1440,
+      "x": 12160,
+      "y": 0
+    },
+    "Industriales.dc.html": {
+      "expand": "fill",
+      "h": 2300,
+      "is_interactive": true,
+      "title": "Productos · Lácteos industriales",
+      "w": 1440,
+      "x": 1520,
+      "y": 0
+    },
+    "Main.dc.html": {
+      "expand": "fill",
+      "h": 3300,
+      "title": "Inicio",
+      "w": 1440,
+      "x": 0,
+      "y": 0
+    },
+    "Privacidad.dc.html": {
+      "expand": "fill",
+      "h": 2600,
+      "title": "Política de privacidad",
+      "w": 1440,
+      "x": 10640,
+      "y": 0
+    },
+    "Retail-Horeca.dc.html": {
+      "expand": "fill",
+      "h": 2700,
+      "title": "Productos · Retail / Horeca",
+      "w": 1440,
+      "x": 3040,
+      "y": 0
+    },
+    "Sobre-nosotros.dc.html": {
+      "expand": "fill",
+      "h": 2100,
+      "title": "Sobre nosotros",
+      "w": 1440,
+      "x": 6080,
+      "y": 0
+    },
+    "Solicitud.dc.html": {
+      "expand": "fill",
+      "h": 1800,
+      "is_interactive": true,
+      "title": "Solicitud de contacto",
+      "w": 1440,
+      "x": 7600,
+      "y": 0
+    }
+  },
+  "createdOnFiles": {
+    "at": "2026-11-01T11:45:00Z",
+    "v": 1
+  },
+  "designSystems": [],
+  "launch": {
+    "file": "Main.dc.html",
+    "view": "canvas"
+  },
+  "notes": {},
+  "order": [
+    "Main.dc.html",
+    "Industriales.dc.html",
+    "Retail-Horeca.dc.html",
+    "Blog.dc.html",
+    "Sobre-nosotros.dc.html",
+    "Solicitud.dc.html",
+    "AvisoLegal.dc.html",
+    "Privacidad.dc.html",
+    "Cookies.dc.html"
+  ],
+  "pages": [
+    {
+      "id": "page-1",
+      "name": "Page 1"
+    }
+  ],
+  "title": "Web Plataforma Láctea"
+}

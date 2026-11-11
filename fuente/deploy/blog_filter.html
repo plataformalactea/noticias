@@ -1,0 +1,7 @@
+<script>
+(function(){var f=document.getElementById('blog-filtros');if(!f)return;var pg=f.closest('.pg')||document;
+f.addEventListener('click',function(ev){var b=ev.target.closest('.blog-chip');if(!b)return;var c=b.getAttribute('data-cat'),n=0;
+f.querySelectorAll('.blog-chip').forEach(function(x){var on=x===b;x.setAttribute('aria-pressed',on?'true':'false');x.style.background=on?'#0E2A4F':'#FFFFFF';x.style.color=on?'#FFFFFF':'#0E2A4F';x.style.borderColor=on?'#0E2A4F':'#D3DCEA';});
+pg.querySelectorAll('.blog-item').forEach(function(it){var ok=(c==='Todas'||it.getAttribute('data-cat')===c);it.style.display=ok?'':'none';if(ok)n++;});
+var v=pg.querySelector('#blog-vacio');if(v)v.hidden=n>0;});})();
+</script>
