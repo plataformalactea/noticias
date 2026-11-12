@@ -1,9 +1,13 @@
-Thu Nov 12 15:47:28 UTC 2026
+Thu Nov 12 18:39:09 UTC 2026
 codigo lftp: 0
-cambiados en este envio: 3
+cambiados en este envio: 5
 --- detalle ---
-Removing old file `en/industriales.html'
-Transferring file `en/industriales.html'
-Removing old file `fr/industriales.html'
-Transferring file `fr/industriales.html'
+Removing old file `blog.html'
+Transferring file `blog.html'
+Removing old file `en/blog.html'
+Transferring file `en/blog.html'
+Removing old file `fr/blog.html'
+Transferring file `fr/blog.html'
+Removing old file `pt/blog.html'
+Transferring file `pt/blog.html'
 subida: success
