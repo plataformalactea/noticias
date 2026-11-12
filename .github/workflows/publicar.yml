@@ -15,38 +15,38 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Localizar la carpeta de la web en el servidor
-        id: dir
+        with:
+          fetch-depth: 0
+      - name: Subir por FTPS los archivos nuevos o cambiados
+        id: subir
         env:
           FTP_PASSWORD: ${{ secrets.FTP_PASSWORD }}
+          BEFORE: ${{ github.event.before }}
         run: |
           sudo apt-get update -qq >/dev/null && sudo apt-get install -y -qq lftp >/dev/null
-          OPTS="set ftp:ssl-force true; set ftp:ssl-protect-data true; set ftp:passive-mode true; set net:max-retries 2; set net:timeout 20"
-          lftp -u "$FTP_USER,$FTP_PASSWORD" -e "$OPTS; cls -1; bye" "$FTP_SERVER" > raiz.txt 2> err.txt || true
-          DIR=""
-          if grep -qx "index.html" raiz.txt; then DIR="./"; fi
-          if [ -z "$DIR" ]; then
-            for d in public_html httpdocs www htdocs web; do
-              if grep -qx "$d/\?" raiz.txt; then
-                if lftp -u "$FTP_USER,$FTP_PASSWORD" -e "$OPTS; cls -1 $d/; bye" "$FTP_SERVER" 2>/dev/null | grep -q "index.html"; then DIR="$d/"; break; fi
-              fi
+          mkdir -p registro
+          # Archivos cambiados en este envío (se suben siempre, aunque el tamaño no cambie)
+          : > cambios.lftp
+          if [ -n "$BEFORE" ] && git cat-file -e "$BEFORE" 2>/dev/null; then
+            git diff --name-only --diff-filter=AM "$BEFORE" "$GITHUB_SHA" -- sitio/ | while read -r f; do
+              rel="${f#sitio/}"; d=$(dirname "$rel")
+              [ "$d" = "." ] && echo "put \"$f\" -o \"$rel\"" >> cambios.lftp || echo "mkdir -p -f \"$d\"; put \"$f\" -o \"$rel\"" >> cambios.lftp
             done
           fi
-          echo "dir=$DIR" >> "$GITHUB_OUTPUT"
-          mkdir -p registro
-          { date -u; echo "carpeta de la web: ${DIR:-NO ENCONTRADA}"; echo "--- contenido de la raiz FTP ---"; cat raiz.txt; echo "--- errores de conexion ---"; cat err.txt; } > registro/ftp.txt
-      - name: Subir por FTPS los archivos cambiados
-        id: subir
-        if: steps.dir.outputs.dir != ''
-        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
-        with:
-          server: ${{ env.FTP_SERVER }}
-          username: ${{ env.FTP_USER }}
-          password: ${{ secrets.FTP_PASSWORD }}
-          protocol: ftps
-          port: 21
-          local-dir: ./sitio/
-          server-dir: ${{ steps.dir.outputs.dir }}
+          {
+            echo "set ftp:ssl-force true; set ftp:ssl-protect-data true; set ftp:passive-mode true"
+            echo "set net:max-retries 3; set net:timeout 30; set net:reconnect-interval-base 5"
+            echo "open -u \"$FTP_USER\",\"$FTP_PASSWORD\" $FTP_SERVER"
+            echo "mirror -R --ignore-time --no-perms --parallel=3 --verbose=1 sitio/ ./"
+            cat cambios.lftp
+            echo "bye"
+          } > script.lftp
+          set +e
+          lftp -f script.lftp > salida.txt 2>&1
+          code=$?
+          rm -f script.lftp
+          { date -u; echo "codigo lftp: $code"; echo "cambiados en este envio: $(wc -l < cambios.lftp)"; echo "--- detalle ---"; grep -v -i "pass" salida.txt | tail -60; } > registro/ftp.txt
+          exit $code
       - name: Guardar registro en el repositorio
         if: always()
         run: |
