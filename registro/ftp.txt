@@ -1,0 +1,35 @@
+Thu Nov 12 15:39:24 UTC 2026
+carpeta de la web: ./
+--- contenido de la raiz FTP ---
+.htaccess
+.well-known/
+404.html
+PlataformaLactea
+apple-touch-icon.png
+aviso-legal.html
+blog.html
+catalogos/
+catalogos.html
+cookies.html
+en/
+enviar.php
+favicon.ico
+fichas/
+fonts/
+fr/
+icon-192.png
+img/
+index.html
+industriales.html
+mantenimiento.php
+mision.html
+plataforma-lactea-mantenimiento.jpg
+privacidad.html
+pt/
+retail-horeca.html
+robots.txt
+sitemap.xml
+sobre-nosotros.html
+solicitud.html
+--- errores de conexion ---
+subida: failure
