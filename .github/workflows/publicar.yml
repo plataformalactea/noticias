@@ -1,0 +1,59 @@
+name: Publicar web en el hosting
+on:
+  push:
+    branches: [main]
+    paths: ['sitio/**', '.github/workflows/publicar.yml']
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency: publicar-web
+env:
+  FTP_SERVER: apolo.tuwebamedida.com
+  FTP_USER: plataformalactea
+jobs:
+  ftp:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Localizar la carpeta de la web en el servidor
+        id: dir
+        env:
+          FTP_PASSWORD: ${{ secrets.FTP_PASSWORD }}
+        run: |
+          sudo apt-get update -qq >/dev/null && sudo apt-get install -y -qq lftp >/dev/null
+          OPTS="set ftp:ssl-force true; set ftp:ssl-protect-data true; set ftp:passive-mode true; set net:max-retries 2; set net:timeout 20"
+          lftp -u "$FTP_USER,$FTP_PASSWORD" -e "$OPTS; cls -1; bye" "$FTP_SERVER" > raiz.txt 2> err.txt || true
+          DIR=""
+          if grep -qx "index.html" raiz.txt; then DIR="./"; fi
+          if [ -z "$DIR" ]; then
+            for d in public_html httpdocs www htdocs web; do
+              if grep -qx "$d/\?" raiz.txt; then
+                if lftp -u "$FTP_USER,$FTP_PASSWORD" -e "$OPTS; cls -1 $d/; bye" "$FTP_SERVER" 2>/dev/null | grep -q "index.html"; then DIR="$d/"; break; fi
+              fi
+            done
+          fi
+          echo "dir=$DIR" >> "$GITHUB_OUTPUT"
+          mkdir -p registro
+          { date -u; echo "carpeta de la web: ${DIR:-NO ENCONTRADA}"; echo "--- contenido de la raiz FTP ---"; cat raiz.txt; echo "--- errores de conexion ---"; cat err.txt; } > registro/ftp.txt
+      - name: Subir por FTPS los archivos cambiados
+        id: subir
+        if: steps.dir.outputs.dir != ''
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ${{ env.FTP_SERVER }}
+          username: ${{ env.FTP_USER }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          protocol: ftps
+          port: 21
+          local-dir: ./sitio/
+          server-dir: ${{ steps.dir.outputs.dir }}
+      - name: Guardar registro en el repositorio
+        if: always()
+        run: |
+          echo "subida: ${{ steps.subir.outcome }}" >> registro/ftp.txt
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add registro/ftp.txt
+          git commit -m "Registro de publicación" || true
+          git pull --rebase -q || true
+          git push || true
