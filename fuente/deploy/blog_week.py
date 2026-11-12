@@ -198,18 +198,12 @@ def build():
         f'<span style="font-size: 15px; font-weight: 700">Semana {SEMANA["numero"]} · {SEMANA["rango"]}</span>\n'
         '<div id="blog-filtros" role="group" aria-label="Filtrar noticias" style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 6px">'
         + chip('Todas', True) + ''.join(chip(c) for c in ['Mercados', 'Precios', 'Normativa', 'Novedades']) + '</div>\n</div>\n</section>\n')
+    dcard = dict(DESTACADO, texto=DESTACADO['texto'][0])
     feat = (
-        '<section>\n<div style="max-width: 1240px; margin: 0 auto; padding: 24px 24px; display: flex; flex-wrap: wrap; gap: 24px; align-items: stretch">\n'
-        f'<a href="{d["url"]}" target="_blank" rel="noopener" class="card-link blog-item" data-cat="{d["cat"]}" style="flex: 999 1 560px; min-width: 0; background: #FFFFFF; border: 1px solid #D3DCEA; border-radius: 20px; overflow: hidden; display: flex; flex-direction: column">'
-        f'<div style="background: {bg}; color: {fg}; padding: 32px 28px 26px; display: flex; flex-direction: column; gap: 4px">'
-        f'<span style="font-family: Archivo, sans-serif; font-weight: 800; font-size: clamp(44px, 9vw, 64px); line-height: 1">{e(d["dato"])}</span>'
-        f'<span style="font-size: 14px; font-weight: 600">{e(d["dato_pie"])}</span></div>'
-        '<div style="padding: 28px; display: flex; flex-direction: column; gap: 12px; flex: 1">'
-        f'<span style="font-size: 12px; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: {fg}">Destacado · {d["cat"]} · {e(d["fecha"])}</span>'
-        f'<h2 style="margin: 0; font-family: Archivo, sans-serif; font-size: clamp(23px, 4.5vw, 28px); line-height: 1.2">{e(d["titulo"])}</h2>'
-        + ''.join(f'<p style="margin: 0; color: #4D5D78; line-height: 1.6">{e(t)}</p>' for t in d['texto']) +
-        f'<span style="margin-top: auto; padding-top: 6px; font-size: 14px; font-weight: 700; color: #2B4F9C">Fuente: {e(d["fuente"])} ↗</span></div></a>\n'
-        '<aside style="flex: 1 1 340px; min-width: 0; background: #0E2A4F; color: #FFFFFF; border-radius: 20px; padding: 28px; display: flex; flex-direction: column; gap: 16px">\n'
+        '<section>\n<div style="max-width: 1240px; margin: 0 auto; padding: 24px 24px; display: flex; flex-wrap: wrap; gap: 24px; align-items: flex-start">\n'
+        '<div id="blog-lista" style="flex: 3 1 560px; min-width: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 20px">\n'
+        + '\n'.join(card(n) for n in [dcard] + NOTICIAS) + '\n</div>\n'
+        '<aside style="flex: 1 1 320px; min-width: 0; position: sticky; top: 24px; background: #0E2A4F; color: #FFFFFF; border-radius: 20px; padding: 28px; display: flex; flex-direction: column; gap: 16px">\n'
         '<div style="display: flex; flex-direction: column; gap: 4px">\n<span style="font-size: 12px; font-weight: 700; letter-spacing: 0.14em; text-transform: uppercase; color: #E8B84A">Cotizaciones de referencia</span>\n'
         f'<span style="color: #CBD8EE; font-size: 14px">Semana {SEMANA["numero"]} · actualizado {SEMANA["actualizado"]}</span>\n</div>\n<div style="display: flex; flex-direction: column">\n'
         + ''.join(
@@ -220,10 +214,9 @@ def build():
             for i, (p, v, c, m) in enumerate(COTIZ)) +
         f'</div>\n<p style="margin: 0; font-size: 13px; color: #CBD8EE; line-height: 1.5">{e(COTIZ_NOTA)}</p>\n'
         '<a href="https://www.eex.com/en/markets/agriculturals" target="_blank" rel="noopener" style="color: #E8B84A; font-weight: 700; font-size: 14px; text-decoration: none">Futuros lácteos en EEX ↗</a>\n</aside>\n</div>\n</section>\n')
-    grid = ('<section>\n<div id="blog-lista" style="max-width: 1240px; margin: 0 auto; padding: 24px 24px 24px; display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px">\n'
-            + '\n'.join(card(n) for n in NOTICIAS) + '\n</div>\n'
+    grid = ('<section>\n'
             '<p id="blog-vacio" hidden style="max-width: 1240px; margin: 0 auto; padding: 0 24px; color: #4D5D78">No hay noticias de esta categoría esta semana.</p>\n'
-            '<div style="max-width: 1240px; margin: 0 auto; padding: 8px 24px 88px"><p style="margin: 0; font-size: 13px; color: #4D5D78; line-height: 1.5; max-width: 860px">Resumen elaborado por Plataforma Interprofesional Láctea a partir de las fuentes citadas. Cada noticia enlaza a su fuente original.</p></div>\n</section>\n')
+            '<div style="max-width: 1240px; margin: 0 auto; padding: 8px 24px 40px"><p style="margin: 0; font-size: 13px; color: #4D5D78; line-height: 1.5; max-width: 860px">Resumen elaborado por Plataforma Interprofesional Láctea a partir de las fuentes citadas. Cada noticia enlaza a su fuente original.</p></div>\n</section>\n')
     js = ('<script>\n(function(){var f=document.getElementById(\'blog-filtros\');if(!f)return;var pg=f.closest(\'.pg\')||document;\n'
           'f.addEventListener(\'click\',function(ev){var b=ev.target.closest(\'.blog-chip\');if(!b)return;var c=b.getAttribute(\'data-cat\'),n=0;\n'
           'f.querySelectorAll(\'.blog-chip\').forEach(function(x){var on=x===b;x.setAttribute(\'aria-pressed\',on?\'true\':\'false\');x.style.background=on?\'#0E2A4F\':\'#FFFFFF\';x.style.color=on?\'#FFFFFF\':\'#0E2A4F\';x.style.borderColor=on?\'#0E2A4F\':\'#D3DCEA\';});\n'
