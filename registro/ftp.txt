@@ -1,35 +1,14 @@
-Thu Nov 12 15:39:24 UTC 2026
-carpeta de la web: ./
---- contenido de la raiz FTP ---
-.htaccess
-.well-known/
-404.html
-PlataformaLactea
-apple-touch-icon.png
-aviso-legal.html
-blog.html
-catalogos/
-catalogos.html
-cookies.html
-en/
-enviar.php
-favicon.ico
-fichas/
-fonts/
-fr/
-icon-192.png
-img/
-index.html
-industriales.html
-mantenimiento.php
-mision.html
-plataforma-lactea-mantenimiento.jpg
-privacidad.html
-pt/
-retail-horeca.html
-robots.txt
-sitemap.xml
-sobre-nosotros.html
-solicitud.html
---- errores de conexion ---
-subida: failure
+Thu Nov 12 15:40:34 UTC 2026
+codigo lftp: 0
+cambiados en este envio: 1
+--- detalle ---
+Removing old file `index.html'
+Transferring file `index.html'
+Transferring file `version.txt'
+Removing old file `en/index.html'
+Transferring file `en/index.html'
+Removing old file `fr/index.html'
+Transferring file `fr/index.html'
+Removing old file `pt/index.html'
+Transferring file `pt/index.html'
+subida: success
