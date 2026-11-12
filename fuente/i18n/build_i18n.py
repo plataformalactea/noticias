@@ -82,7 +82,8 @@ def tr_industriales_js(doc, lang):
     for c in data['CATS']: c['label'] = prod_tr(c['label'], lang)
     data['MICRO'] = [[prod_tr(x, lang) for x in r] for r in data['MICRO']]
     for p in data['PRODUCTS']:
-        for k in ('name', 'alt', 'desc', 'pack', 'store', 'life'): p[k] = prod_tr(p[k], lang)
+        for k in ('name', 'short', 'alt', 'desc', 'pack', 'store', 'life'):
+            if k in p: p[k] = prod_tr(p[k], lang)
         p['params'] = [[prod_tr(x, lang) for x in r] for r in p['params']]
     new = ''.join(f'var {k} = {json.dumps(data[k], ensure_ascii=False)};\n' for k in ('CATS', 'PRODUCTS', 'IMG', 'TANK', 'MICRO'))
     doc = doc[:a] + new + doc[b:]
