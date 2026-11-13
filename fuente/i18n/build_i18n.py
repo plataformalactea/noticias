@@ -8,7 +8,7 @@ LI = {'en': 1, 'fr': 2, 'pt': 3}
 def load(mod):
     ns = {}; exec(open(B + 'i18n/' + mod + '.py', encoding='utf-8').read(), ns); return ns
 WEB = {}
-for m in ['tr_common', 'tr_pages', 'tr_legal', 'tr_blog']:
+for m in ['tr_common', 'tr_pages', 'tr_legal', 'tr_blog', 'tr_aldia']:
     for t in load(m)['T']: WEB[t[0]] = t
 P = load('tr_prod'); PROD = {t[0]: t for t in P['T']}; UI = P['UI']
 CAT_TITLES = {t[0]: t for t in WEB.values()}

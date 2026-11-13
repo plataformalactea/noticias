@@ -224,12 +224,57 @@ def build():
           'var v=pg.querySelector(\'#blog-vacio\');if(v)v.hidden=n>0;});})();\n</script>\n')
     s = open(SRC, encoding='utf-8').read()
     a = s.index('<section>'); b = s.index('<footer')
+    ad = aldia_html()
+    if ad:
+        mark = '<span style="font-size: 15px; font-weight: 700">Semana'
+        intro = intro.replace(mark, '</div>\n</section>\n' + ad + '<section>\n<div style="max-width: 1240px; margin: 0 auto; padding: 24px 24px 0; display: flex; flex-direction: column; gap: 14px">\n' + mark, 1)
     s = s[:a] + intro + '\n' + feat + '\n' + grid + '\n' + cabra_html() + '\n' + oveja_html() + '\n' + s[b:]
     open(B + 'deploy/blog_filter.html', 'w', encoding='utf-8').write(js)
     open(SRC, 'w', encoding='utf-8').write(s)
     json.dump({'actualizado': SEMANA['fecha'], 'semana': SEMANA, 'destacado': DESTACADO, 'noticias': NOTICIAS,
                'cotizaciones': {'filas': [dict(producto=p, precio=v, cambio=c, mercado=m) for p, v, c, m in COTIZ], 'nota': COTIZ_NOTA}},
               open(B + 'blog_src/noticias.json', 'w', encoding='utf-8'), ensure_ascii=False, indent=2)
+
+# ---------------- Al día (noticias lácteas diarias, p. ej. de la newsletter de CanalDis) ----------------
+# Datos en blog_src/aldia.json (cada noticia con textos en es/en/fr/pt). Se muestran las de los últimos 7 días.
+import datetime as _dt
+ALDIA_UI = [
+    ('Al día', 'Daily news', 'Au jour le jour', 'Dia a dia'),
+    ('Noticias lácteas de cada día, seleccionadas de la prensa de alimentación y distribución.',
+     'Daily dairy news, selected from the food and retail press.',
+     'Actualités laitières du jour, sélectionnées dans la presse alimentaire et de la distribution.',
+     'Notícias lácteas de cada dia, selecionadas da imprensa alimentar e da distribuição.'),
+]
+def aldia_items():
+    try: items = json.load(open(B + 'blog_src/aldia.json', encoding='utf-8'))
+    except FileNotFoundError: return []
+    hoy = _dt.date.today()
+    items = [i for i in items if (hoy - _dt.date.fromisoformat(i['recibido'])).days <= 7]
+    return sorted(items, key=lambda i: i['recibido'], reverse=True)
+
+def aldia_html():
+    items = aldia_items()
+    if not items: return ''
+    li = ''.join(
+        f'<a href="{i["url"]}" target="_blank" rel="noopener" class="card-link" style="display: flex; flex-direction: column; gap: 6px; padding: 18px 20px; background: #FFFFFF; border: 1px solid #D3DCEA; border-left: 4px solid #E8B84A; border-radius: 12px">'
+        f'<span style="font-size: 12px; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; color: #7A5200">{e(i["fecha"]["es"])}</span>'
+        f'<span style="font-weight: 700; font-size: 17px; line-height: 1.35">{e(i["titulo"]["es"])}</span>'
+        f'<span style="color: #4D5D78; line-height: 1.55; font-size: 15px">{e(i["texto"]["es"])}</span>'
+        f'<span style="font-size: 13px; font-weight: 700; color: #2B4F9C">Fuente: {e(i["fuente"])} ↗</span></a>' for i in items)
+    return ('<section>\n<div style="max-width: 1240px; margin: 0 auto; padding: 8px 24px 8px; display: flex; flex-direction: column; gap: 12px">\n'
+            '<div style="display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px 14px"><h2 style="margin: 0; font-family: Archivo, sans-serif; font-size: 24px">Al día</h2>'
+            '<span style="color: #4D5D78; font-size: 15px">Noticias lácteas de cada día, seleccionadas de la prensa de alimentación y distribución.</span></div>\n'
+            '<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 14px">' + li + '</div>\n</div>\n</section>\n')
+
+def aldia_traducciones():
+    T = list(ALDIA_UI)
+    for i in aldia_items():
+        T.append(tuple(i['fecha'][l] for l in ('es', 'en', 'fr', 'pt')))
+        T.append(tuple(i['titulo'][l] for l in ('es', 'en', 'fr', 'pt')))
+        T.append(tuple(i['texto'][l] for l in ('es', 'en', 'fr', 'pt')))
+        src = i['fuente']; T.append((f'Fuente: {src} ↗', f'Source: {src} ↗', f'Source : {src} ↗', f'Fonte: {src} ↗'))
+    with open(B + 'i18n/tr_aldia.py', 'w', encoding='utf-8') as f:
+        f.write('# Generado por deploy/blog_week.py a partir de blog_src/aldia.json — no editar a mano\nT = ' + repr(T) + '\n')
 
 MAIN = B + 'web/project/Main.dc.html'
 def home_cards():
@@ -253,4 +298,4 @@ def home_cards():
     open(MAIN, 'w', encoding='utf-8').write(m)
 
 if __name__ == '__main__':
-    build(); home_cards(); print('ok')
+    aldia_traducciones(); build(); home_cards(); print('ok')
