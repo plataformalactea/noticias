@@ -1,10 +1,10 @@
 {
- "semana": 45,
+ "semana": 47,
  "actualizado": {
-  "es": "9 nov 2026",
-  "en": "9 Nov 2026",
-  "fr": "9 nov. 2026",
-  "pt": "9 nov. 2026"
+  "es": "17 nov 2026",
+  "en": "17 Nov 2026",
+  "fr": "17 nov. 2026",
+  "pt": "17 nov. 2026"
  },
  "filas": [
   {
@@ -16,9 +16,9 @@
     "fr": "Lait écrémé en poudre",
     "pt": "Leite magro em pó"
    },
-   "valor": 3710,
+   "valor": 3750,
    "unidad": "€/t",
-   "cambio": 20,
+   "cambio": 40,
    "detalle": {
     "es": "Holanda",
     "en": "Netherlands",
@@ -53,7 +53,7 @@
    },
    "valor": 3840,
    "unidad": "€/t",
-   "cambio": 30,
+   "cambio": 0,
    "detalle": {
     "es": "Holanda",
     "en": "Netherlands",
@@ -89,7 +89,7 @@
    },
    "valor": 3750,
    "unidad": "€/t",
-   "cambio": 30,
+   "cambio": 0,
    "detalle": {
     "es": "Holanda",
     "en": "Netherlands",
@@ -191,9 +191,9 @@
   }
  ],
  "nota": {
-  "es": "Fuentes: ZuivelNL (4 nov), Bolsa de Milán (semana 44), Ministerio de Agricultura (semana 39, último publicado), FEGA y Lonja de León (29 oct). Las natas se expresan en base 100 % grasa. Proteína: precio de la leche desnatada en polvo dividido entre su 34 % de proteína. Leche spot Francia: valor estimado de la mantequilla y la leche en polvo que se obtienen de 1.000 litros, antes de costes de transformación. Precios orientativos, no constituyen oferta. Solicite cotización para su volumen y destino.",
-  "en": "Sources: ZuivelNL (4 Nov), Milan exchange (week 44), Spanish Ministry of Agriculture (week 39, latest published), FEGA and León exchange (29 Oct). Cream prices are shown on a 100% fat basis. Protein: skimmed milk powder price divided by its 34% protein content. Spot milk France: estimated value of the butter and milk powder obtained from 1,000 litres, before processing costs. Indicative prices, not an offer. Request a quote for your volume and destination.",
-  "fr": "Sources : ZuivelNL (4 nov.), Bourse de Milan (semaine 44), ministère espagnol de l’Agriculture (semaine 39, dernière publiée), FEGA et Bourse de León (29 oct.). Les crèmes sont exprimées sur une base 100 % MG. Protéine : prix du lait écrémé en poudre divisé par sa teneur de 34 % en protéines. Lait spot France : valeur estimée du beurre et de la poudre de lait obtenus à partir de 1 000 litres, avant coûts de transformation. Prix indicatifs, ne constituent pas une offre. Demandez un devis pour votre volume et votre destination.",
-  "pt": "Fontes: ZuivelNL (4 nov.), Bolsa de Milão (semana 44), Ministério da Agricultura espanhol (semana 39, última publicada), FEGA e Bolsa de León (29 out.). As natas são expressas em base 100 % gordura. Proteína: preço do leite magro em pó dividido pelo seu teor de 34 % de proteína. Leite spot França: valor estimado da manteiga e do leite em pó obtidos a partir de 1.000 litros, antes dos custos de transformação. Preços indicativos, não constituem proposta. Peça cotação para o seu volume e destino."
+  "es": "Fuentes: ZuivelNL (11 nov), Bolsa de Milán (semana 44), Ministerio de Agricultura (semana 39, último publicado), FEGA y Lonja de León (29 oct). Las natas se expresan en base 100 % grasa. Proteína: precio de la leche desnatada en polvo dividido entre su 34 % de proteína. Leche spot Francia: valor estimado de la mantequilla y la leche en polvo que se obtienen de 1.000 litros, antes de costes de transformación. Precios orientativos, no constituyen oferta. Solicite cotización para su volumen y destino.",
+  "en": "Sources: ZuivelNL (11 Nov), Milan exchange (week 44), Spanish Ministry of Agriculture (week 39, latest published), FEGA and León exchange (29 Oct). Cream prices are shown on a 100% fat basis. Protein: skimmed milk powder price divided by its 34% protein content. Spot milk France: estimated value of the butter and milk powder obtained from 1,000 litres, before processing costs. Indicative prices, not an offer. Request a quote for your volume and destination.",
+  "fr": "Sources : ZuivelNL (11 nov.), Bourse de Milan (semaine 44), ministère espagnol de l’Agriculture (semaine 39, dernière publiée), FEGA et Bourse de León (29 oct.). Les crèmes sont exprimées sur une base 100 % MG. Protéine : prix du lait écrémé en poudre divisé par sa teneur de 34 % en protéines. Lait spot France : valeur estimée du beurre et de la poudre de lait obtenus à partir de 1 000 litres, avant coûts de transformation. Prix indicatifs, ne constituent pas une offre. Demandez un devis pour votre volume et votre destination.",
+  "pt": "Fontes: ZuivelNL (11 nov.), Bolsa de Milão (semana 44), Ministério da Agricultura espanhol (semana 39, última publicada), FEGA e Bolsa de León (29 out.). As natas são expressas em base 100 % gordura. Proteína: preço do leite magro em pó dividido pelo seu teor de 34 % de proteína. Leite spot França: valor estimado da manteiga e do leite em pó obtidos a partir de 1.000 litros, antes dos custos de transformação. Preços indicativos, não constituem proposta. Peça cotação para o seu volume e destino."
  }
 }
