@@ -5,7 +5,7 @@ os.makedirs(OUT+'/img'); os.makedirs(OUT+'/fichas'); os.makedirs(OUT+'/catalogos
 A='/mnt/user-data/attachments/fd2192db-e962-524a-b2a2-31b0b87be078/'
 assets={
  '/_blob/41cb0ccdb1020ad91485d43803b21dd9':('logos/pil_logo.png','img/logo-pil.png'),
- '/_blob/304aaad57aec0ac715b2d74a17462b25':(A+'9b972984-image.png','img/logo-linsoles.png'),
+ '/_blob/304aaad57aec0ac715b2d74a17462b25':('prodimg/logo-linsoles-web.png','img/logo-linsoles.png'),
  '/_blob/50bad75a0df21ee10fe21e4b79cc972c':('bricks/brick_entera.png','img/brick-entera.png'),
  '/_blob/f455714c58a376d11b9e2a5773a1190c':('bricks/brick_semi.png','img/brick-semidesnatada.png'),
  '/_blob/a807677f36d03b4924f527bb8f5fca21':('bricks/brick_desnatada.png','img/brick-desnatada.png'),
