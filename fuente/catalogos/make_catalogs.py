@@ -1,5 +1,5 @@
 import json, os, html
-B = '/tmp/claude-0/-home-claude/fd2192db-e962-524a-b2a2-31b0b87be078/scratchpad/'
+import os as _os; B = _os.environ['PIL_FUENTE'].rstrip('/') + '/'
 IMG = 'file://' + B + 'catalogos/imgj/'
 D = json.load(open(B + 'catalogos/products.json'))
 P = {p['id']: p for p in D['P']}

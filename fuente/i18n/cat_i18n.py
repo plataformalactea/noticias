@@ -1,5 +1,5 @@
 import re, html as H, sys, json
-B = '/tmp/claude-0/-home-claude/fd2192db-e962-524a-b2a2-31b0b87be078/scratchpad/'
+import os as _os; B = _os.environ['PIL_FUENTE'].rstrip('/') + '/'
 LI = {'en': 1, 'fr': 2, 'pt': 3}
 def load(mod):
     ns = {}; exec(open(B + 'i18n/' + mod + '.py', encoding='utf-8').read(), ns); return ns

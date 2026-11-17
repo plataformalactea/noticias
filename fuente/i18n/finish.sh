@@ -1,5 +1,5 @@
 set -e
-cd /tmp/claude-0/-home-claude/fd2192db-e962-524a-b2a2-31b0b87be078/scratchpad
+cd "$PIL_FUENTE"
 python3 build_static.py >/dev/null
 rm -f Web_Plataforma_Lactea/img/banner0?.jpg Web_Plataforma_Lactea/img/cisterna.png Web_Plataforma_Lactea/img/amf.png
 python3 deploy/deploy_prep.py form

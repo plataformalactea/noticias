@@ -1,189 +1,891 @@
 {
-  "actualizado": "2026-11-09",
   "semana": {
     "numero": 45,
-    "rango": "2 – 8 de noviembre de 2026",
-    "actualizado": "9 nov 2026",
-    "fecha": "2026-11-09"
-  },
-  "destacado": {
-    "cat": "Precios",
-    "fecha": "3 nov 2026",
-    "dato": "0,474 €/l",
-    "dato_pie": "precio medio leche de vaca · septiembre",
-    "titulo": "La leche cruda sube por segundo mes seguido y se paga a 0,474 €/litro en septiembre",
-    "texto": [
-      "Según las declaraciones de entregas al Ministerio de Agricultura, el precio medio en España pasó de 0,469 €/l en agosto a 0,474 €/l en septiembre, después de marcar en julio el mínimo del año (0,465 €/l).",
-      "Las entregas sumaron 596.601 toneladas, un 1,4 % más, y de enero a septiembre alcanzan unos 5.695 millones de kilos (+1,7 %). Por regiones: Galicia 0,455 €/l, Castilla y León 0,487 €/l, Cantabria 0,496 €/l y País Vasco 0,502 €/l."
-    ],
-    "fuente": "Vaca Pinta",
-    "url": "https://vacapinta.com/es/mercados/el-precio-medio-de-la-leche-en-espana-repunta-y-al.html"
+    "fecha": "2026-11-09",
+    "rango": {
+      "es": "2 – 8 de noviembre de 2026",
+      "en": "2–8 November 2026",
+      "fr": "2–8 novembre 2026",
+      "pt": "2–8 de novembro de 2026"
+    }
   },
   "noticias": [
     {
+      "cat": "Precios",
+      "fecha": {
+        "es": "3 nov 2026",
+        "en": "3 Nov 2026",
+        "fr": "3 nov. 2026",
+        "pt": "3 nov. 2026"
+      },
+      "dato": {
+        "es": "0,474 €/l",
+        "en": "€0.474/l",
+        "fr": "0,474 €/l",
+        "pt": "0,474 €/l"
+      },
+      "dato_pie": {
+        "es": "precio medio leche de vaca · septiembre",
+        "en": "average cow’s milk price · September",
+        "fr": "prix moyen du lait de vache · septembre",
+        "pt": "preço médio do leite de vaca · setembro"
+      },
+      "titulo": {
+        "es": "La leche cruda sube por segundo mes seguido y se paga a 0,474 €/litro en septiembre",
+        "en": "Raw milk rises for the second month running to €0.474/litre in September",
+        "fr": "Le lait cru augmente pour le deuxième mois consécutif : 0,474 €/litre en septembre",
+        "pt": "O leite cru sobe pelo segundo mês consecutivo e é pago a 0,474 €/litro em setembro"
+      },
+      "texto": {
+        "es": "Según las declaraciones de entregas al Ministerio de Agricultura, el precio medio en España pasó de 0,469 €/l en agosto a 0,474 €/l en septiembre, después de marcar en julio el mínimo del año (0,465 €/l).",
+        "en": "According to delivery declarations to the Spanish Ministry of Agriculture, the average price in Spain rose from €0.469/l in August to €0.474/l in September, after hitting the year’s low in July (€0.465/l).",
+        "fr": "Selon les déclarations de livraisons au ministère espagnol de l’Agriculture, le prix moyen en Espagne est passé de 0,469 €/l en août à 0,474 €/l en septembre, après avoir touché en juillet son plus bas de l’année (0,465 €/l).",
+        "pt": "Segundo as declarações de entregas ao Ministério da Agricultura espanhol, o preço médio em Espanha passou de 0,469 €/l em agosto para 0,474 €/l em setembro, depois de atingir em julho o mínimo do ano (0,465 €/l)."
+      },
+      "fuente": "Vaca Pinta",
+      "url": "https://vacapinta.com/es/mercados/el-precio-medio-de-la-leche-en-espana-repunta-y-al.html"
+    },
+    {
       "cat": "Mercados",
-      "fecha": "3 nov 2026",
-      "dato": "+3 %",
-      "dato_pie": "índice GDT",
-      "titulo": "Subasta de Fonterra: tercera subida seguida, con las leches en polvo al alza",
-      "texto": "Leche entera en polvo +5,9 % (3.971 $/t), desnatada +3,1 % (4.109 $/t), cheddar +8,6 % y mozzarella +5,8 %. La mantequilla baja un 4,7 % (4.503 $/t). Precio medio: 4.166 $/t.",
+      "fecha": {
+        "es": "3 nov 2026",
+        "en": "3 Nov 2026",
+        "fr": "3 nov. 2026",
+        "pt": "3 nov. 2026"
+      },
+      "dato": {
+        "es": "+3 %",
+        "en": "+3%",
+        "fr": "+3 %",
+        "pt": "+3 %"
+      },
+      "dato_pie": {
+        "es": "índice GDT",
+        "en": "GDT index",
+        "fr": "indice GDT",
+        "pt": "índice GDT"
+      },
+      "titulo": {
+        "es": "Subasta de Fonterra: tercera subida seguida, con las leches en polvo al alza",
+        "en": "Fonterra auction: third rise in a row, led by milk powders",
+        "fr": "Enchère Fonterra : troisième hausse d’affilée, portée par les poudres de lait",
+        "pt": "Leilão da Fonterra: terceira subida seguida, com os leites em pó em alta"
+      },
+      "texto": {
+        "es": "Leche entera en polvo +5,9 % (3.971 $/t), desnatada +3,1 % (4.109 $/t), cheddar +8,6 % y mozzarella +5,8 %. La mantequilla baja un 4,7 % (4.503 $/t). Precio medio: 4.166 $/t.",
+        "en": "Whole milk powder +5.9% ($3,971/t), skimmed +3.1% ($4,109/t), cheddar +8.6% and mozzarella +5.8%. Butter falls 4.7% ($4,503/t). Average price: $4,166/t.",
+        "fr": "Lait entier en poudre +5,9 % (3 971 $/t), écrémé +3,1 % (4 109 $/t), cheddar +8,6 % et mozzarella +5,8 %. Le beurre recule de 4,7 % (4 503 $/t). Prix moyen : 4 166 $/t.",
+        "pt": "Leite gordo em pó +5,9 % (3.971 $/t), magro +3,1 % (4.109 $/t), cheddar +8,6 % e mozzarella +5,8 %. A manteiga desce 4,7 % (4.503 $/t). Preço médio: 4.166 $/t."
+      },
       "fuente": "Vaca Pinta",
       "url": "https://vacapinta.com/es/mercados/el-indice-de-precios-de-fonterra-sube-un-3-en-novi.html"
     },
     {
       "cat": "Precios",
-      "fecha": "4 nov 2026",
-      "dato": "371 €",
-      "dato_pie": "desnatada en polvo · €/100 kg",
-      "titulo": "Holanda: las leches en polvo y la mantequilla siguen subiendo",
-      "texto": "Cotización ZuivelNL de la semana 45: mantequilla 375 €/100 kg (+3), leche entera en polvo 384 (+3), desnatada para consumo humano 371 (+2) y suero en polvo 164 (sin cambios).",
+      "fecha": {
+        "es": "4 nov 2026",
+        "en": "4 Nov 2026",
+        "fr": "4 nov. 2026",
+        "pt": "4 nov. 2026"
+      },
+      "dato": {
+        "es": "371 €",
+        "en": "€371",
+        "fr": "371 €",
+        "pt": "371 €"
+      },
+      "dato_pie": {
+        "es": "desnatada en polvo · €/100 kg",
+        "en": "skimmed milk powder · €/100 kg",
+        "fr": "lait écrémé en poudre · €/100 kg",
+        "pt": "leite magro em pó · €/100 kg"
+      },
+      "titulo": {
+        "es": "Holanda: las leches en polvo y la mantequilla siguen subiendo",
+        "en": "Netherlands: milk powders and butter keep rising",
+        "fr": "Pays-Bas : les poudres de lait et le beurre poursuivent leur hausse",
+        "pt": "Países Baixos: os leites em pó e a manteiga continuam a subir"
+      },
+      "texto": {
+        "es": "Cotización ZuivelNL de la semana 45: mantequilla 375 €/100 kg (+3), leche entera en polvo 384 (+3), desnatada para consumo humano 371 (+2) y suero en polvo 164 (sin cambios).",
+        "en": "ZuivelNL quotation for week 45: butter €375/100 kg (+3), whole milk powder 384 (+3), food-grade skimmed milk powder 371 (+2) and whey powder 164 (unchanged).",
+        "fr": "Cotation ZuivelNL de la semaine 45 : beurre 375 €/100 kg (+3), lait entier en poudre 384 (+3), lait écrémé en poudre alimentaire 371 (+2) et lactosérum en poudre 164 (stable).",
+        "pt": "Cotação ZuivelNL da semana 45: manteiga 375 €/100 kg (+3), leite gordo em pó 384 (+3), leite magro em pó para consumo humano 371 (+2) e soro em pó 164 (sem alteração)."
+      },
       "fuente": "ZuivelNL",
       "url": "https://www.zuivelnl.org/marktinformatie/zuivelnoteringen"
     },
     {
       "cat": "Mercados",
-      "fecha": "6 nov 2026",
-      "dato": "−2,5 %",
-      "dato_pie": "mantequilla UE · referencia semanal",
-      "titulo": "Europa: la leche en polvo gana fuerza y la mantequilla pierde impulso",
-      "texto": "Referencia de la UE (26 oct–1 nov): leche desnatada en polvo 3.427 €/t (+0,4 %) y mantequilla 3.957 €/t (−2,5 %). En el mercado al contado, la desnatada para consumo humano sube 50 €, hasta 3.715 €/t.",
+      "fecha": {
+        "es": "6 nov 2026",
+        "en": "6 Nov 2026",
+        "fr": "6 nov. 2026",
+        "pt": "6 nov. 2026"
+      },
+      "dato": {
+        "es": "−2,5 %",
+        "en": "−2.5%",
+        "fr": "−2,5 %",
+        "pt": "−2,5 %"
+      },
+      "dato_pie": {
+        "es": "mantequilla UE · referencia semanal",
+        "en": "EU butter · weekly reference",
+        "fr": "beurre UE · référence hebdomadaire",
+        "pt": "manteiga UE · referência semanal"
+      },
+      "titulo": {
+        "es": "Europa: la leche en polvo gana fuerza y la mantequilla pierde impulso",
+        "en": "Europe: milk powder gains strength while butter loses momentum",
+        "fr": "Europe : la poudre de lait se renforce, le beurre perd de l’élan",
+        "pt": "Europa: o leite em pó ganha força e a manteiga perde fôlego"
+      },
+      "texto": {
+        "es": "Referencia de la UE (26 oct–1 nov): leche desnatada en polvo 3.427 €/t (+0,4 %) y mantequilla 3.957 €/t (−2,5 %). En el mercado al contado, la desnatada para consumo humano sube 50 €, hasta 3.715 €/t.",
+        "en": "EU reference (26 Oct–1 Nov): skimmed milk powder €3,427/t (+0.4%) and butter €3,957/t (−2.5%). On the spot market, food-grade skimmed milk powder rises €50 to €3,715/t.",
+        "fr": "Référence UE (26 oct.–1er nov.) : lait écrémé en poudre 3 427 €/t (+0,4 %) et beurre 3 957 €/t (−2,5 %). Sur le marché spot, la poudre écrémée alimentaire gagne 50 €, à 3 715 €/t.",
+        "pt": "Referência da UE (26 out.–1 nov.): leite magro em pó 3.427 €/t (+0,4 %) e manteiga 3.957 €/t (−2,5 %). No mercado spot, o leite magro em pó para consumo humano sobe 50 €, para 3.715 €/t."
+      },
       "fuente": "eDairy News",
       "url": "https://es.edairynews.com/la-leche-en-polvo-gana-fuerza-manteca-pierde/"
     },
     {
       "cat": "Precios",
-      "fecha": "4 nov 2026",
-      "dato": "−5,5 cts",
-      "dato_pie": "por litro frente a sept. 2025",
-      "titulo": "España produce más leche, pero la paga 5,5 céntimos menos que hace un año",
-      "texto": "Los 47,4 céntimos de septiembre son un 10,4 % menos que en 2025 y el precio de septiembre más bajo desde 2022. Las entregas suben un 1,7 % en el año y quedan 8.395 ganaderías, 373 menos que en diciembre.",
+      "fecha": {
+        "es": "4 nov 2026",
+        "en": "4 Nov 2026",
+        "fr": "4 nov. 2026",
+        "pt": "4 nov. 2026"
+      },
+      "dato": {
+        "es": "−5,5 cts",
+        "en": "−5.5 cents",
+        "fr": "−5,5 cts",
+        "pt": "−5,5 cênt."
+      },
+      "dato_pie": {
+        "es": "por litro frente a sept. 2025",
+        "en": "per litre vs Sept 2025",
+        "fr": "par litre vs sept. 2025",
+        "pt": "por litro face a set. 2025"
+      },
+      "titulo": {
+        "es": "España produce más leche, pero la paga 5,5 céntimos menos que hace un año",
+        "en": "Spain produces more milk but pays 5.5 cents less than a year ago",
+        "fr": "L’Espagne produit plus de lait mais le paie 5,5 centimes de moins qu’il y a un an",
+        "pt": "Espanha produz mais leite, mas paga-o 5,5 cêntimos menos do que há um ano"
+      },
+      "texto": {
+        "es": "Los 47,4 céntimos de septiembre son un 10,4 % menos que en 2025 y el precio de septiembre más bajo desde 2022. Las entregas suben un 1,7 % en el año y quedan 8.395 ganaderías, 373 menos que en diciembre.",
+        "en": "September’s 47.4 cents is 10.4% below 2025 and the lowest September price since 2022. Deliveries are up 1.7% year to date and 8,395 dairy farms remain, 373 fewer than in December.",
+        "fr": "Les 47,4 centimes de septembre sont inférieurs de 10,4 % à 2025 et constituent le prix de septembre le plus bas depuis 2022. Les livraisons progressent de 1,7 % sur l’année et il reste 8 395 élevages, 373 de moins qu’en décembre.",
+        "pt": "Os 47,4 cêntimos de setembro são menos 10,4 % do que em 2025 e o preço de setembro mais baixo desde 2022. As entregas sobem 1,7 % no ano e restam 8.395 explorações, menos 373 do que em dezembro."
+      },
       "fuente": "eDairy News",
       "url": "https://es.edairynews.com/espana-produce-mas-leche-pero-paga-55-centimos-menos-por-litro/"
     },
     {
       "cat": "Precios",
-      "fecha": "3 nov 2026",
-      "dato": "+2–3 cts",
-      "dato_pie": "propuesta en Galicia desde el 1 dic",
-      "titulo": "Galicia: las industrias proponen subir la leche 2 o 3 céntimos desde diciembre",
-      "texto": "Tras recortar 7–8 céntimos en abril, el precio quedó algo por debajo de 45 céntimos. Los ganaderos ven la subida insuficiente: los costes (gasóleo, abonos, electricidad) suben y se espera pienso más caro desde enero.",
+      "fecha": {
+        "es": "3 nov 2026",
+        "en": "3 Nov 2026",
+        "fr": "3 nov. 2026",
+        "pt": "3 nov. 2026"
+      },
+      "dato": {
+        "es": "+2–3 cts",
+        "en": "+2–3 cents",
+        "fr": "+2–3 cts",
+        "pt": "+2–3 cênt."
+      },
+      "dato_pie": {
+        "es": "propuesta en Galicia desde el 1 dic",
+        "en": "proposed in Galicia from 1 Dec",
+        "fr": "proposition en Galice dès le 1er déc.",
+        "pt": "proposta na Galiza a partir de 1 dez."
+      },
+      "titulo": {
+        "es": "Galicia: las industrias proponen subir la leche 2 o 3 céntimos desde diciembre",
+        "en": "Galicia: processors propose a 2–3 cent milk price rise from December",
+        "fr": "Galice : les industriels proposent d’augmenter le lait de 2 à 3 centimes dès décembre",
+        "pt": "Galiza: as indústrias propõem subir o leite 2 a 3 cêntimos a partir de dezembro"
+      },
+      "texto": {
+        "es": "Tras recortar 7–8 céntimos en abril, el precio quedó algo por debajo de 45 céntimos. Los ganaderos ven la subida insuficiente: los costes (gasóleo, abonos, electricidad) suben y se espera pienso más caro desde enero.",
+        "en": "After a 7–8 cent cut in April, the price fell slightly below 45 cents. Farmers see the rise as insufficient: costs (diesel, fertiliser, electricity) are rising and feed is expected to be dearer from January.",
+        "fr": "Après une baisse de 7 à 8 centimes en avril, le prix est passé un peu sous les 45 centimes. Les éleveurs jugent la hausse insuffisante : les coûts (gazole, engrais, électricité) augmentent et l’aliment devrait renchérir dès janvier.",
+        "pt": "Depois de um corte de 7–8 cêntimos em abril, o preço ficou um pouco abaixo de 45 cêntimos. Os produtores consideram a subida insuficiente: os custos (gasóleo, adubos, eletricidade) sobem e espera-se ração mais cara a partir de janeiro."
+      },
       "fuente": "eDairy News",
       "url": "https://es.edairynews.com/galicia-la-leche-subiria-hasta-3/"
     },
     {
       "cat": "Precios",
-      "fecha": "26 oct 2026",
-      "dato": "47,00 €",
-      "dato_pie": "FrieslandCampina · €/100 kg",
-      "titulo": "FrieslandCampina sube por cuarto mes el precio de la leche para noviembre",
-      "texto": "El precio garantizado de noviembre queda en 47,00 €/100 kg, 1,50 € más que en octubre. La cooperativa lo atribuye sobre todo a la firmeza del mercado de proteínas.",
+      "fecha": {
+        "es": "26 oct 2026",
+        "en": "26 Oct 2026",
+        "fr": "26 oct. 2026",
+        "pt": "26 out. 2026"
+      },
+      "dato": {
+        "es": "47,00 €",
+        "en": "€47.00",
+        "fr": "47,00 €",
+        "pt": "47,00 €"
+      },
+      "dato_pie": {
+        "es": "FrieslandCampina · €/100 kg",
+        "en": "FrieslandCampina · €/100 kg",
+        "fr": "FrieslandCampina · €/100 kg",
+        "pt": "FrieslandCampina · €/100 kg"
+      },
+      "titulo": {
+        "es": "FrieslandCampina sube por cuarto mes el precio de la leche para noviembre",
+        "en": "FrieslandCampina raises its November milk price for the fourth month running",
+        "fr": "FrieslandCampina relève son prix du lait pour novembre, pour le quatrième mois consécutif",
+        "pt": "A FrieslandCampina sobe pelo quarto mês o preço do leite para novembro"
+      },
+      "texto": {
+        "es": "El precio garantizado de noviembre queda en 47,00 €/100 kg, 1,50 € más que en octubre. La cooperativa lo atribuye sobre todo a la firmeza del mercado de proteínas.",
+        "en": "The guaranteed price for November is €47.00/100 kg, €1.50 more than in October. The cooperative attributes this mainly to the strong protein market.",
+        "fr": "Le prix garanti de novembre s’établit à 47,00 €/100 kg, soit 1,50 € de plus qu’en octobre. La coopérative l’attribue surtout à la fermeté du marché des protéines.",
+        "pt": "O preço garantido de novembro fica em 47,00 €/100 kg, mais 1,50 € do que em outubro. A cooperativa atribui-o sobretudo à firmeza do mercado das proteínas."
+      },
       "fuente": "Vaca Pinta",
       "url": "https://vacapinta.com/es/mercados/frieslandcampina-mejora-precio-leche-cuarto-mes-co.html"
     },
     {
       "cat": "Novedades",
-      "fecha": "4 nov 2026",
-      "dato": "+30 %",
-      "dato_pie": "demanda cubierta con importaciones",
-      "titulo": "FeNIL propone ocho medidas para reforzar la industria láctea española",
-      "texto": "Las importaciones cubren ya más del 30 % de la demanda y el déficit comercial lácteo (492.355 t y 1.500 M€) es el mayor de la UE. En quesos, España importó 434.844 t y exportó 131.696 t.",
+      "fecha": {
+        "es": "4 nov 2026",
+        "en": "4 Nov 2026",
+        "fr": "4 nov. 2026",
+        "pt": "4 nov. 2026"
+      },
+      "dato": {
+        "es": "+30 %",
+        "en": "+30%",
+        "fr": "+30 %",
+        "pt": "+30 %"
+      },
+      "dato_pie": {
+        "es": "demanda cubierta con importaciones",
+        "en": "of demand met by imports",
+        "fr": "de la demande couverte par les importations",
+        "pt": "da procura coberta por importações"
+      },
+      "titulo": {
+        "es": "FeNIL propone ocho medidas para reforzar la industria láctea española",
+        "en": "FeNIL proposes eight measures to strengthen the Spanish dairy industry",
+        "fr": "La FeNIL propose huit mesures pour renforcer l’industrie laitière espagnole",
+        "pt": "A FeNIL propõe oito medidas para reforçar a indústria láctea espanhola"
+      },
+      "texto": {
+        "es": "Las importaciones cubren ya más del 30 % de la demanda y el déficit comercial lácteo (492.355 t y 1.500 M€) es el mayor de la UE. En quesos, España importó 434.844 t y exportó 131.696 t.",
+        "en": "Imports already cover more than 30% of demand and the dairy trade deficit (492,355 t and €1.5 bn) is the largest in the EU. In cheese, Spain imported 434,844 t and exported 131,696 t.",
+        "fr": "Les importations couvrent déjà plus de 30 % de la demande et le déficit commercial laitier (492 355 t et 1,5 Md€) est le plus élevé de l’UE. En fromages, l’Espagne a importé 434 844 t et exporté 131 696 t.",
+        "pt": "As importações já cobrem mais de 30 % da procura e o défice comercial lácteo (492.355 t e 1.500 M€) é o maior da UE. Em queijos, Espanha importou 434.844 t e exportou 131.696 t."
+      },
       "fuente": "FeNIL",
       "url": "https://fenil.org/reforzar-la-industria-lactea-es-reforzar-la-autonomia-alimentaria-de-espana-fenil-propone-ocho-medidas-para-impulsar-el-futuro-del-sector/"
     },
     {
       "cat": "Normativa",
-      "fecha": "5 nov 2026",
-      "dato": "1 nov",
-      "dato_pie": "en vigor",
-      "titulo": "Lengua azul y EHE: nuevo protocolo para mover ganado",
-      "texto": "El Ministerio sustituye las restricciones por zonas por una evaluación de riesgo basada en vacunación, pruebas diagnósticas y protección frente a vectores. Afecta a vacuno y ovino, también en movimientos a otros países de la UE.",
+      "fecha": {
+        "es": "5 nov 2026",
+        "en": "5 Nov 2026",
+        "fr": "5 nov. 2026",
+        "pt": "5 nov. 2026"
+      },
+      "dato": {
+        "es": "1 nov",
+        "en": "1 Nov",
+        "fr": "1er nov.",
+        "pt": "1 nov."
+      },
+      "dato_pie": {
+        "es": "en vigor",
+        "en": "in force",
+        "fr": "en vigueur",
+        "pt": "em vigor"
+      },
+      "titulo": {
+        "es": "Lengua azul y EHE: nuevo protocolo para mover ganado",
+        "en": "Bluetongue and EHD: new protocol for moving livestock",
+        "fr": "Fièvre catarrhale et MHE : nouveau protocole pour les mouvements de bétail",
+        "pt": "Língua azul e DHE: novo protocolo para a movimentação de gado"
+      },
+      "texto": {
+        "es": "El Ministerio sustituye las restricciones por zonas por una evaluación de riesgo basada en vacunación, pruebas diagnósticas y protección frente a vectores. Afecta a vacuno y ovino, también en movimientos a otros países de la UE.",
+        "en": "The Spanish Ministry replaces zone-based restrictions with a risk assessment based on vaccination, diagnostic tests and protection against vectors. It covers cattle and sheep, including movements to other EU countries.",
+        "fr": "Le ministère espagnol remplace les restrictions par zones par une évaluation des risques fondée sur la vaccination, les tests de diagnostic et la protection contre les vecteurs. Elle concerne bovins et ovins, y compris les mouvements vers d’autres pays de l’UE.",
+        "pt": "O Ministério espanhol substitui as restrições por zonas por uma avaliação de risco baseada na vacinação, em testes de diagnóstico e na proteção contra vetores. Abrange bovinos e ovinos, incluindo movimentos para outros países da UE."
+      },
       "fuente": "Agroinformación",
       "url": "https://agroinformacion.com/el-ministerio-actualiza-el-protocolo-de-movimientos-para-lengua-azul-y-ehe-con-nuevas-condiciones-para-el-traslado-de-ganado/"
     },
     {
       "cat": "Normativa",
-      "fecha": "5 nov 2026",
-      "dato": "−10 %",
-      "dato_pie": "rendimiento neto agrario",
-      "titulo": "Módulos del IRPF 2027: rebaja general del 10 % para la actividad agraria",
-      "texto": "Hacienda publica en el BOE la orden de módulos para 2027, con una reducción general del 10 % del rendimiento neto de las actividades agrarias.",
+      "fecha": {
+        "es": "5 nov 2026",
+        "en": "5 Nov 2026",
+        "fr": "5 nov. 2026",
+        "pt": "5 nov. 2026"
+      },
+      "dato": {
+        "es": "−10 %",
+        "en": "−10%",
+        "fr": "−10 %",
+        "pt": "−10 %"
+      },
+      "dato_pie": {
+        "es": "rendimiento neto agrario",
+        "en": "net farming income",
+        "fr": "revenu agricole net",
+        "pt": "rendimento líquido agrícola"
+      },
+      "titulo": {
+        "es": "Módulos del IRPF 2027: rebaja general del 10 % para la actividad agraria",
+        "en": "Spain’s 2027 flat-rate income tax: general 10% cut for farming",
+        "fr": "Forfaits fiscaux 2027 en Espagne : réduction générale de 10 % pour l’activité agricole",
+        "pt": "Módulos do IRPF 2027 em Espanha: redução geral de 10 % para a atividade agrícola"
+      },
+      "texto": {
+        "es": "Hacienda publica en el BOE la orden de módulos para 2027, con una reducción general del 10 % del rendimiento neto de las actividades agrarias.",
+        "en": "The Spanish Treasury has published the 2027 flat-rate order in the Official Gazette (BOE), with a general 10% reduction in net income from farming activities.",
+        "fr": "Le ministère espagnol des Finances publie au BOE l’arrêté des forfaits pour 2027, avec une réduction générale de 10 % du revenu net des activités agricoles.",
+        "pt": "O Ministério das Finanças espanhol publica no BOE a portaria de módulos para 2027, com uma redução geral de 10 % do rendimento líquido das atividades agrícolas."
+      },
       "fuente": "Agroinformación",
       "url": "https://agroinformacion.com/publicada-en-el-boe-la-orden-de-modulos-del-irpf-2027-con-una-reduccion-general-del-10-del-rendimiento-neto-a-la-actividad-agraria/"
     },
     {
       "cat": "Novedades",
-      "fecha": "8 nov 2026",
-      "dato": "80 €/kg",
-      "dato_pie": "Gamonéu del Puertu en tienda",
-      "titulo": "El Gamonéu del Puertu, un queso de 80 € el kilo que lucha por sobrevivir",
-      "texto": "Este queso asturiano con DOP, de leche cruda de vaca, oveja y cabra, solo tiene tres productores. Nuevos queseros llevan años sin lograr permisos para abrir queserías en los Picos de Europa.",
+      "fecha": {
+        "es": "8 nov 2026",
+        "en": "8 Nov 2026",
+        "fr": "8 nov. 2026",
+        "pt": "8 nov. 2026"
+      },
+      "dato": {
+        "es": "80 €/kg",
+        "en": "€80/kg",
+        "fr": "80 €/kg",
+        "pt": "80 €/kg"
+      },
+      "dato_pie": {
+        "es": "Gamonéu del Puertu en tienda",
+        "en": "Gamonéu del Puertu in shops",
+        "fr": "Gamonéu del Puertu en boutique",
+        "pt": "Gamonéu del Puertu em loja"
+      },
+      "titulo": {
+        "es": "El Gamonéu del Puertu, un queso de 80 € el kilo que lucha por sobrevivir",
+        "en": "Gamonéu del Puertu, an €80-a-kilo cheese fighting to survive",
+        "fr": "Le Gamonéu del Puertu, un fromage à 80 € le kilo qui lutte pour survivre",
+        "pt": "O Gamonéu del Puertu, um queijo de 80 € o quilo que luta para sobreviver"
+      },
+      "texto": {
+        "es": "Este queso asturiano con DOP, de leche cruda de vaca, oveja y cabra, solo tiene tres productores. Nuevos queseros llevan años sin lograr permisos para abrir queserías en los Picos de Europa.",
+        "en": "This PDO Asturian cheese, made from raw cow, sheep and goat milk, has only three producers left. New cheesemakers have spent years unable to obtain permits to open dairies in the Picos de Europa.",
+        "fr": "Ce fromage asturien AOP, au lait cru de vache, de brebis et de chèvre, ne compte plus que trois producteurs. De nouveaux fromagers attendent depuis des années les autorisations pour ouvrir une fromagerie dans les Picos de Europa.",
+        "pt": "Este queijo asturiano DOP, de leite cru de vaca, ovelha e cabra, tem apenas três produtores. Novos queijeiros esperam há anos por licenças para abrir queijarias nos Picos de Europa."
+      },
       "fuente": "eDairy News",
       "url": "https://es.edairynews.com/el-queso-de-80-euros-el-kilo-q-lucha-sobrevivir-espana/"
     }
   ],
   "cotizaciones": {
+    "semana": 45,
+    "actualizado": {
+      "es": "9 nov 2026",
+      "en": "9 Nov 2026",
+      "fr": "9 nov. 2026",
+      "pt": "9 nov. 2026"
+    },
     "filas": [
       {
-        "producto": "Leche desnatada en polvo",
-        "precio": "3.710 €/t",
-        "cambio": "+20 €/t",
-        "mercado": "Holanda"
+        "tipo": "num",
+        "id": "smp",
+        "producto": {
+          "es": "Leche desnatada en polvo",
+          "en": "Skimmed milk powder",
+          "fr": "Lait écrémé en poudre",
+          "pt": "Leite magro em pó"
+        },
+        "valor": 3710,
+        "unidad": "€/t",
+        "cambio": 20,
+        "detalle": {
+          "es": "Holanda",
+          "en": "Netherlands",
+          "fr": "Pays-Bas",
+          "pt": "Países Baixos"
+        }
       },
       {
-        "producto": "Proteína · valor por kg",
-        "precio": "10,91 €/kg",
-        "cambio": "+0,06 €/kg",
-        "mercado": "base leche desnatada en polvo (34 % proteína)"
+        "tipo": "proteina",
+        "de": "smp",
+        "proteina": 34,
+        "producto": {
+          "es": "Proteína · valor por kg",
+          "en": "Protein · value per kg",
+          "fr": "Protéine · valeur au kg",
+          "pt": "Proteína · valor por kg"
+        },
+        "detalle": {
+          "es": "base leche desnatada en polvo (34 % proteína)",
+          "en": "based on skimmed milk powder (34% protein)",
+          "fr": "base lait écrémé en poudre (34 % protéines)",
+          "pt": "base leite magro em pó (34 % proteína)"
+        }
       },
       {
-        "producto": "Leche entera en polvo",
-        "precio": "3.840 €/t",
-        "cambio": "+30 €/t",
-        "mercado": "Holanda"
+        "tipo": "num",
+        "producto": {
+          "es": "Leche entera en polvo",
+          "en": "Whole milk powder",
+          "fr": "Lait entier en poudre",
+          "pt": "Leite gordo em pó"
+        },
+        "valor": 3840,
+        "unidad": "€/t",
+        "cambio": 30,
+        "detalle": {
+          "es": "Holanda",
+          "en": "Netherlands",
+          "fr": "Pays-Bas",
+          "pt": "Países Baixos"
+        }
       },
       {
-        "producto": "Suero en polvo",
-        "precio": "1.640 €/t",
-        "cambio": "=",
-        "mercado": "Holanda"
+        "tipo": "num",
+        "producto": {
+          "es": "Suero en polvo",
+          "en": "Whey powder",
+          "fr": "Lactosérum en poudre",
+          "pt": "Soro em pó"
+        },
+        "valor": 1640,
+        "unidad": "€/t",
+        "cambio": 0,
+        "detalle": {
+          "es": "Holanda",
+          "en": "Netherlands",
+          "fr": "Pays-Bas",
+          "pt": "Países Baixos"
+        }
       },
       {
-        "producto": "Mantequilla 82 %",
-        "precio": "3.750 €/t",
-        "cambio": "+30 €/t",
-        "mercado": "Holanda"
+        "tipo": "num",
+        "producto": {
+          "es": "Mantequilla 82 %",
+          "en": "Butter 82%",
+          "fr": "Beurre 82 %",
+          "pt": "Manteiga 82 %"
+        },
+        "valor": 3750,
+        "unidad": "€/t",
+        "cambio": 30,
+        "detalle": {
+          "es": "Holanda",
+          "en": "Netherlands",
+          "fr": "Pays-Bas",
+          "pt": "Países Baixos"
+        }
       },
       {
-        "producto": "Nata Italia · 100 % grasa",
-        "precio": "4.850 €/t",
-        "cambio": "=",
-        "mercado": "Milán · nata 40 % a 1.940 €/t"
+        "tipo": "nata",
+        "producto": {
+          "es": "Nata Italia · 100 % grasa",
+          "en": "Cream Italy · 100% fat",
+          "fr": "Crème Italie · 100 % MG",
+          "pt": "Nata Itália · 100 % gordura"
+        },
+        "precio": 1940,
+        "grasa": 40,
+        "cambio": 0,
+        "origen": {
+          "es": "Milán",
+          "en": "Milan",
+          "fr": "Milan",
+          "pt": "Milão"
+        }
       },
       {
-        "producto": "Nata España · 100 % grasa",
-        "precio": "4.892 €/t",
-        "cambio": "+90 €/t",
-        "mercado": "Ministerio, sem. 39 · nata 30 % a 1.468 €/t"
+        "tipo": "nata",
+        "producto": {
+          "es": "Nata España · 100 % grasa",
+          "en": "Cream Spain · 100% fat",
+          "fr": "Crème Espagne · 100 % MG",
+          "pt": "Nata Espanha · 100 % gordura"
+        },
+        "precio": 1467.6,
+        "grasa": 30,
+        "cambio": 27.1,
+        "origen": {
+          "es": "Ministerio, sem. 39",
+          "en": "Spanish Ministry, wk 39",
+          "fr": "Ministère espagnol, sem. 39",
+          "pt": "Ministério espanhol, sem. 39"
+        }
       },
       {
-        "producto": "Leche spot Francia",
-        "precio": "490 €/1.000 l",
+        "tipo": "num",
+        "producto": {
+          "es": "Leche spot Francia",
+          "en": "Spot milk France",
+          "fr": "Lait spot France",
+          "pt": "Leite spot França"
+        },
+        "valor": 490,
+        "unidad": "€/1000l",
         "cambio": "est",
-        "mercado": "valor mantequilla + polvo"
+        "detalle": {
+          "es": "valor mantequilla + polvo",
+          "en": "butter + powder value",
+          "fr": "valeur beurre + poudre",
+          "pt": "valor manteiga + pó"
+        }
       },
       {
-        "producto": "Leche de vaca España",
-        "precio": "0,474 €/l",
-        "cambio": "+0,005 €/l",
-        "mercado": "precio medio FEGA · septiembre"
+        "tipo": "num",
+        "producto": {
+          "es": "Leche de vaca España",
+          "en": "Cow’s milk Spain",
+          "fr": "Lait de vache Espagne",
+          "pt": "Leite de vaca Espanha"
+        },
+        "valor": 0.474,
+        "dec": 3,
+        "unidad": "€/l",
+        "cambio": 0.005,
+        "detalle": {
+          "es": "precio medio FEGA · septiembre",
+          "en": "FEGA average price · September",
+          "fr": "prix moyen FEGA · septembre",
+          "pt": "preço médio FEGA · setembro"
+        }
       },
       {
-        "producto": "Leche de vaca · Lonja de León",
-        "precio": "0,475 €/l",
-        "cambio": "=",
-        "mercado": "pactado oct–dic · 3,7 % grasa · 3,10 % proteína"
+        "tipo": "num",
+        "producto": {
+          "es": "Leche de vaca · Lonja de León",
+          "en": "Cow’s milk · León exchange",
+          "fr": "Lait de vache · Bourse de León",
+          "pt": "Leite de vaca · Bolsa de León"
+        },
+        "valor": 0.475,
+        "dec": 3,
+        "unidad": "€/l",
+        "cambio": 0,
+        "detalle": {
+          "es": "pactado oct–dic · 3,7 % grasa · 3,10 % proteína",
+          "en": "agreed Oct–Dec · 3.7% fat · 3.10% protein",
+          "fr": "convenu oct.–déc. · 3,7 % MG · 3,10 % protéines",
+          "pt": "acordado out.–dez. · 3,7 % gordura · 3,10 % proteína"
+        }
       }
     ],
-    "nota": "Fuentes: ZuivelNL (4 nov), Bolsa de Milán (semana 44), Ministerio de Agricultura (semana 39, último publicado), FEGA y Lonja de León (29 oct). Las natas se expresan en base 100 % grasa. Proteína: precio de la leche desnatada en polvo dividido entre su 34 % de proteína. Leche spot Francia: valor estimado de la mantequilla y la leche en polvo que se obtienen de 1.000 litros, antes de costes de transformación. Precios orientativos, no constituyen oferta. Solicite cotización para su volumen y destino."
-  }
+    "nota": {
+      "es": "Fuentes: ZuivelNL (4 nov), Bolsa de Milán (semana 44), Ministerio de Agricultura (semana 39, último publicado), FEGA y Lonja de León (29 oct). Las natas se expresan en base 100 % grasa. Proteína: precio de la leche desnatada en polvo dividido entre su 34 % de proteína. Leche spot Francia: valor estimado de la mantequilla y la leche en polvo que se obtienen de 1.000 litros, antes de costes de transformación. Precios orientativos, no constituyen oferta. Solicite cotización para su volumen y destino.",
+      "en": "Sources: ZuivelNL (4 Nov), Milan exchange (week 44), Spanish Ministry of Agriculture (week 39, latest published), FEGA and León exchange (29 Oct). Cream prices are shown on a 100% fat basis. Protein: skimmed milk powder price divided by its 34% protein content. Spot milk France: estimated value of the butter and milk powder obtained from 1,000 litres, before processing costs. Indicative prices, not an offer. Request a quote for your volume and destination.",
+      "fr": "Sources : ZuivelNL (4 nov.), Bourse de Milan (semaine 44), ministère espagnol de l’Agriculture (semaine 39, dernière publiée), FEGA et Bourse de León (29 oct.). Les crèmes sont exprimées sur une base 100 % MG. Protéine : prix du lait écrémé en poudre divisé par sa teneur de 34 % en protéines. Lait spot France : valeur estimée du beurre et de la poudre de lait obtenus à partir de 1 000 litres, avant coûts de transformation. Prix indicatifs, ne constituent pas une offre. Demandez un devis pour votre volume et votre destination.",
+      "pt": "Fontes: ZuivelNL (4 nov.), Bolsa de Milão (semana 44), Ministério da Agricultura espanhol (semana 39, última publicada), FEGA e Bolsa de León (29 out.). As natas são expressas em base 100 % gordura. Proteína: preço do leite magro em pó dividido pelo seu teor de 34 % de proteína. Leite spot França: valor estimado da manteiga e do leite em pó obtidos a partir de 1.000 litros, antes dos custos de transformação. Preços indicativos, não constituem proposta. Peça cotação para o seu volume e destino."
+    }
+  },
+  "temporada": {
+    "cabra": {
+      "titulo": {
+        "es": "Leche de cabra",
+        "en": "Goat milk",
+        "fr": "Lait de chèvre",
+        "pt": "Leite de cabra"
+      },
+      "subtitulo": {
+        "es": "Precio por litro y por punto de extracto quesero. Datos públicos más recientes de España y Francia.",
+        "en": "Price per litre and per point of cheese solids. Latest public data for Spain and France.",
+        "fr": "Prix au litre et par point d’extrait fromager. Dernières données publiques pour l’Espagne et la France.",
+        "pt": "Preço por litro e por ponto de extrato queijeiro. Dados públicos mais recentes de Espanha e França."
+      },
+      "tabla": [
+        {
+          "ref": {
+            "es": "España · precio medio",
+            "en": "Spain · average price",
+            "fr": "Espagne · prix moyen",
+            "pt": "Espanha · preço médio"
+          },
+          "det": {
+            "es": "Ministerio / FEGA · agosto 2026",
+            "en": "Spanish Ministry / FEGA · August 2026",
+            "fr": "Ministère espagnol / FEGA · août 2026",
+            "pt": "Ministério espanhol / FEGA · agosto 2026"
+          },
+          "litro": 1.047,
+          "punto": 0.1317,
+          "eq": 7.95
+        },
+        {
+          "ref": {
+            "es": "Lonja de León",
+            "en": "León exchange",
+            "fr": "Bourse de León",
+            "pt": "Bolsa de León"
+          },
+          "det": {
+            "es": "leche entregada en septiembre · EQ medio provincia",
+            "en": "milk delivered in September · provincial average CS",
+            "fr": "lait livré en septembre · EF moyen de la province",
+            "pt": "leite entregue em setembro · EQ médio da província"
+          },
+          "litro": null,
+          "punto": 0.12621,
+          "eq": 8.27
+        },
+        {
+          "ref": {
+            "es": "Francia · precio pagado",
+            "en": "France · price paid",
+            "fr": "France · prix payé",
+            "pt": "França · preço pago"
+          },
+          "det": {
+            "es": "Idele · 2º trimestre 2026",
+            "en": "Idele · Q2 2026",
+            "fr": "Idele · 2e trimestre 2026",
+            "pt": "Idele · 2.º trimestre 2026"
+          },
+          "litro": 0.837,
+          "punto": null,
+          "eq": 7.13
+        }
+      ],
+      "nota": {
+        "es": "Extracto quesero (EQ) = grasa + proteína (%). Precio por punto = precio por litro ÷ EQ; equivale al precio por hectogrado ÷ 100. Las cifras sin dato directo se calculan a partir de las otras dos. No existe una media europea oficial de leche de cabra: Francia, primer productor de la UE, sirve de referencia.",
+        "en": "Cheese solids (CS) = fat + protein (%). Price per point = price per litre ÷ CS; equivalent to the price per hectodegree ÷ 100. Figures without a direct source are calculated from the other two. There is no official EU average for goat milk: France, the EU’s largest producer, serves as the reference.",
+        "fr": "Extrait fromager (EF) = matière grasse + protéines (%). Prix par point = prix au litre ÷ EF ; équivaut au prix par hectodegré ÷ 100. Les chiffres sans donnée directe sont calculés à partir des deux autres. Il n’existe pas de moyenne européenne officielle du lait de chèvre : la France, premier producteur de l’UE, sert de référence.",
+        "pt": "Extrato queijeiro (EQ) = gordura + proteína (%). Preço por ponto = preço por litro ÷ EQ; equivale ao preço por hectograu ÷ 100. Os valores sem dado direto são calculados a partir dos outros dois. Não existe uma média europeia oficial para o leite de cabra: a França, maior produtor da UE, serve de referência."
+      },
+      "noticias": [
+        {
+          "fecha": {
+            "es": "nov 2026",
+            "en": "Nov 2026",
+            "fr": "nov. 2026",
+            "pt": "nov. 2026"
+          },
+          "texto": {
+            "es": "España: en agosto la leche de cabra se pagó a 0,1317 € por punto de extracto quesero (+12,9 % en un año), con un extracto medio del 7,95 % (1,047 €/l). Frente a julio, el precio por punto baja un 0,7 %: la subida por litro (+1,7 %) se debe a una leche más rica. Las entregas crecen un 1,2 % (33,2 millones de litros), tras la caída del primer trimestre.",
+            "en": "Spain: in August goat milk was paid €0.1317 per point of cheese solids (+12.9% year on year), with average cheese solids of 7.95% (€1.047/l). Compared with July, the price per point is down 0.7%: the rise per litre (+1.7%) comes from richer milk. Deliveries grow 1.2% (33.2 million litres), after the first-quarter fall.",
+            "fr": "Espagne : en août, le lait de chèvre a été payé 0,1317 € par point d’extrait fromager (+12,9 % sur un an), avec un extrait moyen de 7,95 % (1,047 €/l). Par rapport à juillet, le prix par point recule de 0,7 % : la hausse au litre (+1,7 %) vient d’un lait plus riche. Les livraisons progressent de 1,2 % (33,2 millions de litres), après la baisse du premier trimestre.",
+            "pt": "Espanha: em agosto o leite de cabra foi pago a 0,1317 € por ponto de extrato queijeiro (+12,9 % num ano), com um extrato médio de 7,95 % (1,047 €/l). Face a julho, o preço por ponto desce 0,7 %: a subida por litro (+1,7 %) deve-se a um leite mais rico. As entregas crescem 1,2 % (33,2 milhões de litros), após a queda do primeiro trimestre."
+          },
+          "fuente": "Ministerio de Agricultura",
+          "url": "https://www.mapa.gob.es/dam/mapa/contenido/ganaderia/temas/produccion-y-mercados-ganaderos/sectores-ganaderos-2/ovino-caprino/ovino-y-caprino-de-leche/informes-leche/informe-entregas_ovino-y-caprino_ago26.pdf"
+        },
+        {
+          "fecha": {
+            "es": "may 2026",
+            "en": "May 2026",
+            "fr": "mai 2026",
+            "pt": "maio 2026"
+          },
+          "texto": {
+            "es": "La producción española cayó un 10,8 % en el primer trimestre (88,1 millones de litros) y los ganaderos de caprino de leche bajaron un 6,2 % en un año.",
+            "en": "Spanish production fell 10.8% in the first quarter (88.1 million litres) and the number of dairy goat farmers dropped 6.2% in a year.",
+            "fr": "La production espagnole a reculé de 10,8 % au premier trimestre (88,1 millions de litres) et le nombre d’éleveurs de chèvres laitières a baissé de 6,2 % en un an.",
+            "pt": "A produção espanhola caiu 10,8 % no primeiro trimestre (88,1 milhões de litros) e o número de produtores de caprinos de leite baixou 6,2 % num ano."
+          },
+          "fuente": "Interempresas",
+          "url": "https://www.interempresas.net/caprino/631256-caida-de-produccion-acelera-cambio-de-tendencia-y-precios-historicos-en-caprino.html"
+        },
+        {
+          "fecha": {
+            "es": "jul–sep 2026",
+            "en": "Jul–Sep 2026",
+            "fr": "juil.–sept. 2026",
+            "pt": "jul.–set. 2026"
+          },
+          "texto": {
+            "es": "Francia: la recogida de leche de cabra crece un 6 % en mayo y las ventas de quesos un 2 %; el precio pagado en el 2º trimestre, 837 €/1.000 l con un extracto quesero del 7,13 % (≈ 0,117 € por punto), sube solo 5 € en un año. España, en cambio, paga un 18 % más que hace un año.",
+            "en": "France: goat milk collection grows 6% in May and cheese sales 2%; the price paid in Q2, €837/1,000 l with cheese solids of 7.13% (≈ €0.117 per point), is up only €5 year on year. Spain, by contrast, pays 18% more than a year ago.",
+            "fr": "France : la collecte de lait de chèvre progresse de 6 % en mai et les ventes de fromages de 2 % ; le prix payé au 2e trimestre, 837 €/1 000 l pour un extrait fromager de 7,13 % (≈ 0,117 € par point), ne gagne que 5 € sur un an. L’Espagne, à l’inverse, paie 18 % de plus qu’il y a un an.",
+            "pt": "França: a recolha de leite de cabra cresce 6 % em maio e as vendas de queijos 2 %; o preço pago no 2.º trimestre, 837 €/1.000 l com um extrato queijeiro de 7,13 % (≈ 0,117 € por ponto), sobe apenas 5 € num ano. Espanha, pelo contrário, paga mais 18 % do que há um ano."
+          },
+          "fuente": "Transformation Laitière",
+          "url": "https://www.transformation-laitiere.fr/prix-lait-de-chevre-deuxieme-trimestre-2026-837-euros-ipampa-espagne/"
+        },
+        {
+          "fecha": {
+            "es": "nov 2026",
+            "en": "Nov 2026",
+            "fr": "nov. 2026",
+            "pt": "nov. 2026"
+          },
+          "texto": {
+            "es": "Canarias sigue perdiendo cabaña caprina: de 210.593 cabezas en 2015 a 199.285 en 2024.",
+            "en": "The Canary Islands keep losing goats: from 210,593 head in 2015 to 199,285 in 2024.",
+            "fr": "Les Canaries continuent de perdre des chèvres : de 210 593 têtes en 2015 à 199 285 en 2024.",
+            "pt": "As Canárias continuam a perder efetivo caprino: de 210.593 cabeças em 2015 para 199.285 em 2024."
+          },
+          "fuente": "eDairy News",
+          "url": "https://es.edairynews.com/canarias-pierde-cabras-y-advierten-que-el-queso-sera-un-lujo/"
+        }
+      ],
+      "lectura": {
+        "es": "Señales a vigilar: precios españoles en máximos con una oferta que empieza a recuperarse en agosto y una Francia con más leche y precios estables. Si la recogida sigue creciendo en otoño, la presión sobre el precio podría notarse en los contratos de 2027.",
+        "en": "Signals to watch: Spanish prices at record highs, with supply starting to recover in August, and France with more milk and stable prices. If collection keeps growing this autumn, price pressure could show in 2027 contracts.",
+        "fr": "Signaux à surveiller : des prix espagnols au plus haut, une offre qui commence à se redresser en août et une France avec plus de lait et des prix stables. Si la collecte continue de progresser cet automne, la pression sur les prix pourrait se faire sentir dans les contrats 2027.",
+        "pt": "Sinais a acompanhar: preços espanhóis em máximos, com a oferta a começar a recuperar em agosto, e uma França com mais leite e preços estáveis. Se a recolha continuar a crescer no outono, a pressão sobre o preço poderá sentir-se nos contratos de 2027."
+      }
+    },
+    "oveja": {
+      "titulo": {
+        "es": "Leche de oveja",
+        "en": "Sheep milk",
+        "fr": "Lait de brebis",
+        "pt": "Leite de ovelha"
+      },
+      "subtitulo": {
+        "es": "Precio por litro y por punto de extracto quesero. Datos públicos más recientes de España y Francia.",
+        "en": "Price per litre and per point of cheese solids. Latest public data for Spain and France.",
+        "fr": "Prix au litre et par point d’extrait fromager. Dernières données publiques pour l’Espagne et la France.",
+        "pt": "Preço por litro e por ponto de extrato queijeiro. Dados públicos mais recentes de Espanha e França."
+      },
+      "tabla": [
+        {
+          "ref": {
+            "es": "España · precio medio",
+            "en": "Spain · average price",
+            "fr": "Espagne · prix moyen",
+            "pt": "Espanha · preço médio"
+          },
+          "det": {
+            "es": "Ministerio / FEGA · agosto 2026",
+            "en": "Spanish Ministry / FEGA · August 2026",
+            "fr": "Ministère espagnol / FEGA · août 2026",
+            "pt": "Ministério espanhol / FEGA · agosto 2026"
+          },
+          "litro": 1.298,
+          "punto": 0.1125,
+          "eq": 11.53
+        },
+        {
+          "ref": {
+            "es": "Lonja de León",
+            "en": "León exchange",
+            "fr": "Bourse de León",
+            "pt": "Bolsa de León"
+          },
+          "det": {
+            "es": "leche entregada en septiembre · EQ medio provincia",
+            "en": "milk delivered in September · provincial average CS",
+            "fr": "lait livré en septembre · EF moyen de la province",
+            "pt": "leite entregue em setembro · EQ médio da província"
+          },
+          "litro": null,
+          "punto": 0.11419,
+          "eq": 12.41
+        },
+        {
+          "ref": {
+            "es": "Francia · precio pagado",
+            "en": "France · price paid",
+            "fr": "France · prix payé",
+            "pt": "França · preço pago"
+          },
+          "det": {
+            "es": "Idele · campaña 2024-2025",
+            "en": "Idele · 2024-2025 season",
+            "fr": "Idele · campagne 2024-2025",
+            "pt": "Idele · campanha 2024-2025"
+          },
+          "litro": 1.291,
+          "punto": null,
+          "eq": null
+        }
+      ],
+      "nota": {
+        "es": "Extracto quesero (EQ) = grasa + proteína (%). Precio por punto = precio por litro ÷ EQ; equivale al precio por hectogrado ÷ 100. Las cifras sin dato directo se calculan a partir de las otras dos. Francia publica el precio por campaña (octubre a septiembre) y sin desglose de extracto quesero. No existe una media europea oficial de leche de oveja.",
+        "en": "Cheese solids (CS) = fat + protein (%). Price per point = price per litre ÷ CS; equivalent to the price per hectodegree ÷ 100. Figures without a direct source are calculated from the other two. France publishes the price per season (October to September) without a cheese-solids breakdown. There is no official EU average for sheep milk.",
+        "fr": "Extrait fromager (EF) = matière grasse + protéines (%). Prix par point = prix au litre ÷ EF ; équivaut au prix par hectodegré ÷ 100. Les chiffres sans donnée directe sont calculés à partir des deux autres. La France publie le prix par campagne (octobre à septembre), sans détail de l’extrait fromager. Il n’existe pas de moyenne européenne officielle du lait de brebis.",
+        "pt": "Extrato queijeiro (EQ) = gordura + proteína (%). Preço por ponto = preço por litro ÷ EQ; equivale ao preço por hectograu ÷ 100. Os valores sem dado direto são calculados a partir dos outros dois. A França publica o preço por campanha (outubro a setembro), sem desagregação do extrato queijeiro. Não existe uma média europeia oficial para o leite de ovelha."
+      },
+      "noticias": [
+        {
+          "fecha": {
+            "es": "nov 2026",
+            "en": "Nov 2026",
+            "fr": "nov. 2026",
+            "pt": "nov. 2026"
+          },
+          "texto": {
+            "es": "España: en agosto la leche de oveja se pagó a 0,1125 € por punto de extracto quesero (+6,4 % en un año), con un extracto medio del 11,53 % (1,298 €/l). Frente a julio, el precio por punto baja un 0,8 %: la subida por litro (+1,8 %) se debe a una leche más rica. Las entregas suben un 1,2 % (40,9 millones de litros).",
+            "en": "Spain: in August sheep milk was paid €0.1125 per point of cheese solids (+6.4% year on year), with average cheese solids of 11.53% (€1.298/l). Compared with July, the price per point is down 0.8%: the rise per litre (+1.8%) comes from richer milk. Deliveries rise 1.2% (40.9 million litres).",
+            "fr": "Espagne : en août, le lait de brebis a été payé 0,1125 € par point d’extrait fromager (+6,4 % sur un an), avec un extrait moyen de 11,53 % (1,298 €/l). Par rapport à juillet, le prix par point recule de 0,8 % : la hausse au litre (+1,8 %) vient d’un lait plus riche. Les livraisons progressent de 1,2 % (40,9 millions de litres).",
+            "pt": "Espanha: em agosto o leite de ovelha foi pago a 0,1125 € por ponto de extrato queijeiro (+6,4 % num ano), com um extrato médio de 11,53 % (1,298 €/l). Face a julho, o preço por ponto desce 0,8 %: a subida por litro (+1,8 %) deve-se a um leite mais rico. As entregas sobem 1,2 % (40,9 milhões de litros)."
+          },
+          "fuente": "Ministerio de Agricultura",
+          "url": "https://www.mapa.gob.es/dam/mapa/contenido/ganaderia/temas/produccion-y-mercados-ganaderos/sectores-ganaderos-2/ovino-caprino/ovino-y-caprino-de-leche/informes-leche/informe-entregas_ovino-y-caprino_ago26.pdf"
+        },
+        {
+          "fecha": {
+            "es": "jul 2026",
+            "en": "Jul 2026",
+            "fr": "juil. 2026",
+            "pt": "jul. 2026"
+          },
+          "texto": {
+            "es": "De enero a mayo la producción cayó un 1,7 % (215,8 millones de litros), mientras el precio medio subió un 5,7 %, hasta 0,1109 € por punto de extracto quesero.",
+            "en": "From January to May production fell 1.7% (215.8 million litres), while the average price rose 5.7% to €0.1109 per point of cheese solids.",
+            "fr": "De janvier à mai, la production a reculé de 1,7 % (215,8 millions de litres), tandis que le prix moyen a progressé de 5,7 %, à 0,1109 € par point d’extrait fromager.",
+            "pt": "De janeiro a maio a produção caiu 1,7 % (215,8 milhões de litros), enquanto o preço médio subiu 5,7 %, para 0,1109 € por ponto de extrato queijeiro."
+          },
+          "fuente": "eDairy News",
+          "url": "https://es.edairynews.com/espana-reduce-la-produccion-de-leche-de-oveja/"
+        },
+        {
+          "fecha": {
+            "es": "sep 2026",
+            "en": "Sep 2026",
+            "fr": "sept. 2026",
+            "pt": "set. 2026"
+          },
+          "texto": {
+            "es": "Castilla-La Mancha: ASAJA calcula que la leche de oveja manchega de 2026 será un 25 % inferior a la de hace dos años y denuncia precios por debajo de costes, con riesgo para el suministro del Queso Manchego.",
+            "en": "Castilla-La Mancha: ASAJA estimates that Manchega sheep milk output in 2026 will be 25% lower than two years ago and says prices are below production costs, putting Manchego cheese supply at risk.",
+            "fr": "Castille-La Manche : l’ASAJA estime que la production de lait de brebis manchega en 2026 sera inférieure de 25 % à celle d’il y a deux ans et dénonce des prix inférieurs aux coûts, au risque de l’approvisionnement du Queso Manchego.",
+            "pt": "Castela-La Mancha: a ASAJA calcula que a produção de leite de ovelha manchega em 2026 será 25 % inferior à de há dois anos e denuncia preços abaixo dos custos, com risco para o abastecimento do Queso Manchego."
+          },
+          "fuente": "Agronews Castilla y León",
+          "url": "https://www.agronewscastillayleon.com/leche-oveja-manchega-crisis-precios-produccion-2026/"
+        },
+        {
+          "fecha": {
+            "es": "may 2026",
+            "en": "May 2026",
+            "fr": "mai 2026",
+            "pt": "maio 2026"
+          },
+          "texto": {
+            "es": "Francia: el precio pagado en la campaña 2024-2025 fue de 1.291 €/1.000 l (+4,3 %), con más leche recogida y algo menos de grasa y proteína. La fuente no publica el extracto quesero, por lo que no puede pasarse a precio por punto.",
+            "en": "France: the price paid in the 2024-2025 season was €1,291/1,000 l (+4.3%), with more milk collected and slightly lower fat and protein. The source does not publish cheese solids, so it cannot be converted to a price per point.",
+            "fr": "France : le prix payé sur la campagne 2024-2025 s’est établi à 1 291 €/1 000 l (+4,3 %), avec davantage de lait collecté et des taux un peu plus bas. La source ne publie pas l’extrait fromager, le prix ne peut donc pas être converti par point.",
+            "pt": "França: o preço pago na campanha 2024-2025 foi de 1.291 €/1.000 l (+4,3 %), com mais leite recolhido e um pouco menos de gordura e proteína. A fonte não publica o extrato queijeiro, pelo que não é possível converter em preço por ponto."
+          },
+          "fuente": "Réussir",
+          "url": "https://www.reussir.fr/patre/nouvelle-hausse-du-prix-paye-aux-eleveurs-sur-2024-2025"
+        }
+      ],
+      "lectura": {
+        "es": "Señales a vigilar: el precio español se recupera tras la fuerte caída de 2025, pero la producción sigue bajando, sobre todo en la oveja manchega. Una oferta corta sostiene los precios de cara a los contratos de 2027, aunque los ganaderos manchegos siguen por debajo de costes.",
+        "en": "Signals to watch: Spanish prices are recovering after the sharp fall in 2025, but production keeps declining, especially for Manchega sheep. Tight supply supports prices heading into 2027 contracts, although Manchega farmers remain below cost.",
+        "fr": "Signaux à surveiller : le prix espagnol se redresse après la forte baisse de 2025, mais la production continue de reculer, surtout pour la brebis manchega. Une offre réduite soutient les prix à l’approche des contrats 2027, même si les éleveurs manchegos restent sous leurs coûts.",
+        "pt": "Sinais a acompanhar: o preço espanhol recupera após a forte queda de 2025, mas a produção continua a descer, sobretudo na ovelha manchega. Uma oferta curta sustenta os preços para os contratos de 2027, embora os produtores manchegos continuem abaixo dos custos."
+      }
+    }
+  },
+  "aldia": []
 }

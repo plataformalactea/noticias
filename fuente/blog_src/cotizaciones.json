@@ -1,0 +1,199 @@
+{
+ "semana": 45,
+ "actualizado": {
+  "es": "9 nov 2026",
+  "en": "9 Nov 2026",
+  "fr": "9 nov. 2026",
+  "pt": "9 nov. 2026"
+ },
+ "filas": [
+  {
+   "tipo": "num",
+   "id": "smp",
+   "producto": {
+    "es": "Leche desnatada en polvo",
+    "en": "Skimmed milk powder",
+    "fr": "Lait écrémé en poudre",
+    "pt": "Leite magro em pó"
+   },
+   "valor": 3710,
+   "unidad": "€/t",
+   "cambio": 20,
+   "detalle": {
+    "es": "Holanda",
+    "en": "Netherlands",
+    "fr": "Pays-Bas",
+    "pt": "Países Baixos"
+   }
+  },
+  {
+   "tipo": "proteina",
+   "de": "smp",
+   "proteina": 34,
+   "producto": {
+    "es": "Proteína · valor por kg",
+    "en": "Protein · value per kg",
+    "fr": "Protéine · valeur au kg",
+    "pt": "Proteína · valor por kg"
+   },
+   "detalle": {
+    "es": "base leche desnatada en polvo (34 % proteína)",
+    "en": "based on skimmed milk powder (34% protein)",
+    "fr": "base lait écrémé en poudre (34 % protéines)",
+    "pt": "base leite magro em pó (34 % proteína)"
+   }
+  },
+  {
+   "tipo": "num",
+   "producto": {
+    "es": "Leche entera en polvo",
+    "en": "Whole milk powder",
+    "fr": "Lait entier en poudre",
+    "pt": "Leite gordo em pó"
+   },
+   "valor": 3840,
+   "unidad": "€/t",
+   "cambio": 30,
+   "detalle": {
+    "es": "Holanda",
+    "en": "Netherlands",
+    "fr": "Pays-Bas",
+    "pt": "Países Baixos"
+   }
+  },
+  {
+   "tipo": "num",
+   "producto": {
+    "es": "Suero en polvo",
+    "en": "Whey powder",
+    "fr": "Lactosérum en poudre",
+    "pt": "Soro em pó"
+   },
+   "valor": 1640,
+   "unidad": "€/t",
+   "cambio": 0,
+   "detalle": {
+    "es": "Holanda",
+    "en": "Netherlands",
+    "fr": "Pays-Bas",
+    "pt": "Países Baixos"
+   }
+  },
+  {
+   "tipo": "num",
+   "producto": {
+    "es": "Mantequilla 82 %",
+    "en": "Butter 82%",
+    "fr": "Beurre 82 %",
+    "pt": "Manteiga 82 %"
+   },
+   "valor": 3750,
+   "unidad": "€/t",
+   "cambio": 30,
+   "detalle": {
+    "es": "Holanda",
+    "en": "Netherlands",
+    "fr": "Pays-Bas",
+    "pt": "Países Baixos"
+   }
+  },
+  {
+   "tipo": "nata",
+   "producto": {
+    "es": "Nata Italia · 100 % grasa",
+    "en": "Cream Italy · 100% fat",
+    "fr": "Crème Italie · 100 % MG",
+    "pt": "Nata Itália · 100 % gordura"
+   },
+   "precio": 1940,
+   "grasa": 40,
+   "cambio": 0,
+   "origen": {
+    "es": "Milán",
+    "en": "Milan",
+    "fr": "Milan",
+    "pt": "Milão"
+   }
+  },
+  {
+   "tipo": "nata",
+   "producto": {
+    "es": "Nata España · 100 % grasa",
+    "en": "Cream Spain · 100% fat",
+    "fr": "Crème Espagne · 100 % MG",
+    "pt": "Nata Espanha · 100 % gordura"
+   },
+   "precio": 1467.6,
+   "grasa": 30,
+   "cambio": 27.1,
+   "origen": {
+    "es": "Ministerio, sem. 39",
+    "en": "Spanish Ministry, wk 39",
+    "fr": "Ministère espagnol, sem. 39",
+    "pt": "Ministério espanhol, sem. 39"
+   }
+  },
+  {
+   "tipo": "num",
+   "producto": {
+    "es": "Leche spot Francia",
+    "en": "Spot milk France",
+    "fr": "Lait spot France",
+    "pt": "Leite spot França"
+   },
+   "valor": 490,
+   "unidad": "€/1000l",
+   "cambio": "est",
+   "detalle": {
+    "es": "valor mantequilla + polvo",
+    "en": "butter + powder value",
+    "fr": "valeur beurre + poudre",
+    "pt": "valor manteiga + pó"
+   }
+  },
+  {
+   "tipo": "num",
+   "producto": {
+    "es": "Leche de vaca España",
+    "en": "Cow’s milk Spain",
+    "fr": "Lait de vache Espagne",
+    "pt": "Leite de vaca Espanha"
+   },
+   "valor": 0.474,
+   "dec": 3,
+   "unidad": "€/l",
+   "cambio": 0.005,
+   "detalle": {
+    "es": "precio medio FEGA · septiembre",
+    "en": "FEGA average price · September",
+    "fr": "prix moyen FEGA · septembre",
+    "pt": "preço médio FEGA · setembro"
+   }
+  },
+  {
+   "tipo": "num",
+   "producto": {
+    "es": "Leche de vaca · Lonja de León",
+    "en": "Cow’s milk · León exchange",
+    "fr": "Lait de vache · Bourse de León",
+    "pt": "Leite de vaca · Bolsa de León"
+   },
+   "valor": 0.475,
+   "dec": 3,
+   "unidad": "€/l",
+   "cambio": 0,
+   "detalle": {
+    "es": "pactado oct–dic · 3,7 % grasa · 3,10 % proteína",
+    "en": "agreed Oct–Dec · 3.7% fat · 3.10% protein",
+    "fr": "convenu oct.–déc. · 3,7 % MG · 3,10 % protéines",
+    "pt": "acordado out.–dez. · 3,7 % gordura · 3,10 % proteína"
+   }
+  }
+ ],
+ "nota": {
+  "es": "Fuentes: ZuivelNL (4 nov), Bolsa de Milán (semana 44), Ministerio de Agricultura (semana 39, último publicado), FEGA y Lonja de León (29 oct). Las natas se expresan en base 100 % grasa. Proteína: precio de la leche desnatada en polvo dividido entre su 34 % de proteína. Leche spot Francia: valor estimado de la mantequilla y la leche en polvo que se obtienen de 1.000 litros, antes de costes de transformación. Precios orientativos, no constituyen oferta. Solicite cotización para su volumen y destino.",
+  "en": "Sources: ZuivelNL (4 Nov), Milan exchange (week 44), Spanish Ministry of Agriculture (week 39, latest published), FEGA and León exchange (29 Oct). Cream prices are shown on a 100% fat basis. Protein: skimmed milk powder price divided by its 34% protein content. Spot milk France: estimated value of the butter and milk powder obtained from 1,000 litres, before processing costs. Indicative prices, not an offer. Request a quote for your volume and destination.",
+  "fr": "Sources : ZuivelNL (4 nov.), Bourse de Milan (semaine 44), ministère espagnol de l’Agriculture (semaine 39, dernière publiée), FEGA et Bourse de León (29 oct.). Les crèmes sont exprimées sur une base 100 % MG. Protéine : prix du lait écrémé en poudre divisé par sa teneur de 34 % en protéines. Lait spot France : valeur estimée du beurre et de la poudre de lait obtenus à partir de 1 000 litres, avant coûts de transformation. Prix indicatifs, ne constituent pas une offre. Demandez un devis pour votre volume et votre destination.",
+  "pt": "Fontes: ZuivelNL (4 nov.), Bolsa de Milão (semana 44), Ministério da Agricultura espanhol (semana 39, última publicada), FEGA e Bolsa de León (29 out.). As natas são expressas em base 100 % gordura. Proteína: preço do leite magro em pó dividido pelo seu teor de 34 % de proteína. Leite spot França: valor estimado da manteiga e do leite em pó obtidos a partir de 1.000 litros, antes dos custos de transformação. Preços indicativos, não constituem proposta. Peça cotação para o seu volume e destino."
+ }
+}

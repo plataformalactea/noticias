@@ -1,2 +1,0 @@
-# Generado por deploy/blog_week.py a partir de blog_src/aldia.json — no editar a mano
-T = [('Al día', 'Daily news', 'Au jour le jour', 'Dia a dia'), ('Noticias lácteas de cada día, seleccionadas de la prensa de alimentación y distribución.', 'Daily dairy news, selected from the food and retail press.', 'Actualités laitières du jour, sélectionnées dans la presse alimentaire et de la distribution.', 'Notícias lácteas de cada dia, selecionadas da imprensa alimentar e da distribuição.')]

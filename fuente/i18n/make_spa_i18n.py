@@ -1,5 +1,5 @@
 import re
-B = '/tmp/claude-0/-home-claude/fd2192db-e962-524a-b2a2-31b0b87be078/scratchpad/'
+import os as _os; B = _os.environ['PIL_FUENTE'].rstrip('/') + '/'
 D = B + 'Web_Plataforma_Lactea/'
 PAGES = ['index','industriales','retail-horeca','catalogos','blog','sobre-nosotros','mision','solicitud','aviso-legal','privacidad','cookies']
 LANGS = ['es', 'fr', 'pt', 'en']

@@ -1,5 +1,5 @@
 import re, glob, json
-B = '/tmp/claude-0/-home-claude/fd2192db-e962-524a-b2a2-31b0b87be078/scratchpad/'
+import os as _os; B = _os.environ['PIL_FUENTE'].rstrip('/') + '/'
 P = B + 'web/project/'
 src = open(B + 'catalogos/add_viewer.py', encoding='utf-8').read()
 exec(src[:src.index('\napply(')])  # IND, RET, titles, BASE_CSS, viewer(), apply()

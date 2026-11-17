@@ -1,5 +1,5 @@
 import re, glob
-P = '/tmp/claude-0/-home-claude/fd2192db-e962-524a-b2a2-31b0b87be078/scratchpad/web/project/'
+import os as _os; P = _os.environ['PIL_FUENTE'].rstrip('/') + '/web/project/'
 def rd(f): return open(P + f, encoding='utf-8').read()
 def wr(f, s): open(P + f, 'w', encoding='utf-8').write(s)
 def rep(s, a, b, n=1):

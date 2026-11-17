@@ -1,5 +1,5 @@
 import html as H, re, json
-B = '/tmp/claude-0/-home-claude/fd2192db-e962-524a-b2a2-31b0b87be078/scratchpad/'
+import os as _os; B = _os.environ['PIL_FUENTE'].rstrip('/') + '/'
 IMG = 'file://' + B + 'Web_Plataforma_Lactea/img/'
 LOGO = IMG + 'logo-linsoles.png'
 LANGS = ['en', 'fr', 'pt']; LI = {'en': 0, 'fr': 1, 'pt': 2}

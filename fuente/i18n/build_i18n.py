@@ -1,5 +1,5 @@
 import re, json, subprocess, html as H
-B = '/tmp/claude-0/-home-claude/fd2192db-e962-524a-b2a2-31b0b87be078/scratchpad/'
+import os as _os; B = _os.environ['PIL_FUENTE'].rstrip('/') + '/'
 OUT = B + 'Web_Plataforma_Lactea/'
 PAGES = ['index','industriales','retail-horeca','catalogos','blog','sobre-nosotros','mision','solicitud','aviso-legal','privacidad','cookies']
 LANGS = ['en', 'fr', 'pt']
@@ -8,7 +8,7 @@ LI = {'en': 1, 'fr': 2, 'pt': 3}
 def load(mod):
     ns = {}; exec(open(B + 'i18n/' + mod + '.py', encoding='utf-8').read(), ns); return ns
 WEB = {}
-for m in ['tr_common', 'tr_pages', 'tr_legal', 'tr_blog', 'tr_aldia']:
+for m in ['tr_common', 'tr_pages', 'tr_legal', 'tr_blog', 'tr_blogdata']:
     for t in load(m)['T']: WEB[t[0]] = t
 P = load('tr_prod'); PROD = {t[0]: t for t in P['T']}; UI = P['UI']
 CAT_TITLES = {t[0]: t for t in WEB.values()}

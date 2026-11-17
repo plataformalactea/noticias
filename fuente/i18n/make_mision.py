@@ -1,5 +1,5 @@
 import re, glob, json
-B = '/tmp/claude-0/-home-claude/fd2192db-e962-524a-b2a2-31b0b87be078/scratchpad/'
+import os as _os; B = _os.environ['PIL_FUENTE'].rstrip('/') + '/'
 P = B + 'web/project/'
 # nav + footer link on every page
 for f in glob.glob(P + '*.dc.html'):

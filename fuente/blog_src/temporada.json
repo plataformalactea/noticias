@@ -1,0 +1,292 @@
+{
+ "cabra": {
+  "titulo": {
+   "es": "Leche de cabra",
+   "en": "Goat milk",
+   "fr": "Lait de chèvre",
+   "pt": "Leite de cabra"
+  },
+  "subtitulo": {
+   "es": "Precio por litro y por punto de extracto quesero. Datos públicos más recientes de España y Francia.",
+   "en": "Price per litre and per point of cheese solids. Latest public data for Spain and France.",
+   "fr": "Prix au litre et par point d’extrait fromager. Dernières données publiques pour l’Espagne et la France.",
+   "pt": "Preço por litro e por ponto de extrato queijeiro. Dados públicos mais recentes de Espanha e França."
+  },
+  "tabla": [
+   {
+    "ref": {
+     "es": "España · precio medio",
+     "en": "Spain · average price",
+     "fr": "Espagne · prix moyen",
+     "pt": "Espanha · preço médio"
+    },
+    "det": {
+     "es": "Ministerio / FEGA · agosto 2026",
+     "en": "Spanish Ministry / FEGA · August 2026",
+     "fr": "Ministère espagnol / FEGA · août 2026",
+     "pt": "Ministério espanhol / FEGA · agosto 2026"
+    },
+    "litro": 1.047,
+    "punto": 0.1317,
+    "eq": 7.95
+   },
+   {
+    "ref": {
+     "es": "Lonja de León",
+     "en": "León exchange",
+     "fr": "Bourse de León",
+     "pt": "Bolsa de León"
+    },
+    "det": {
+     "es": "leche entregada en septiembre · EQ medio provincia",
+     "en": "milk delivered in September · provincial average CS",
+     "fr": "lait livré en septembre · EF moyen de la province",
+     "pt": "leite entregue em setembro · EQ médio da província"
+    },
+    "litro": null,
+    "punto": 0.12621,
+    "eq": 8.27
+   },
+   {
+    "ref": {
+     "es": "Francia · precio pagado",
+     "en": "France · price paid",
+     "fr": "France · prix payé",
+     "pt": "França · preço pago"
+    },
+    "det": {
+     "es": "Idele · 2º trimestre 2026",
+     "en": "Idele · Q2 2026",
+     "fr": "Idele · 2e trimestre 2026",
+     "pt": "Idele · 2.º trimestre 2026"
+    },
+    "litro": 0.837,
+    "punto": null,
+    "eq": 7.13
+   }
+  ],
+  "nota": {
+   "es": "Extracto quesero (EQ) = grasa + proteína (%). Precio por punto = precio por litro ÷ EQ; equivale al precio por hectogrado ÷ 100. Las cifras sin dato directo se calculan a partir de las otras dos. No existe una media europea oficial de leche de cabra: Francia, primer productor de la UE, sirve de referencia.",
+   "en": "Cheese solids (CS) = fat + protein (%). Price per point = price per litre ÷ CS; equivalent to the price per hectodegree ÷ 100. Figures without a direct source are calculated from the other two. There is no official EU average for goat milk: France, the EU’s largest producer, serves as the reference.",
+   "fr": "Extrait fromager (EF) = matière grasse + protéines (%). Prix par point = prix au litre ÷ EF ; équivaut au prix par hectodegré ÷ 100. Les chiffres sans donnée directe sont calculés à partir des deux autres. Il n’existe pas de moyenne européenne officielle du lait de chèvre : la France, premier producteur de l’UE, sert de référence.",
+   "pt": "Extrato queijeiro (EQ) = gordura + proteína (%). Preço por ponto = preço por litro ÷ EQ; equivale ao preço por hectograu ÷ 100. Os valores sem dado direto são calculados a partir dos outros dois. Não existe uma média europeia oficial para o leite de cabra: a França, maior produtor da UE, serve de referência."
+  },
+  "noticias": [
+   {
+    "fecha": {
+     "es": "nov 2026",
+     "en": "Nov 2026",
+     "fr": "nov. 2026",
+     "pt": "nov. 2026"
+    },
+    "texto": {
+     "es": "España: en agosto la leche de cabra se pagó a 0,1317 € por punto de extracto quesero (+12,9 % en un año), con un extracto medio del 7,95 % (1,047 €/l). Frente a julio, el precio por punto baja un 0,7 %: la subida por litro (+1,7 %) se debe a una leche más rica. Las entregas crecen un 1,2 % (33,2 millones de litros), tras la caída del primer trimestre.",
+     "en": "Spain: in August goat milk was paid €0.1317 per point of cheese solids (+12.9% year on year), with average cheese solids of 7.95% (€1.047/l). Compared with July, the price per point is down 0.7%: the rise per litre (+1.7%) comes from richer milk. Deliveries grow 1.2% (33.2 million litres), after the first-quarter fall.",
+     "fr": "Espagne : en août, le lait de chèvre a été payé 0,1317 € par point d’extrait fromager (+12,9 % sur un an), avec un extrait moyen de 7,95 % (1,047 €/l). Par rapport à juillet, le prix par point recule de 0,7 % : la hausse au litre (+1,7 %) vient d’un lait plus riche. Les livraisons progressent de 1,2 % (33,2 millions de litres), après la baisse du premier trimestre.",
+     "pt": "Espanha: em agosto o leite de cabra foi pago a 0,1317 € por ponto de extrato queijeiro (+12,9 % num ano), com um extrato médio de 7,95 % (1,047 €/l). Face a julho, o preço por ponto desce 0,7 %: a subida por litro (+1,7 %) deve-se a um leite mais rico. As entregas crescem 1,2 % (33,2 milhões de litros), após a queda do primeiro trimestre."
+    },
+    "fuente": "Ministerio de Agricultura",
+    "url": "https://www.mapa.gob.es/dam/mapa/contenido/ganaderia/temas/produccion-y-mercados-ganaderos/sectores-ganaderos-2/ovino-caprino/ovino-y-caprino-de-leche/informes-leche/informe-entregas_ovino-y-caprino_ago26.pdf"
+   },
+   {
+    "fecha": {
+     "es": "may 2026",
+     "en": "May 2026",
+     "fr": "mai 2026",
+     "pt": "maio 2026"
+    },
+    "texto": {
+     "es": "La producción española cayó un 10,8 % en el primer trimestre (88,1 millones de litros) y los ganaderos de caprino de leche bajaron un 6,2 % en un año.",
+     "en": "Spanish production fell 10.8% in the first quarter (88.1 million litres) and the number of dairy goat farmers dropped 6.2% in a year.",
+     "fr": "La production espagnole a reculé de 10,8 % au premier trimestre (88,1 millions de litres) et le nombre d’éleveurs de chèvres laitières a baissé de 6,2 % en un an.",
+     "pt": "A produção espanhola caiu 10,8 % no primeiro trimestre (88,1 milhões de litros) e o número de produtores de caprinos de leite baixou 6,2 % num ano."
+    },
+    "fuente": "Interempresas",
+    "url": "https://www.interempresas.net/caprino/631256-caida-de-produccion-acelera-cambio-de-tendencia-y-precios-historicos-en-caprino.html"
+   },
+   {
+    "fecha": {
+     "es": "jul–sep 2026",
+     "en": "Jul–Sep 2026",
+     "fr": "juil.–sept. 2026",
+     "pt": "jul.–set. 2026"
+    },
+    "texto": {
+     "es": "Francia: la recogida de leche de cabra crece un 6 % en mayo y las ventas de quesos un 2 %; el precio pagado en el 2º trimestre, 837 €/1.000 l con un extracto quesero del 7,13 % (≈ 0,117 € por punto), sube solo 5 € en un año. España, en cambio, paga un 18 % más que hace un año.",
+     "en": "France: goat milk collection grows 6% in May and cheese sales 2%; the price paid in Q2, €837/1,000 l with cheese solids of 7.13% (≈ €0.117 per point), is up only €5 year on year. Spain, by contrast, pays 18% more than a year ago.",
+     "fr": "France : la collecte de lait de chèvre progresse de 6 % en mai et les ventes de fromages de 2 % ; le prix payé au 2e trimestre, 837 €/1 000 l pour un extrait fromager de 7,13 % (≈ 0,117 € par point), ne gagne que 5 € sur un an. L’Espagne, à l’inverse, paie 18 % de plus qu’il y a un an.",
+     "pt": "França: a recolha de leite de cabra cresce 6 % em maio e as vendas de queijos 2 %; o preço pago no 2.º trimestre, 837 €/1.000 l com um extrato queijeiro de 7,13 % (≈ 0,117 € por ponto), sobe apenas 5 € num ano. Espanha, pelo contrário, paga mais 18 % do que há um ano."
+    },
+    "fuente": "Transformation Laitière",
+    "url": "https://www.transformation-laitiere.fr/prix-lait-de-chevre-deuxieme-trimestre-2026-837-euros-ipampa-espagne/"
+   },
+   {
+    "fecha": {
+     "es": "nov 2026",
+     "en": "Nov 2026",
+     "fr": "nov. 2026",
+     "pt": "nov. 2026"
+    },
+    "texto": {
+     "es": "Canarias sigue perdiendo cabaña caprina: de 210.593 cabezas en 2015 a 199.285 en 2024.",
+     "en": "The Canary Islands keep losing goats: from 210,593 head in 2015 to 199,285 in 2024.",
+     "fr": "Les Canaries continuent de perdre des chèvres : de 210 593 têtes en 2015 à 199 285 en 2024.",
+     "pt": "As Canárias continuam a perder efetivo caprino: de 210.593 cabeças em 2015 para 199.285 em 2024."
+    },
+    "fuente": "eDairy News",
+    "url": "https://es.edairynews.com/canarias-pierde-cabras-y-advierten-que-el-queso-sera-un-lujo/"
+   }
+  ],
+  "lectura": {
+   "es": "Señales a vigilar: precios españoles en máximos con una oferta que empieza a recuperarse en agosto y una Francia con más leche y precios estables. Si la recogida sigue creciendo en otoño, la presión sobre el precio podría notarse en los contratos de 2027.",
+   "en": "Signals to watch: Spanish prices at record highs, with supply starting to recover in August, and France with more milk and stable prices. If collection keeps growing this autumn, price pressure could show in 2027 contracts.",
+   "fr": "Signaux à surveiller : des prix espagnols au plus haut, une offre qui commence à se redresser en août et une France avec plus de lait et des prix stables. Si la collecte continue de progresser cet automne, la pression sur les prix pourrait se faire sentir dans les contrats 2027.",
+   "pt": "Sinais a acompanhar: preços espanhóis em máximos, com a oferta a começar a recuperar em agosto, e uma França com mais leite e preços estáveis. Se a recolha continuar a crescer no outono, a pressão sobre o preço poderá sentir-se nos contratos de 2027."
+  }
+ },
+ "oveja": {
+  "titulo": {
+   "es": "Leche de oveja",
+   "en": "Sheep milk",
+   "fr": "Lait de brebis",
+   "pt": "Leite de ovelha"
+  },
+  "subtitulo": {
+   "es": "Precio por litro y por punto de extracto quesero. Datos públicos más recientes de España y Francia.",
+   "en": "Price per litre and per point of cheese solids. Latest public data for Spain and France.",
+   "fr": "Prix au litre et par point d’extrait fromager. Dernières données publiques pour l’Espagne et la France.",
+   "pt": "Preço por litro e por ponto de extrato queijeiro. Dados públicos mais recentes de Espanha e França."
+  },
+  "tabla": [
+   {
+    "ref": {
+     "es": "España · precio medio",
+     "en": "Spain · average price",
+     "fr": "Espagne · prix moyen",
+     "pt": "Espanha · preço médio"
+    },
+    "det": {
+     "es": "Ministerio / FEGA · agosto 2026",
+     "en": "Spanish Ministry / FEGA · August 2026",
+     "fr": "Ministère espagnol / FEGA · août 2026",
+     "pt": "Ministério espanhol / FEGA · agosto 2026"
+    },
+    "litro": 1.298,
+    "punto": 0.1125,
+    "eq": 11.53
+   },
+   {
+    "ref": {
+     "es": "Lonja de León",
+     "en": "León exchange",
+     "fr": "Bourse de León",
+     "pt": "Bolsa de León"
+    },
+    "det": {
+     "es": "leche entregada en septiembre · EQ medio provincia",
+     "en": "milk delivered in September · provincial average CS",
+     "fr": "lait livré en septembre · EF moyen de la province",
+     "pt": "leite entregue em setembro · EQ médio da província"
+    },
+    "litro": null,
+    "punto": 0.11419,
+    "eq": 12.41
+   },
+   {
+    "ref": {
+     "es": "Francia · precio pagado",
+     "en": "France · price paid",
+     "fr": "France · prix payé",
+     "pt": "França · preço pago"
+    },
+    "det": {
+     "es": "Idele · campaña 2024-2025",
+     "en": "Idele · 2024-2025 season",
+     "fr": "Idele · campagne 2024-2025",
+     "pt": "Idele · campanha 2024-2025"
+    },
+    "litro": 1.291,
+    "punto": null,
+    "eq": null
+   }
+  ],
+  "nota": {
+   "es": "Extracto quesero (EQ) = grasa + proteína (%). Precio por punto = precio por litro ÷ EQ; equivale al precio por hectogrado ÷ 100. Las cifras sin dato directo se calculan a partir de las otras dos. Francia publica el precio por campaña (octubre a septiembre) y sin desglose de extracto quesero. No existe una media europea oficial de leche de oveja.",
+   "en": "Cheese solids (CS) = fat + protein (%). Price per point = price per litre ÷ CS; equivalent to the price per hectodegree ÷ 100. Figures without a direct source are calculated from the other two. France publishes the price per season (October to September) without a cheese-solids breakdown. There is no official EU average for sheep milk.",
+   "fr": "Extrait fromager (EF) = matière grasse + protéines (%). Prix par point = prix au litre ÷ EF ; équivaut au prix par hectodegré ÷ 100. Les chiffres sans donnée directe sont calculés à partir des deux autres. La France publie le prix par campagne (octobre à septembre), sans détail de l’extrait fromager. Il n’existe pas de moyenne européenne officielle du lait de brebis.",
+   "pt": "Extrato queijeiro (EQ) = gordura + proteína (%). Preço por ponto = preço por litro ÷ EQ; equivale ao preço por hectograu ÷ 100. Os valores sem dado direto são calculados a partir dos outros dois. A França publica o preço por campanha (outubro a setembro), sem desagregação do extrato queijeiro. Não existe uma média europeia oficial para o leite de ovelha."
+  },
+  "noticias": [
+   {
+    "fecha": {
+     "es": "nov 2026",
+     "en": "Nov 2026",
+     "fr": "nov. 2026",
+     "pt": "nov. 2026"
+    },
+    "texto": {
+     "es": "España: en agosto la leche de oveja se pagó a 0,1125 € por punto de extracto quesero (+6,4 % en un año), con un extracto medio del 11,53 % (1,298 €/l). Frente a julio, el precio por punto baja un 0,8 %: la subida por litro (+1,8 %) se debe a una leche más rica. Las entregas suben un 1,2 % (40,9 millones de litros).",
+     "en": "Spain: in August sheep milk was paid €0.1125 per point of cheese solids (+6.4% year on year), with average cheese solids of 11.53% (€1.298/l). Compared with July, the price per point is down 0.8%: the rise per litre (+1.8%) comes from richer milk. Deliveries rise 1.2% (40.9 million litres).",
+     "fr": "Espagne : en août, le lait de brebis a été payé 0,1125 € par point d’extrait fromager (+6,4 % sur un an), avec un extrait moyen de 11,53 % (1,298 €/l). Par rapport à juillet, le prix par point recule de 0,8 % : la hausse au litre (+1,8 %) vient d’un lait plus riche. Les livraisons progressent de 1,2 % (40,9 millions de litres).",
+     "pt": "Espanha: em agosto o leite de ovelha foi pago a 0,1125 € por ponto de extrato queijeiro (+6,4 % num ano), com um extrato médio de 11,53 % (1,298 €/l). Face a julho, o preço por ponto desce 0,8 %: a subida por litro (+1,8 %) deve-se a um leite mais rico. As entregas sobem 1,2 % (40,9 milhões de litros)."
+    },
+    "fuente": "Ministerio de Agricultura",
+    "url": "https://www.mapa.gob.es/dam/mapa/contenido/ganaderia/temas/produccion-y-mercados-ganaderos/sectores-ganaderos-2/ovino-caprino/ovino-y-caprino-de-leche/informes-leche/informe-entregas_ovino-y-caprino_ago26.pdf"
+   },
+   {
+    "fecha": {
+     "es": "jul 2026",
+     "en": "Jul 2026",
+     "fr": "juil. 2026",
+     "pt": "jul. 2026"
+    },
+    "texto": {
+     "es": "De enero a mayo la producción cayó un 1,7 % (215,8 millones de litros), mientras el precio medio subió un 5,7 %, hasta 0,1109 € por punto de extracto quesero.",
+     "en": "From January to May production fell 1.7% (215.8 million litres), while the average price rose 5.7% to €0.1109 per point of cheese solids.",
+     "fr": "De janvier à mai, la production a reculé de 1,7 % (215,8 millions de litres), tandis que le prix moyen a progressé de 5,7 %, à 0,1109 € par point d’extrait fromager.",
+     "pt": "De janeiro a maio a produção caiu 1,7 % (215,8 milhões de litros), enquanto o preço médio subiu 5,7 %, para 0,1109 € por ponto de extrato queijeiro."
+    },
+    "fuente": "eDairy News",
+    "url": "https://es.edairynews.com/espana-reduce-la-produccion-de-leche-de-oveja/"
+   },
+   {
+    "fecha": {
+     "es": "sep 2026",
+     "en": "Sep 2026",
+     "fr": "sept. 2026",
+     "pt": "set. 2026"
+    },
+    "texto": {
+     "es": "Castilla-La Mancha: ASAJA calcula que la leche de oveja manchega de 2026 será un 25 % inferior a la de hace dos años y denuncia precios por debajo de costes, con riesgo para el suministro del Queso Manchego.",
+     "en": "Castilla-La Mancha: ASAJA estimates that Manchega sheep milk output in 2026 will be 25% lower than two years ago and says prices are below production costs, putting Manchego cheese supply at risk.",
+     "fr": "Castille-La Manche : l’ASAJA estime que la production de lait de brebis manchega en 2026 sera inférieure de 25 % à celle d’il y a deux ans et dénonce des prix inférieurs aux coûts, au risque de l’approvisionnement du Queso Manchego.",
+     "pt": "Castela-La Mancha: a ASAJA calcula que a produção de leite de ovelha manchega em 2026 será 25 % inferior à de há dois anos e denuncia preços abaixo dos custos, com risco para o abastecimento do Queso Manchego."
+    },
+    "fuente": "Agronews Castilla y León",
+    "url": "https://www.agronewscastillayleon.com/leche-oveja-manchega-crisis-precios-produccion-2026/"
+   },
+   {
+    "fecha": {
+     "es": "may 2026",
+     "en": "May 2026",
+     "fr": "mai 2026",
+     "pt": "maio 2026"
+    },
+    "texto": {
+     "es": "Francia: el precio pagado en la campaña 2024-2025 fue de 1.291 €/1.000 l (+4,3 %), con más leche recogida y algo menos de grasa y proteína. La fuente no publica el extracto quesero, por lo que no puede pasarse a precio por punto.",
+     "en": "France: the price paid in the 2024-2025 season was €1,291/1,000 l (+4.3%), with more milk collected and slightly lower fat and protein. The source does not publish cheese solids, so it cannot be converted to a price per point.",
+     "fr": "France : le prix payé sur la campagne 2024-2025 s’est établi à 1 291 €/1 000 l (+4,3 %), avec davantage de lait collecté et des taux un peu plus bas. La source ne publie pas l’extrait fromager, le prix ne peut donc pas être converti par point.",
+     "pt": "França: o preço pago na campanha 2024-2025 foi de 1.291 €/1.000 l (+4,3 %), com mais leite recolhido e um pouco menos de gordura e proteína. A fonte não publica o extrato queijeiro, pelo que não é possível converter em preço por ponto."
+    },
+    "fuente": "Réussir",
+    "url": "https://www.reussir.fr/patre/nouvelle-hausse-du-prix-paye-aux-eleveurs-sur-2024-2025"
+   }
+  ],
+  "lectura": {
+   "es": "Señales a vigilar: el precio español se recupera tras la fuerte caída de 2025, pero la producción sigue bajando, sobre todo en la oveja manchega. Una oferta corta sostiene los precios de cara a los contratos de 2027, aunque los ganaderos manchegos siguen por debajo de costes.",
+   "en": "Signals to watch: Spanish prices are recovering after the sharp fall in 2025, but production keeps declining, especially for Manchega sheep. Tight supply supports prices heading into 2027 contracts, although Manchega farmers remain below cost.",
+   "fr": "Signaux à surveiller : le prix espagnol se redresse après la forte baisse de 2025, mais la production continue de reculer, surtout pour la brebis manchega. Une offre réduite soutient les prix à l’approche des contrats 2027, même si les éleveurs manchegos restent sous leurs coûts.",
+   "pt": "Sinais a acompanhar: o preço espanhol recupera após a forte queda de 2025, mas a produção continua a descer, sobretudo na ovelha manchega. Uma oferta curta sustenta os preços para os contratos de 2027, embora os produtores manchegos continuem abaixo dos custos."
+  }
+ }
+}

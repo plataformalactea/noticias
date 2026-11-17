@@ -1,4 +1,4 @@
-B = '/tmp/claude-0/-home-claude/fd2192db-e962-524a-b2a2-31b0b87be078/scratchpad/'
+import os as _os; B = _os.environ['PIL_FUENTE'].rstrip('/') + '/'
 IND = ['9dbaf90ef49cc27f167a1d8eabc63f25','c9429ec6cbee14adaea115a0ed34c54e','a8d084b23c3c80bc86183c2d99ae0aa3','dcfc1d038ac2001136d9ca50c6723214','9e08f6e8a39a3f63e2142aa331ed9829','d37386050ecb6d210dde19f085278c64','35a74227fa46122c00534d74249a5300']
 RET = ['cda6270a5ca68c76d8c28b58e81fc9a0','b3645ab9b08d6641f341cbdb2dd37d76','81eb5799f042dc15eb67de785d8f0d12','4422940662207c67deb4d7ba414612bc']
 IND_T = ['Portada','Leches en polvo','Proteínas lácteas','Sueros en polvo','Grasas lácteas','Líquidos lácteos','Quesos']
