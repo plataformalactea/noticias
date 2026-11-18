@@ -1,0 +1,430 @@
+{
+ "actualizado": {
+  "es": "18 nov 2026",
+  "en": "18 Nov 2026",
+  "fr": "18 nov. 2026",
+  "pt": "18 nov. 2026"
+ },
+ "grupos": [
+  {
+   "nombre": {
+    "es": "Leche en polvo y concentrados",
+    "en": "Milk powders and concentrates",
+    "fr": "Poudres de lait et concentrés",
+    "pt": "Leites em pó e concentrados"
+   },
+   "productos": [
+    {
+     "nombre": {
+      "es": "Leche desnatada en polvo",
+      "en": "Skimmed milk powder",
+      "fr": "Lait écrémé en poudre",
+      "pt": "Leite magro em pó"
+     },
+     "precio": 3870,
+     "cambio": null
+    },
+    {
+     "nombre": {
+      "es": "Leche desnatada en polvo ecológica",
+      "en": "Organic skimmed milk powder",
+      "fr": "Lait écrémé en poudre bio",
+      "pt": "Leite magro em pó biológico"
+     },
+     "precio": 4620,
+     "cambio": null
+    },
+    {
+     "nombre": {
+      "es": "Leche entera en polvo",
+      "en": "Whole milk powder",
+      "fr": "Lait entier en poudre",
+      "pt": "Leite gordo em pó"
+     },
+     "precio": 4120,
+     "cambio": null
+    },
+    {
+     "nombre": {
+      "es": "Leche entera en polvo sin lactosa instantánea",
+      "en": "Instant lactose-free whole milk powder",
+      "fr": "Lait entier en poudre sans lactose instantané",
+      "pt": "Leite gordo em pó sem lactose instantâneo"
+     },
+     "precio": 7020,
+     "cambio": null
+    },
+    {
+     "nombre": {
+      "es": "Leche en polvo con grasa",
+      "en": "Fat-filled milk powder",
+      "fr": "Poudre de lait réengraissée",
+      "pt": "Leite em pó com gordura"
+     },
+     "precio": 3020,
+     "cambio": null
+    },
+    {
+     "nombre": {
+      "es": "Concentrado de leche desnatada",
+      "en": "Skimmed milk concentrate",
+      "fr": "Concentré de lait écrémé",
+      "pt": "Concentrado de leite magro"
+     },
+     "precio": 3120,
+     "cambio": null
+    }
+   ]
+  },
+  {
+   "nombre": {
+    "es": "Grasas lácteas",
+    "en": "Dairy fats",
+    "fr": "Matières grasses laitières",
+    "pt": "Gorduras lácteas"
+   },
+   "productos": [
+    {
+     "nombre": {
+      "es": "Mantequilla",
+      "en": "Butter",
+      "fr": "Beurre",
+      "pt": "Manteiga"
+     },
+     "precio": 3620,
+     "cambio": null
+    },
+    {
+     "nombre": {
+      "es": "Mantequilla congelada",
+      "en": "Frozen butter",
+      "fr": "Beurre congelé",
+      "pt": "Manteiga congelada"
+     },
+     "precio": 3720,
+     "cambio": null
+    },
+    {
+     "nombre": {
+      "es": "Mantequilla láctica",
+      "en": "Lactic butter",
+      "fr": "Beurre lactique",
+      "pt": "Manteiga láctica"
+     },
+     "precio": 3820,
+     "cambio": null
+    },
+    {
+     "nombre": {
+      "es": "Grasa láctea anhidra (AMF)",
+      "en": "Anhydrous milk fat (AMF)",
+      "fr": "Matière grasse laitière anhydre (MGLA)",
+      "pt": "Gordura láctea anidra (AMF)"
+     },
+     "precio": 4520,
+     "cambio": null
+    }
+   ]
+  },
+  {
+   "nombre": {
+    "es": "Suero, permeados y lactosa",
+    "en": "Whey, permeates and lactose",
+    "fr": "Lactosérum, perméats et lactose",
+    "pt": "Soro, permeados e lactose"
+   },
+   "productos": [
+    {
+     "nombre": {
+      "es": "Suero dulce en polvo",
+      "en": "Sweet whey powder",
+      "fr": "Lactosérum doux en poudre",
+      "pt": "Soro doce em pó"
+     },
+     "precio": 2020,
+     "cambio": null
+    },
+    {
+     "nombre": {
+      "es": "Suero desmineralizado 90 en polvo",
+      "en": "Demineralised whey powder 90",
+      "fr": "Lactosérum déminéralisé 90 en poudre",
+      "pt": "Soro desmineralizado 90 em pó"
+     },
+     "precio": 2620,
+     "cambio": null
+    },
+    {
+     "nombre": {
+      "es": "Concentrado de suero 24–30 %",
+      "en": "Whey concentrate 24–30%",
+      "fr": "Concentré de lactosérum 24–30 %",
+      "pt": "Concentrado de soro 24–30 %"
+     },
+     "precio": 1520,
+     "cambio": null
+    },
+    {
+     "nombre": {
+      "es": "Suero de mantequilla en polvo",
+      "en": "Buttermilk powder",
+      "fr": "Babeurre en poudre",
+      "pt": "Leitelho em pó"
+     },
+     "precio": 3620,
+     "cambio": null
+    },
+    {
+     "nombre": {
+      "es": "Permeado de suero",
+      "en": "Whey permeate",
+      "fr": "Perméat de lactosérum",
+      "pt": "Permeado de soro"
+     },
+     "precio": 1120,
+     "cambio": null
+    },
+    {
+     "nombre": {
+      "es": "Permeado de leche",
+      "en": "Milk permeate",
+      "fr": "Perméat de lait",
+      "pt": "Permeado de leite"
+     },
+     "precio": 1120,
+     "cambio": null
+    },
+    {
+     "nombre": {
+      "es": "Lactosa",
+      "en": "Lactose",
+      "fr": "Lactose",
+      "pt": "Lactose"
+     },
+     "precio": 1670,
+     "cambio": null
+    }
+   ]
+  },
+  {
+   "nombre": {
+    "es": "Proteínas lácteas",
+    "en": "Dairy proteins",
+    "fr": "Protéines laitières",
+    "pt": "Proteínas lácteas"
+   },
+   "productos": [
+    {
+     "nombre": {
+      "es": "Concentrado de proteína de suero 35 %",
+      "en": "Whey protein concentrate 35%",
+      "fr": "Concentré de protéines de lactosérum 35 %",
+      "pt": "Concentrado de proteína de soro 35 %"
+     },
+     "precio": 4520,
+     "cambio": null
+    },
+    {
+     "nombre": {
+      "es": "Concentrado de proteína de suero 65 % alto en grasa",
+      "en": "High-fat whey protein concentrate 65%",
+      "fr": "Concentré de protéines de lactosérum 65 % riche en MG",
+      "pt": "Concentrado de proteína de soro 65 % rico em gordura"
+     },
+     "precio": 13020,
+     "cambio": null
+    },
+    {
+     "nombre": {
+      "es": "Concentrado de proteína de suero 70 instantáneo",
+      "en": "Instant whey protein concentrate 70",
+      "fr": "Concentré de protéines de lactosérum 70 instantané",
+      "pt": "Concentrado de proteína de soro 70 instantâneo"
+     },
+     "precio": 14020,
+     "cambio": null
+    },
+    {
+     "nombre": {
+      "es": "Concentrado de proteína de suero 80 %",
+      "en": "Whey protein concentrate 80%",
+      "fr": "Concentré de protéines de lactosérum 80 %",
+      "pt": "Concentrado de proteína de soro 80 %"
+     },
+     "precio": 14520,
+     "cambio": null
+    },
+    {
+     "nombre": {
+      "es": "Concentrado de proteína de suero 80 % instantáneo",
+      "en": "Instant whey protein concentrate 80%",
+      "fr": "Concentré de protéines de lactosérum 80 % instantané",
+      "pt": "Concentrado de proteína de soro 80 % instantâneo"
+     },
+     "precio": 15020,
+     "cambio": null
+    },
+    {
+     "nombre": {
+      "es": "Concentrado de proteína de suero 80 sin lactosa",
+      "en": "Lactose-free whey protein concentrate 80",
+      "fr": "Concentré de protéines de lactosérum 80 sans lactose",
+      "pt": "Concentrado de proteína de soro 80 sem lactose"
+     },
+     "precio": 19020,
+     "cambio": null
+    },
+    {
+     "nombre": {
+      "es": "Aislado de proteína de suero",
+      "en": "Whey protein isolate",
+      "fr": "Isolat de protéines de lactosérum",
+      "pt": "Isolado de proteína de soro"
+     },
+     "precio": 25020,
+     "cambio": null
+    },
+    {
+     "nombre": {
+      "es": "Aislado de proteína de suero 90 % instantáneo",
+      "en": "Instant whey protein isolate 90%",
+      "fr": "Isolat de protéines de lactosérum 90 % instantané",
+      "pt": "Isolado de proteína de soro 90 % instantâneo"
+     },
+     "precio": 25520,
+     "cambio": null
+    },
+    {
+     "nombre": {
+      "es": "Concentrado de proteína de leche 85 %",
+      "en": "Milk protein concentrate 85%",
+      "fr": "Concentré de protéines de lait 85 %",
+      "pt": "Concentrado de proteína de leite 85 %"
+     },
+     "precio": 15020,
+     "cambio": null
+    },
+    {
+     "nombre": {
+      "es": "Aislado de proteína de leche",
+      "en": "Milk protein isolate",
+      "fr": "Isolat de protéines de lait",
+      "pt": "Isolado de proteína de leite"
+     },
+     "precio": 16020,
+     "cambio": null
+    },
+    {
+     "nombre": {
+      "es": "Caseína ácida",
+      "en": "Acid casein",
+      "fr": "Caséine acide",
+      "pt": "Caseína ácida"
+     },
+     "precio": 7420,
+     "cambio": null
+    },
+    {
+     "nombre": {
+      "es": "Caseína de cuajo",
+      "en": "Rennet casein",
+      "fr": "Caséine présure",
+      "pt": "Caseína de coalho"
+     },
+     "precio": 8920,
+     "cambio": null
+    }
+   ]
+  },
+  {
+   "nombre": {
+    "es": "Quesos",
+    "en": "Cheeses",
+    "fr": "Fromages",
+    "pt": "Queijos"
+   },
+   "productos": [
+    {
+     "nombre": {
+      "es": "Cagliata",
+      "en": "Cagliata",
+      "fr": "Cagliata",
+      "pt": "Cagliata"
+     },
+     "precio": 3620,
+     "cambio": null
+    },
+    {
+     "nombre": {
+      "es": "Cheddar",
+      "en": "Cheddar",
+      "fr": "Cheddar",
+      "pt": "Cheddar"
+     },
+     "precio": 3920,
+     "cambio": null
+    },
+    {
+     "nombre": {
+      "es": "Edam 30 %",
+      "en": "Edam 30%",
+      "fr": "Edam 30 %",
+      "pt": "Edam 30 %"
+     },
+     "precio": 3620,
+     "cambio": null
+    },
+    {
+     "nombre": {
+      "es": "Edam 40 %",
+      "en": "Edam 40%",
+      "fr": "Edam 40 %",
+      "pt": "Edam 40 %"
+     },
+     "precio": 3670,
+     "cambio": null
+    },
+    {
+     "nombre": {
+      "es": "Emmental",
+      "en": "Emmental",
+      "fr": "Emmental",
+      "pt": "Emmental"
+     },
+     "precio": 3820,
+     "cambio": null
+    },
+    {
+     "nombre": {
+      "es": "Gouda",
+      "en": "Gouda",
+      "fr": "Gouda",
+      "pt": "Gouda"
+     },
+     "precio": 3770,
+     "cambio": null
+    },
+    {
+     "nombre": {
+      "es": "Mozzarella",
+      "en": "Mozzarella",
+      "fr": "Mozzarella",
+      "pt": "Mozzarella"
+     },
+     "precio": 3820,
+     "cambio": null
+    },
+    {
+     "nombre": {
+      "es": "Tilsit",
+      "en": "Tilsit",
+      "fr": "Tilsit",
+      "pt": "Tilsit"
+     },
+     "precio": 3720,
+     "cambio": null
+    }
+   ]
+  }
+ ]
+}

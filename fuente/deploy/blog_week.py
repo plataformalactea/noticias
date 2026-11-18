@@ -145,6 +145,56 @@ def registra_flechas(filas):
         tt = tuple(pref + x for x in t)
         if tt not in TR: TR.append(tt)
 
+
+# ---------- precios spot EXW ----------
+SPOT_TXT = {
+ 'eyebrow': {'es': 'Precios spot EXW', 'en': 'EXW spot prices', 'fr': 'Prix spot EXW', 'pt': 'Preços spot EXW'},
+ 'titulo': {'es': 'Ingredientes lácteos · precios spot', 'en': 'Dairy ingredients · spot prices', 'fr': 'Ingrédients laitiers · prix spot', 'pt': 'Ingredientes lácteos · preços spot'},
+ 'act': {'es': 'Actualizado {} · €/t, EXW', 'en': 'Updated {} · €/t, EXW', 'fr': 'Mis à jour le {} · €/t, EXW', 'pt': 'Atualizado a {} · €/t, EXW'},
+ 'aviso': {'es': 'Precios spot en condiciones EXW, en euros por tonelada, sujetos a cambios y a disponibilidad. No constituyen una oferta en firme.',
+           'en': 'Spot prices on EXW terms, in euros per tonne, subject to change and availability. They do not constitute a firm offer.',
+           'fr': 'Prix spot aux conditions EXW, en euros par tonne, susceptibles de modification et sous réserve de disponibilité. Ils ne constituent pas une offre ferme.',
+           'pt': 'Preços spot em condições EXW, em euros por tonelada, sujeitos a alterações e a disponibilidade. Não constituem uma proposta firme.'},
+ 'cta': {'es': 'Solicitar cotización', 'en': 'Request a quote', 'fr': 'Demander un devis', 'pt': 'Pedir cotação'},
+}
+
+def spot_html(d):
+    if not d or not d.get('grupos'): return ''
+    T = {k: tr(v) for k, v in SPOT_TXT.items()}
+    act = multi(lambda l: SPOT_TXT['act'][l].format(d['actualizado'][l]))
+    cards = []
+    for g in d['grupos']:
+        rows = []
+        ps = g['productos']
+        for i, p in enumerate(ps):
+            val = multi(lambda l: money(p['precio'], 0, '€/t', l))
+            c = p.get('cambio')
+            if c:
+                cv = multi(lambda l: money(c, 0, '€/t', l, sign=True))
+                cam = f'<span style="font-size: 12px; font-weight: 700; color: {"#1F8A4C" if c > 0 else "#C0392B"}">{"▲" if c > 0 else "▼"} <span>{e(cv)}</span></span>'
+            else:
+                cam = ''
+            rows.append(
+                f'<div style="display: flex; justify-content: space-between; align-items: baseline; gap: 12px; padding: 9px 0{"; border-bottom: 1px solid #E3E9F2" if i < len(ps) - 1 else ""}">'
+                f'<span style="font-size: 15px; line-height: 1.35">{e(tr(p["nombre"]))}</span>'
+                f'<span style="display: flex; flex-direction: column; align-items: flex-end; white-space: nowrap"><span style="font-weight: 700">{e(val)}</span>{cam}</span></div>')
+        cards.append(
+            '<div style="background: #FFFFFF; border: 1px solid #D3DCEA; border-radius: 16px; padding: 20px 22px; display: flex; flex-direction: column">'
+            f'<h3 style="margin: 0 0 6px; font-family: Archivo, sans-serif; font-size: 17px; font-weight: 800; color: #0E2A4F">{e(tr(g["nombre"]))}</h3>'
+            + ''.join(rows) + '</div>')
+    return ('<section id="precios-spot" style="background: #F4F7FB">\n'
+            '<div style="max-width: 1240px; margin: 0 auto; padding: 48px 24px; display: flex; flex-direction: column; gap: 20px">\n'
+            '<div style="display: flex; flex-direction: column; gap: 6px">'
+            f'<span style="font-size: 13px; font-weight: 700; letter-spacing: 0.14em; text-transform: uppercase; color: #2B4F9C">{e(T["eyebrow"])}</span>'
+            f'<h2 style="margin: 0; font-family: Archivo, sans-serif; font-weight: 800; font-size: clamp(26px, 5vw, 34px)">{e(T["titulo"])}</h2>'
+            f'<span style="font-size: 14px; color: #4D5D78">{e(act)}</span></div>\n'
+            '<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 20px; align-items: start">\n'
+            + '\n'.join(cards) + '\n</div>\n'
+            '<div style="display: flex; flex-wrap: wrap; gap: 16px; align-items: center; justify-content: space-between">'
+            f'<p style="margin: 0; font-size: 13px; color: #4D5D78; line-height: 1.5; max-width: 760px">{e(T["aviso"])}</p>'
+            f'<a href="Solicitud.dc.html" style="background: #0E2A4F; color: #FFFFFF; font-weight: 700; font-size: 15px; padding: 12px 22px; border-radius: 999px; text-decoration: none">{e(T["cta"])}</a>'
+            '</div>\n</div>\n</section>\n')
+
 # ---------- cabra y oveja ----------
 def especie_html(d):
     filas = ''
@@ -217,6 +267,7 @@ RANGO_LBL = {'es': 'Semana {} · {}', 'en': 'Week {} · {}', 'fr': 'Semaine {} �
 
 def build():
     S = load('semana.json'); CZ = load('cotizaciones.json'); TEMP = load('temporada.json')
+    SPOT = load('spot.json')
     sem = S['semana']; NOT = S['noticias']
     rango = multi(lambda l: RANGO_LBL[l].format(sem['numero'], sem['rango'][l]))
     intro = (
@@ -259,10 +310,10 @@ def build():
     if ad:
         mark = f'<span style="font-size: 15px; font-weight: 700">{e(rango)}'
         intro = intro.replace(mark, '</div>\n</section>\n' + ad + '<section>\n<div style="max-width: 1240px; margin: 0 auto; padding: 24px 24px 0; display: flex; flex-direction: column; gap: 14px">\n' + mark, 1)
-    s = s[:a] + intro + '\n' + feat + '\n' + grid + '\n' + ''.join(especie_html(TEMP[k]) + '\n' for k in ('cabra', 'oveja')) + s[b:]
+    s = s[:a] + intro + '\n' + feat + '\n' + grid + '\n' + spot_html(SPOT) + ''.join(especie_html(TEMP[k]) + '\n' for k in ('cabra', 'oveja')) + s[b:]
     open(B + 'deploy/blog_filter.html', 'w', encoding='utf-8').write(js)
     open(SRC, 'w', encoding='utf-8').write(s)
-    json.dump({'semana': sem, 'noticias': NOT, 'cotizaciones': CZ, 'temporada': TEMP, 'aldia': aldia_items()},
+    json.dump({'semana': sem, 'noticias': NOT, 'cotizaciones': CZ, 'temporada': TEMP, 'spot': SPOT, 'aldia': aldia_items()},
               open(B + 'blog_src/noticias.json', 'w', encoding='utf-8'), ensure_ascii=False, indent=2)
     home_cards(NOT[:3])
 

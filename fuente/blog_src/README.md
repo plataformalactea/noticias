@@ -71,3 +71,15 @@ Fuentes habituales: ZuivelNL (mantequilla, leches en polvo, suero; se publica lo
 - `tabla`: `{"ref": {...}, "det": {...}, "litro": 1.047, "punto": 0.1317, "eq": 7.95}` — precio por litro (€/l), por punto de extracto quesero (€) y extracto quesero (%). Si falta uno se pone `null` y se calcula de los otros dos (se muestra con «≈»).
 - `noticias`: `{"fecha": {...}, "texto": {...}, "fuente": "...", "url": "..."}` — tendencias, previsiones, producción. Expresar los precios por punto de extracto quesero junto al €/l.
 - Fuentes: Ministerio de Agricultura, informe mensual de entregas de ovino y caprino (https://www.mapa.gob.es/es/ganaderia/temas/produccion-y-mercados-ganaderos/sectores-ganaderos/ovino-caprino/leche-de-oveja-y-cabra/informes-declaraciones-obligatorias-de-leche-por-primeros-compradores), Lonja de León (leche de oveja y cabra), Idele/Réussir (Francia).
+
+## spot.json — sección «Precios spot EXW» del blog
+
+- `actualizado`: fecha en los 4 idiomas (mismo formato que cotizaciones.json).
+- `grupos[]`: `nombre` (4 idiomas) y `productos[]`.
+- Cada producto: `nombre` (4 idiomas), `precio` (€/t, entero, precio final ya publicado), `cambio` (diferencia en €/t con el precio publicado anterior; `null` o `0` = no se muestra).
+- Precios spot EXW, sujetos a cambios, no constituyen oferta en firme (el aviso lo pone el generador).
+- Para actualizar: cambiar `precio`, poner `cambio` = nuevo − anterior y la fecha, y ejecutar `bash fuente/actualizar_web.sh`.
+
+## cotizaciones.json
+
+Desde el 18 nov 2026 solo lleva Leche spot Francia, Leche de vaca España (FEGA) y Lonja de León. No volver a añadir leche en polvo, suero, mantequilla, natas ni proteína: esos productos están en spot.json.
