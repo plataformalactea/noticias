@@ -676,6 +676,16 @@
             },
             "precio": 4520,
             "cambio": null
+          },
+          {
+            "nombre": {
+              "es": "Nata 40 % · precio base 100 % grasa",
+              "en": "Cream 40% · price on 100% fat basis",
+              "fr": "Crème 40 % · prix base 100 % MG",
+              "pt": "Nata 40 % · preço base 100 % gordura"
+            },
+            "precio": 4270,
+            "cambio": null
           }
         ]
       },
@@ -975,6 +985,16 @@
               "pt": "Tilsit"
             },
             "precio": 3720,
+            "cambio": null
+          },
+          {
+            "nombre": {
+              "es": "Sucedáneos de queso",
+              "en": "Cheese analogues",
+              "fr": "Analogues de fromage",
+              "pt": "Análogos de queijo"
+            },
+            "precio": 3120,
             "cambio": null
           }
         ]
