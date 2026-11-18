@@ -233,6 +233,114 @@ def especie_html(d):
             f'<p style="margin: 8px 0 0; padding: 14px 16px; background: #E4F2EA; color: #1F4A30; border-radius: 12px; font-size: 14px; line-height: 1.55">{e(tr(d["lectura"]))}</p></div>\n'
             '</div>\n</div>\n</div>\n</section>\n')
 
+
+# ---------- leche líquida: vaca, cabra y oveja en un solo cuadro ----------
+LECHE_UI = {
+ 'eyebrow': {'es': 'Leche líquida', 'en': 'Liquid milk', 'fr': 'Lait liquide', 'pt': 'Leite líquido'},
+ 'titulo': {'es': 'Precios de la leche de vaca, cabra y oveja', 'en': 'Cow, goat and sheep milk prices', 'fr': 'Prix du lait de vache, de chèvre et de brebis', 'pt': 'Preços do leite de vaca, cabra e ovelha'},
+ 'sub': {'es': 'Precio por litro y por punto de extracto quesero. Datos públicos más recientes de España y Francia.',
+         'en': 'Price per litre and per cheese-solids point. Latest public data for Spain and France.',
+         'fr': 'Prix au litre et par point d’extrait fromager. Dernières données publiques pour l’Espagne et la France.',
+         'pt': 'Preço por litro e por ponto de extrato queijeiro. Dados públicos mais recentes de Espanha e França.'},
+ 'vaca': {'es': 'Vaca', 'en': 'Cow', 'fr': 'Vache', 'pt': 'Vaca'},
+ 'cabra': {'es': 'Cabra', 'en': 'Goat', 'fr': 'Chèvre', 'pt': 'Cabra'},
+ 'oveja': {'es': 'Oveja', 'en': 'Sheep', 'fr': 'Brebis', 'pt': 'Ovelha'},
+ 'tend': {'es': 'Cabra y oveja · tendencias y producción', 'en': 'Goat and sheep · trends and production', 'fr': 'Chèvre et brebis · tendances et production', 'pt': 'Cabra e ovelha · tendências e produção'},
+}
+
+def _celdas(l, pt_, eq):
+    calc_l = l is None and eq is not None and pt_ is not None; calc_p = pt_ is None and eq is not None and l is not None
+    if calc_l: l = pt_ * eq
+    if calc_p: pt_ = l / eq
+    c_l = '—' if l is None else multi(lambda g: ('≈ ' if calc_l else '') + money(l, 3, '€/l', g))
+    c_p = '—' if pt_ is None else multi(lambda g: ('≈ ' if calc_p else '') + money(pt_, 4, '€', g))
+    c_e = '—' if eq is None else multi(lambda g: pct(eq, 2, g))
+    return c_l, c_p, c_e
+
+def _fila(ref, det, c_l, c_p, c_e, cam=''):
+    return ('<tr style="border-top: 1px solid #D3DCEA">'
+            f'<td style="padding: 12px 8px 12px 0"><div style="font-weight: 700">{e(ref)}</div><div style="font-size: 13px; color: #4D5D78">{e(det)}</div></td>'
+            f'<td style="padding: 12px 6px; text-align: right; white-space: nowrap"><div style="font-weight: 700">{e(c_l)}</div>{cam}</td>'
+            f'<td style="padding: 12px 6px; text-align: right; font-weight: 700; white-space: nowrap">{e(c_p)}</td>'
+            f'<td style="padding: 12px 0 12px 6px; text-align: right; white-space: nowrap">{e(c_e)}</td></tr>')
+
+def _grupo(nombre):
+    return (f'<tr><td colspan="4" style="padding: 18px 0 6px; font-family: Archivo, sans-serif; font-size: 13px; font-weight: 800; '
+            f'letter-spacing: 0.12em; text-transform: uppercase; color: #2B4F9C">{e(tr(nombre))}</td></tr>')
+
+def _cam_html(r):
+    c = r.get('cambio', 0)
+    if c == 'est': col, txt = '#4D5D78', 'estimación'
+    elif not c: col, txt = '#4D5D78', 'sin cambios'
+    else:
+        t = multi(lambda l: cambio_txt(r, l)); up = c > 0
+        return f'<div style="font-size: 12px; font-weight: 700; color: {"#1F8A4C" if up else "#C0392B"}">{"▲" if up else "▼"} <span>{e(t)}</span></div>'
+    return f'<div style="font-size: 12px; font-weight: 700; color: {col}">{txt}</div>'
+
+def _resto(a, b):
+    # parte común (frases iniciales) de dos notas y los restos
+    i = 0
+    while i < min(len(a), len(b)) and a[i] == b[i]: i += 1
+    j = a.rfind('. ', 0, i + 1)
+    if j < 0: return '', a, b
+    return a[:j + 1], a[j + 2:], b[j + 2:]
+
+def leche_html(cz, temp):
+    U = {k: tr(v) for k, v in LECHE_UI.items()}
+    filas = _grupo(LECHE_UI['vaca'])
+    for r in cz['filas']:
+        if r.get('tipo') != 'num': continue
+        litro = r['valor'] / 1000 if r['unidad'] == '€/1000l' else r['valor']
+        c_l, c_p, c_e = _celdas(litro, None, r.get('eq'))
+        if r['unidad'] == '€/1000l':
+            c_l = multi(lambda g: money(r['valor'], 0, '€/1000l', g))
+        filas += _fila(tr(r['producto']), tr(r['detalle']), c_l, c_p, c_e, _cam_html(r))
+    for k in ('cabra', 'oveja'):
+        filas += _grupo(LECHE_UI[k])
+        for r in temp[k]['tabla']:
+            filas += _fila(tr(r['ref']), tr(r['det']), *_celdas(r.get('litro'), r.get('punto'), r.get('eq')))
+    comun = {}; rc = {}; ro = {}
+    for l in ('es', 'en', 'fr', 'pt'):
+        comun[l], rc[l], ro[l] = _resto(temp['cabra']['nota'][l], temp['oveja']['nota'][l])
+    notas = [tr(cz['nota'])]
+    if comun['es']: notas.append(tr(comun))
+    notas += [tr(rc), tr(ro)]
+    act = multi(lambda l: SEM_LBL[l].format(cz['semana'], cz['actualizado'][l]))
+    return ('<section id="leche">\n<div style="max-width: 1240px; margin: 0 auto; padding: 24px 24px 32px">\n'
+            '<div style="background: #FFFFFF; border: 1px solid #D3DCEA; border-radius: 20px; padding: clamp(18px, 4vw, 30px); display: flex; flex-direction: column; gap: 16px">\n'
+            '<div style="display: flex; flex-direction: column; gap: 6px">'
+            f'<span style="font-size: 13px; font-weight: 700; letter-spacing: 0.14em; text-transform: uppercase; color: #2B4F9C">{e(U["eyebrow"])}</span>'
+            f'<h2 style="margin: 0; font-family: Archivo, sans-serif; font-weight: 800; font-size: clamp(26px, 5vw, 34px)">{e(U["titulo"])}</h2>'
+            f'<p style="margin: 0; color: #4D5D78; line-height: 1.55; max-width: 760px">{e(U["sub"])}</p>'
+            f'<span style="font-size: 14px; color: #4D5D78">{e(act)}</span></div>\n'
+            '<div style="overflow-x: auto"><table style="width: 100%; border-collapse: collapse; font-size: clamp(13px, 3.6vw, 15px)">'
+            '<thead><tr style="font-size: 12px; text-transform: uppercase; letter-spacing: 0.06em; color: #4D5D78"><th style="text-align: left; padding: 0 8px 4px 0; font-weight: 700">Referencia</th>'
+            '<th style="text-align: right; padding: 0 6px 4px; font-weight: 700">Por litro</th><th style="text-align: right; padding: 0 6px 4px; font-weight: 700">Por punto EQ</th>'
+            '<th style="text-align: right; padding: 0 0 4px 6px; font-weight: 700">EQ</th></tr></thead><tbody>' + filas + '</tbody></table></div>\n'
+            + ''.join(f'<p style="margin: 0; font-size: 13px; color: #4D5D78; line-height: 1.5">{e(n)}</p>' for n in notas) +
+            '<a href="https://www.eex.com/en/markets/agriculturals" target="_blank" rel="noopener" style="color: #2B4F9C; font-weight: 700; font-size: 14px; text-decoration: none">Futuros lácteos en EEX ↗</a>\n'
+            '</div>\n</div>\n</section>\n')
+
+def tendencias_html(temp):
+    cols = ''
+    for k in ('cabra', 'oveja'):
+        d = temp[k]
+        noticias = ''.join(
+            f'<li style="display: flex; flex-direction: column; gap: 4px; padding: 14px 0; border-top: 1px solid #D3DCEA">'
+            f'<span style="font-size: 12px; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: #2E6B45">{e(tr(n["fecha"]))}</span>'
+            f'<span style="line-height: 1.55; font-size: 15px">{e(tr(n["texto"]))}</span>'
+            f'<a href="{n["url"]}" target="_blank" rel="noopener" style="font-size: 13px; font-weight: 700; color: #2B4F9C; text-decoration: none">{e(fuente(n["fuente"]))}</a></li>'
+            for n in d['noticias'])
+        cols += ('<div style="flex: 1 1 360px; min-width: 0; display: flex; flex-direction: column; gap: 4px">'
+                 f'<h3 style="margin: 0 0 6px; font-family: Archivo, sans-serif; font-size: 20px">{e(tr(d["titulo"]))}</h3>'
+                 f'<ul style="list-style: none; margin: 0; padding: 0">{noticias}</ul>'
+                 f'<p style="margin: 8px 0 0; padding: 14px 16px; background: #E4F2EA; color: #1F4A30; border-radius: 12px; font-size: 14px; line-height: 1.55">{e(tr(d["lectura"]))}</p></div>')
+    return ('<section>\n<div style="max-width: 1240px; margin: 0 auto; padding: 24px 24px 40px">\n'
+            '<div style="background: #FFFFFF; border: 1px solid #D3DCEA; border-radius: 20px; padding: clamp(18px, 4vw, 28px); display: flex; flex-direction: column; gap: 18px">\n'
+            f'<h2 style="margin: 0; font-family: Archivo, sans-serif; font-size: clamp(24px, 4.5vw, 30px)">{e(tr(LECHE_UI["tend"]))}</h2>\n'
+            f'<div style="display: flex; flex-wrap: wrap; gap: 28px; align-items: flex-start">{cols}</div>\n'
+            '</div>\n</div>\n</section>\n')
+
 # ---------- Al día ----------
 ALDIA_UI = [
     {'es': 'Al día', 'en': 'Daily news', 'fr': 'Au jour le jour', 'pt': 'Dia a dia'},
@@ -270,35 +378,25 @@ def build():
     SPOT = load('spot.json')
     sem = S['semana']; NOT = S['noticias']
     rango = multi(lambda l: RANGO_LBL[l].format(sem['numero'], sem['rango'][l]))
-    intro = (
-        '<section>\n<div style="max-width: 1240px; margin: 0 auto; padding: 56px 24px 24px; display: flex; flex-direction: column; gap: 18px">\n'
+    cab = (
+        '<section>\n<div style="max-width: 1240px; margin: 0 auto; padding: 56px 24px 8px; display: flex; flex-direction: column; gap: 18px">\n'
         '<span style="font-size: 13px; font-weight: 700; letter-spacing: 0.14em; text-transform: uppercase; color: #2B4F9C">Blog</span>\n'
         '<h1 style="margin: 0; font-family: Archivo, sans-serif; font-weight: 800; font-size: clamp(32px, 7vw, 48px); line-height: 1.05">Actualidad del sector lácteo</h1>\n'
         '<p style="margin: 0; font-size: 18px; line-height: 1.55; color: #4D5D78; max-width: 720px">Noticias, precios de referencia, normativa y novedades del mercado lácteo europeo.</p>\n'
+        '</div>\n</section>\n')
+    cab_not = (
+        '<section>\n<div style="max-width: 1240px; margin: 0 auto; padding: 32px 24px 8px; display: flex; flex-direction: column; gap: 14px">\n'
         '<p style="margin: 0; font-size: 15px; line-height: 1.5; color: #4D5D78">Resumen semanal, publicado cada lunes.</p>\n'
         f'<span style="font-size: 15px; font-weight: 700">{e(rango)}</span>\n'
         '<div id="blog-filtros" role="group" aria-label="Filtrar noticias" style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 6px">'
         + chip('Todas', True) + ''.join(chip(c) for c in ['Mercados', 'Precios', 'Normativa', 'Novedades']) + '</div>\n</div>\n</section>\n')
-    filas = cotiz_filas(CZ); registra_flechas(filas)
-    act = multi(lambda l: SEM_LBL[l].format(CZ['semana'], CZ['actualizado'][l]))
-    feat = (
-        '<section>\n<div style="max-width: 1240px; margin: 0 auto; padding: 24px 24px; display: flex; flex-wrap: wrap; gap: 24px; align-items: flex-start">\n'
-        '<div id="blog-lista" style="flex: 3 1 560px; min-width: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 20px">\n'
-        + '\n'.join(card(n) for n in NOT) + '\n</div>\n'
-        '<aside style="flex: 1 1 320px; min-width: 0; position: sticky; top: 24px; background: #0E2A4F; color: #FFFFFF; border-radius: 20px; padding: 28px; display: flex; flex-direction: column; gap: 16px">\n'
-        '<div style="display: flex; flex-direction: column; gap: 4px">\n<span style="font-size: 12px; font-weight: 700; letter-spacing: 0.14em; text-transform: uppercase; color: #E8B84A">Cotizaciones de referencia</span>\n'
-        f'<span style="color: #CBD8EE; font-size: 14px">{e(act)}</span>\n</div>\n<div style="display: flex; flex-direction: column">\n'
-        + ''.join(
-            f'<div style="display: flex; justify-content: space-between; align-items: baseline; gap: 12px; padding: 12px 0{"; border-bottom: 1px solid rgba(207,227,220,.2)" if i < len(filas) - 1 else ""}">'
-            f'<span style="display: flex; flex-direction: column"><span>{e(p)}</span><span style="font-size: 12px; color: #CBD8EE">{e(m)}</span></span>'
-            f'<span style="display: flex; flex-direction: column; align-items: flex-end"><span style="font-weight: 700; white-space: nowrap">{e(v)}</span>'
-            f'<span style="font-size: 12px; font-weight: 700; color: {cambio_html(c)[0]}">{e(cambio_html(c)[1])}</span></span></div>'
-            for i, (p, v, c, m) in enumerate(filas)) +
-        f'</div>\n<p style="margin: 0; font-size: 13px; color: #CBD8EE; line-height: 1.5">{e(tr(CZ["nota"]))}</p>\n'
-        '<a href="https://www.eex.com/en/markets/agriculturals" target="_blank" rel="noopener" style="color: #E8B84A; font-weight: 700; font-size: 14px; text-decoration: none">Futuros lácteos en EEX ↗</a>\n</aside>\n</div>\n</section>\n')
+    lista = (
+        '<section>\n<div style="max-width: 1240px; margin: 0 auto; padding: 16px 24px">\n'
+        '<div id="blog-lista" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 20px">\n'
+        + '\n'.join(card(n) for n in NOT) + '\n</div>\n</div>\n</section>\n')
     grid = ('<section>\n'
             '<p id="blog-vacio" hidden style="max-width: 1240px; margin: 0 auto; padding: 0 24px; color: #4D5D78">No hay noticias de esta categoría esta semana.</p>\n'
-            '<div style="max-width: 1240px; margin: 0 auto; padding: 8px 24px 40px"><p style="margin: 0; font-size: 13px; color: #4D5D78; line-height: 1.5; max-width: 860px">Resumen elaborado por Plataforma Interprofesional Láctea a partir de las fuentes citadas. Cada noticia enlaza a su fuente original.</p></div>\n</section>\n')
+            '<div style="max-width: 1240px; margin: 0 auto; padding: 8px 24px 16px"><p style="margin: 0; font-size: 13px; color: #4D5D78; line-height: 1.5; max-width: 860px">Resumen elaborado por Plataforma Interprofesional Láctea a partir de las fuentes citadas. Cada noticia enlaza a su fuente original.</p></div>\n</section>\n')
     js = ('<script>\n(function(){var f=document.getElementById(\'blog-filtros\');if(!f)return;var pg=f.closest(\'.pg\')||document;\n'
           'f.addEventListener(\'click\',function(ev){var b=ev.target.closest(\'.blog-chip\');if(!b)return;var c=b.getAttribute(\'data-cat\'),n=0;\n'
           'f.querySelectorAll(\'.blog-chip\').forEach(function(x){var on=x===b;x.setAttribute(\'aria-pressed\',on?\'true\':\'false\');x.style.background=on?\'#0E2A4F\':\'#FFFFFF\';x.style.color=on?\'#FFFFFF\':\'#0E2A4F\';x.style.borderColor=on?\'#0E2A4F\':\'#D3DCEA\';});\n'
@@ -306,11 +404,7 @@ def build():
           'var v=pg.querySelector(\'#blog-vacio\');if(v)v.hidden=n>0;});})();\n</script>\n')
     s = open(SRC, encoding='utf-8').read()
     a = s.index('<section>'); b = s.index('<footer')
-    ad = aldia_html()
-    if ad:
-        mark = f'<span style="font-size: 15px; font-weight: 700">{e(rango)}'
-        intro = intro.replace(mark, '</div>\n</section>\n' + ad + '<section>\n<div style="max-width: 1240px; margin: 0 auto; padding: 24px 24px 0; display: flex; flex-direction: column; gap: 14px">\n' + mark, 1)
-    s = s[:a] + intro + '\n' + feat + '\n' + grid + '\n' + spot_html(SPOT) + ''.join(especie_html(TEMP[k]) + '\n' for k in ('cabra', 'oveja')) + s[b:]
+    s = s[:a] + cab + leche_html(CZ, TEMP) + spot_html(SPOT) + aldia_html() + cab_not + lista + grid + tendencias_html(TEMP) + s[b:]
     open(B + 'deploy/blog_filter.html', 'w', encoding='utf-8').write(js)
     open(SRC, 'w', encoding='utf-8').write(s)
     json.dump({'semana': sem, 'noticias': NOT, 'cotizaciones': CZ, 'temporada': TEMP, 'spot': SPOT, 'aldia': aldia_items()},
