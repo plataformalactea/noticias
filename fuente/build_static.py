@@ -187,9 +187,10 @@ function fromHash(){var h=location.hash.slice(1),m;
   if((m=h.match(/^p=(\w+)/))){var p=PRODUCTS.filter(function(x){return x.id===m[1];})[0];if(!p)return false;state.sel=p.id;state.cat=p.cat;return true;}
   if((m=h.match(/^c=(\w+)/))){var q=PRODUCTS.filter(function(x){return x.cat===m[1];})[0];if(!q)return false;state.cat=m[1];state.sel=q.id;return true;}
   return false;}
-function goHash(){if(fromHash()){render();setTimeout(function(){document.getElementById(window.innerWidth<900?'ficha':'chips').scrollIntoView({behavior:'smooth'});},60);}}
-window.addEventListener('hashchange',goHash);
-render();goHash();
+function goHash(smooth){if(fromHash()){render();setTimeout(function(){var el=document.getElementById(window.innerWidth<900?'ficha':'chips');window.scrollTo({top:el.getBoundingClientRect().top+window.pageYOffset-12,behavior:smooth?'smooth':'auto'});},smooth?60:250);}}
+window.addEventListener('hashchange',function(){goHash(true);});
+render();
+if(document.readyState==='complete')goHash(false);else window.addEventListener('load',function(){goHash(false);});
 </script>'''
 convert('Industriales',fix_ind,js)
 print(sorted(os.listdir(OUT)))
