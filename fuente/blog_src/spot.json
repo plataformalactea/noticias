@@ -1,9 +1,9 @@
 {
  "actualizado": {
-  "es": "18 nov 2026",
-  "en": "18 Nov 2026",
-  "fr": "18 nov. 2026",
-  "pt": "18 nov. 2026"
+  "es": "19 nov 2026",
+  "en": "19 Nov 2026",
+  "fr": "19 nov. 2026",
+  "pt": "19 nov. 2026"
  },
  "grupos": [
   {
@@ -22,7 +22,7 @@
       "pt": "Leite magro em pó"
      },
      "precio": 3870,
-     "cambio": null
+     "cambio": 0
     },
     {
      "nombre": {
@@ -32,7 +32,7 @@
       "pt": "Leite magro em pó biológico"
      },
      "precio": 4620,
-     "cambio": null
+     "cambio": 0
     },
     {
      "nombre": {
@@ -42,7 +42,7 @@
       "pt": "Leite gordo em pó"
      },
      "precio": 4120,
-     "cambio": null
+     "cambio": 0
     },
     {
      "nombre": {
@@ -52,7 +52,7 @@
       "pt": "Leite gordo em pó sem lactose instantâneo"
      },
      "precio": 7020,
-     "cambio": null
+     "cambio": 0
     },
     {
      "nombre": {
@@ -62,7 +62,7 @@
       "pt": "Leite em pó com gordura"
      },
      "precio": 3020,
-     "cambio": null
+     "cambio": 0
     },
     {
      "nombre": {
@@ -72,7 +72,7 @@
       "pt": "Concentrado de leite magro"
      },
      "precio": 3120,
-     "cambio": null
+     "cambio": 0
     }
    ]
   },
@@ -92,7 +92,7 @@
       "pt": "Manteiga"
      },
      "precio": 3620,
-     "cambio": null
+     "cambio": 0
     },
     {
      "nombre": {
@@ -102,7 +102,7 @@
       "pt": "Manteiga congelada"
      },
      "precio": 3720,
-     "cambio": null
+     "cambio": 0
     },
     {
      "nombre": {
@@ -112,7 +112,7 @@
       "pt": "Manteiga láctica"
      },
      "precio": 3820,
-     "cambio": null
+     "cambio": 0
     },
     {
      "nombre": {
@@ -122,7 +122,7 @@
       "pt": "Gordura láctea anidra (AMF)"
      },
      "precio": 4520,
-     "cambio": null
+     "cambio": 0
     },
     {
      "nombre": {
@@ -132,7 +132,7 @@
       "pt": "Nata 40 % · preço base 100 % gordura"
      },
      "precio": 4270,
-     "cambio": null
+     "cambio": 0
     }
    ]
   },
@@ -152,7 +152,7 @@
       "pt": "Soro doce em pó"
      },
      "precio": 2020,
-     "cambio": null
+     "cambio": 0
     },
     {
      "nombre": {
@@ -162,7 +162,7 @@
       "pt": "Soro desmineralizado 90 em pó"
      },
      "precio": 2620,
-     "cambio": null
+     "cambio": 0
     },
     {
      "nombre": {
@@ -172,7 +172,7 @@
       "pt": "Concentrado de soro 24–30 %"
      },
      "precio": 1520,
-     "cambio": null
+     "cambio": 0
     },
     {
      "nombre": {
@@ -182,7 +182,7 @@
       "pt": "Leitelho em pó"
      },
      "precio": 3620,
-     "cambio": null
+     "cambio": 0
     },
     {
      "nombre": {
@@ -192,7 +192,7 @@
       "pt": "Permeado de soro"
      },
      "precio": 1120,
-     "cambio": null
+     "cambio": 0
     },
     {
      "nombre": {
@@ -202,7 +202,7 @@
       "pt": "Permeado de leite"
      },
      "precio": 1120,
-     "cambio": null
+     "cambio": 0
     },
     {
      "nombre": {
@@ -212,7 +212,7 @@
       "pt": "Lactose"
      },
      "precio": 1670,
-     "cambio": null
+     "cambio": 0
     }
    ]
   },
@@ -232,7 +232,7 @@
       "pt": "Concentrado de proteína de soro 35 %"
      },
      "precio": 4520,
-     "cambio": null
+     "cambio": 0
     },
     {
      "nombre": {
@@ -242,7 +242,7 @@
       "pt": "Concentrado de proteína de soro 65 % rico em gordura"
      },
      "precio": 13020,
-     "cambio": null
+     "cambio": 0
     },
     {
      "nombre": {
@@ -252,7 +252,7 @@
       "pt": "Concentrado de proteína de soro 70 instantâneo"
      },
      "precio": 14020,
-     "cambio": null
+     "cambio": 0
     },
     {
      "nombre": {
@@ -262,7 +262,7 @@
       "pt": "Concentrado de proteína de soro 80 %"
      },
      "precio": 14520,
-     "cambio": null
+     "cambio": 0
     },
     {
      "nombre": {
@@ -272,7 +272,7 @@
       "pt": "Concentrado de proteína de soro 80 % instantâneo"
      },
      "precio": 15020,
-     "cambio": null
+     "cambio": 0
     },
     {
      "nombre": {
@@ -282,7 +282,7 @@
       "pt": "Concentrado de proteína de soro 80 sem lactose"
      },
      "precio": 19020,
-     "cambio": null
+     "cambio": 0
     },
     {
      "nombre": {
@@ -292,7 +292,7 @@
       "pt": "Isolado de proteína de soro"
      },
      "precio": 25020,
-     "cambio": null
+     "cambio": 0
     },
     {
      "nombre": {
@@ -302,7 +302,7 @@
       "pt": "Isolado de proteína de soro 90 % instantâneo"
      },
      "precio": 25520,
-     "cambio": null
+     "cambio": 0
     },
     {
      "nombre": {
@@ -312,7 +312,7 @@
       "pt": "Concentrado de proteína de leite 85 %"
      },
      "precio": 15020,
-     "cambio": null
+     "cambio": 0
     },
     {
      "nombre": {
@@ -322,7 +322,7 @@
       "pt": "Isolado de proteína de leite"
      },
      "precio": 16020,
-     "cambio": null
+     "cambio": 0
     },
     {
      "nombre": {
@@ -332,7 +332,7 @@
       "pt": "Caseína ácida"
      },
      "precio": 7420,
-     "cambio": null
+     "cambio": 0
     },
     {
      "nombre": {
@@ -342,7 +342,7 @@
       "pt": "Caseína de coalho"
      },
      "precio": 8920,
-     "cambio": null
+     "cambio": 0
     }
    ]
   },
@@ -362,7 +362,7 @@
       "pt": "Cagliata"
      },
      "precio": 3620,
-     "cambio": null
+     "cambio": 0
     },
     {
      "nombre": {
@@ -372,7 +372,7 @@
       "pt": "Cheddar"
      },
      "precio": 3920,
-     "cambio": null
+     "cambio": 0
     },
     {
      "nombre": {
@@ -382,7 +382,7 @@
       "pt": "Edam 30 %"
      },
      "precio": 3620,
-     "cambio": null
+     "cambio": 0
     },
     {
      "nombre": {
@@ -392,7 +392,7 @@
       "pt": "Edam 40 %"
      },
      "precio": 3670,
-     "cambio": null
+     "cambio": 0
     },
     {
      "nombre": {
@@ -402,7 +402,7 @@
       "pt": "Emmental"
      },
      "precio": 3820,
-     "cambio": null
+     "cambio": 0
     },
     {
      "nombre": {
@@ -412,7 +412,7 @@
       "pt": "Gouda"
      },
      "precio": 3770,
-     "cambio": null
+     "cambio": 0
     },
     {
      "nombre": {
@@ -422,7 +422,7 @@
       "pt": "Mozzarella"
      },
      "precio": 3820,
-     "cambio": null
+     "cambio": 0
     },
     {
      "nombre": {
@@ -432,7 +432,7 @@
       "pt": "Tilsit"
      },
      "precio": 3720,
-     "cambio": null
+     "cambio": 0
     },
     {
      "nombre": {
@@ -442,7 +442,7 @@
       "pt": "Análogos de queijo"
      },
      "precio": 3120,
-     "cambio": null
+     "cambio": 0
     }
    ]
   }
