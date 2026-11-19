@@ -1,5 +1,21 @@
-Thu Nov 19 11:19:07 UTC 2026
+Thu Nov 19 15:44:31 UTC 2026
 codigo lftp: 0
-cambiados en este envio: 5
+cambiados en este envio: 9
 --- detalle ---
+Removing old file `catalogos.html'
+Transferring file `catalogos.html'
+Removing old file `industriales.html'
+Transferring file `industriales.html'
+Removing old file `en/catalogos.html'
+Transferring file `en/catalogos.html'
+Removing old file `en/industriales.html'
+Transferring file `en/industriales.html'
+Removing old file `fr/catalogos.html'
+Transferring file `fr/catalogos.html'
+Removing old file `fr/industriales.html'
+Transferring file `fr/industriales.html'
+Removing old file `pt/catalogos.html'
+Transferring file `pt/catalogos.html'
+Removing old file `pt/industriales.html'
+Transferring file `pt/industriales.html'
 subida: success
