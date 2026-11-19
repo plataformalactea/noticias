@@ -1,13 +1,5 @@
-Wed Nov 18 16:29:12 UTC 2026
+Thu Nov 19 11:19:07 UTC 2026
 codigo lftp: 0
 cambiados en este envio: 5
 --- detalle ---
-Removing old file `blog.html'
-Transferring file `blog.html'
-Removing old file `en/blog.html'
-Transferring file `en/blog.html'
-Removing old file `fr/blog.html'
-Transferring file `fr/blog.html'
-Removing old file `pt/blog.html'
-Transferring file `pt/blog.html'
 subida: success
