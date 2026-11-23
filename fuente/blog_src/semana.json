@@ -1,189 +1,154 @@
 {
  "semana": {
-  "numero": 46,
-  "fecha": "2026-11-17",
+  "numero": 47,
+  "fecha": "2026-11-23",
   "rango": {
-   "es": "9 – 15 de noviembre de 2026",
-   "en": "9–15 November 2026",
-   "fr": "9–15 novembre 2026",
-   "pt": "9–15 de novembro de 2026"
+   "es": "16 – 22 de noviembre de 2026",
+   "en": "16–22 November 2026",
+   "fr": "16–22 novembre 2026",
+   "pt": "16–22 de novembro de 2026"
   }
  },
  "noticias": [
   {
    "cat": "Precios",
    "fecha": {
-    "es": "11 nov 2026",
-    "en": "11 Nov 2026",
-    "fr": "11 nov. 2026",
-    "pt": "11 nov. 2026"
+    "es": "17 nov 2026",
+    "en": "17 Nov 2026",
+    "fr": "17 nov. 2026",
+    "pt": "17 nov. 2026"
    },
    "dato": {
-    "es": "375 €",
-    "en": "€375",
-    "fr": "375 €",
-    "pt": "375 €"
+    "es": "4.190 $",
+    "en": "$4,190",
+    "fr": "4 190 $",
+    "pt": "4.190 $"
    },
    "dato_pie": {
-    "es": "desnatada en polvo · €/100 kg",
-    "en": "skimmed milk powder · €/100 kg",
-    "fr": "lait écrémé en poudre · €/100 kg",
-    "pt": "leite magro em pó · €/100 kg"
+    "es": "desnatada en polvo · $/t (+2,2 %)",
+    "en": "skimmed milk powder · $/t (+2.2%)",
+    "fr": "poudre de lait écrémé · $/t (+2,2 %)",
+    "pt": "leite magro em pó · $/t (+2,2 %)"
    },
    "titulo": {
-    "es": "Holanda: la leche desnatada en polvo sigue subiendo y la mantequilla se mantiene",
-    "en": "Netherlands: skimmed milk powder keeps rising while butter holds steady",
-    "fr": "Pays-Bas : la poudre de lait écrémé continue de monter, le beurre reste stable",
-    "pt": "Países Baixos: o leite magro em pó continua a subir e a manteiga mantém-se"
+    "es": "Subasta GDT: la leche en polvo sube y la grasa láctea sigue cayendo",
+    "en": "GDT auction: milk powders rise while milk fat keeps falling",
+    "fr": "Enchère GDT : les poudres de lait montent, la matière grasse continue de baisser",
+    "pt": "Leilão GDT: o leite em pó sobe e a gordura láctea continua a cair"
    },
    "texto": {
-    "es": "Cotización ZuivelNL del 11 de noviembre: desnatada en polvo para consumo humano 375 €/100 kg (+4) y para pienso 370 (+9). Mantequilla (375), leche entera en polvo (384) y suero en polvo (164), sin cambios.",
-    "en": "ZuivelNL quotation of 11 November: food-grade skimmed milk powder €375/100 kg (+4) and feed grade 370 (+9). Butter (375), whole milk powder (384) and whey powder (164) unchanged.",
-    "fr": "Cotation ZuivelNL du 11 novembre : poudre de lait écrémé alimentaire 375 €/100 kg (+4) et fourragère 370 (+9). Beurre (375), lait entier en poudre (384) et lactosérum en poudre (164) stables.",
-    "pt": "Cotação ZuivelNL de 11 de novembro: leite magro em pó para consumo humano 375 €/100 kg (+4) e para ração 370 (+9). Manteiga (375), leite gordo em pó (384) e soro em pó (164) sem alteração."
+    "es": "Subasta 416 de Global Dairy Trade (17 nov): índice prácticamente sin cambios y precio medio de unos 4.180 $/t. Leche desnatada en polvo +2,2 % (4.190 $/t) y entera +2,7 % (4.080 $/t); mantequilla −6,5 % (4.200 $/t) y grasa anhidra −8,2 % (4.880 $/t).",
+    "en": "Global Dairy Trade auction 416 (17 Nov): index virtually unchanged, average price around $4,180/t. Skimmed milk powder +2.2% ($4,190/t) and whole milk powder +2.7% ($4,080/t); butter −6.5% ($4,200/t) and anhydrous milk fat −8.2% ($4,880/t).",
+    "fr": "Enchère 416 de Global Dairy Trade (17 nov.) : indice quasiment stable, prix moyen d’environ 4 180 $/t. Poudre de lait écrémé +2,2 % (4 190 $/t) et entière +2,7 % (4 080 $/t) ; beurre −6,5 % (4 200 $/t) et MGLA −8,2 % (4 880 $/t).",
+    "pt": "Leilão 416 da Global Dairy Trade (17 nov.): índice praticamente inalterado e preço médio de cerca de 4.180 $/t. Leite magro em pó +2,2 % (4.190 $/t) e gordo +2,7 % (4.080 $/t); manteiga −6,5 % (4.200 $/t) e gordura anidra −8,2 % (4.880 $/t)."
    },
-   "fuente": "ZuivelNL",
-   "url": "https://www.zuivelnl.org/marktinformatie/zuivelnoteringen"
+   "fuente": "UkrAgroConsult",
+   "url": "https://ukragroconsult.com/en/news/milk-fat-prices-fall-faster-as-milk-powder-continues-to-rise-at-gdt/"
   },
   {
    "cat": "Precios",
    "fecha": {
-    "es": "13 nov 2026",
-    "en": "13 Nov 2026",
-    "fr": "13 nov. 2026",
-    "pt": "13 nov. 2026"
+    "es": "18 nov 2026",
+    "en": "18 Nov 2026",
+    "fr": "18 nov. 2026",
+    "pt": "18 nov. 2026"
    },
    "dato": {
-    "es": "+2–3 cts",
-    "en": "+2–3 cents",
-    "fr": "+2–3 cts",
-    "pt": "+2–3 cênt."
+    "es": "+1 cént.",
+    "en": "+1 cent",
+    "fr": "+1 cent.",
+    "pt": "+1 cênt."
    },
    "dato_pie": {
-    "es": "oferta de la industria en Galicia",
-    "en": "processors’ offer in Galicia",
-    "fr": "offre des industriels en Galice",
-    "pt": "oferta da indústria na Galiza"
+    "es": "oferta por litro · Galicia",
+    "en": "offer per litre · Galicia",
+    "fr": "offre par litre · Galice",
+    "pt": "oferta por litro · Galiza"
    },
    "titulo": {
-    "es": "Agromuralla ve «insuficiente» la subida de 2 a 3 céntimos que ofrecen las industrias",
-    "en": "Agromuralla calls the 2–3 cent rise offered by processors “insufficient”",
-    "fr": "Agromuralla juge « insuffisante » la hausse de 2 à 3 centimes proposée par les industriels",
-    "pt": "A Agromuralla considera «insuficiente» a subida de 2 a 3 cêntimos oferecida pelas indústrias"
+    "es": "Galicia: Agromuralla rechaza subidas de 1 y 2 céntimos tras recortes de hasta 10",
+    "en": "Galicia: Agromuralla rejects 1–2 cent rises after cuts of up to 10 cents",
+    "fr": "Galice : Agromuralla rejette des hausses de 1 à 2 centimes après des baisses allant jusqu’à 10",
+    "pt": "Galiza: Agromuralla rejeita subidas de 1 e 2 cêntimos após cortes de até 10"
    },
    "texto": {
-    "es": "Algunas industrias ofrecen a los ganaderos gallegos entre 2 y 3 céntimos más por litro en la renovación de contratos. La asociación lo considera muy poco frente a la subida de costes, sobre todo gasóleo y abonos, y la caída del precio en origen desde marzo.",
-    "en": "Some processors are offering Galician farmers 2 to 3 cents more per litre in contract renewals. The association says this falls far short given rising costs, especially diesel and fertiliser, and the drop in farm-gate prices since March.",
-    "fr": "Certains industriels proposent aux éleveurs galiciens 2 à 3 centimes de plus par litre lors du renouvellement des contrats. L’association juge cela très insuffisant face à la hausse des coûts, surtout gazole et engrais, et à la baisse du prix à la production depuis mars.",
-    "pt": "Algumas indústrias oferecem aos produtores galegos mais 2 a 3 cêntimos por litro na renovação dos contratos. A associação considera-o muito pouco face à subida dos custos, sobretudo gasóleo e adubos, e à queda do preço na origem desde março."
+    "es": "Las industrias trasladaron el 17 de noviembre subidas de 1 céntimo por litro (2 en Entrepinares), tras recortes de 8 a 10 céntimos en marzo. Los costes en Galicia están entre 47 y 48 céntimos y el precio medio de septiembre fue de 0,455 €/l (Ministerio).",
+    "en": "On 17 November processors offered rises of 1 cent per litre (2 at Entrepinares), after cuts of 8 to 10 cents in March. Galician costs are 47–48 cents and the September average price was €0.455/l (Ministry).",
+    "fr": "Le 17 novembre, les industriels ont proposé des hausses de 1 centime par litre (2 chez Entrepinares), après des baisses de 8 à 10 centimes en mars. Les coûts en Galice se situent entre 47 et 48 centimes et le prix moyen de septembre était de 0,455 €/l (ministère).",
+    "pt": "A 17 de novembro, as indústrias propuseram subidas de 1 cêntimo por litro (2 na Entrepinares), após cortes de 8 a 10 cêntimos em março. Os custos na Galiza situam-se entre 47 e 48 cêntimos e o preço médio de setembro foi de 0,455 €/l (Ministério)."
    },
-   "fuente": "Agroinformación",
-   "url": "https://agroinformacion.com/agromuralla-denuncia-que-la-industria-propone-una-subida-insuficiente-de-entre-2-y-3-centimos-en-los-nuevos-contratos-de-la-leche/"
+   "fuente": "AgroNews Castilla y León",
+   "url": "https://www.agronewscastillayleon.com/precio-leche-agromuralla-subida-industria"
   },
   {
    "cat": "Mercados",
    "fecha": {
-    "es": "12 nov 2026",
-    "en": "12 Nov 2026",
-    "fr": "12 nov. 2026",
-    "pt": "12 nov. 2026"
+    "es": "19 nov 2026",
+    "en": "19 Nov 2026",
+    "fr": "19 nov. 2026",
+    "pt": "19 nov. 2026"
    },
    "dato": {
-    "es": "12,2 Mt",
-    "en": "12.2 Mt",
-    "fr": "12,2 Mt",
-    "pt": "12,2 Mt"
+    "es": "Ley de la Cadena",
+    "en": "Food Chain Law",
+    "fr": "Loi sur la chaîne",
+    "pt": "Lei da Cadeia"
    },
    "dato_pie": {
-    "es": "leche que Europa podría perder por el calor",
-    "en": "milk Europe could lose to heat",
-    "fr": "lait que l’Europe pourrait perdre à cause de la chaleur",
-    "pt": "leite que a Europa poderá perder com o calor"
+    "es": "posibles denuncias",
+    "en": "possible complaints",
+    "fr": "plaintes possibles",
+    "pt": "possíveis denúncias"
    },
    "titulo": {
-    "es": "Rabobank: el calor podría costar a Europa hasta 12,2 millones de toneladas de leche al año",
-    "en": "Rabobank: heat could cost Europe up to 12.2 million tonnes of milk a year",
-    "fr": "Rabobank : la chaleur pourrait coûter à l’Europe jusqu’à 12,2 millions de tonnes de lait par an",
-    "pt": "Rabobank: o calor poderá custar à Europa até 12,2 milhões de toneladas de leite por ano"
+    "es": "Unión de Uniones y el SLG tachan de «irrisorias» las nuevas ofertas de contrato",
+    "en": "Unión de Uniones and SLG call the new contract offers “derisory”",
+    "fr": "Unión de Uniones et le SLG jugent « dérisoires » les nouvelles offres de contrat",
+    "pt": "Unión de Uniones e o SLG consideram «irrisórias» as novas ofertas de contrato"
    },
    "texto": {
-    "es": "El estrés térmico ya resta unos 4,5 millones de toneladas al año en las regiones estudiadas y podría llegar a 12,2 millones en 2050 en el escenario de más calentamiento, si no cambian rebaños ni manejo.",
-    "en": "Heat stress already costs about 4.5 million tonnes a year in the regions studied and could reach 12.2 million by 2050 in the high-warming scenario, if herds and management stay unchanged.",
-    "fr": "Le stress thermique fait déjà perdre environ 4,5 millions de tonnes par an dans les régions étudiées et pourrait atteindre 12,2 millions en 2050 dans le scénario de fort réchauffement, à cheptel et conduite inchangés.",
-    "pt": "O stress térmico já retira cerca de 4,5 milhões de toneladas por ano nas regiões estudadas e poderá chegar a 12,2 milhões em 2050 no cenário de maior aquecimento, sem alterações nos efetivos e no maneio."
+    "es": "Las dos organizaciones critican los precios que la industria empezó a repartir el 17 de noviembre y avisan de denuncias por la Ley de la Cadena Alimentaria si no cambian las condiciones.",
+    "en": "Both organisations criticise the prices processors began issuing on 17 November and warn of complaints under the Food Chain Law if terms do not change.",
+    "fr": "Les deux organisations critiquent les prix diffusés par l’industrie depuis le 17 novembre et menacent de plaintes au titre de la loi sur la chaîne alimentaire si les conditions ne changent pas.",
+    "pt": "As duas organizações criticam os preços que a indústria começou a enviar a 17 de novembro e avisam de denúncias ao abrigo da Lei da Cadeia Alimentar se as condições não mudarem."
    },
-   "fuente": "eDairy News",
-   "url": "https://es.edairynews.com/europa-podria-perder-122-millones-leche/"
+   "fuente": "Moncloa.com",
+   "url": "https://www.moncloa.com/2026/11/19/precio-leche-contratos-lacteos-industria-3471060/"
   },
   {
    "cat": "Normativa",
    "fecha": {
-    "es": "11 nov 2026",
-    "en": "11 Nov 2026",
-    "fr": "11 nov. 2026",
-    "pt": "11 nov. 2026"
+    "es": "20 nov 2026",
+    "en": "20 Nov 2026",
+    "fr": "20 nov. 2026",
+    "pt": "20 nov. 2026"
    },
    "dato": {
-    "es": "8",
-    "en": "8",
-    "fr": "8",
-    "pt": "8"
+    "es": "2029",
+    "en": "2029",
+    "fr": "2029",
+    "pt": "2029"
    },
    "dato_pie": {
-    "es": "productos lácteos en alerta",
-    "en": "dairy products under alert",
-    "fr": "produits laitiers en alerte",
-    "pt": "produtos lácteos em alerta"
+    "es": "origen obligatorio de la leche",
+    "en": "mandatory milk origin",
+    "fr": "origine du lait obligatoire",
+    "pt": "origem obrigatória do leite"
    },
    "titulo": {
-    "es": "Alerta sanitaria por posible listeria en leches y nata de Priégola",
-    "en": "Health alert over possible listeria in Priégola milks and cream",
-    "fr": "Alerte sanitaire pour une possible listeria dans des laits et de la crème Priégola",
-    "pt": "Alerta sanitário por possível listeria em leites e nata da Priégola"
+    "es": "El etiquetado del origen de la leche será obligatorio hasta 2029",
+    "en": "Milk origin labelling stays mandatory until 2029",
+    "fr": "L’étiquetage de l’origine du lait reste obligatoire jusqu’en 2029",
+    "pt": "A rotulagem da origem do leite continua obrigatória até 2029"
    },
    "texto": {
-    "es": "La AESAN avisa de posible Listeria monocytogenes en ocho productos de la marca, entre leches frescas, leches fermentadas y nata, de varios lotes. Se distribuyeron en Madrid y la Comunidad Valenciana, sin descartar otras comunidades.",
-    "en": "Spain’s food safety agency (AESAN) warns of possible Listeria monocytogenes in eight of the brand’s products, including fresh milks, fermented milks and cream, from several lots. They were distributed in Madrid and the Valencia region, and other regions cannot be ruled out.",
-    "fr": "L’agence espagnole de sécurité alimentaire (AESAN) signale une possible présence de Listeria monocytogenes dans huit produits de la marque, laits frais, laits fermentés et crème, de plusieurs lots. Ils ont été distribués à Madrid et dans la Communauté valencienne, sans exclure d’autres régions.",
-    "pt": "A agência espanhola de segurança alimentar (AESAN) alerta para possível Listeria monocytogenes em oito produtos da marca, entre leites frescos, leites fermentados e nata, de vários lotes. Foram distribuídos em Madrid e na Comunidade Valenciana, sem excluir outras regiões."
+    "es": "El Real Decreto 1019/2026, publicado en el BOE del 20 de noviembre, amplía hasta el 22 de enero de 2029 la obligación de indicar el país de origen de la leche usada en la leche y los productos lácteos elaborados y vendidos en España.",
+    "en": "Royal Decree 1019/2026, published in the BOE on 20 November, extends until 22 January 2029 the obligation to state the country of origin of the milk used in milk and dairy products made and sold in Spain.",
+    "fr": "Le décret royal 1019/2026, publié au BOE le 20 novembre, prolonge jusqu’au 22 janvier 2029 l’obligation d’indiquer le pays d’origine du lait utilisé dans le lait et les produits laitiers fabriqués et vendus en Espagne.",
+    "pt": "O Real Decreto 1019/2026, publicado no BOE de 20 de novembro, prolonga até 22 de janeiro de 2029 a obrigação de indicar o país de origem do leite usado no leite e nos produtos lácteos fabricados e vendidos em Espanha."
    },
-   "fuente": "eDairy News",
-   "url": "https://es.edairynews.com/espana-alerta-por-posible-listeria-en-leche-y-nata/"
-  },
-  {
-   "cat": "Mercados",
-   "fecha": {
-    "es": "12 nov 2026",
-    "en": "12 Nov 2026",
-    "fr": "12 nov. 2026",
-    "pt": "12 nov. 2026"
-   },
-   "dato": {
-    "es": "5.000 €",
-    "en": "€5,000",
-    "fr": "5 000 €",
-    "pt": "5.000 €"
-   },
-   "dato_pie": {
-    "es": "por vaca lechera, sin transporte",
-    "en": "per dairy cow, before transport",
-    "fr": "par vache laitière, hors transport",
-    "pt": "por vaca leiteira, sem transporte"
-   },
-   "titulo": {
-    "es": "Marruecos compra vacas lecheras en Portugal a unos 5.000 € por cabeza",
-    "en": "Morocco buys dairy cows in Portugal at about €5,000 a head",
-    "fr": "Le Maroc achète des vaches laitières au Portugal autour de 5 000 € par tête",
-    "pt": "Marrocos compra vacas leiteiras em Portugal a cerca de 5.000 € por cabeça"
-   },
-   "texto": {
-    "es": "Tras varios años de sequía, Marruecos busca reponer su cabaña lechera con animales portugueses. Los primeros envíos estaban previstos en pocos días, sin cifra oficial de cabezas.",
-    "en": "After several years of drought, Morocco is restocking its dairy herd with Portuguese animals. The first shipments were expected within days, with no official head count.",
-    "fr": "Après plusieurs années de sécheresse, le Maroc reconstitue son cheptel laitier avec des animaux portugais. Les premiers envois étaient prévus sous quelques jours, sans chiffre officiel de têtes.",
-    "pt": "Após vários anos de seca, Marrocos procura repor o seu efetivo leiteiro com animais portugueses. Os primeiros envios estavam previstos para dentro de dias, sem número oficial de cabeças."
-   },
-   "fuente": "eDairy News",
-   "url": "https://es.edairynews.com/marruecos-busca-vacas-lecheras-en-portugal-a-e5-000-por-animal/"
+   "fuente": "Unións Agrarias (resumen del BOE)",
+   "url": "https://www.unionsagrarias.org/2026/11/20/normativa-do-dia-20-de-novembro-do-2026/"
   }
  ]
 }
