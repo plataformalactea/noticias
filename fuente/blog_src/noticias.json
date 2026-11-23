@@ -81,6 +81,41 @@
       "url": "https://www.agronewscastillayleon.com/precio-leche-agromuralla-subida-industria"
     },
     {
+      "cat": "Precios",
+      "fecha": {
+        "es": "20 nov 2026",
+        "en": "20 Nov 2026",
+        "fr": "20 nov. 2026",
+        "pt": "20 nov. 2026"
+      },
+      "dato": {
+        "es": "−29 %",
+        "en": "−29%",
+        "fr": "−29 %",
+        "pt": "−29 %"
+      },
+      "dato_pie": {
+        "es": "mantequilla UE · interanual",
+        "en": "EU butter · year on year",
+        "fr": "beurre UE · sur un an",
+        "pt": "manteiga UE · homólogo"
+      },
+      "titulo": {
+        "es": "Europa: la mantequilla sigue perdiendo precio pese a la demanda navideña",
+        "en": "Europe: butter keeps losing value despite Christmas demand",
+        "fr": "Europe : le beurre continue de baisser malgré la demande de Noël",
+        "pt": "Europa: a manteiga continua a perder preço apesar da procura de Natal"
+      },
+      "texto": {
+        "es": "Precio de referencia de la UE (8 nov): unos 4.438 €/t, un 29 % menos que hace un año. La producción de mantequilla creció un 7,7 % entre enero y agosto; la leche desnatada en polvo para consumo humano se mantiene firme, en la parte alta de los 3.700 €/t.",
+        "en": "EU reference price (8 Nov): about €4,438/t, 29% lower than a year ago. Butter output rose 7.7% in January–August; food-grade skimmed milk powder stays firm, in the upper €3,700/t range.",
+        "fr": "Prix de référence UE (8 nov.) : environ 4 438 €/t, soit 29 % de moins qu’il y a un an. La production de beurre a augmenté de 7,7 % de janvier à août ; la poudre de lait écrémé alimentaire reste ferme, dans le haut de la fourchette des 3 700 €/t.",
+        "pt": "Preço de referência da UE (8 nov.): cerca de 4.438 €/t, menos 29 % do que há um ano. A produção de manteiga cresceu 7,7 % entre janeiro e agosto; o leite magro em pó para consumo humano mantém-se firme, na parte alta dos 3.700 €/t."
+      },
+      "fuente": "eDairy News",
+      "url": "https://es.edairynews.com/europa-la-manteca-pierde-precio/"
+    },
+    {
       "cat": "Mercados",
       "fecha": {
         "es": "19 nov 2026",
