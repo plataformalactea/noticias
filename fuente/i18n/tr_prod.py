@@ -266,4 +266,6 @@ UI = [
  "Ces données sont indicatives.</strong> Nous nous adaptons au cahier des charges du client : envoyez-nous vos spécifications et nous vous proposerons un produit conforme.",
  "Estes dados são indicativos.</strong> Adaptamo-nos à ficha técnica do cliente: envie-nos as suas especificações e propomos-lhe o produto que as cumpra."),
 ("Solicitar este producto","Request this product","Demander ce produit","Pedir este produto"),
+("?'Ficha técnica':","?'Technical data sheet':","?'Fiche technique':","?'Ficha técnica':"),
+("Ver ficha técnica (PDF)","View technical data sheet (PDF)","Voir la fiche technique (PDF)","Ver ficha técnica (PDF)"),
 ]

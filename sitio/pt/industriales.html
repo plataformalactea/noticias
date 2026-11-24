@@ -34,7 +34,7 @@ a{color:#2B4F9C}a:hover{color:#0E2A4F}
 .foot a:hover{color:#FFFFFF}
 
 </style>
-</head>
+<style id="ficha-css">[data-ficha]{cursor:pointer;outline:3px solid transparent;outline-offset:-3px;border-radius:12px;transition:outline-color .15s}[data-ficha]:hover,[data-ficha]:focus-visible{outline-color:#2B4F9C}a.cta[data-ficha]{outline:none}</style></head>
 <body>
 <div style="min-height: 100vh; display: flex; flex-direction: column">
 
@@ -107,6 +107,8 @@ var MICRO = [["Aeróbios mesófilos", "≤ 30.000 ufc/g"], ["Enterobactérias", 
 var state={cat:'all',sel:'smp'};
 function rowStyle(i){return 'display: flex; justify-content: space-between; gap: 16px; padding: 12px 16px; font-size: 15px; background: '+(i%2?'#FFFFFF':'#F4F7FB');}
 function rows(list){return list.map(function(r,i){return '<div style="'+rowStyle(i)+'"><span style="color: #4D5D78">'+r[0]+'</span><span style="font-weight: 700; text-align: right">'+r[1]+'</span></div>';}).join('');}
+var PDF={smp:'Ficha_Linsoles_SMP.pdf',cagliata:'Ficha_Linsoles_Cagliata.pdf',mant:'Ficha_Linsoles_Mantequilla_Lactica.pdf'};
+function DF(p){return PDF[p.id]?' data-ficha="fichas/'+PDF[p.id]+'"':'';}
 var H3='margin: 0; font-size: 14px; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: #2B4F9C';
 var BOX='background: #F4F7FB; border-radius: 12px; padding: 18px; display: flex; flex-direction: column; gap: 6px';
 var LBL='font-size: 12px; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: #4D5D78';
@@ -122,10 +124,11 @@ function render(){
   var ref='PIL-'+('00'+(PRODUCTS.indexOf(p)+1)).slice(-3);
   var catLabel=CATS.filter(function(c){return c.id===p.cat;})[0].label;
   document.getElementById('ficha').innerHTML=
-   '<div style="background: #0E2A4F; color: #FFFFFF; padding: 32px 36px; display: flex; flex-wrap: wrap; justify-content: space-between; gap: 16px; align-items: flex-start"><div style="display: flex; flex-direction: column; gap: 8px"><span style="font-size: 12px; font-weight: 700; letter-spacing: 0.14em; text-transform: uppercase; color: #E8B84A">Ficha técnica indicativa · '+ref+'</span><h2 style="margin: 0; font-family: Archivo, sans-serif; font-weight: 800; font-size: 34px; line-height: 1.1">'+p.name+'</h2><span style="color: #CBD8EE; font-size: 15px">'+p.alt+'</span></div><span style="background: rgba(255,255,255,.1); border-radius: 999px; padding: 8px 14px; font-size: 13px; font-weight: 700">'+catLabel+'</span></div>'+
+   '<div style="background: #0E2A4F; color: #FFFFFF; padding: 32px 36px; display: flex; flex-wrap: wrap; justify-content: space-between; gap: 16px; align-items: flex-start"><div style="display: flex; flex-direction: column; gap: 8px"><span style="font-size: 12px; font-weight: 700; letter-spacing: 0.14em; text-transform: uppercase; color: #E8B84A">'+(PDF[p.id]?’Ficha técnica’:'Ficha técnica indicativa · '+ref)+'</span><h2 style="margin: 0; font-family: Archivo, sans-serif; font-weight: 800; font-size: 34px; line-height: 1.1">'+p.name+'</h2><span style="color: #CBD8EE; font-size: 15px">'+p.alt+'</span></div><span style="background: rgba(255,255,255,.1); border-radius: 999px; padding: 8px 14px; font-size: 13px; font-weight: 700">'+catLabel+'</span></div>'+
    '<div style="padding: 32px 36px; display: flex; flex-direction: column; gap: 28px">'+
-   (p.cat==='liq'||p.cat==='queso' ? '<div style="display: flex; flex-direction: column; gap: 20px"><img src="'+(IMG[p.id]||TANK)+'" alt="'+p.name+'" style="'+(p.cat==='liq'?'width: 100%; height: 320px; object-fit: cover; object-position: 40% 30%; border-radius: 16px; display: block':'width: 100%; height: 280px; object-fit: contain; background: #F4F7FB; border-radius: 16px; display: block; padding: 20px; box-sizing: border-box')+'"><p style="margin: 0; font-size: 17px; line-height: 1.6; color: #33435F">'+p.desc+'</p></div>' :
-   '<div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center"><div style="flex: 0 0 220px; height: 220px; background: #F4F7FB; border-radius: 16px; display: flex; align-items: center; justify-content: center; padding: 14px; box-sizing: border-box"><img src="'+(IMG[p.id]||TANK)+'" alt="'+p.name+'" style="max-width: 100%; max-height: 100%; object-fit: contain"></div><p style="flex: 1 1 280px; margin: 0; font-size: 17px; line-height: 1.6; color: #33435F">'+p.desc+'</p></div>')+
+   (p.cat==='liq'||p.cat==='queso' ? '<div style="display: flex; flex-direction: column; gap: 20px"><img src="'+(IMG[p.id]||TANK)+'" alt="'+p.name+'"'+DF(p)+' style="'+(p.cat==='liq'?'width: 100%; height: 320px; object-fit: cover; object-position: 40% 30%; border-radius: 16px; display: block':'width: 100%; height: 280px; object-fit: contain; background: #F4F7FB; border-radius: 16px; display: block; padding: 20px; box-sizing: border-box')+'"><p style="margin: 0; font-size: 17px; line-height: 1.6; color: #33435F">'+p.desc+'</p></div>' :
+   '<div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center"><div style="flex: 0 0 220px; height: 220px; background: #F4F7FB; border-radius: 16px; display: flex; align-items: center; justify-content: center; padding: 14px; box-sizing: border-box"><img src="'+(IMG[p.id]||TANK)+'" alt="'+p.name+'"'+DF(p)+' style="max-width: 100%; max-height: 100%; object-fit: contain"></div><p style="flex: 1 1 280px; margin: 0; font-size: 17px; line-height: 1.6; color: #33435F">'+p.desc+'</p></div>')+
+   (PDF[p.id] ? '<div style="display: flex; flex-wrap: wrap; gap: 12px"><a href="#" data-ficha="fichas/'+PDF[p.id]+'" class="cta" style="background: #2B4F9C">Ver ficha técnica (PDF)</a><a href="solicitud.html" class="cta">Pedir este produto</a></div></div>' : (
    '<div style="display: flex; flex-direction: column; gap: 10px"><h3 style="'+H3+'">Parâmetros físico-químicos</h3><div style="border: 1px solid #D3DCEA; border-radius: 12px; overflow: hidden">'+rows(p.params)+'</div></div>'+
    (p.micro?'<div style="display: flex; flex-direction: column; gap: 10px"><h3 style="'+H3+'">Parâmetros microbiológicos</h3><div style="border: 1px solid #D3DCEA; border-radius: 12px; overflow: hidden">'+rows(MICRO)+'</div></div>':'')+
    '<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 14px">'+
@@ -133,7 +136,7 @@ function render(){
      '<div style="'+BOX+'"><span style="'+LBL+'">Conservação</span><span style="line-height: 1.45; font-weight: 600">'+p.store+'</span></div>'+
      '<div style="'+BOX+'"><span style="'+LBL+'">Validade</span><span style="line-height: 1.45; font-weight: 600">'+p.life+'</span></div></div>'+
    '<div style="background: #DCE6F5; border-radius: 12px; padding: 18px 20px"><p style="margin: 0; line-height: 1.55; color: #33435F; font-size: 15px"><strong>Estes dados são indicativos.</strong> Adaptamo-nos à ficha técnica do cliente: envie-nos as suas especificações e propomos-lhe o produto que as cumpra.</p></div>'+
-   '<div style="display: flex; flex-wrap: wrap; gap: 12px"><a href="solicitud.html" class="cta">Pedir este produto</a></div></div>';
+   '<div style="display: flex; flex-wrap: wrap; gap: 12px"><a href="solicitud.html" class="cta">Pedir este produto</a></div></div>'));
 }
 document.addEventListener('click',function(e){
   var c=e.target.closest('[data-cat]'); if(c){state.cat=c.getAttribute('data-cat'); render(); return;}
@@ -148,5 +151,5 @@ window.addEventListener('hashchange',function(){goHash(true);});
 render();
 if(document.readyState==='complete')goHash(false);else window.addEventListener('load',function(){goHash(false);});
 </script>
-</body>
+<script id="ficha-js">(function(){var L=(document.documentElement.lang||"es").slice(0,2).toLowerCase();function u(f){return L==="es"?f:"../"+f.replace(/\.pdf$/,"_"+L.toUpperCase()+".pdf");}document.addEventListener("click",function(e){var t=e.target.closest("[data-ficha]");if(!t)return;if(t.tagName==="IMG"&&parseFloat(getComputedStyle(t).opacity)<0.99&&t.parentNode){var o=-1;[].forEach.call(t.parentNode.querySelectorAll("img[data-ficha]"),function(x){var v=parseFloat(getComputedStyle(x).opacity);if(v>o){o=v;t=x;}});}e.preventDefault();e.stopPropagation();window.open(u(t.getAttribute("data-ficha")),"_blank","noopener");},true);})();</script></body>
 </html>

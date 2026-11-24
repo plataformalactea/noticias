@@ -1,6 +1,7 @@
 set -e
 cd "$PIL_FUENTE"
 python3 build_static.py >/dev/null
+python3 deploy/photo_links.py >/dev/null
 rm -f Web_Plataforma_Lactea/img/banner0?.jpg Web_Plataforma_Lactea/img/cisterna.png Web_Plataforma_Lactea/img/amf.png
 python3 deploy/deploy_prep.py form
 python3 i18n/build_i18n.py

@@ -243,4 +243,7 @@ T += [
 ('Lactosuero líquido', 'Liquid whey', 'Lactosérum liquide', 'Soro de leite líquido'),
 ('Queso puro de oveja añejo', "Aged pure sheep's cheese", 'Fromage pur brebis affiné', 'Queijo puro de ovelha velho'),
 ('Queso semicurado mezcla', 'Semi-cured mixed-milk cheese', 'Fromage mi-affiné au lait de mélange', 'Queijo de mistura meio-curado'),
+("Ver ficha técnica","View technical data sheet","Voir la fiche technique","Ver ficha técnica"),
+("Ver ficha técnica (PDF)","View technical data sheet (PDF)","Voir la fiche technique (PDF)","Ver ficha técnica (PDF)"),
+("Ficha técnica","Technical data sheet","Fiche technique","Ficha técnica"),
 ]
