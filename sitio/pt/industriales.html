@@ -107,7 +107,7 @@ var MICRO = [["Aeróbios mesófilos", "≤ 30.000 ufc/g"], ["Enterobactérias", 
 var state={cat:'all',sel:'smp'};
 function rowStyle(i){return 'display: flex; justify-content: space-between; gap: 16px; padding: 12px 16px; font-size: 15px; background: '+(i%2?'#FFFFFF':'#F4F7FB');}
 function rows(list){return list.map(function(r,i){return '<div style="'+rowStyle(i)+'"><span style="color: #4D5D78">'+r[0]+'</span><span style="font-weight: 700; text-align: right">'+r[1]+'</span></div>';}).join('');}
-var PDF={smp:'Ficha_Linsoles_SMP.pdf',cagliata:'Ficha_Linsoles_Cagliata.pdf',mant:'Ficha_Linsoles_Mantequilla_Lactica.pdf'};
+var PDF={smp:'Ficha_Linsoles_SMP.pdf',cagliata:'Ficha_Linsoles_Cagliata.pdf',mant:'Ficha_Linsoles_Mantequilla_Lactica.pdf','cas-r':'Ficha_Linsoles_Caseina_Cuajo_Mesh90.pdf'};
 function DF(p){return PDF[p.id]?' data-ficha="fichas/'+PDF[p.id]+'"':'';}
 var H3='margin: 0; font-size: 14px; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: #2B4F9C';
 var BOX='background: #F4F7FB; border-radius: 12px; padding: 18px; display: flex; flex-direction: column; gap: 6px';
@@ -143,7 +143,7 @@ document.addEventListener('click',function(e){
   var s=e.target.closest('[data-sel]'); if(s){state.sel=s.getAttribute('data-sel'); render(); if(window.innerWidth<900) document.getElementById('ficha').scrollIntoView({behavior:'smooth'});}
 });
 function fromHash(){var h=location.hash.slice(1),m;
-  if((m=h.match(/^p=(\w+)/))){var p=PRODUCTS.filter(function(x){return x.id===m[1];})[0];if(!p)return false;state.sel=p.id;state.cat=p.cat;return true;}
+  if((m=h.match(/^p=([\w-]+)/))){var p=PRODUCTS.filter(function(x){return x.id===m[1];})[0];if(!p)return false;state.sel=p.id;state.cat=p.cat;return true;}
   if((m=h.match(/^c=(\w+)/))){var q=PRODUCTS.filter(function(x){return x.cat===m[1];})[0];if(!q)return false;state.cat=m[1];state.sel=q.id;return true;}
   return false;}
 function goHash(smooth){if(fromHash()){render();setTimeout(function(){var el=document.getElementById(window.innerWidth<900?'ficha':'chips');window.scrollTo({top:el.getBoundingClientRect().top+window.pageYOffset-12,behavior:smooth?'smooth':'auto'});},smooth?60:250);}}
