@@ -1,5 +1,29 @@
 [
  {
+  "id": "2026-11-24-precios-lacteos-ue-mediados-noviembre",
+  "recibido": "2026-11-24",
+  "fecha": {
+   "es": "20 nov 2026",
+   "en": "20 Nov 2026",
+   "fr": "20 nov. 2026",
+   "pt": "20 nov. 2026"
+  },
+  "fuente": "IndexBox",
+  "url": "https://www.indexbox.io/es/blog/eu-dairy-commodity-prices-mixed-in-mid-november-2026/",
+  "titulo": {
+   "es": "Precios lácteos de la UE a mediados de noviembre: la leche desnatada en polvo cae un 29 % en un año",
+   "en": "EU dairy prices in mid-November: skimmed milk powder down 29% year on year",
+   "fr": "Prix laitiers de l’UE à la mi-novembre : la poudre de lait écrémé recule de 29 % sur un an",
+   "pt": "Preços lácteos da UE em meados de novembro: o leite em pó desnatado cai 29 % num ano"
+  },
+  "texto": {
+   "es": "Según el Observatorio del Mercado de la Leche de la Comisión Europea (semana al 15 nov), la mantequilla cotiza a 407 €/100 kg y la leche desnatada en polvo a 353 €/100 kg. En quesos, Gouda 401, Edam 390 y Cheddar 326 €/100 kg; el Cheddar cae un 25 % interanual.",
+   "en": "According to the European Commission’s Milk Market Observatory (week to 15 Nov), butter stands at €407/100 kg and skimmed milk powder at €353/100 kg. Among cheeses, Gouda is at €401, Edam €390 and Cheddar €326/100 kg; Cheddar is down 25% year on year.",
+   "fr": "Selon l’Observatoire du marché du lait de la Commission européenne (semaine au 15 nov.), le beurre cote 407 €/100 kg et la poudre de lait écrémé 353 €/100 kg. Côté fromages, Gouda 401, Edam 390 et Cheddar 326 €/100 kg ; le Cheddar recule de 25 % sur un an.",
+   "pt": "Segundo o Observatório do Mercado do Leite da Comissão Europeia (semana até 15 nov.), a manteiga cota a 407 €/100 kg e o leite em pó desnatado a 353 €/100 kg. Nos queijos, Gouda 401, Edam 390 e Cheddar 326 €/100 kg; o Cheddar cai 25 % em termos homólogos."
+  }
+ },
+ {
   "id": "2026-11-17-costes-leche-cyl",
   "recibido": "2026-11-17",
   "fecha": {
