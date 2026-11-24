@@ -19,7 +19,8 @@ JS = ('<script id="ficha-js">(function(){var L=(document.documentElement.lang||"
       'function u(f){return L==="es"?f:"../"+f.replace(/\\.pdf$/,"_"+L.toUpperCase()+".pdf");}'
       'document.addEventListener("click",function(e){var t=e.target.closest("[data-ficha]");if(!t)return;'
       'if(t.tagName==="IMG"&&parseFloat(getComputedStyle(t).opacity)<0.99&&t.parentNode){var o=-1;'
-      '[].forEach.call(t.parentNode.querySelectorAll("img[data-ficha]"),function(x){var v=parseFloat(getComputedStyle(x).opacity);if(v>o){o=v;t=x;}});}'
+      '[].forEach.call(t.parentNode.querySelectorAll("img"),function(x){var v=parseFloat(getComputedStyle(x).opacity);if(v>o){o=v;t=x;}});'
+      'if(!t.hasAttribute("data-ficha"))return;}'
       'e.preventDefault();e.stopPropagation();window.open(u(t.getAttribute("data-ficha")),"_blank","noopener");},true);})();</script>')
 
 def mark(m):
