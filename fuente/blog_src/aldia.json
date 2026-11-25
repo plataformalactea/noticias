@@ -1,5 +1,29 @@
 [
  {
+  "id": "2026-11-25-contratos-leche-galicia-subidas",
+  "recibido": "2026-11-25",
+  "fecha": {
+   "es": "25 nov 2026",
+   "en": "25 Nov 2026",
+   "fr": "25 nov. 2026",
+   "pt": "25 nov. 2026"
+  },
+  "fuente": "Campo Galego",
+  "url": "https://www.campogalego.es/la-inestabilidad-y-la-incertidumbre-recobran-protagonismo-en-la-contratacion-de-la-leche/",
+  "titulo": {
+   "es": "Galicia: los nuevos contratos de leche suben entre 1 y 2 céntimos",
+   "en": "Galicia: new milk contracts rise by 1 to 2 cents",
+   "fr": "Galice : les nouveaux contrats laitiers augmentent de 1 à 2 centimes",
+   "pt": "Galiza: os novos contratos de leite sobem entre 1 e 2 cêntimos"
+  },
+  "texto": {
+   "es": "Las renovaciones, en general a cuatro meses, quedan por debajo de los 2–3 céntimos esperados: Entrepinares +2, Lactalis +1,5 y Capsa +1 más primas por volumen. El SLG calcula que unas 900 granjas no llegarán a 39 céntimos de precio base.",
+   "en": "Renewals, mostly for four months, fall short of the 2–3 cents expected: Entrepinares +2, Lactalis +1.5 and Capsa +1 plus volume bonuses. The SLG union estimates that around 900 farms will not reach a 39-cent base price.",
+   "fr": "Les renouvellements, généralement sur quatre mois, restent en deçà des 2 à 3 centimes attendus : Entrepinares +2, Lactalis +1,5 et Capsa +1 plus primes au volume. Le SLG estime qu’environ 900 exploitations n’atteindront pas un prix de base de 39 centimes.",
+   "pt": "As renovações, em geral a quatro meses, ficam abaixo dos 2–3 cêntimos esperados: Entrepinares +2, Lactalis +1,5 e Capsa +1 mais prémios por volume. O SLG calcula que cerca de 900 explorações não chegarão a 39 cêntimos de preço base."
+  }
+ },
+ {
   "id": "2026-11-25-galicia-leche-importada-10-centimos",
   "recibido": "2026-11-25",
   "fecha": {
