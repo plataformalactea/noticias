@@ -1004,6 +1004,30 @@
   },
   "aldia": [
     {
+      "id": "2026-11-25-galicia-leche-importada-10-centimos",
+      "recibido": "2026-11-25",
+      "fecha": {
+        "es": "24 nov 2026",
+        "en": "24 Nov 2026",
+        "fr": "24 nov. 2026",
+        "pt": "24 nov. 2026"
+      },
+      "fuente": "La Región",
+      "url": "https://laregion.es/galicia/detectan-importaciones-leche-10-centimos_1_20261124-4506925.html",
+      "titulo": {
+        "es": "La Xunta detecta leche importada en Galicia a 10 céntimos por litro",
+        "en": "Galician government finds imported milk sold at 10 cents per litre",
+        "fr": "La Xunta détecte du lait importé en Galice à 10 centimes le litre",
+        "pt": "A Xunta deteta leite importado na Galiza a 10 cêntimos por litro"
+      },
+      "texto": {
+        "es": "Las inspecciones (67 actas sobre contratos y 15 sobre origen y etiquetado) hallaron leche de Portugal, Francia, Países Bajos e Italia: cruda a unos 10 cts/l, desnatada a 16 y entera a 25. La Xunta abre expedientes sancionadores y pide al Ministerio actualizar la normativa de 2012.",
+        "en": "Inspections (67 reports on contracts and 15 on origin and labelling) found milk from Portugal, France, the Netherlands and Italy: raw at about 10 cents/l, skimmed at 16 and whole at 25. The Xunta is opening sanction proceedings and asks the Ministry to update the 2012 rules.",
+        "fr": "Les contrôles (67 procès-verbaux sur les contrats et 15 sur l’origine et l’étiquetage) ont relevé du lait du Portugal, de France, des Pays-Bas et d’Italie : cru à environ 10 cts/l, écrémé à 16 et entier à 25. La Xunta ouvre des procédures de sanction et demande au ministère d’actualiser les règles de 2012.",
+        "pt": "As inspeções (67 autos sobre contratos e 15 sobre origem e rotulagem) detetaram leite de Portugal, França, Países Baixos e Itália: cru a cerca de 10 cts/l, magro a 16 e gordo a 25. A Xunta abre processos sancionatórios e pede ao Ministério que atualize as normas de 2012."
+      }
+    },
+    {
       "id": "2026-11-24-precios-lacteos-ue-mediados-noviembre",
       "recibido": "2026-11-24",
       "fecha": {
@@ -1025,54 +1049,6 @@
         "en": "According to the European Commission’s Milk Market Observatory (week to 15 Nov), butter stands at €407/100 kg and skimmed milk powder at €353/100 kg. Among cheeses, Gouda is at €401, Edam €390 and Cheddar €326/100 kg; Cheddar is down 25% year on year.",
         "fr": "Selon l’Observatoire du marché du lait de la Commission européenne (semaine au 15 nov.), le beurre cote 407 €/100 kg et la poudre de lait écrémé 353 €/100 kg. Côté fromages, Gouda 401, Edam 390 et Cheddar 326 €/100 kg ; le Cheddar recule de 25 % sur un an.",
         "pt": "Segundo o Observatório do Mercado do Leite da Comissão Europeia (semana até 15 nov.), a manteiga cota a 407 €/100 kg e o leite em pó desnatado a 353 €/100 kg. Nos queijos, Gouda 401, Edam 390 e Cheddar 326 €/100 kg; o Cheddar cai 25 % em termos homólogos."
-      }
-    },
-    {
-      "id": "2026-11-17-costes-leche-cyl",
-      "recibido": "2026-11-17",
-      "fecha": {
-        "es": "16 nov 2026",
-        "en": "16 Nov 2026",
-        "fr": "16 nov. 2026",
-        "pt": "16 nov. 2026"
-      },
-      "fuente": "Agroinformación",
-      "url": "https://agroinformacion.com/producir-100-kilos-de-leche-de-vaca-en-castilla-y-leon-cuesta-4779-euros-un-1445-por-encima-de-2025-mientras-el-precio-en-origen-ha-caido-un-126/",
-      "titulo": {
-        "es": "Producir 100 kg de leche en Castilla y León cuesta 47,79 €, un 14,45 % más",
-        "en": "Producing 100 kg of milk in Castile and León costs €47.79, up 14.45%",
-        "fr": "Produire 100 kg de lait en Castille-et-León coûte 47,79 €, soit 14,45 % de plus",
-        "pt": "Produzir 100 kg de leite em Castela e Leão custa 47,79 €, mais 14,45 %"
-      },
-      "texto": {
-        "es": "Según el estudio de costes de la Consejería de Agricultura, presentado en Palencia, el coste por 100 kg de leche corregida sube un 14,45 % sobre 2025, mientras el precio en origen ha caído un 12,6 %.",
-        "en": "According to the regional agriculture department’s cost study, presented in Palencia, the cost per 100 kg of standardised milk is up 14.45% on 2025, while the farm-gate price has fallen 12.6%.",
-        "fr": "Selon l’étude de coûts du département régional de l’agriculture, présentée à Palencia, le coût pour 100 kg de lait corrigé augmente de 14,45 % par rapport à 2025, alors que le prix à la production a reculé de 12,6 %.",
-        "pt": "Segundo o estudo de custos da Consejería de Agricultura, apresentado em Palência, o custo por 100 kg de leite corrigido sobe 14,45 % face a 2025, enquanto o preço na origem caiu 12,6 %."
-      }
-    },
-    {
-      "id": "2026-11-17-marcas-blancas-lacteos",
-      "recibido": "2026-11-17",
-      "fecha": {
-        "es": "16 nov 2026",
-        "en": "16 Nov 2026",
-        "fr": "16 nov. 2026",
-        "pt": "16 nov. 2026"
-      },
-      "fuente": "eDairy News",
-      "url": "https://es.edairynews.com/marcas-blancas-dominan-mercado-lacteo-espanol/",
-      "titulo": {
-        "es": "Las marcas blancas lideran en leche y yogures en la cesta de la compra",
-        "en": "Private labels lead milk and yoghurt in Spanish shopping baskets",
-        "fr": "Les marques de distributeur dominent le lait et les yaourts dans les paniers espagnols",
-        "pt": "As marcas brancas lideram no leite e nos iogurtes no cabaz de compras"
-      },
-      "texto": {
-        "es": "En el ranking de Algori de 20 categorías de gran consumo, 17 de los primeros puestos son de marcas de distribución; Hacendado encabeza yogures y leche líquida, y Central Lechera Asturiana es la primera marca de fabricante en leche, en el puesto 19.",
-        "en": "In Algori’s ranking of 20 grocery categories, 17 of the top places go to private labels; Hacendado leads yoghurts and liquid milk, and Central Lechera Asturiana is the top manufacturer brand in milk, in 19th place.",
-        "fr": "Dans le classement Algori de 20 catégories de grande consommation, 17 des premières places reviennent aux marques de distributeur ; Hacendado est en tête pour les yaourts et le lait liquide, et Central Lechera Asturiana est la première marque de fabricant en lait, à la 19e place.",
-        "pt": "No ranking da Algori de 20 categorias de grande consumo, 17 dos primeiros lugares são de marcas da distribuição; a Hacendado lidera iogurtes e leite líquido, e a Central Lechera Asturiana é a primeira marca de fabricante no leite, em 19.º lugar."
       }
     }
   ]

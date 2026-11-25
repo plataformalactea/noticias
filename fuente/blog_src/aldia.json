@@ -1,5 +1,29 @@
 [
  {
+  "id": "2026-11-25-galicia-leche-importada-10-centimos",
+  "recibido": "2026-11-25",
+  "fecha": {
+   "es": "24 nov 2026",
+   "en": "24 Nov 2026",
+   "fr": "24 nov. 2026",
+   "pt": "24 nov. 2026"
+  },
+  "fuente": "La Región",
+  "url": "https://laregion.es/galicia/detectan-importaciones-leche-10-centimos_1_20261124-4506925.html",
+  "titulo": {
+   "es": "La Xunta detecta leche importada en Galicia a 10 céntimos por litro",
+   "en": "Galician government finds imported milk sold at 10 cents per litre",
+   "fr": "La Xunta détecte du lait importé en Galice à 10 centimes le litre",
+   "pt": "A Xunta deteta leite importado na Galiza a 10 cêntimos por litro"
+  },
+  "texto": {
+   "es": "Las inspecciones (67 actas sobre contratos y 15 sobre origen y etiquetado) hallaron leche de Portugal, Francia, Países Bajos e Italia: cruda a unos 10 cts/l, desnatada a 16 y entera a 25. La Xunta abre expedientes sancionadores y pide al Ministerio actualizar la normativa de 2012.",
+   "en": "Inspections (67 reports on contracts and 15 on origin and labelling) found milk from Portugal, France, the Netherlands and Italy: raw at about 10 cents/l, skimmed at 16 and whole at 25. The Xunta is opening sanction proceedings and asks the Ministry to update the 2012 rules.",
+   "fr": "Les contrôles (67 procès-verbaux sur les contrats et 15 sur l’origine et l’étiquetage) ont relevé du lait du Portugal, de France, des Pays-Bas et d’Italie : cru à environ 10 cts/l, écrémé à 16 et entier à 25. La Xunta ouvre des procédures de sanction et demande au ministère d’actualiser les règles de 2012.",
+   "pt": "As inspeções (67 autos sobre contratos e 15 sobre origem e rotulagem) detetaram leite de Portugal, França, Países Baixos e Itália: cru a cerca de 10 cts/l, magro a 16 e gordo a 25. A Xunta abre processos sancionatórios e pede ao Ministério que atualize as normas de 2012."
+  }
+ },
+ {
   "id": "2026-11-24-precios-lacteos-ue-mediados-noviembre",
   "recibido": "2026-11-24",
   "fecha": {
