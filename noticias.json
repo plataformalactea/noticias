@@ -1004,6 +1004,30 @@
   },
   "aldia": [
     {
+      "id": "2026-11-26-ugam-cantabria-sanciones-leche-bajo-coste",
+      "recibido": "2026-11-26",
+      "fecha": {
+        "es": "25 nov 2026",
+        "en": "25 Nov 2026",
+        "fr": "25 nov. 2026",
+        "pt": "25 nov. 2026"
+      },
+      "fuente": "Ifomo",
+      "url": "https://www.ifomo.es/cantabria/cantabria-ugam-exige-sanciones-ministerio-leche-coste-frenar-hundimiento-contratos-cantabria/20261125185650366250.html",
+      "titulo": {
+        "es": "Cantabria: UGAM-COAG pide a la AICA sanciones por la leche vendida por debajo de coste",
+        "en": "Cantabria: UGAM-COAG asks AICA to penalise milk sold below cost",
+        "fr": "Cantabrie : l’UGAM-COAG demande à l’AICA de sanctionner le lait vendu sous le coût de revient",
+        "pt": "Cantábria: a UGAM-COAG pede à AICA sanções pelo leite vendido abaixo do custo"
+      },
+      "texto": {
+        "es": "La organización reclama inspecciones de oficio y sanciones ejemplares contra la entrada de leche europea a 10 céntimos/l, frente a unos costes de 40,9 céntimos según el Ministerio. Cifra en 82 las actas y expedientes abiertos tras el recorte de 6 céntimos de la primavera.",
+        "en": "The union calls for ex officio inspections and exemplary penalties over European milk arriving at 10 cents/l, against production costs of 40.9 cents according to the Ministry. It says 82 inspection reports and penalty proceedings followed the 6-cent cut in spring.",
+        "fr": "L’organisation réclame des inspections d’office et des sanctions exemplaires contre l’arrivée de lait européen à 10 centimes/l, face à des coûts de 40,9 centimes selon le Ministère. Elle fait état de 82 procès-verbaux et procédures ouverts après la baisse de 6 centimes du printemps.",
+        "pt": "A organização exige inspeções oficiosas e sanções exemplares contra a entrada de leite europeu a 10 cêntimos/l, face a custos de 40,9 cêntimos segundo o Ministério. Refere 82 autos e processos abertos após o corte de 6 cêntimos da primavera."
+      }
+    },
+    {
       "id": "2026-11-25-contratos-leche-galicia-subidas",
       "recibido": "2026-11-25",
       "fecha": {
