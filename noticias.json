@@ -187,12 +187,12 @@
     }
   ],
   "cotizaciones": {
-    "semana": 47,
+    "semana": 48,
     "actualizado": {
-      "es": "20 nov 2026",
-      "en": "20 Nov 2026",
-      "fr": "20 nov. 2026",
-      "pt": "20 nov. 2026"
+      "es": "27 nov 2026",
+      "en": "27 Nov 2026",
+      "fr": "27 nov. 2026",
+      "pt": "27 nov. 2026"
     },
     "filas": [
       {
@@ -254,10 +254,10 @@
       }
     ],
     "nota": {
-      "es": "Fuentes: FEGA y Lonja de León (11 nov). Leche spot Francia: valor estimado de la mantequilla y la leche en polvo que se obtienen de 1.000 litros, antes de costes de transformación. Precios orientativos, no constituyen oferta.",
-      "en": "Sources: FEGA and León exchange (11 Nov). Spot milk France: estimated value of the butter and milk powder obtained from 1,000 litres, before processing costs. Indicative prices, not an offer.",
-      "fr": "Sources : FEGA et Bourse de León (11 nov.). Lait spot France : valeur estimée du beurre et de la poudre de lait obtenus à partir de 1 000 litres, avant coûts de transformation. Prix indicatifs, ne constituent pas une offre.",
-      "pt": "Fontes: FEGA e Bolsa de León (11 nov.). Leite spot França: valor estimado da manteiga e do leite em pó obtidos a partir de 1.000 litros, antes dos custos de transformação. Preços indicativos, não constituem proposta."
+      "es": "Fuentes: FEGA y Lonja de León (26 nov). Leche spot Francia: valor estimado de la mantequilla y la leche en polvo que se obtienen de 1.000 litros, antes de costes de transformación. Precios orientativos, no constituyen oferta.",
+      "en": "Sources: FEGA and León exchange (26 Nov). Spot milk France: estimated value of the butter and milk powder obtained from 1,000 litres, before processing costs. Indicative prices, not an offer.",
+      "fr": "Sources : FEGA et Bourse de León (26 nov.). Lait spot France : valeur estimée du beurre et de la poudre de lait obtenus à partir de 1 000 litres, avant coûts de transformation. Prix indicatifs, ne constituent pas une offre.",
+      "pt": "Fontes: FEGA e Bolsa de León (26 nov.). Leite spot França: valor estimado da manteiga e do leite em pó obtidos a partir de 1.000 litros, antes dos custos de transformação. Preços indicativos, não constituem proposta."
     }
   },
   "temporada": {
@@ -1003,6 +1003,78 @@
     ]
   },
   "aldia": [
+    {
+      "id": "2026-11-27-castilla-leon-levanta-medidas-dermatosis-nodular",
+      "recibido": "2026-11-27",
+      "fecha": {
+        "es": "27 nov 2026",
+        "en": "27 Nov 2026",
+        "fr": "27 nov. 2026",
+        "pt": "27 nov. 2026"
+      },
+      "fuente": "Interempresas",
+      "url": "https://www.interempresas.net/vacuno-leche/671099-Castilla-Leon-levanta-desde-1-diciembre-medidas-frente-dermatosis-nodular-contagiosa.html",
+      "titulo": {
+        "es": "Castilla y León retira el 1 de diciembre las medidas frente a la dermatosis nodular contagiosa",
+        "en": "Castilla y León lifts lumpy skin disease measures from 1 December",
+        "fr": "La Castille-et-León lève au 1er décembre les mesures contre la dermatose nodulaire contagieuse",
+        "pt": "Castela e Leão levanta a 1 de dezembro as medidas contra a dermatose nodular contagiosa"
+      },
+      "texto": {
+        "es": "La Junta suprime la mayoría de las medidas cautelares para el vacuno, aprobadas en enero y prorrogadas hasta el 30 de noviembre. Se mantiene obligatoria la desinfección de los vehículos de transporte de ganado en los movimientos dentro de la comunidad.",
+        "en": "The regional government is removing most of the precautionary measures for cattle, approved in January and extended to 30 November. Disinfection of livestock transport vehicles remains mandatory for movements within the region.",
+        "fr": "La Junta supprime la plupart des mesures conservatoires pour les bovins, adoptées en janvier et prolongées jusqu’au 30 novembre. La désinfection des véhicules de transport de bétail reste obligatoire pour les mouvements dans la région.",
+        "pt": "A Junta suprime a maioria das medidas cautelares para os bovinos, aprovadas em janeiro e prorrogadas até 30 de novembro. Mantém-se obrigatória a desinfeção dos veículos de transporte de gado nas deslocações dentro da comunidade."
+      }
+    },
+    {
+      "id": "2026-11-26-cantabria-ayudas-control-lechero",
+      "recibido": "2026-11-27",
+      "fecha": {
+        "es": "26 nov 2026",
+        "en": "26 Nov 2026",
+        "fr": "26 nov. 2026",
+        "pt": "26 nov. 2026"
+      },
+      "fuente": "Interempresas",
+      "url": "https://www.interempresas.net/vacuno-leche/670995-Cantabria-convoca-810000-euros-en-ayudas-para-las-entidades-de-control-lechero.html",
+      "titulo": {
+        "es": "Cantabria convoca 810.000 € en ayudas para las entidades de control lechero",
+        "en": "Cantabria opens €810,000 in aid for milk recording bodies",
+        "fr": "La Cantabrie ouvre 810 000 € d’aides pour les organismes de contrôle laitier",
+        "pt": "Cantábria abre 810.000 € em apoios para as entidades de contraste leiteiro"
+      },
+      "texto": {
+        "es": "La convocatoria para 2027, en concurrencia competitiva y cofinanciada por el Estado, destina 765.000 € a gastos corrientes y 45.000 € a inversiones, para el control lechero de vacuno, ovino y caprino.",
+        "en": "The 2027 call, competitive and co-financed by the State, allocates €765,000 to running costs and €45,000 to investment for milk recording in cattle, sheep and goats.",
+        "fr": "L’appel 2027, sur concurrence et cofinancé par l’État, consacre 765 000 € aux dépenses courantes et 45 000 € aux investissements, pour le contrôle laitier bovin, ovin et caprin.",
+        "pt": "O concurso para 2027, em regime de concorrência e cofinanciado pelo Estado, destina 765.000 € a despesas correntes e 45.000 € a investimentos, para o contraste leiteiro de bovinos, ovinos e caprinos."
+      }
+    },
+    {
+      "id": "2026-11-26-fenil-comision-parlamento-gallego-precios",
+      "recibido": "2026-11-27",
+      "fecha": {
+        "es": "26 nov 2026",
+        "en": "26 Nov 2026",
+        "fr": "26 nov. 2026",
+        "pt": "26 nov. 2026"
+      },
+      "fuente": "PR Noticias",
+      "url": "https://prnoticias.com/2026/11/26/fenil-valora-positivamente-el-dialogo-abierto-en-el-parlamento-gallego-para-abordar-la-complejidad-del-proceso-de-formacion-de-precios-de-la-leche/",
+      "titulo": {
+        "es": "FeNIL pide transparencia y contratos libremente pactados ante la comisión gallega sobre el precio de la leche",
+        "en": "FeNIL calls for transparency and freely agreed contracts at the Galician milk price committee",
+        "fr": "La FeNIL demande transparence et contrats librement négociés devant la commission galicienne sur le prix du lait",
+        "pt": "A FeNIL pede transparência e contratos livremente acordados perante a comissão galega sobre o preço do leite"
+      },
+      "texto": {
+        "es": "La patronal láctea valora la comisión del Parlamento de Galicia y recuerda que España produce unos 8.500 millones de litros, con un déficit interno del 30-35 % y un saldo comercial lácteo negativo de 1.500 millones de euros.",
+        "en": "The dairy processors’ federation welcomes the Galician Parliament committee and notes that Spain produces about 8,500 million litres, with a domestic shortfall of 30-35% and a dairy trade deficit of €1,500 million.",
+        "fr": "La fédération des industriels laitiers salue la commission du Parlement de Galice et rappelle que l’Espagne produit environ 8 500 millions de litres, avec un déficit intérieur de 30-35 % et un solde commercial laitier négatif de 1 500 millions d’euros.",
+        "pt": "A federação da indústria láctea saúda a comissão do Parlamento da Galiza e lembra que Espanha produz cerca de 8.500 milhões de litros, com um défice interno de 30-35 % e um saldo comercial lácteo negativo de 1.500 milhões de euros."
+      }
+    },
     {
       "id": "2026-11-26-ugam-cantabria-sanciones-leche-bajo-coste",
       "recibido": "2026-11-26",
